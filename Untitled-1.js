@@ -26,7 +26,7 @@ class encn_Bing {
     async findBing(word) {
         if (!word) return null;
 
-        let base = 'https://cn.bing.com/dict/?FORM=HDRSC6';
+        let base = 'https://www.collinsdictionary.com/dictionary/french-english/';
         let url = base + encodeURIComponent(word);
         let doc = '';
         try {

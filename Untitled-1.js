@@ -1,5 +1,5 @@
 /* global api */
-class encn_Bing {
+class encn_Zidingyi {
     constructor(options) {
         this.options = options;
         this.maxexample = 2;
@@ -8,9 +8,9 @@ class encn_Bing {
 
     async displayName() {
         let locale = await api.locale();
-        if (locale.indexOf('CN') != -1) return '必应英汉词典';
-        if (locale.indexOf('TW') != -1) return '必应英汉词典';
-        return 'Bing CN->EN Dictionary';
+        if (locale.indexOf('CN') != -1) return '自定义英法词典';
+        if (locale.indexOf('TW') != -1) return '自定义英法词典';
+        return 'Zidingyi EN->CN Dictionary';
     }
 
     setOptions(options) {
@@ -20,13 +20,37 @@ class encn_Bing {
 
     async findTerm(word) {
         this.word = word;
-        return await this.findBing(word);
+        return await this.findCambridge(word);
     }
 
-    async findBing(word) {
+    removeTags(elem, name) {
+        let tags = elem.querySelectorAll(name);
+        tags.forEach(x => {
+            x.outerHTML = '';
+        });
+    }
+
+    removelinks(elem) {
+        let tags = elem.querySelectorAll('a');
+        tags.forEach(x => {
+            x.outerHTML = x.innerText;
+        });
+
+        tags = elem.querySelectorAll('h2');
+        tags.forEach(x => {
+            x.outerHTML = `<div class='head2'>${x.innerHTML}</div>`;
+        });
+
+        tags = elem.querySelectorAll('h3');
+        tags.forEach(x => {
+            x.outerHTML = `<div class='head3'>${x.innerHTML}</div>`;
+        });
+    }
+
+    async findZidingyi(word) {
         if (!word) return null;
 
-        let base = 'https://www.collinsdictionary.com/dictionary/french-english/';
+        let base = 'https://dictionary.cambridge.org/search/english-french/direct/?q=';
         let url = base + encodeURIComponent(word);
         let doc = '';
         try {
@@ -37,56 +61,41 @@ class encn_Bing {
             return null;
         }
 
-        let content = doc.querySelector('.content') || '';
-        if (!content) return null;
+        let contents = doc.querySelectorAll('.cdo-dblclick-area .entry-body__el') || [];
+        if (contents.length == 0) return null;
+
+        let definition = '';
+        for (const content of contents) {
+            this.removeTags(content, '.extraexamps');
+            this.removelinks(content);
+            definition += content.innerHTML;
+        }
         let css = this.renderCSS();
-        return css + content.innerHTML;
+        return definition ? css + definition : null;
     }
 
     renderCSS() {
         let css = `
             <style>
-                .copyright{
-                    display:none;
-                }
-                .orth {
-                    font-size: 100%;
-                    font-weight: bold;
-                }
-                .quote {
-                    font-style: normal;
-                    color: #1683be;
-                }
-                .colloc {
-                    font-style: italic;
-                    font-weight: normal;
-                }
-                .sense {
-                    border: 1px solid;
-                    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
-                    border-radius: 3px;
-                    padding: 5px;
-                    margin-top: 3px;
-                }
-                .sense .re {
-                    font-size: 100%;
-                    margin-left: 0;
-                }
-                .sense .sense {
-                    border: initial;
-                    border-color: initial;
-                    border-radius: initial;
-                    padding: initial;
-                    margin-top: initial;
-                }
-                a {
-                    color: #000;
-                    text-decoration: none;
-                }
-                * {
-                    word-wrap: break-word;
-                    box-sizing: border-box;
-                }
+            .entry-body__el{margin-bottom:10px;}
+            .head2{font-size: 1.2em;font-weight:bold;}
+            .pos-header{border-bottom: 1px solid;}
+            .head3 {display:none;}
+            .posgram {font-size: 0.8em;background-color: #959595;color: white;padding: 2px 5px;border-radius: 3px;}
+            .epp-xref::after {content: ")";}
+            .epp-xref::before {content: "(";}
+            .def-block, .phrase-block {
+                /*border: 1px solid;*/
+                /*border-color: #e5e6e9 #dfe0e4 #d0d1d5;*/
+                border-radius: 3px;
+                padding: 5px;
+                margin: 5px 0;
+                background-color: #f6f6f6;
+            }
+            .phrase-block .def-block{border: initial;padding: initial;}
+            p.def-head {margin: auto;}
+            .phrase-head {vertical-align: middle;color: #1683ea;font-weight: bold;}
+            .trans {color: #5079bb;}
             </style>`;
 
         return css;

@@ -1,0 +1,428 @@
+[
+    {
+        "words": "patch",
+        "pronunciation": "/pætʃ/",
+        "meaning": "n.与周围不同的部分补丁小块地眼罩色斑，斑点 v.打补丁，修补",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "patent",
+        "pronunciation": "/ˈpætnt/",
+        "meaning": "n.专利，专利证书 adj.有专利的明显的 v.获得专利",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "pattern",
+        "pronunciation": "/ˈpætɚn/",
+        "meaning": "n.模式，方式样品图样图案模范 v.形成图案",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "pay",
+        "pronunciation": "/pe/",
+        "meaning": "v.付报酬付款，交款有回报付出代价致以 n.工资，薪水",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "payment",
+        "pronunciation": "/ˈpemənt/",
+        "meaning": "n.支付付款额报答",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "peculiar",
+        "pronunciation": "/pɪˈkjuljɚ/",
+        "meaning": "adj.特有的奇怪的，不寻常的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "peer",
+        "pronunciation": "/pɪɚ/",
+        "meaning": "n.同龄人，同辈（英国）贵族 v.盯着看，凝视",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "per",
+        "pronunciation": "/pɚ/",
+        "meaning": "prep.每，每一",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "perceive",
+        "pronunciation": "/pɚˈsiv/",
+        "meaning": "v.看待，理解察觉",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "percentage",
+        "pronunciation": "/pɚˈsentɪdʒ/",
+        "meaning": "n.百分率，百分数好处",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "perfect",
+        "pronunciation": "/ˈpɝfɪkt/",
+        "meaning": "v.使完美，完善 adj.完美的完全的最恰当的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "rail",
+        "pronunciation": "/rel/",
+        "meaning": "n.铁路交通横杆，栏杆，扶手铁轨，轨道 v.责骂，呵斥",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "railroad/railway",
+        "pronunciation": "/ˈrelrod/",
+        "meaning": "n.铁路公司铁路，铁道 v.强迫，迫使",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "raise",
+        "pronunciation": "/rez/",
+        "meaning": "v.提高引起养育，培育，种植提出，提起升起起身募集，征集 n.加薪",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "rally",
+        "pronunciation": "/ˈrælɪ/",
+        "meaning": "v.集合，召集恢复，复原 n.集会，群众大会恢复，好转对打，拉锯战，拉力赛",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "random",
+        "pronunciation": "/ˈrændəm/",
+        "meaning": "adj.随机的，不可思议的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "range",
+        "pronunciation": "/rendʒ/",
+        "meaning": "n.范围，界限一系列牧场山脉靶场炉灶 v.包括变化排列安排漫步",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "rank",
+        "pronunciation": "/ræŋk/",
+        "meaning": "v.把……分等级使排成行 n.级别地位行列 adj.极端的恶臭的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "master",
+        "pronunciation": "/ˈmæstɚ/",
+        "meaning": "v.掌握控制 n.主人硕士学位大师能手",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "masterpiece",
+        "pronunciation": "/ˈmæstɚpis/",
+        "meaning": "n.代表作，杰作典范",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "mate",
+        "pronunciation": "/met/",
+        "meaning": "n.配偶朋友，伙伴哥们儿同伴 v.（使）交配",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "material",
+        "pronunciation": "/məˈtɪrɪəl/",
+        "meaning": "n.材料，原料布料素材 adj.物质的实质性的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "mathematical",
+        "pronunciation": "/ˌmæθəˈmætɪkəl/",
+        "meaning": "adj.数学的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "mature",
+        "pronunciation": "/məˈtʃᴜɚ/",
+        "meaning": "adj.成熟的慎重的获得回报的味道醇厚的 v.变成熟完善酿成期满",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "maximum",
+        "pronunciation": "/ˈmæksəməm/",
+        "meaning": "adj.最大的最大极限的 n.最大量，最大限度 adv.最多",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "mean",
+        "pronunciation": "/min/",
+        "meaning": "v.结果是，意味着意思是打算，意欲对……有意义对……当真 adj.吝啬的，小气的不善良的，刻薄的 n.平均数",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "meaning",
+        "pronunciation": "/ˈminɪŋ/",
+        "meaning": "n.意义，意思重要性，价值",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "means",
+        "pronunciation": "/minz/",
+        "meaning": "n.方式，方法，途径收入，财富 v.意味着（mean的第三人称单数）",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "meantime",
+        "pronunciation": "/ˈminˌtaɪm/",
+        "meaning": "n.在此期间，同时",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "meanwhile",
+        "pronunciation": "/ˈminˌhwaɪl/",
+        "meaning": "adv.与此同时在此期间对比之下",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "measure",
+        "pronunciation": "/ˈmɛʒɚ/",
+        "meaning": "n.措施，方法测量方法数量，程度量具小节 v.评估量，测量",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "opening",
+        "pronunciation": "/ˈopnɪŋ/",
+        "meaning": "n.开始孔，洞良机职位空缺开幕式，落成典礼开放，展开 adj.开始的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "opera",
+        "pronunciation": "/ˈɑpərə/",
+        "meaning": "n.歌剧歌剧剧本",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "operate",
+        "pronunciation": "/ˈɑpəret/",
+        "meaning": "v.工作操作经营，管理动手术（使）运转",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "operation",
+        "pronunciation": "/ˌɑpəˈreʃn/",
+        "meaning": "n.运转，运行行动运算企业经营手术",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "operational",
+        "pronunciation": "/ˌɑpəˈreʃənl/",
+        "meaning": "adj.操作上的可以使用的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "operator",
+        "pronunciation": "/ˈɑpəretɚ/",
+        "meaning": "n.经营者电话接线员，操作员精明圆滑的人",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "opinion",
+        "pronunciation": "/əˈpɪnjən/",
+        "meaning": "n.意见，想法，看法观点，信仰",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "opportunity",
+        "pronunciation": "/ˌɑpɚˈtunətɪ/",
+        "meaning": "n.机会，时机",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "opponent",
+        "pronunciation": "/əˈponənt/",
+        "meaning": "n.对手反对者",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "oppose",
+        "pronunciation": "/əˈpoz/",
+        "meaning": "v.反对，抵制，阻挠",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "opposite",
+        "pronunciation": "/ˈɑpəzɪt/",
+        "meaning": "adj.截然相反的对面的，另一边的 n.对立的人或物 prep.与……相对，在……对面 adv.在对面",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "oppress",
+        "pronunciation": "/əˈprɛs/",
+        "meaning": "v.压迫，压制使压抑，使苦恼",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "scope",
+        "pronunciation": "/skop/",
+        "meaning": "n.范围机会，能力……镜 v.审视，仔细看",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "score",
+        "pronunciation": "/skɔr/",
+        "meaning": "n.成绩配乐伤痕乐谱进球比分 v.赢得得分，进球计分刻，切发生性关系获取毒品编总谱 num.二十",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "scorn",
+        "pronunciation": "/skɔrn/",
+        "meaning": "n.轻蔑，鄙视 v.鄙视不屑于接受",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "secure",
+        "pronunciation": "/səˈkjᴜr/",
+        "meaning": "adj.安全的，可靠的安心的严密防守的牢固的 v.获得保卫抵押拴牢",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "security",
+        "pronunciation": "/sɪˈkjᴜrətɪ/",
+        "meaning": "n.保护措施，安全工作安全，保证保证金保障安保人员",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "see",
+        "pronunciation": "/si/",
+        "meaning": "v.看出看见认为理解，明白弄清看看中与……交往参见 n.主教教区",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "seek",
+        "pronunciation": "/sik/",
+        "meaning": "v.争取寻找请求",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "seem",
+        "pronunciation": "/sim/",
+        "meaning": "v.好像，似乎，看来",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "seemingly",
+        "pronunciation": "/ˈsi:mɪŋlɪ/",
+        "meaning": "adv.貌似，看似看来，据说",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "thrift",
+        "pronunciation": "/θrɪft/",
+        "meaning": "n.节俭储蓄银行海石竹",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "thrill",
+        "pronunciation": "/θrɪl/",
+        "meaning": "n.惊险，刺激震颤 v.使兴奋",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "thrive",
+        "pronunciation": "/θraɪv/",
+        "meaning": "v.兴旺，茁壮成长",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "through",
+        "pronunciation": "/θru/",
+        "meaning": "prep.以，凭借穿过自始至终遍布 adv.自始至终通过穿过，穿越 adj.完成的直达的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "throughout",
+        "pronunciation": "/θruˈaᴜt/",
+        "meaning": "prep.自始至终遍及，贯穿",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "tip",
+        "pronunciation": "/tɪp/",
+        "meaning": "n.指点，提示末梢，尖端小费忠告，诀窍 v.倾斜倒，倒掉给小费",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "title",
+        "pronunciation": "/ˈtaɪtl/",
+        "meaning": "n.职称头衔题目，标题一本书冠军所有权 v.为……加上题目",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "urban",
+        "pronunciation": "/ˈɚbən/",
+        "meaning": "adj.城市的，都市的，城镇的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "urge",
+        "pronunciation": "/ɝdʒ/",
+        "meaning": "v.催促，力劝大力推荐 n.强烈的欲望",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "urgent",
+        "pronunciation": "/ˈɚdʒənt/",
+        "meaning": "adj.紧急的急切的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "utilize",
+        "pronunciation": "/ˈjutlˌaɪz/",
+        "meaning": "v.利用，使用",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "utter",
+        "pronunciation": "/ˈʌtɚ/",
+        "meaning": "v.出声，说，讲 adj.完全的，彻底的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "wonder",
+        "pronunciation": "/ˈwʌndɚ/",
+        "meaning": "v.想知道，琢磨惊叹 n.奇事惊叹能人奇迹",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "worship",
+        "pronunciation": "/ˈwɝʃɪp/",
+        "meaning": "v.崇拜，爱慕崇敬，崇拜（上帝或神） n.崇拜，敬仰爱慕阁下",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "worth",
+        "pronunciation": "/wɝθ/",
+        "meaning": "adj.有……价值（的）值得 n.价值重要性",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "worthwhile",
+        "pronunciation": "/ˌwɝθˈwaɪl/",
+        "meaning": "adj.值得做的，值得花时间的",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "worthy",
+        "pronunciation": "/ˈwɝðɪ/",
+        "meaning": "adj.值得尊敬的值得……的，有价值的 n.要人，大人物",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "write",
+        "pronunciation": "/raɪt/",
+        "meaning": "v.创作写",
+        "unit": "必考词 Unit 20"
+    },
+    {
+        "words": "writer",
+        "pronunciation": "/ˈraɪtɚ/",
+        "meaning": "n.作者作家",
+        "unit": "必考词 Unit 20"
+    }
+]

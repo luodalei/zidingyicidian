@@ -1,0 +1,458 @@
+[
+    {
+        "words": "confine",
+        "pronunciation": "/kənˈfaɪn/",
+        "meaning": "v.限制，限定监禁，关押 n.界限，限制",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "confirm",
+        "pronunciation": "/kənˈfɚm/",
+        "meaning": "v.证实，确认认可，批准确定为……施坚信礼使确信",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "conflict",
+        "pronunciation": "/ˈkɑnflɪkt/",
+        "meaning": "v.冲突，抵触 n.争执冲突战斗矛盾",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "confidence",
+        "pronunciation": "/ˈkɑnfɪdəns/",
+        "meaning": "n.信心，信任自信秘密",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "confident",
+        "pronunciation": "/ˈkɑnfɪdənt/",
+        "meaning": "adj.自信的，有信心的肯定的，有把握的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "confidential",
+        "pronunciation": "/ˌkɑnfəˈdɛnʃəl/",
+        "meaning": "adj.机密的隐秘的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "configuration",
+        "pronunciation": "/kənˌfɪgjəˈreʃn/",
+        "meaning": "n.格局，布局，结构配置",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "trail",
+        "pronunciation": "/trel/",
+        "meaning": "n.足迹，踪迹小路，小道路线，路径线索 v.跟踪拖没精打采地走落后，失利追踪",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "train",
+        "pronunciation": "/tren/",
+        "meaning": "v.训练，培训瞄准修整 n.火车队列(一)系列拖裾",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "training",
+        "pronunciation": "/ˈtrenɪŋ/",
+        "meaning": "n.训练，培训 v.训练（train的现在分词）",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "trait",
+        "pronunciation": "/tret/",
+        "meaning": "n.特性，品质",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "view",
+        "pronunciation": "/vju/",
+        "meaning": "n.观点，想法视野，景色 v.考虑，看待查看观看",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "viewpoint",
+        "pronunciation": "/ˈvjuˌpɔɪnt/",
+        "meaning": "n.观点，看法角度，视角",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "violence",
+        "pronunciation": "/ˈvaɪələns/",
+        "meaning": "n.暴力，暴行强烈的力量",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "violent",
+        "pronunciation": "/ˈvaɪələnt/",
+        "meaning": "adj.暴力的，强暴的鲜艳夺目的猛烈的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "virtual",
+        "pronunciation": "/ˈvɚtʃuəl/",
+        "meaning": "adj.很接近的，事实上的虚拟的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "virtue",
+        "pronunciation": "/ˈvɝtʃu/",
+        "meaning": "n.优点，好处德行美德",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "apparent",
+        "pronunciation": "/əˈpærənt/",
+        "meaning": "adj.显而易见的，明白的表面上的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appeal",
+        "pronunciation": "/əˈpil/",
+        "meaning": "n.上诉呼吁，请求吸引力 v.有吸引力呼吁，恳求上诉",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appear",
+        "pronunciation": "/əˈpɪɚ/",
+        "meaning": "v.显得出现出版，播出似乎，好像到达",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appearance",
+        "pronunciation": "/əˈpɪrəns/",
+        "meaning": "n.外观出席，露面表象出现，起源",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appliance",
+        "pronunciation": "/əˈplaɪəns/",
+        "meaning": "n.（家用）电器，器具",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "applicable",
+        "pronunciation": "/əˈplɪkəbl/",
+        "meaning": "adj.适用的，可实施的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "application",
+        "pronunciation": "/ˌæplɪˈkeʃən/",
+        "meaning": "n.用途，运用，应用申请勤奋涂抹申请表应用程序",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appoint",
+        "pronunciation": "/əˈpɔɪnt/",
+        "meaning": "v.任命，委派安排",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appointment",
+        "pronunciation": "/əˈpɔɪntmənt/",
+        "meaning": "n.委任约会预约职务",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "apply",
+        "pronunciation": "/əˈplaɪ/",
+        "meaning": "v.应用申请，请求适合手压，脚踩涂与oneself连用，努力",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "appreciate",
+        "pronunciation": "/əˈpriʃiˌet/",
+        "meaning": "v.领会感激，感谢欣赏，重视升值，增值",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "discriminate",
+        "pronunciation": "/dɪˈskrɪmənet/",
+        "meaning": "v.歧视区分，辨别",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "discuss",
+        "pronunciation": "/dɪˈskʌs/",
+        "meaning": "v.讨论，商量阐述",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "disease",
+        "pronunciation": "/dɪˈziz/",
+        "meaning": "n.病，疾病弊端，恶疾",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "escape",
+        "pronunciation": "/ɪˈskep/",
+        "meaning": "v.逃跑，逃脱退出避开，避免渗出 n.逃脱，逃避泄露退出键",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "especially",
+        "pronunciation": "/ɪˈspɛʃəlɪ/",
+        "meaning": "adv.特别地，尤其专门非常",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "essay",
+        "pronunciation": "/ˈɛse/",
+        "meaning": "n.文章散文 v.企图，尝试",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "essence",
+        "pronunciation": "/ˈɛsəns/",
+        "meaning": "n.精髓，精油本质",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "essential",
+        "pronunciation": "/ɪˈsɛnʃəl/",
+        "meaning": "adj.必不可少的，极其重要的基本的，本质的 n.必需品要点，要素",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "establish",
+        "pronunciation": "/ɪsˈtæblɪʃ/",
+        "meaning": "v.建立，创立使得到承认确定使立足建立 (联系)",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "estimate",
+        "pronunciation": "/ˈɛstəˌmet/",
+        "meaning": "n.估计，估算评价，判断预算书 v.估计，估价，估算判断，评价",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "ethic",
+        "pronunciation": "/ˈɛθɪk/",
+        "meaning": "n.道德体系，行为准则",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "ethnic",
+        "pronunciation": "/ˈɛθnɪk/",
+        "meaning": "adj.民族的，种族的少数民族的异国风味的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "evaluate",
+        "pronunciation": "/ɪˈvæljᴜet/",
+        "meaning": "v.估值，评价，评估",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "industrial",
+        "pronunciation": "/ɪnˈdʌstriəl/",
+        "meaning": "adj.工业的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "industrialize",
+        "pronunciation": "/ɪnˈdʌstriəˌlaɪz/",
+        "meaning": "v.（使）工业化",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "industry",
+        "pronunciation": "/ˈɪndəstrɪ/",
+        "meaning": "n.行业工业勤劳，勤奋",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "inevitable",
+        "pronunciation": "/ɪnˈɛvɪtəbəl/",
+        "meaning": "adj.不可避免的 n.不可避免的事",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "miserable",
+        "pronunciation": "/ˈmɪzərəbəl/",
+        "meaning": "adj.痛苦的乖戾的少得可怜的令人难受的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "misery",
+        "pronunciation": "/ˈmɪzərɪ/",
+        "meaning": "n.痛苦穷困",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "mislead",
+        "pronunciation": "/ˌmɪsˈlid/",
+        "meaning": "v.误导，引入歧途",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "mix",
+        "pronunciation": "/mɪks/",
+        "meaning": "n.混合，结合混合原料混录 v.混合，搅拌配制交往，结交混合录制",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "mixture",
+        "pronunciation": "/ˈmɪkstʃɚ/",
+        "meaning": "n.混合，结合体混合物",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "necessary",
+        "pronunciation": "/ˈnɛsəsɛrɪ/",
+        "meaning": "adj.必需的，必要的必然的，势必的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "necessitate",
+        "pronunciation": "/nəˈsɛsɪˌtet/",
+        "meaning": "v.使成为必要",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "necessity",
+        "pronunciation": "/nəˈsɛsətɪ/",
+        "meaning": "n.必要必需品必然性",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "negative",
+        "pronunciation": "/ˈnɛɡətɪv/",
+        "meaning": "adj.负面的，消极的有害的呈阴性的负极的小于零的否定的 n.拒绝底片阴性或否定的结果",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "negotiate",
+        "pronunciation": "/nɪˈgoʃiet/",
+        "meaning": "v.谈判通过，越过商定",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "outer",
+        "pronunciation": "/ˈaᴜtɚ/",
+        "meaning": "adj.外边的，外围的外表的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "outlet",
+        "pronunciation": "/ˈaᴜtˌlɛt/",
+        "meaning": "n.专卖店，直销店折扣店发泄途径出口插座",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "outline",
+        "pronunciation": "/ˈaᴜtˌlaɪn/",
+        "meaning": "v.勾勒出……的轮廓概述，概要 n.轮廓，外形概述，概要",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "outlook",
+        "pronunciation": "/ˈaᴜtˌlᴜk/",
+        "meaning": "n.观点前景，可能性景色",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "output",
+        "pronunciation": "/ˈaᴜtˌpᴜt/",
+        "meaning": "n.产量，输出量输出 v.输出",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "poverty",
+        "pronunciation": "/ˈpɑvɚtɪ/",
+        "meaning": "n.贫穷，贫困贫乏",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "power",
+        "pronunciation": "/ˈpaᴜɚ/",
+        "meaning": "n.权力力量电力供应控制力能力能源强国能，能量，功率 v.给……提供能量",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "practical",
+        "pronunciation": "/ˈpræktɪkəl/",
+        "meaning": "adj.实际的有用的切实可行的，实践的 n.实践课",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "practice",
+        "pronunciation": "/ˈpræktɪs/",
+        "meaning": "n.惯例实践做法专业工作练习 v.从事经常做练习",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "practise",
+        "pronunciation": "/ˈpræktɪs/",
+        "meaning": "v.练习奉行，实践从事",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "practitioner",
+        "pronunciation": "/prækˈtɪʃənɚ/",
+        "meaning": "n.从业人员，执业医生",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "preach",
+        "pronunciation": "/pritʃ/",
+        "meaning": "v.鼓吹说教讲道，布道",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "precede",
+        "pronunciation": "/prɪˈsid/",
+        "meaning": "v.处在……之前，先于",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "precaution",
+        "pronunciation": "/prɪˈkɔʃən/",
+        "meaning": "n.预防措施，防备",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "precedent",
+        "pronunciation": "/ˈprɛsɪdənt/",
+        "meaning": "n.判例前例，先例惯例",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "preceding",
+        "pronunciation": "/prɪˈsidɪŋ/",
+        "meaning": "adj.前面的 v.先于",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "precious",
+        "pronunciation": "/ˈprɛʃəs/",
+        "meaning": "adj.宝贵的，珍稀的过分讲究的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "precise",
+        "pronunciation": "/prɪˈsaɪs/",
+        "meaning": "adj.明确的准确的，精确的",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "precision",
+        "pronunciation": "/prɪˈsɪʒən/",
+        "meaning": "n.精确，细致",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "stress",
+        "pronunciation": "/strɛs/",
+        "meaning": "n.压力，应力强调紧张重音精神压力，心理负担 v.强调，着重重读",
+        "unit": "必考词 Unit 02"
+    },
+    {
+        "words": "stretch",
+        "pronunciation": "/strɛtʃ/",
+        "meaning": "n.一片伸展一段时间弹性 v.延伸，延续伸展，舒展持续耗尽",
+        "unit": "必考词 Unit 02"
+    }
+]

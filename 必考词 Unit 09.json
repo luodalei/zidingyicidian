@@ -1,0 +1,464 @@
+[
+    {
+        "words": "beam",
+        "pronunciation": "/bim/",
+        "meaning": "v.眉开眼笑发射照射 n.束梁笑容光线波束",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "become",
+        "pronunciation": "/bɪˈkʌm/",
+        "meaning": "v.开始变得，变成适合",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "deprive",
+        "pronunciation": "/dɪˈpraɪv/",
+        "meaning": "v.剥夺，使丧失",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "derive",
+        "pronunciation": "/dɪˈraɪv/",
+        "meaning": "v.起源于获得，取得",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "describe",
+        "pronunciation": "/dɪˈskraɪb/",
+        "meaning": "v.描述画出……图形",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "description",
+        "pronunciation": "/dɪˈskrɪpʃən/",
+        "meaning": "n.种类，类型描写（文字）形容，说明",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "deserve",
+        "pronunciation": "/dɪˈzɝv/",
+        "meaning": "v.值得，应得",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "design",
+        "pronunciation": "/dɪˈzaɪn/",
+        "meaning": "v.设计，构思，计划意图 n.设计图设计，设计方案，构思设计风格图案",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "designate",
+        "pronunciation": "/ˈdɛzɪɡˌnet/",
+        "meaning": "v.选定，指定指派标明，指明 adj.新指定的，新任命的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "desirable",
+        "pronunciation": "/dɪˈzaɪrəbəl/",
+        "meaning": "adj.值得做的理想的，值得拥有的性感的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "desire",
+        "pronunciation": "/dɪˈzaɪɚ/",
+        "meaning": "n.渴望，欲望情欲渴望的人或事物 v.渴望，期望",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "flaw",
+        "pronunciation": "/flɔ/",
+        "meaning": "n.缺点，弱点错误，谬误瑕疵，缺陷",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "flexible",
+        "pronunciation": "/ˈflɛksəbəl/",
+        "meaning": "adj.灵活的，可变通的易弯曲的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "fling",
+        "pronunciation": "/flɪŋ/",
+        "meaning": "v.猛掷，猛扔猛地做愤怒地说 n.短暂的快乐时光",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "flourish",
+        "pronunciation": "/ˈflərɪʃ/",
+        "meaning": "v.生长茂盛，兴盛挥舞 n.华丽辞藻夸张动作",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "grow",
+        "pronunciation": "/gro/",
+        "meaning": "v.增长生长，发育变得种植",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "grown-up",
+        "pronunciation": "/ˈɡronˌʌp/",
+        "meaning": "n.成年人 adj.成熟的，成年的，成人的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "growth",
+        "pronunciation": "/groθ/",
+        "meaning": "n.增加，增长成长，生长发展，兴起新生发的植株肿块，肿瘤",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "hinder",
+        "pronunciation": "/ˈhɪndɚ/",
+        "meaning": "v.阻碍，束缚",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "hint",
+        "pronunciation": "/hɪnt/",
+        "meaning": "v.暗示，示意 n.暗示少许征兆，迹象建议",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "hitherto",
+        "pronunciation": "/ˈhɪðɚtu/",
+        "meaning": "adv.迄今，直到某时",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impact",
+        "pronunciation": "/ˈɪmˌpækt/",
+        "meaning": "n.巨大影响，强大作用，冲击力撞击（力） v.产生影响撞击，冲击",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impair",
+        "pronunciation": "/ɪmˈpɛr/",
+        "meaning": "v.损害，削弱",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impart",
+        "pronunciation": "/ɪmˈpɑrt/",
+        "meaning": "v.传授，告知给予，赋予",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "implement",
+        "pronunciation": "/ˈɪmplɪmɛnt/",
+        "meaning": "v.履行，实施使生效贯彻，执行 n.器具",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "implication",
+        "pronunciation": "/ˌɪmplɪˈkeʃən/",
+        "meaning": "n.可能引发的后果暗指牵涉",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "implicit",
+        "pronunciation": "/ɪmˈplɪsɪt/",
+        "meaning": "adj.含蓄的内含的无疑问的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "imply",
+        "pronunciation": "/ɪmˈplaɪ/",
+        "meaning": "v.意味着，暗示必然包含说明，表明",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "import",
+        "pronunciation": "/ˈɪmpɔrt/",
+        "meaning": "v.导入进口，输入，引进 n.重要性含意进口，进口商品",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "importance",
+        "pronunciation": "/ɪmˈpɔrtns/",
+        "meaning": "n.重要性，重要",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "important",
+        "pronunciation": "/ɪmˈpɔrtnt/",
+        "meaning": "adj.重要的有声望的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impose",
+        "pronunciation": "/ɪmˈpoz/",
+        "meaning": "v.强制实行强加于使遭受，使承受勉强打扰，麻烦",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impress",
+        "pronunciation": "/ɪmˈprɛs/",
+        "meaning": "v.使铭记使意识到使钦佩给……留下印象",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impression",
+        "pronunciation": "/ɪmˈprɛʃən/",
+        "meaning": "n.印象模仿印象画压痕，印记印刷",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impressive",
+        "pronunciation": "/ɪmˈprɛsɪv/",
+        "meaning": "adj.令人敬佩的，令人赞叹的给人深刻印象的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "improve",
+        "pronunciation": "/ɪmˈpruv/",
+        "meaning": "v.改进，改善",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "impulse",
+        "pronunciation": "/ˈɪmˌpʌls/",
+        "meaning": "n.冲动神经冲动动机，动力，刺激（电）脉冲 adj.一时兴起的，随兴的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "limit",
+        "pronunciation": "/ˈlɪmɪt/",
+        "meaning": "v.限制，限定 n.限度，限制极限界限",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "limitation",
+        "pronunciation": "/ˌlɪmɪˈteʃən/",
+        "meaning": "n.局限，缺陷限制",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "limited",
+        "pronunciation": "/ˈlɪmɪtɪd/",
+        "meaning": "adj.有限的受……的限制有限责任的限定的 v.限制（limit的过去式和过去分词）",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "origin",
+        "pronunciation": "/ˈɔrɪdʒɪn/",
+        "meaning": "n.起源，起因出身",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "original",
+        "pronunciation": "/əˈrɪdʒənəl/",
+        "meaning": "adj.原来的，起初的原件的独创的，原作的 n.原物，原件，原作不同寻常的人",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "originate",
+        "pronunciation": "/əˈrɪdʒəˌnet/",
+        "meaning": "v.起源，发源创立",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "petition",
+        "pronunciation": "/pəˈtɪʃən/",
+        "meaning": "n.请愿书上诉书，诉状 v.递交上诉书，上诉，请愿",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "phase",
+        "pronunciation": "/fez/",
+        "meaning": "n.阶段，时期 v.逐步进行",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "phenomenon",
+        "pronunciation": "/fəˈnɑmɪnən/",
+        "meaning": "n.现象奇迹，奇才",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "philosopher",
+        "pronunciation": "/fəˈlɑsəfɚ/",
+        "meaning": "n.哲学家，深思的人",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "philosophy",
+        "pronunciation": "/fəˈlɑsəfɪ/",
+        "meaning": "n.哲学哲学理论基本原理人生哲学",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "phrase",
+        "pronunciation": "/frez/",
+        "meaning": "n.成语，习语短语，词组乐句 v.叙述",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "physical",
+        "pronunciation": "/ˈfɪzɪkəl/",
+        "meaning": "adj.身体的客观存在的性欲的物理学的 n.体检",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "physician",
+        "pronunciation": "/fɪˈzɪʃən/",
+        "meaning": "n.医师，内科医生",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "pierce",
+        "pronunciation": "/pɪrs/",
+        "meaning": "v.扎，刺破，穿透给……打眼",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "corporate",
+        "pronunciation": "/ˈkɔrpərɪt/",
+        "meaning": "adj.公司的法人的社团的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "corporation",
+        "pronunciation": "/ˌkɔrpəˈreʃn/",
+        "meaning": "n.大型公司，企业集团市政委员会",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "reason",
+        "pronunciation": "/ˈrizən/",
+        "meaning": "n.原因，理由理性，理智 v.推理思考",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "reasonable",
+        "pronunciation": "/ˈrizənəbəl/",
+        "meaning": "adj.有道理的，合情理的讲理的价格公道的不错的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "recent",
+        "pronunciation": "/ˈrisənt/",
+        "meaning": "adj.近来的，最近的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "serve",
+        "pronunciation": "/sɝv/",
+        "meaning": "v.接待，服务，提供度过可用作，可当……使为…效力",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "servant",
+        "pronunciation": "/ˈsɚvənt/",
+        "meaning": "n.仆人",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "service",
+        "pronunciation": "/ˈsɝvɪs/",
+        "meaning": "n.接待，服务公共事业部队宗教礼仪整套餐具发球权服兵役，军队 adj.员工或后勤专用的 v.维修，检修支付服务",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "set",
+        "pronunciation": "/sɛt/",
+        "meaning": "v.设置树立，开创使处于安排，确定 n.一套，一副，一组盘，局集，集合 adj.位于……的固定的准备好的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "setback",
+        "pronunciation": "/ˈsɛtˌbæk/",
+        "meaning": "n.挫折，障碍",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "setting",
+        "pronunciation": "/ˈsɛtɪŋ/",
+        "meaning": "n.调控装置（戏剧、小说等的）情节背景，环境一套餐具镶嵌底座配乐 v.设置（set的现在分词）",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "settle",
+        "pronunciation": "/ˈsɛtl/",
+        "meaning": "v.定居结束，解决付清安排降落使平静 n.高背长椅",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "settlement",
+        "pronunciation": "/ˈsɛtlmənt/",
+        "meaning": "n.定居点协议和解解决偿付殖民",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "several",
+        "pronunciation": "/ˈsɛvərəl/",
+        "meaning": "pron.几个，数个，一些 det.几个，一些 adj.各自的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "severe",
+        "pronunciation": "/səˈvɪɚ/",
+        "meaning": "adj.严厉的极为恶劣的，十分严重的极度困难的朴素的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "shape",
+        "pronunciation": "/ʃep/",
+        "meaning": "v.塑造决定 n.形状轮廓情况面貌",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "share",
+        "pronunciation": "/ʃɛr/",
+        "meaning": "v.分享共享，合用同意有同样的感情 n.应得的一份股份，股票",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "sharp",
+        "pronunciation": "/ʃɑrp/",
+        "meaning": "adj.急剧的尖刻的明显的锋利的，尖的机敏的，敏锐的苦的，冲的急转的 adv.突然地偏高音地……点整 n.升半音号",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "shelter",
+        "pronunciation": "/ˈʃɛltɚ/",
+        "meaning": "n.收容所遮蔽物居所庇护 v.为……提供避难所合法避税保护，掩蔽",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "sophisticated",
+        "pronunciation": "/səˈfɪstɪˌketɪd/",
+        "meaning": "adj.精明老练的精密的，复杂的水平高的",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "sovereign",
+        "pronunciation": "/ˈsɑvrɪn/",
+        "meaning": "adj.有独立主权的有最高统治权的 n.君主，元首金镑主权",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "sow",
+        "pronunciation": "/so/",
+        "meaning": "v.播种，种散布 n.母猪",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "toll",
+        "pronunciation": "/tol/",
+        "meaning": "n.伤亡人数通行费收费钟声长途电话费 v.敲，鸣响",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "tone",
+        "pronunciation": "/ton/",
+        "meaning": "n.氛围音质音调基调色调语气，口吻腔调 v.使强健",
+        "unit": "必考词 Unit 09"
+    },
+    {
+        "words": "topic",
+        "pronunciation": "/ˈtɑpɪk/",
+        "meaning": "n.话题，题目",
+        "unit": "必考词 Unit 09"
+    }
+]

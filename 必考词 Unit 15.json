@@ -1,0 +1,482 @@
+[
+    {
+        "words": "tow",
+        "pronunciation": "/to/",
+        "meaning": "v.（用绳索）拖，拉",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "toward",
+        "pronunciation": "/tɔrdz/",
+        "meaning": "prep.朝，向，对着对于接近用于",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "take",
+        "pronunciation": "/tek/",
+        "meaning": "v.做（某事）花费接受拿，取学习，上（课）带领乘坐带去买下 n.收入镜头",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "talent",
+        "pronunciation": "/ˈtælənt/",
+        "meaning": "n.有才能的人天资，天赋天才",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "target",
+        "pronunciation": "/ˈtɑrgɪt/",
+        "meaning": "v.瞄准把……作为攻击目标 n.靶子目标，对象",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "taste",
+        "pronunciation": "/test/",
+        "meaning": "n.偏好味觉一小口鉴赏力味道，滋味 v.有（……的味道）品尝",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "technical",
+        "pronunciation": "/ˈtɛknɪkəl/",
+        "meaning": "adj.技术上的技艺的专业的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "technician",
+        "pronunciation": "/tɛkˈnɪʃən/",
+        "meaning": "n.技术员巧匠",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "technique",
+        "pronunciation": "/tɛkˈnik/",
+        "meaning": "n.技能，技术，技艺",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "technology/tech",
+        "pronunciation": "/tɛkˈnɑlədʒɪ/",
+        "meaning": "n.科技工艺",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "teenager",
+        "pronunciation": "/tinedʒɚ/",
+        "meaning": "n.青少年",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "temper",
+        "pronunciation": "/ˈtɛmpɚ/",
+        "meaning": "v.使缓和锻造 n.坏脾气情绪脾气，火气",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "temperature",
+        "pronunciation": "/ˈtɛmpərəˌtʃɚ/",
+        "meaning": "n.温度氛围，情绪",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "temporal",
+        "pronunciation": "/ˈtɛmpərəl/",
+        "meaning": "adj.世俗的，俗家的时间的太阳穴的颞的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "temporary",
+        "pronunciation": "/ˈtempərərɪ/",
+        "meaning": "adj.暂时的，短暂的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "tempt",
+        "pronunciation": "/tɛmpt/",
+        "meaning": "v.诱惑，引诱怂恿",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "temptation",
+        "pronunciation": "/tɛmpˈteʃən/",
+        "meaning": "n.引诱，诱惑诱惑物",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "tend",
+        "pronunciation": "/tɛnd/",
+        "meaning": "v.往往会倾向，趋于招待照顾，照料",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "tendency",
+        "pronunciation": "/ˈtɛndənsɪ/",
+        "meaning": "n.趋势，倾向偏好，性情",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "tentative",
+        "pronunciation": "/ˈtɛntətɪv/",
+        "meaning": "adj.暂行的犹豫的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "term",
+        "pronunciation": "/tɝm/",
+        "meaning": "n.期，期限术语条款学期 v.把……称作",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "terminal",
+        "pronunciation": "/ˈtɝmɪnl/",
+        "meaning": "n.终端终点站线接头 adj.晚期的无可挽回的末端的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "terminate",
+        "pronunciation": "/ˈtɝmɪnet/",
+        "meaning": "v.（使）结束终止妊娠到达终点",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "testify",
+        "pronunciation": "/ˈtestɪfaɪ/",
+        "meaning": "v.作证，证明",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "trace",
+        "pronunciation": "/tres/",
+        "meaning": "v.追溯，追踪查出描绘描摹绘出 n.少许，微量痕迹，踪迹遗迹",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "track",
+        "pronunciation": "/træk/",
+        "meaning": "n.小道径赛歌曲轨迹声道班跑道足迹铁路轨道赛道 v.追踪留下痕迹分班",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "tradition",
+        "pronunciation": "/trəˈdɪʃən/",
+        "meaning": "n.传统",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "ultimate",
+        "pronunciation": "/ˈʌltəmɪt/",
+        "meaning": "adj.（目标等）最终的极端的最好的 n.典范",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "underestimate",
+        "pronunciation": "/ˌʌndɚˈɛstəmet/",
+        "meaning": "v.低估 n.低估",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "undergo",
+        "pronunciation": "/ˌʌndɚˈgo/",
+        "meaning": "v.经历，经受",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "underlie",
+        "pronunciation": "/ˌʌndɚˈlaɪ/",
+        "meaning": "v.构成……的基础，是……原因",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "underlying",
+        "pronunciation": "/ˌʌndɚˈlaɪɪŋ/",
+        "meaning": "adj.潜在的，深层的表面下的 v.是……的原因",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "underline",
+        "pronunciation": "/ˌʌndɚˈlaɪn/",
+        "meaning": "v.强调，使突出在（词语等下）画线，画底线标出",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "understand",
+        "pronunciation": "/ˌʌndɚˈstænd/",
+        "meaning": "v.明白，理解听说，获悉通晓语言了解，认识到",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "understanding",
+        "pronunciation": "/ˌʌndɚˈstændɪŋ/",
+        "meaning": "n.看法了解谅解协议 adj.善解人意的，体谅人的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "undertake",
+        "pronunciation": "/ˌʌndɚˈtek/",
+        "meaning": "v.着手做，承担承诺",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "uneasy",
+        "pronunciation": "/ʌnˈizɪ/",
+        "meaning": "adj.担心的，不安的不确定的不稳定的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unemployment",
+        "pronunciation": "/ˌʌnɪmˈplɔɪmənt/",
+        "meaning": "n.失业无业状态失业救济金",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unexpected",
+        "pronunciation": "/ˌʌnɪkˈspɛktɪd/",
+        "meaning": "adj.出乎意料的，始料不及的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unify",
+        "pronunciation": "/ˈjunɪˌfaɪ/",
+        "meaning": "v.统一（使）成一体",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "union",
+        "pronunciation": "/ˈjunjən/",
+        "meaning": "n.协会联合，同盟工会联邦",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unique",
+        "pronunciation": "/juˈnik/",
+        "meaning": "adj.独一无二的，独特的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "universal",
+        "pronunciation": "/ˌjunɪˈvɚsl/",
+        "meaning": "adj.通用的，全世界的，普遍的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "universe",
+        "pronunciation": "/ˈjunɪvɝs/",
+        "meaning": "n.宇宙天地万物",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unlike",
+        "pronunciation": "/ʌnˈlaɪk/",
+        "meaning": "prep.不像，与……不同 adj.不同的，不像的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unlikely",
+        "pronunciation": "/ʌnˈlaɪklɪ/",
+        "meaning": "adj.不大可能的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "unusual",
+        "pronunciation": "/ʌnˈjuʒuəl/",
+        "meaning": "adj.特别的，不寻常的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "vague",
+        "pronunciation": "/veɡ/",
+        "meaning": "adj.含糊的模糊的闪烁其词的茫然的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "vain",
+        "pronunciation": "/ven/",
+        "meaning": "adj.自负的徒劳的，无望的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "valid",
+        "pronunciation": "/ˈvælɪd/",
+        "meaning": "adj.合理的认可的有效的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "valuable",
+        "pronunciation": "/ˈvæljᴜəbl/",
+        "meaning": "adj.很有用的，宝贵的贵重的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "value",
+        "pronunciation": "/ˈvælju/",
+        "meaning": "n.价值价值观重要性 v.重视，珍视给……估价",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "vanish",
+        "pronunciation": "/ˈvænɪʃ/",
+        "meaning": "v.突然消失灭绝",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "variable",
+        "pronunciation": "/ˈvɛriəbl/",
+        "meaning": "adj.多变的可变的 n.可变因素，变量",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "variance",
+        "pronunciation": "/ˈvɛriəns/",
+        "meaning": "n.差异，不同",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "variation",
+        "pronunciation": "/ˌvɛrɪˈeʃn/",
+        "meaning": "n.变化变化形式变体变奏曲",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "variety",
+        "pronunciation": "/vəˈraɪətɪ/",
+        "meaning": "n.各式各样，多种多样品种，变化（语言等的）变体，异体",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "various",
+        "pronunciation": "/ˈvɛriəs/",
+        "meaning": "adj.各种各样的，多姿多彩的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "vary",
+        "pronunciation": "/ˈvɛrɪ/",
+        "meaning": "v.有差异改变（根据情况）变化",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "vast",
+        "pronunciation": "/væst/",
+        "meaning": "adj.辽阔的大量的巨大的，庞大的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "wage",
+        "pronunciation": "/wedʒ/",
+        "meaning": "n.工资 v.开始，发动",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "wander",
+        "pronunciation": "/ˈwɑndɚ/",
+        "meaning": "n.游荡，闲逛，流浪 v.迷路神志恍惚闲逛，漫游离散走神",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "want",
+        "pronunciation": "/wɑnt/",
+        "meaning": "v.要，想要需要应该对……有性欲 n.缺乏想要的东西",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "way",
+        "pronunciation": "/we/",
+        "meaning": "n.方式路线方面角度情况距离方向 adv.远远地，大大地",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "weak",
+        "pronunciation": "/wik/",
+        "meaning": "adj.虚弱的，无力的弱的，软弱的淡的不充分的微弱的萧条的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "wear",
+        "pronunciation": "/wɛɚ/",
+        "meaning": "v.穿，戴流露留，蓄磨损耐用允许 n.服装耐用性磨损",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "weary",
+        "pronunciation": "/ˈwɪrɪ/",
+        "meaning": "adj.疲倦的感到厌烦的 v.（使）非常疲倦",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "weigh",
+        "pronunciation": "/we/",
+        "meaning": "v.称……的重量有影响有……重斟酌",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "weight",
+        "pronunciation": "/wet/",
+        "meaning": "n.重量重物影响力砝码 v.使变重权衡",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "weird",
+        "pronunciation": "/wɪɚd/",
+        "meaning": "adj.奇怪的诡异的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "welfare",
+        "pronunciation": "/ˈwelfɛr/",
+        "meaning": "n.幸福，福祉，安康，福利社会福利",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "whirl",
+        "pronunciation": "/wɝl/",
+        "meaning": "v.（使）回旋，（使）旋转 n.旋转，回旋一连串活动",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "whisper",
+        "pronunciation": "/ˈwɪspɚ/",
+        "meaning": "v.私下谈论低语，小声说话 n.传言低语，小声说的话",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "yield",
+        "pronunciation": "/jild/",
+        "meaning": "v.出产，产生（收益等）屈服，让步放弃让行 n.收益产量，产出",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "youth",
+        "pronunciation": "/juθ/",
+        "meaning": "n.青年，年轻人青年时期，青春朝气，年轻",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "zigzag",
+        "pronunciation": "/ˈzɪɡˌzæɡ/",
+        "meaning": "n.之字形突然变来变去 v.之字形行进突然彻底变化，又复原 adj.之字形的，弯弯曲曲的",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "zone",
+        "pronunciation": "/zon/",
+        "meaning": "n.地区，地带，区域气候带 v.将……划为特殊区域",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "zoom",
+        "pronunciation": "/zum/",
+        "meaning": "v.快速移动飙升，猛涨 n.可变焦距镜头",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "key",
+        "pronunciation": "/ki/",
+        "meaning": "n.关键钥匙键曲调图例答案 adj.关键的 v.用钥匙划坏",
+        "unit": "必考词 Unit 15"
+    },
+    {
+        "words": "knit",
+        "pronunciation": "/nɪt/",
+        "meaning": "n.编织的衣服，针织衫 v.编织，针织愈合（使）紧密结合",
+        "unit": "必考词 Unit 15"
+    }
+]

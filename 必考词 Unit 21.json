@@ -1,0 +1,506 @@
+[
+    {
+        "words": "glamour",
+        "pronunciation": "/ˈɡlæmɚ/",
+        "meaning": "n.魅力，吸引力，诱惑力",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "generate",
+        "pronunciation": "/ˈdʒɛnəˌret/",
+        "meaning": "v.产生，引起",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "generation",
+        "pronunciation": "/ˌdʒɛnəˈreʃən/",
+        "meaning": "n.一代，一代人一批产生",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "generator",
+        "pronunciation": "/ˈdʒɛnəˌretɚ/",
+        "meaning": "n.发电机发生器电力公司产生者",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "generous",
+        "pronunciation": "/ˈdʒɛnərəs/",
+        "meaning": "adj.慷慨的，大方的胸襟宽广的丰厚的丰富的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "genius",
+        "pronunciation": "/ˈdʒinjəs/",
+        "meaning": "n.天资，天赋天才",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "gift",
+        "pronunciation": "/ɡɪft/",
+        "meaning": "n.礼物天赋极便宜之物，极易完成之事 v.赠送",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "genre",
+        "pronunciation": "/ˈʒɑnrə/",
+        "meaning": "n.类型，体裁",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "giant",
+        "pronunciation": "/ˈdʒaɪənt/",
+        "meaning": "n.大公司伟人巨人 adj.伟大的巨大的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "gigantic",
+        "pronunciation": "/dʒaɪˈɡæntɪk/",
+        "meaning": "adj.巨大的，庞大的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "give",
+        "pronunciation": "/ɡɪv/",
+        "meaning": "v.给，送引起做告知支付捐赠判处举办打电话 n.伸展性",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "happen",
+        "pronunciation": "/ˈhæpən/",
+        "meaning": "v.发生碰巧，凑巧",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "harm",
+        "pronunciation": "/hɑrm/",
+        "meaning": "n.危害，伤害，损害 v.危害，伤害，损害",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "harmony",
+        "pronunciation": "/ˈhɑrmənɪ/",
+        "meaning": "n.和谐，融洽和声",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "harsh",
+        "pronunciation": "/hɑrʃ/",
+        "meaning": "adj.恶劣的，艰苦的，严峻的严厉的刺耳的刺眼的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "ignorance",
+        "pronunciation": "/ˈɪɡnərəns/",
+        "meaning": "n.无知",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "ignorant",
+        "pronunciation": "/ˈɪɡnərənt/",
+        "meaning": "adj.无知的无礼的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "ignore",
+        "pronunciation": "/ɪɡˈnɔr/",
+        "meaning": "v.忽视佯装未见，不予理睬",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "ill",
+        "pronunciation": "/ɪl/",
+        "meaning": "adj.坏的有病，不舒服 n.问题，弊病伤害，厄运 adv.坏，恶劣地",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "illness",
+        "pronunciation": "/ˈɪlnəs/",
+        "meaning": "n.病，疾病生病",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "illusion",
+        "pronunciation": "/ɪˈluʒən/",
+        "meaning": "n.假象，幻想错误观念",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "illustrate",
+        "pronunciation": "/ˈɪləˌstret/",
+        "meaning": "v.说明，阐明给……加插图",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "illustration",
+        "pronunciation": "/ˌɪləˈstreʃən/",
+        "meaning": "n.例证插图图解",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "image",
+        "pronunciation": "/ˈɪmɪdʒ/",
+        "meaning": "n.图像声誉形象，印象比喻，意象画像，雕像",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "imagine",
+        "pronunciation": "/ɪˈmædʒɪn/",
+        "meaning": "v.想象，设想猜测误以为",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "imaginary",
+        "pronunciation": "/ɪˈmædʒɪnɛrɪ/",
+        "meaning": "adj.想象中的，虚构的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "imagination",
+        "pronunciation": "/ɪˌmædʒəˈneʃən/",
+        "meaning": "n.想象力，想象幻想物创造力",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "imaginative",
+        "pronunciation": "/ɪˈmædʒənətɪv/",
+        "meaning": "adj.富于想象力的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "imitate",
+        "pronunciation": "/ˈɪmɪtet/",
+        "meaning": "v.模仿，仿效",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "imitation",
+        "pronunciation": "/ˌɪmɪˈteʃən/",
+        "meaning": "n.模仿仿制品",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "lead",
+        "pronunciation": "/lid/",
+        "meaning": "v.导致带路，领路使相信通向，通往带领 n.榜样领先线索铅",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "leadership",
+        "pronunciation": "/ˈlidɚʃɪp/",
+        "meaning": "n.领导，领导地位领导层领导才能",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "leading",
+        "pronunciation": "/ˈlidɪŋ/",
+        "meaning": "adj.最重要的，最成功的领导的主演的领先的 n.行距铅皮 v.引领（lead的现在分词）",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "legal",
+        "pronunciation": "/ˈliɡəl/",
+        "meaning": "adj.法律的合法的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "legislation",
+        "pronunciation": "/ˌlɛdʒɪˈsleʃən/",
+        "meaning": "n.立法法律，法规",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "legitimate",
+        "pronunciation": "/ləˈdʒɪtəmɪt/",
+        "meaning": "adj.合法的合理的，正当的合法婚姻所生的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "leisure",
+        "pronunciation": "/ˈliʒɚ/",
+        "meaning": "n.闲暇，空闲",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "level",
+        "pronunciation": "/ˈlɛvəl/",
+        "meaning": "n.水平层次水位楼层高度 v.摧毁使瞄准 adj.等高的平的，平坦的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "lever",
+        "pronunciation": "/ˈlɛvɚ/",
+        "meaning": "v.撬动 n.操纵杆杠杆杆，柄，把手",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "levy",
+        "pronunciation": "/ˈlɛvɪ/",
+        "meaning": "v.征收，征税 n.征收额，税款",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "manage",
+        "pronunciation": "/ˈmænɪdʒ/",
+        "meaning": "v.管理设法做到，成功完成",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "management",
+        "pronunciation": "/ˈmænɪdʒmənt/",
+        "meaning": "n.经营，管理管理层",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "mandate",
+        "pronunciation": "/ˈmænˌdet/",
+        "meaning": "n.授权，委任 v.正式批准，授权进行命令",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "manifest",
+        "pronunciation": "/ˈmænəˌfɛst/",
+        "meaning": "v.显示，显露 adj.明显的 n.货单，旅客名单",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "manipulate",
+        "pronunciation": "/məˈnɪpjᴜlet/",
+        "meaning": "v.操作操纵，摆布推拿正骨",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "manner",
+        "pronunciation": "/ˈmænɚ/",
+        "meaning": "n.方式，方法举止，行为方式态度礼貌，礼仪",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "margin",
+        "pronunciation": "/ˈmɑrdʒən/",
+        "meaning": "n.边缘余地差额，差数边缘地位页边的空白，页边利润",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "marginal",
+        "pronunciation": "/ˈmɑrdʒɪnl/",
+        "meaning": "adj.微小的，微不足道的边缘的 n.边缘席位，边缘政治领域",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "mass",
+        "pronunciation": "/mæs/",
+        "meaning": "n.群众质量大量大团大多数人充满堆群 v.（使）聚集 adj.大量的广泛的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "massive",
+        "pronunciation": "/ˈmæsɪv/",
+        "meaning": "adj.巨大的非常严重的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "massacre",
+        "pronunciation": "/ˈmæsəkɚ/",
+        "meaning": "n.大屠杀惨败 v.屠杀彻底击败",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "occupation",
+        "pronunciation": "/ˌɑkjuˈpeʃn/",
+        "meaning": "n.职业占领消遣",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "occupy",
+        "pronunciation": "/ˈɑkjupaɪ/",
+        "meaning": "v.占据，占用居住占领从事使忙于",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "occur",
+        "pronunciation": "/əˈkɚ/",
+        "meaning": "v.发生，出现存在于，出现在",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "occurrence",
+        "pronunciation": "/əˈkɝəns/",
+        "meaning": "n.发生的事发生，出现",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "offend",
+        "pronunciation": "/əˈfɛnd/",
+        "meaning": "v.违反冒犯，得罪犯罪令人不适",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "offer",
+        "pronunciation": "/ˈɔfɚ/",
+        "meaning": "v.提供，给予主动提出祭献自愿给与 n.报价给予，提议特惠",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "offset",
+        "pronunciation": "/ˈɔfset/",
+        "meaning": "v.抵消，弥补",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "offspring",
+        "pronunciation": "/ˈɔfsprɪŋ/",
+        "meaning": "n.子女，后代幼崽",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "paragraph",
+        "pronunciation": "/ˈpærəgræf/",
+        "meaning": "n.段，段落 v.分段",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "paralyse",
+        "pronunciation": "/ˈpærəˌlaɪz/",
+        "meaning": "v.使瘫痪，使无法正常运转",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "parallel",
+        "pronunciation": "/ˈpærəˌlɛl/",
+        "meaning": "adj.同时发生的，极相似的并行的平行的 n.相似之物，类似物平行线联系，相似 v.与……同时发生，与……相似 adv.平行地",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "part",
+        "pronunciation": "/pɑrt/",
+        "meaning": "n.部分成员区域，地区部件，零件发缝参加，参与角色 adv.部分地 v.梳成分头离开，分开",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "partial",
+        "pronunciation": "/ˈpɑrʃl/",
+        "meaning": "adj.部分的偏爱的偏袒的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "participant",
+        "pronunciation": "/pɑrˈtɪsɪpənt/",
+        "meaning": "n.参与者，参加者",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "participate",
+        "pronunciation": "/pɑrˈtɪsəpet/",
+        "meaning": "v.参加，参与",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "particle",
+        "pronunciation": "/ˈpɑrtɪkl/",
+        "meaning": "n.粒子颗粒，微粒",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "particular",
+        "pronunciation": "/pɚˈtɪkjəlɚ/",
+        "meaning": "adj.特定的，特别的格外的讲究的 n.细节，详情",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "partly",
+        "pronunciation": "/ˈpɑrtlɪ/",
+        "meaning": "adv.一定程度上部分地",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "partner",
+        "pronunciation": "/ˈpɑrtnɚ/",
+        "meaning": "n.合伙人配偶盟友伙伴，搭档 v.做伙伴，做搭档",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "passion",
+        "pronunciation": "/ˈpæʃn/",
+        "meaning": "n.激情强烈的情欲，热恋酷爱",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "passive",
+        "pronunciation": "/ˈpæsɪv/",
+        "meaning": "adj.消极的被动的，顺从的被动语态的 n.被动语态，被动式",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "quick",
+        "pronunciation": "/kwɪk/",
+        "meaning": "adj.迅速的，快的敏捷的 n.指甲下的肉",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "quit",
+        "pronunciation": "/kwɪt/",
+        "meaning": "v.离开停止，戒掉辞去",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "quest",
+        "pronunciation": "/kwɛst/",
+        "meaning": "n.(长期的)寻求，探索，追求 v.探索",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "questionnaire",
+        "pronunciation": "/ˌkwestʃəˈnɛr/",
+        "meaning": "n.问卷，调查表",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "quote",
+        "pronunciation": "/kwot/",
+        "meaning": "v.引用报价 n.引文引号报价",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "span",
+        "pronunciation": "/spæn/",
+        "meaning": "n.范围间隔，期间持续时间宽度，跨度 v.持续包括横跨",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "spare",
+        "pronunciation": "/spɛr/",
+        "meaning": "adj.空闲的备用的不用的 v.抽出，留出剩余使幸免省得 n.备用品",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "schedule",
+        "pronunciation": "/ˈskɛdʒᴜl/",
+        "meaning": "v.安排，计划 n.工作计划，日程安排时刻表清单",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "scheme",
+        "pronunciation": "/skim/",
+        "meaning": "n.计划，方案阴谋，诡计 v.密谋，策划",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "science",
+        "pronunciation": "/ˈsaɪəns/",
+        "meaning": "n.科学理科",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "scientific",
+        "pronunciation": "/saɪənˈtɪfɪk/",
+        "meaning": "adj.科学上的，科学的使用科学方法的",
+        "unit": "必考词 Unit 21"
+    },
+    {
+        "words": "scientist",
+        "pronunciation": "/ˈsaɪəntɪst/",
+        "meaning": "n.科学家",
+        "unit": "必考词 Unit 21"
+    }
+]

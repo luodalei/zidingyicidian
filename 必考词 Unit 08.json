@@ -1,0 +1,464 @@
+[
+    {
+        "words": "choke",
+        "pronunciation": "/tʃok/",
+        "meaning": "v.（使）窒息阻塞，塞满（使）哽咽",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "chop",
+        "pronunciation": "/tʃɑp/",
+        "meaning": "v.砍，剁，劈，切削减，终止 n.砍，剁，劈，切排骨",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "circumstance",
+        "pronunciation": "/ˈsɝkəmstæns/",
+        "meaning": "n.条件，状况客观环境，命运",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "cite",
+        "pronunciation": "/saɪt/",
+        "meaning": "v.引用，引述举例传唤嘉奖",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "claim",
+        "pronunciation": "/klem/",
+        "meaning": "v.宣称索取，认领引起（注意）夺取生命 n.宣称，断言索赔，索款权利",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "clear",
+        "pronunciation": "/klɪɚ/",
+        "meaning": "adj.明确的，清楚的清晰的清澈的干净的 v.批准变清楚变晴朗清理，清除",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "border",
+        "pronunciation": "/ˈbɔrdɚ/",
+        "meaning": "n.边界狭长花坛镶边 v.和……毗邻给……镶边",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "bore",
+        "pronunciation": "/bɔr/",
+        "meaning": "v.承受，支撑（bear的过去式）使厌烦，使厌倦钻，凿盯着看 n.令人厌烦的人无聊的事涌潮孔",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "born",
+        "pronunciation": "/bɔrn/",
+        "meaning": "v.出生，诞生产生，形成 adj.天生的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "bother",
+        "pronunciation": "/ˈbɑðɚ/",
+        "meaning": "v.费心，麻烦，因……操心打扰 n.讨厌的人或事麻烦，不便",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "acquire",
+        "pronunciation": "/əˈkwaɪɚ/",
+        "meaning": "v.获得购得",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "acquisition",
+        "pronunciation": "/ˌækwɪˈzɪʃən/",
+        "meaning": "n.获得，习得收购购买物",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "act",
+        "pronunciation": "/ækt/",
+        "meaning": "v.行动起作用举止扮演 n.行为法案幕表演者",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "action",
+        "pronunciation": "/ˈækʃən/",
+        "meaning": "n.行动行为作用，活动诉讼情节作战 v.处理，执行",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "activate",
+        "pronunciation": "/ˈæktəˌvet/",
+        "meaning": "v.使运作，激活",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "active",
+        "pronunciation": "/ˈæktɪv/",
+        "meaning": "adj.积极的，活跃的定期进行的有效的主动语态的忙碌的 n.主动语态",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "activity",
+        "pronunciation": "/ækˈtɪvɪtɪ/",
+        "meaning": "n.活动活跃状态繁忙",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "actual",
+        "pronunciation": "/ˈæktʃᴜəl/",
+        "meaning": "adj.实际的，真实的真正的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "acute",
+        "pronunciation": "/əˈkjut/",
+        "meaning": "adj.十分严重的灵敏的锐角的急性的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "despise",
+        "pronunciation": "/dɪˈspaɪz/",
+        "meaning": "v.鄙视，看不起",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "despite",
+        "pronunciation": "/dɪˈspaɪt/",
+        "meaning": "prep.尽管，即使",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "energetic",
+        "pronunciation": "/ˌɛnɚˈdʒɛtɪk/",
+        "meaning": "adj.精力充沛的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "energy",
+        "pronunciation": "/ˈenɚdʒɪ/",
+        "meaning": "n.能源能，能量力量，精力",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "enforce",
+        "pronunciation": "/ɪnˈfɔrs/",
+        "meaning": "v.强制执行，强迫",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "engage",
+        "pronunciation": "/ɪnˈgedʒ/",
+        "meaning": "v.参加，参与吸引雇用",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "engagement",
+        "pronunciation": "/ɛnˈɡedʒmənt/",
+        "meaning": "n.参与约会，约定婚约交战了解",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "fold",
+        "pronunciation": "/fold/",
+        "meaning": "v.折叠交叉倒闭包，裹 n.折痕褶皱圈子",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "folk",
+        "pronunciation": "/fok/",
+        "meaning": "n.人（们）亲人 adj.普通百姓的民间的，民俗的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "follow",
+        "pronunciation": "/ˈfɑlo/",
+        "meaning": "v.追随在……后发生遵循跟着沿着理解关注跟读",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "following",
+        "pronunciation": "/ˈfɑloɪŋ/",
+        "meaning": "adj.接着的，接下来的下述的 prep.在……之后 v.跟随（follow的现在分词） n.追随者",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "force",
+        "pronunciation": "/fɔrs/",
+        "meaning": "v.强迫，迫使强行使发生挤出 n.暴力军队力，力量一群人",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "fore",
+        "pronunciation": "/fɔr/",
+        "meaning": "adj.前部的，前端的 n.前部 adv.在前部",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "forecast",
+        "pronunciation": "/ˈfɔrkæst/",
+        "meaning": "v.预报，预测 n.预测，预报",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "foresee",
+        "pronunciation": "/fɔrˈsi/",
+        "meaning": "v.预见",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "forge",
+        "pronunciation": "/fɔrdʒ/",
+        "meaning": "v.锻造缔结，建立伪造，仿造突然向前猛冲 n.锻造铺，锻造厂",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "grim",
+        "pronunciation": "/ɡrɪm/",
+        "meaning": "adj.严峻的，严肃的忧愁的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "grasp",
+        "pronunciation": "/græsp/",
+        "meaning": "v.毫不犹豫地抓住（机会）理解，领会抓紧 n.紧抓力所能及理解",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "grip",
+        "pronunciation": "/ɡrɪp/",
+        "meaning": "n.控制紧握抓力 v.强烈地影响紧握，抓紧吸引",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "gross",
+        "pronunciation": "/gros/",
+        "meaning": "adj.总的，毛的极粗俗的令人厌恶的 adv.总共 v.总共赚得 n.毛收入，总收入",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "ground",
+        "pronunciation": "/ɡraᴜnd/",
+        "meaning": "n.地面范围，领域理由，根据土，土地场地地线 v.以……为根据使停飞禁足使搁浅 adj.切碎的，磨碎的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "group",
+        "pronunciation": "/ɡrup/",
+        "meaning": "n.组集团集体 v.（使）形成组",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "guarantee",
+        "pronunciation": "/ˌɡærənˈti/",
+        "meaning": "v.担保保证，确保 n.担保物保证保修单",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "guard",
+        "pronunciation": "/gɑrd/",
+        "meaning": "n.警卫，看守列车长保护装置 v.守卫，保卫",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "include",
+        "pronunciation": "/ɪnˈklud/",
+        "meaning": "v.包括，包含使成为……的一部分",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "inclusive",
+        "pronunciation": "/ɪnˈklusɪv/",
+        "meaning": "adj.包容广阔的含一切费用的包括提到的所有的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "income",
+        "pronunciation": "/ˈɪnˌkʌm/",
+        "meaning": "n.收入，收益",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "incorporate",
+        "pronunciation": "/ɪnˈkɔrpəret/",
+        "meaning": "v.把……并入，包含",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "increase",
+        "pronunciation": "/ɪnˈkris/",
+        "meaning": "v.增加，增长 n.增长",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "increasingly",
+        "pronunciation": "/ɪnˈkri:sɪŋlɪ/",
+        "meaning": "adv.越来越多地，日益增加地",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "incredible",
+        "pronunciation": "/ɪnˈkrɛdəbəl/",
+        "meaning": "adj.难以置信的极好的极大的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "incur",
+        "pronunciation": "/ɪnˈkɝ/",
+        "meaning": "v.招致，遭受",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "link",
+        "pronunciation": "/lɪŋk/",
+        "meaning": "n.联系纽带连接物链接环 v.相关联钩住连接",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "list",
+        "pronunciation": "/lɪst/",
+        "meaning": "n.名单，清单 v.列表，列清单列举",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "literally",
+        "pronunciation": "/ˈlɪtərəlɪ/",
+        "meaning": "adv.真正地简直字面上",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "literary",
+        "pronunciation": "/ˈlɪtɚɛrɪ/",
+        "meaning": "adj.文学的爱好文学的有文学作品特征的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "literature",
+        "pronunciation": "/ˈlɪtərətʃɚ/",
+        "meaning": "n.文献文字，文学作品",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "memo/memorandum",
+        "pronunciation": "/ˌmɛməˈrændəm/",
+        "meaning": "n.备忘录报告",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "memorial",
+        "pronunciation": "/məˈmɔrɪəl/",
+        "meaning": "adj.纪念的，悼念的 n.纪念碑（或像等）纪念物，纪念品",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "memory",
+        "pronunciation": "/ˈmɛmərɪ/",
+        "meaning": "n.记忆力记忆，回忆内存怀念",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "mental",
+        "pronunciation": "/ˈmɛntl/",
+        "meaning": "adj.心理的，精神的思想的疯的精神健康的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "mention",
+        "pronunciation": "/ˈmɛnʃən/",
+        "meaning": "v.提到，说到 n.提及提名表扬",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "mentor",
+        "pronunciation": "/ˈmentɔr/",
+        "meaning": "n.导师，指导者 v.指导，辅导",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "other",
+        "pronunciation": "/ˈʌðɚ/",
+        "meaning": "pron.其他另一个 det.另一，别的 adj.另外的，其他的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "otherwise",
+        "pronunciation": "/ˈʌðɚwaɪz/",
+        "meaning": "adv.除此以外以其他方式要不然，否则",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "outcome",
+        "pronunciation": "/ˈaᴜtˌkʌm/",
+        "meaning": "n.结果，效果",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "sign",
+        "pronunciation": "/saɪn/",
+        "meaning": "n.迹象，征兆标识示意动作 v.签署打手势语",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "signature",
+        "pronunciation": "/ˈsɪɡnətʃɚ/",
+        "meaning": "n.签名，签字鲜明特色",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "signal",
+        "pronunciation": "/ˈsɪɡnəl/",
+        "meaning": "n.信号标志暗号迹象信号灯电波信号 v.表达，显示标志着，标明发信号 adj.显著的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "significance",
+        "pronunciation": "/sɪɡˈnɪfɪkəns/",
+        "meaning": "n.重要性，意义意思，含义",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "significant",
+        "pronunciation": "/sɪɡˈnɪfɪkənt/",
+        "meaning": "adj.有重大意义的显著的意味深长的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "signify",
+        "pronunciation": "/ˈsɪɡnɪfaɪ/",
+        "meaning": "v.表示，意味着很重要，要紧",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "similar",
+        "pronunciation": "/ˈsɪməlɚ/",
+        "meaning": "adj.相像的，类似的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "simple",
+        "pronunciation": "/ˈsɪmpəl/",
+        "meaning": "adj.简朴的纯粹的简单的，易做的愚笨的",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "simplicity",
+        "pronunciation": "/sɪmˈplɪsɪtɪ/",
+        "meaning": "n.质朴简单之处简易",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "simplify",
+        "pronunciation": "/ˈsɪmpləˌfaɪ/",
+        "meaning": "v.简化",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "simply",
+        "pronunciation": "/ˈsɪmplɪ/",
+        "meaning": "adv.仅仅，只，不过简直浅显地朴素地",
+        "unit": "必考词 Unit 08"
+    },
+    {
+        "words": "slack",
+        "pronunciation": "/slæk/",
+        "meaning": "adj.松懈的松弛的萧条的 n.松弛部分富余部分煤屑 v.懈怠",
+        "unit": "必考词 Unit 08"
+    }
+]

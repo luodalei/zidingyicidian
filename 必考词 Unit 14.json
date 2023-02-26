@@ -1,0 +1,410 @@
+[
+    {
+        "words": "acclaim",
+        "pronunciation": "/əˈklem/",
+        "meaning": "v.称赞 n.表扬，赞赏",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "accommodate",
+        "pronunciation": "/əˈkɑmədet/",
+        "meaning": "v.顺应，适应容纳提供住宿顾及迁就",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "accommodation",
+        "pronunciation": "/əˌkɑməˈdeʃən/",
+        "meaning": "n.住处，停留处区域和解膳宿",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "accompany",
+        "pronunciation": "/əˈkʌmpənɪ/",
+        "meaning": "v.陪同，陪伴伴随（尤指用钢琴）为……伴奏",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "accomplish",
+        "pronunciation": "/əˈkɑmplɪʃ/",
+        "meaning": "v.完成",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "account",
+        "pronunciation": "/əˈkaᴜnt/",
+        "meaning": "n.账户描述账目老主顾 v.认为是",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "accountant",
+        "pronunciation": "/əˈkaᴜntənt/",
+        "meaning": "n.会计",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "bias",
+        "pronunciation": "/ˈbaɪəs/",
+        "meaning": "v.使有偏见 n.偏见，偏袒偏好，倾向斜裁",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "bid",
+        "pronunciation": "/bɪd/",
+        "meaning": "n.努力，争取投标出价叫牌 v.投标出价争取叫牌打招呼请求",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "bill",
+        "pronunciation": "/bɪl/",
+        "meaning": "n.议案账单鸟嘴海报钞票，纸币（美） v.给……开账单安排演出宣传",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "billion",
+        "pronunciation": "/ˈbɪljən/",
+        "meaning": "num.十亿 n.十亿",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "birth",
+        "pronunciation": "/bɝθ/",
+        "meaning": "n.出生，诞生起源出身",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "charge",
+        "pronunciation": "/tʃɑrdʒ/",
+        "meaning": "v.要价，收费指责记在账上控告充电 n.主管，掌管指控收费指责电量",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "charm",
+        "pronunciation": "/tʃɑrm/",
+        "meaning": "n.魅力吉祥小饰物咒语 v.吸引",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "chase",
+        "pronunciation": "/tʃes/",
+        "meaning": "v.追赶追求撵走急奔 n.追逐",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "demand",
+        "pronunciation": "/dɪˈmænd/",
+        "meaning": "n.需求所需事物要求需求量 v.需要强烈要求查问",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "democracy",
+        "pronunciation": "/dɪˈmɑkrəsɪ/",
+        "meaning": "n.民主，民主制度民主国家",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "democratic",
+        "pronunciation": "/ˌdɛməˈkrætɪk/",
+        "meaning": "adj.民主的，民主制度的，民主精神的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "demographic",
+        "pronunciation": "/ˌdeməˈɡræfɪk/",
+        "meaning": "adj.人口学的，人口统计的人口的 n.人口统计数据特定年龄段的人口",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "demonstrate",
+        "pronunciation": "/ˈdɛmənˌstret/",
+        "meaning": "v.说明，证明表现，表达示威演示",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "denote",
+        "pronunciation": "/dɪˈnot/",
+        "meaning": "v.表示，意指标志，预示",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "denial",
+        "pronunciation": "/dɪˈnaɪəl/",
+        "meaning": "n.否认拒绝给予拒绝相信",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "deny",
+        "pronunciation": "/dɪˈnaɪ/",
+        "meaning": "v.拒绝否认，否定不承认与……有关系",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "department",
+        "pronunciation": "/dɪˈpɑrtmənt/",
+        "meaning": "n.部，司，科系，所，货品区",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "depend",
+        "pronunciation": "/dɪˈpɛnd/",
+        "meaning": "v.取决于依靠，信赖看情况",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "dependent",
+        "pronunciation": "/dɪˈpɛndənt/",
+        "meaning": "adj.依赖的取决于成瘾的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "deposit",
+        "pronunciation": "/dɪˈpɑzɪt/",
+        "meaning": "n.订金押金存款沉积物 v.放下寄存存储使沉积",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "depress",
+        "pronunciation": "/dɪˈprɛs/",
+        "meaning": "v.使沮丧，使意志消沉降低使萧条按下",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "emerge",
+        "pronunciation": "/iˈmɝdʒ/",
+        "meaning": "v.显露，显现出现，浮现从……中摆脱出来暴露",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "emergency",
+        "pronunciation": "/iˈmɚdʒənsɪ/",
+        "meaning": "n.紧急事件",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "eminent",
+        "pronunciation": "/ˈɛmənənt/",
+        "meaning": "adj.显赫的，卓越的，著名的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "emotion",
+        "pronunciation": "/ɪˈmoʃn/",
+        "meaning": "n.情感，情绪",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "fear",
+        "pronunciation": "/fɪɚ/",
+        "meaning": "n.害怕，惧怕担心（坏事发生的）可能性 v.担心害怕，惧怕恐怕",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "fearful",
+        "pronunciation": "/ˈfɪrfl/",
+        "meaning": "adj.恐惧的，害怕的极坏的可怕的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "feature",
+        "pronunciation": "/ˈfitʃɚ/",
+        "meaning": "n.专题节目特色特点面容特稿故事片地貌 v.以……为特色由……主演",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "federal",
+        "pronunciation": "/ˈfɛdərəl/",
+        "meaning": "adj.联邦（制）的联邦政府的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "federation",
+        "pronunciation": "/ˌfɛdəˈreʃən/",
+        "meaning": "n.同盟，联合会联邦制国家结盟",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "feed",
+        "pronunciation": "/fid/",
+        "meaning": "v.养活喂，为……提供食物进食输送将……放入施肥提供 n.一餐饲料进料器",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "feedback",
+        "pronunciation": "/ˈfidˌbæk/",
+        "meaning": "n.反馈意见",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "feeling",
+        "pronunciation": "/ˈfilɪŋ/",
+        "meaning": "n.感觉，感触感情，情绪态度气氛想法，看法",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "fertile",
+        "pronunciation": "/ˈfɝtəl/",
+        "meaning": "adj.肥沃的可繁殖的富有创意的促进的丰富的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "goal",
+        "pronunciation": "/gol/",
+        "meaning": "n.目标球门射门",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "goods",
+        "pronunciation": "/gᴜdz/",
+        "meaning": "n.商品，货品私人财产，动产",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "govern",
+        "pronunciation": "/ˈgʌvɚn/",
+        "meaning": "v.统治，治理支配，影响",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "government",
+        "pronunciation": "/ˈgʌvɚnmənt/",
+        "meaning": "n.内阁治理政府政体",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "governor",
+        "pronunciation": "/ˈgʌvɚnɚ/",
+        "meaning": "n.统治者，州长，总督董事，理事主管，总裁",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "gradual",
+        "pronunciation": "/ˈɡrædʒuəl/",
+        "meaning": "adj.逐渐的，渐进的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "graduate",
+        "pronunciation": "/ˈɡrædʒᴜet/",
+        "meaning": "n.毕业生大学毕业生 v.获得学位晋升毕业授予学位",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "grand",
+        "pronunciation": "/ɡrænd/",
+        "meaning": "adj.大，宏大的壮丽的，堂皇的自视高贵的总计的 n.一千大钢琴",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "grant",
+        "pronunciation": "/grænt/",
+        "meaning": "v.准许承认 n.拨款",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "heap",
+        "pronunciation": "/hip/",
+        "meaning": "n.一堆大量 v.堆放极力赞扬或批评",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "heal",
+        "pronunciation": "/hil/",
+        "meaning": "v.愈合，治愈使和好",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "health",
+        "pronunciation": "/hɛlθ/",
+        "meaning": "n.人的身体（或精神）状态健康运行状况 v.医疗，卫生",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "healthy",
+        "pronunciation": "/ˈhɛlθɪ/",
+        "meaning": "adj.健康的合理的兴旺的大量的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "hesitate",
+        "pronunciation": "/ˈhɛzətet/",
+        "meaning": "v.犹豫，顾虑",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "highlight",
+        "pronunciation": "/ˈhaɪˌlaɪt/",
+        "meaning": "v.使突出，强调标出 n.挑染的头发最精彩的部分",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "highly",
+        "pronunciation": "/ˈhaɪlɪ/",
+        "meaning": "adv.很，非常高标准地地位高",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "immediate",
+        "pronunciation": "/ɪˈmidɪət/",
+        "meaning": "adj.急迫的紧接的，直接的立即的，即时的直系的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "immense",
+        "pronunciation": "/ɪˈmɛns/",
+        "meaning": "adj.巨大的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "immerse",
+        "pronunciation": "/ɪˈmɝs/",
+        "meaning": "v.使沉浸于，埋头做",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "immigrant",
+        "pronunciation": "/ˈɪmɪɡrənt/",
+        "meaning": "n.移民",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "imminent",
+        "pronunciation": "/ˈɪmɪnənt/",
+        "meaning": "adj.临近的，即将发生的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "immune",
+        "pronunciation": "/ɪˈmjun/",
+        "meaning": "adj.免疫的，有免疫力的不受影响的豁免的",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "likely",
+        "pronunciation": "/ˈlaɪklɪ/",
+        "meaning": "adj.可能的合适的，恰当的 adv.可能地",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "likelihood",
+        "pronunciation": "/ˈlaɪkliˌhᴜd/",
+        "meaning": "n.可能，可能性可能的事",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "likewise",
+        "pronunciation": "/ˈlaɪkˌwaɪz/",
+        "meaning": "adv.也同样地，相似地",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "self",
+        "pronunciation": "/sɛlf/",
+        "meaning": "n.自身，本我个性私利",
+        "unit": "必考词 Unit 14"
+    },
+    {
+        "words": "selfish",
+        "pronunciation": "/ˈsɛlfɪʃ/",
+        "meaning": "adj.自私的",
+        "unit": "必考词 Unit 14"
+    }
+]

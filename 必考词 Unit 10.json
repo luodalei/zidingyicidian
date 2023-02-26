@@ -1,0 +1,434 @@
+[
+    {
+        "words": "perform",
+        "pronunciation": "/pɚˈfɔrm/",
+        "meaning": "v.执行运转表演",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "performance",
+        "pronunciation": "/pɚˈfɔrməns/",
+        "meaning": "n.性能表现表演，演出执行演技",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "period",
+        "pronunciation": "/ˈpɪrɪəd/",
+        "meaning": "n.阶段一段时间，时期月经句号",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "periodical",
+        "pronunciation": "/ˌpɪrɪˈɑdɪkl/",
+        "meaning": "n.期刊 adj.间发性的，定期的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "perish",
+        "pronunciation": "/ˈpɛrɪʃ/",
+        "meaning": "v.死亡消亡老化",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "perpetual",
+        "pronunciation": "/pɚˈpetʃuəl/",
+        "meaning": "adj.无休止的永恒的，长久的不间断的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "perplex",
+        "pronunciation": "/pəˈplɛks/",
+        "meaning": "v.使困惑，使担心使复杂化",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "perspective",
+        "pronunciation": "/pɚˈspɛktɪv/",
+        "meaning": "n.（思考问题的）角度，观点透视画法客观判断力",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "pessimistic",
+        "pronunciation": "/ˌpesɪˈmɪstɪk/",
+        "meaning": "adj.悲观的，悲观主义的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "optimistic",
+        "pronunciation": "/ˌɑptɪˈmɪstɪk/",
+        "meaning": "adj.乐观的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "optimum",
+        "pronunciation": "/ˈɑptɪməm/",
+        "meaning": "adj.最优的，最佳的 n.最佳效果，最好的条件",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "option",
+        "pronunciation": "/ˈɑpʃn/",
+        "meaning": "n.选择，选择权期权选修课选项",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "optional",
+        "pronunciation": "/ˈɑpʃənl/",
+        "meaning": "adj.可选择的，非强制的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "organ",
+        "pronunciation": "/ˈɔrgən/",
+        "meaning": "n.（人或动植物的）器官管风琴机关",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "organic",
+        "pronunciation": "/ɔrˈgænɪk/",
+        "meaning": "adj.有机的，不施用化肥的有机物的器官的有机统一的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "organism",
+        "pronunciation": "/ˈɔrgənɪzəm/",
+        "meaning": "n.生物，有机体",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "organization",
+        "pronunciation": "/ˌɔrgənəˈzeʃn/",
+        "meaning": "n.组织，团体，机构筹划配置",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "organize",
+        "pronunciation": "/ˈɔrgənaɪz/",
+        "meaning": "v.组织，筹备安排，处理建立",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "enhance",
+        "pronunciation": "/ɪnˈhæns/",
+        "meaning": "v.提高，增强，增进",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "enlarge",
+        "pronunciation": "/ɪnˈlɑrdʒ/",
+        "meaning": "v.（使）增大，扩大放大",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "enlighten",
+        "pronunciation": "/ɪnˈlaɪtn/",
+        "meaning": "v.启迪，指导，教导",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "rake",
+        "pronunciation": "/rek/",
+        "meaning": "n.耙子斜度，倾角 v.耙，耙平搜寻，搜索",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "rare",
+        "pronunciation": "/rɛɚ/",
+        "meaning": "adj.罕见的，稀有的珍贵的（肉）半熟的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "rarely",
+        "pronunciation": "/rɛrlɪ/",
+        "meaning": "adv.罕有，很少，不常",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "rate",
+        "pronunciation": "/ret/",
+        "meaning": "n.（比）率速度价格，费用 v.评估看好划分等级值得",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "ratio",
+        "pronunciation": "/ˈreʃio/",
+        "meaning": "n.比例，比率",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "rational",
+        "pronunciation": "/ˈræʃənəl/",
+        "meaning": "adj.合理的，基于理性的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "reach",
+        "pronunciation": "/ritʃ/",
+        "meaning": "v.达到到达，抵达联络及到够得着 n.所及的限度可及范围臂展",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "react",
+        "pronunciation": "/riˈækt/",
+        "meaning": "v.反应反抗发生反应有不良反应",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "realistic",
+        "pronunciation": "/ˌriəˈlɪstɪk/",
+        "meaning": "adj.现实的务实的逼真的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "reality",
+        "pronunciation": "/rɪˈælɪtɪ/",
+        "meaning": "n.现实，实际情况事实",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "realize",
+        "pronunciation": "/ˈriəˌlaɪz/",
+        "meaning": "v.认识到理解，领会实现变现",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "select",
+        "pronunciation": "/sɪˈlɛkt/",
+        "meaning": "v.选择，挑选选取 adj.精选的，最优的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "selection",
+        "pronunciation": "/sɪˈlɛkʃən/",
+        "meaning": "n.选择挑选出来的人或物可供挑选的商品",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "sense",
+        "pronunciation": "/sɛns/",
+        "meaning": "n.感觉，意识意义感觉官能理解力理智见识 v.感觉到，意识到",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "sensation",
+        "pronunciation": "/sɛnˈseʃən/",
+        "meaning": "n.感觉，知觉感觉能力直觉轰动",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "sensible",
+        "pronunciation": "/ˈsɛnsəbəl/",
+        "meaning": "adj.明智的，理智的意识到的朴素实用的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "sensitive",
+        "pronunciation": "/ˈsɛnsɪtɪv/",
+        "meaning": "adj.敏感的善解人意的机密的灵敏的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "separate",
+        "pronunciation": "/ˈsɛprɪt/",
+        "meaning": "adj.单独的，分离的不同的不同的，不相关的 v.分开，分离划分分居",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "sequence",
+        "pronunciation": "/ˈsikwəns/",
+        "meaning": "n.排序，一系列顺序一组镜头 v.测定序列按顺序排列",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "serial",
+        "pronunciation": "/ˈsɪriəl/",
+        "meaning": "adj.连续的，连环的顺序排列的 n.连续剧，连载故事连载小说",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "series",
+        "pronunciation": "/ˈsɪriz/",
+        "meaning": "n.一系列系列比赛系列节目",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "serious",
+        "pronunciation": "/ˈsɪriəs/",
+        "meaning": "adj.严重的严肃的认真的重要的真心相爱的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "toast",
+        "pronunciation": "/tost/",
+        "meaning": "v.烘烤为……祝酒 n.烤面包片干杯",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "together",
+        "pronunciation": "/təˈɡɛðɚ/",
+        "meaning": "adv.一起同时总计关系密切 adj.沉稳的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "token",
+        "pronunciation": "/ˈtokən/",
+        "meaning": "n.礼券象征，标志 adj.象征性的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "tolerance",
+        "pronunciation": "/ˈtɑlərəns/",
+        "meaning": "n.宽容，容忍忍耐力耐受性",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "tolerant",
+        "pronunciation": "/ˈtɑlərənt/",
+        "meaning": "adj.容忍的，能耐……的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "tolerate",
+        "pronunciation": "/ˈtɑləret/",
+        "meaning": "v.容许忍受，包容",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "accumulate",
+        "pronunciation": "/əˈkjumjulet/",
+        "meaning": "v.积累，积聚",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "accuracy",
+        "pronunciation": "/ˈækjərəsɪ/",
+        "meaning": "n.准确性，精确度，正确准确无误",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "accurate",
+        "pronunciation": "/ˈækjᴜrət/",
+        "meaning": "adj.准确的正确无误的确切的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "accuse",
+        "pronunciation": "/əˈkjuz/",
+        "meaning": "v.谴责控告，控诉",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "achieve",
+        "pronunciation": "/əˈtʃiv/",
+        "meaning": "v.达到，完成，成功",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "acknowledge",
+        "pronunciation": "/əkˈnɑlɪdʒ/",
+        "meaning": "v.承认认可确认收悉致意感谢",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "cheer",
+        "pronunciation": "/tʃɪɚ/",
+        "meaning": "v.欢呼鼓舞",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "chemical",
+        "pronunciation": "/ˈkɛmɪkəl/",
+        "meaning": "n.化学品 adj.与化学有关的，化学的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "cherish",
+        "pronunciation": "/ˈtʃɛrɪʃ/",
+        "meaning": "v.重视，珍爱怀有",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "chip",
+        "pronunciation": "/tʃɪp/",
+        "meaning": "n.芯片炸土豆条，炸薯条缺口，豁口筹码碎片 v.打破，弄掉",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "choice",
+        "pronunciation": "/tʃɔɪs/",
+        "meaning": "n.选择，挑选选择范围选择权 adj.优选的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "choose",
+        "pronunciation": "/tʃuz/",
+        "meaning": "v.选择",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "board",
+        "pronunciation": "/bɔrd/",
+        "meaning": "n.理事会，委员会木板硬板伙食布告牌 v.登上交通工具寄宿",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "boast",
+        "pronunciation": "/bost/",
+        "meaning": "v.吹嘘炫耀自豪地拥有 n.夸耀，自夸",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "bonus",
+        "pronunciation": "/ˈbonəs/",
+        "meaning": "n.红利奖金意外收获福利",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "boom",
+        "pronunciation": "/bum/",
+        "meaning": "n.迅速发展，繁荣隆隆声繁荣期帆桁话筒吊杆 v.发隆隆声迅速发展，繁荣",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "boost",
+        "pronunciation": "/bust/",
+        "meaning": "n.增长，提高向上一推激励 v.使增长，使兴旺推，托增强",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "verbal",
+        "pronunciation": "/ˈvɚbl/",
+        "meaning": "adj.文字的口头的动词的",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "verdict",
+        "pronunciation": "/ˈvɝdɪkt/",
+        "meaning": "n.裁决，裁定意见，结论",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "verify",
+        "pronunciation": "/ˈvɛrəˌfaɪ/",
+        "meaning": "v.核实证实",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "verse",
+        "pronunciation": "/vɝs/",
+        "meaning": "n.诗，韵文节诗节",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "version",
+        "pronunciation": "/ˈvɚʒn/",
+        "meaning": "n.版本说法",
+        "unit": "必考词 Unit 10"
+    },
+    {
+        "words": "vessel",
+        "pronunciation": "/ˈvɛsəl/",
+        "meaning": "n.血管船，舰容器",
+        "unit": "必考词 Unit 10"
+    }
+]

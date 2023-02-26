@@ -1,0 +1,386 @@
+[
+    {
+        "words": "mediate",
+        "pronunciation": "/ˈmidiˌet/",
+        "meaning": "v.调解，调停，斡旋",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "meditation",
+        "pronunciation": "/ˌmɛdɪˈteʃən/",
+        "meaning": "n.冥想沉思",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "medium",
+        "pronunciation": "/ˈmidiəm/",
+        "meaning": "n.媒介巫师，灵媒介质，培养基手段，方法 adj.中等的，中号的中间的，平均的不深不浅的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "elaborate",
+        "pronunciation": "/ɪˈlæbəret/",
+        "meaning": "adj.复杂的，精心制作的 v.详细说明",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "elegant",
+        "pronunciation": "/ˈɛlɪɡənt/",
+        "meaning": "adj.精美的，讲究的优雅的简练的文雅的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "element",
+        "pronunciation": "/ˈɛləmənt/",
+        "meaning": "n.要素，基本部分成分一群元素元件",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "elementary",
+        "pronunciation": "/ˌɛləˈmɛntərɪ/",
+        "meaning": "adj.简单的，基本的 n.小学",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "eliminate",
+        "pronunciation": "/ɪˈlɪmɪnet/",
+        "meaning": "v.消除，根除消灭淘汰（生理）排泄",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "abolish",
+        "pronunciation": "/əˈbɑlɪʃ/",
+        "meaning": "v.废除，废止",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "absence",
+        "pronunciation": "/ˈæbsəns/",
+        "meaning": "n.不存在，缺乏缺席",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "absent",
+        "pronunciation": "/ˈæbsənt/",
+        "meaning": "adj.缺席，不在走神的，心不在焉的 prep.缺乏，没有",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "abroad",
+        "pronunciation": "/əˈbrɔd/",
+        "meaning": "adv.在国外，到国外在室外广泛地",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "absolute",
+        "pronunciation": "/ˈæbsəlut/",
+        "meaning": "adj.完全的，绝对的，肯定的十足的不受限制的 n.绝对真理",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "absorb",
+        "pronunciation": "/əbˈzɔrb/",
+        "meaning": "v.吸收理解吸引全部注意力使并入",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "abstract",
+        "pronunciation": "/ˈæbstrækt/",
+        "meaning": "adj.抽象的空洞的抽象派的纯理论的理性的 n.抽象艺术作品摘要",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "ban",
+        "pronunciation": "/bæn/",
+        "meaning": "v.明令禁止，取缔禁止做 n.禁令",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "bar",
+        "pronunciation": "/bɑr/",
+        "meaning": "n.律师职业酒吧吧台障碍横梁小节条纹小吃店，小馆子条，棒 v.闩上阻挡禁止 prep.除……外",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "bare",
+        "pronunciation": "/bɛr/",
+        "meaning": "adj.仅够的，最基本的赤裸的无装饰的光秃秃的空的 v.使暴露，露出",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "barely",
+        "pronunciation": "/ˈbɛrlɪ/",
+        "meaning": "adv.几乎不勉强才能，刚刚刚才",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "bargain",
+        "pronunciation": "/ˈbɑrɡən/",
+        "meaning": "n.廉价好物交易，协议 v.讨价还价",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "capable",
+        "pronunciation": "/ˈkepəbəl/",
+        "meaning": "adj.有能力的，有才能的胜任的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "capacity",
+        "pronunciation": "/kəˈpæsɪtɪ/",
+        "meaning": "n.能力生产能力容量职位，工作",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "capital",
+        "pronunciation": "/ˈkæpɪtl/",
+        "meaning": "n.资本，资金首都本金中心大写字母柱顶 adj.死罪的大写的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "captive",
+        "pronunciation": "/ˈkæptɪv/",
+        "meaning": "adj.垄断的，没有选择权的被监禁的人身自由受限制的 n.俘虏，囚犯",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "capture",
+        "pronunciation": "/ˈkæptʃɚ/",
+        "meaning": "v.描述吸引夺取攻占俘虏采集记录，捕捉 n.捕获，占领",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "career",
+        "pronunciation": "/kəˈrɪɚ/",
+        "meaning": "n.事业，职业 v.猛冲，疾驶",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "careful",
+        "pronunciation": "/ˈkɛɚfl/",
+        "meaning": "adj.细致的，精心的，慎重的小心的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "case",
+        "pronunciation": "/kes/",
+        "meaning": "n.事例案件病例，病案情况，实情案例论据，辩词盒，箱",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "cast",
+        "pronunciation": "/kæst/",
+        "meaning": "n.铸型全体演员石膏夹 v.向……投以铸造投射投掷选派角色",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "casual",
+        "pronunciation": "/ˈkæʒuəl/",
+        "meaning": "adj.随便的，漫不经心的碰巧的休闲的临时的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "casualty",
+        "pronunciation": "/ˈkæʒuəltɪ/",
+        "meaning": "n.受害者伤亡人员毁坏物急诊室",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "catch",
+        "pronunciation": "/kætʃ/",
+        "meaning": "v.抓住察觉及时赶上截住，拦住卡住患病 n.接球",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "category",
+        "pronunciation": "/ˈkætəɡɔrɪ/",
+        "meaning": "n.类别，种类",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "cater",
+        "pronunciation": "/ˈketɚ/",
+        "meaning": "v.满足需要为……提供饮食为……提供服务",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "cause",
+        "pronunciation": "/kɔz/",
+        "meaning": "v.造成，引起 n.原因事业",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "caution",
+        "pronunciation": "/ˈkɔʃən/",
+        "meaning": "n.谨慎，慎重口头警告告诫，提醒 v.提醒，告诫警告",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "cautious",
+        "pronunciation": "/ˈkɔʃəs/",
+        "meaning": "adj.谨慎的，慎重的斟酌过的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "cease",
+        "pronunciation": "/sis/",
+        "meaning": "v.（使）停止，终止",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "celebrate",
+        "pronunciation": "/ˈsɛləˌbret/",
+        "meaning": "v.赞美庆祝主持宗教活动",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "celebrity",
+        "pronunciation": "/səˈlɛbrətɪ/",
+        "meaning": "n.名人，名流名望，名誉",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "ceremony",
+        "pronunciation": "/ˈsɛrəmonɪ/",
+        "meaning": "n.典礼，仪式礼节",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "certain",
+        "pronunciation": "/ˈsɚtn/",
+        "meaning": "adj.某种，某事，某人肯定的，确定的一定程度上的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "certainty",
+        "pronunciation": "/ˈsɚtntɪ/",
+        "meaning": "n.确定，有把握确定的事情，必然的事情",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "certificate",
+        "pronunciation": "/sɚˈtɪfɪkət/",
+        "meaning": "n.证明合格证书 v.给……发证书",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "certify",
+        "pronunciation": "/ˈsɝtɪfaɪ/",
+        "meaning": "v.证明，证实颁发合格证书证明患有精神病",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "decline",
+        "pronunciation": "/dɪˈklaɪn/",
+        "meaning": "v.减少，下降衰落谢绝 n.减少，下降衰落",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "decrease",
+        "pronunciation": "/dɪˈkris/",
+        "meaning": "n.减少，降低，减少量 v.使……变小，减少",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "decree",
+        "pronunciation": "/dɪˈkri/",
+        "meaning": "n.法令，政令判决，裁定 v.命令，颁布，判决",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "deem",
+        "pronunciation": "/dim/",
+        "meaning": "v.认为，相信",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "dedicate",
+        "pronunciation": "/ˈdɛdɪket/",
+        "meaning": "v.把……奉献给",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "deduce",
+        "pronunciation": "/dɪˈdus/",
+        "meaning": "v.推论，推断",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "deduct",
+        "pronunciation": "/dɪˈdʌkt/",
+        "meaning": "v.扣除，减去",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "fashion",
+        "pronunciation": "/ˈfæʃən/",
+        "meaning": "n.时装时尚方式时装业流行式样 v.制作",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "fashionable",
+        "pronunciation": "/ˈfæʃənəbəl/",
+        "meaning": "adj.流行的，时髦的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "favor",
+        "pronunciation": "/ˈfevɚ/",
+        "meaning": "v.较喜欢，选择偏向外貌像有利于 n.恩惠，帮助好事赞同特别照顾",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "favorable",
+        "pronunciation": "/ˈfevərəbl/",
+        "meaning": "adj.有利的，适宜的赞成的讨人喜欢的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "favorite",
+        "pronunciation": "/ˈfevərɪt/",
+        "meaning": "adj.特别喜爱的 n.受宠者可望取胜者最喜欢的人或事",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "sit",
+        "pronunciation": "/sɪt/",
+        "meaning": "v.任职，担任应试坐使坐下开会，开庭位于",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "site",
+        "pronunciation": "/saɪt/",
+        "meaning": "n.地点，位置建筑工地网址场地现场 v.给……选址",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "situate",
+        "pronunciation": "/ˈsɪtʃuˌet/",
+        "meaning": "v.将……置于，使位于",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "situation",
+        "pronunciation": "/ˌsɪtʃuˈeʃən/",
+        "meaning": "n.情况，状况位置，环境工作",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "skeleton",
+        "pronunciation": "/ˈskɛlɪtn/",
+        "meaning": "n.骨骼，骨架轮廓，梗概骨骼标本",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "skeptical",
+        "pronunciation": "/ˈskɛptɪkəl/",
+        "meaning": "adj.怀疑的",
+        "unit": "必考词 Unit 16"
+    },
+    {
+        "words": "sketch",
+        "pronunciation": "/skɛtʃ/",
+        "meaning": "n.简述速写幽默短剧 v.概述画素描",
+        "unit": "必考词 Unit 16"
+    }
+]

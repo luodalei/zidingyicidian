@@ -1,0 +1,458 @@
+[
+    {
+        "words": "shadow",
+        "pronunciation": "/ˈʃædo/",
+        "meaning": "n.阴影，影子少许黑眼圈坏影响背光处 adj.影子内阁的 v.投下阴影跟踪跟随见习使不快乐",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "shade",
+        "pronunciation": "/ʃed/",
+        "meaning": "n.阴影部分树阴，阴凉处浓淡，色度罩帘 v.给……遮挡（光线）加灯罩把……涂暗",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "sort",
+        "pronunciation": "/sɔrt/",
+        "meaning": "n.种类，类别，品种某种人 v.安排妥当整理，把……分类",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "soul",
+        "pronunciation": "/sol/",
+        "meaning": "n.灵魂心性情操人灵乐",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "sound",
+        "pronunciation": "/saᴜnd/",
+        "meaning": "v.听起来好像发声发表 n.声音 adj.合理的全面的完好的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "sour",
+        "pronunciation": "/saᴜr/",
+        "meaning": "adj.酸的馊的不友好的脾气坏的 v.（使）酸腐（使）变坏，（使）恶化",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "source",
+        "pronunciation": "/sɔrs/",
+        "meaning": "n.来源，出处，起源，源头消息来源 v.从……获取",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advance",
+        "pronunciation": "/ədˈvæns/",
+        "meaning": "n.发展，前进预付款 v.发展，进步前进，推进预付提前上涨，增加 adj.预先的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advanced",
+        "pronunciation": "/ədˈvænst/",
+        "meaning": "adj.高级的，高等的先进的发达的晚期的 v.前进，促进（advance的过去式和过去分词）",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advantage",
+        "pronunciation": "/ədˈvæntɪdʒ/",
+        "meaning": "n.优点有利条件优势",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advice",
+        "pronunciation": "/ədˈvaɪs/",
+        "meaning": "n.建议",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advise",
+        "pronunciation": "/ədˈvaɪz/",
+        "meaning": "v.劝告，建议通知",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advisable",
+        "pronunciation": "/ædˈvaɪzəbəl/",
+        "meaning": "adj.可取的，明智的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "advocate",
+        "pronunciation": "/ˈædvəˌket/",
+        "meaning": "v.提倡，支持，拥护 n.提倡者，支持者，拥护者辩护律师",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "esthetic",
+        "pronunciation": "/ɛsˈθɛtɪk/",
+        "meaning": "adj.美学的，审美的 n.审美观",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "affair",
+        "pronunciation": "/əˈfɛr/",
+        "meaning": "n.公共事务事件某类东西私事事务私通，风流韵事关系",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "affect",
+        "pronunciation": "/əˈfɛkt/",
+        "meaning": "v.影响假装（疾病）侵袭深深打动",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "affection",
+        "pronunciation": "/əˈfɛkʃən/",
+        "meaning": "n.喜爱，钟爱爱慕之情感情",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "affiliate",
+        "pronunciation": "/əˈfɪliˌet/",
+        "meaning": "v.使隶属于 n.附属机构，分会",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "affirm",
+        "pronunciation": "/əˈfɚm/",
+        "meaning": "v.断言，肯定公开声明",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "afford",
+        "pronunciation": "/əˈfɔrd/",
+        "meaning": "v.提供买得起有时间做承担得起（后果）",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "breach",
+        "pronunciation": "/britʃ/",
+        "meaning": "v.违反给……造成缺口攻破 n.违背，违反破坏，辜负突破口，缺口中断关系，终止",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "break",
+        "pronunciation": "/brek/",
+        "meaning": "v.（使）破，裂，碎，损坏违反骨折暂停终止破译，破解 n.课间休息短假破裂，骨折改变，终止间歇机遇",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "breakdown",
+        "pronunciation": "/ˈbrekˌdaᴜn/",
+        "meaning": "n.破裂，故障精神崩溃分类，细目列表",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "breed",
+        "pronunciation": "/brid/",
+        "meaning": "n.品种类型，种类 v.繁殖饲养招致，导致培养",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "brevity",
+        "pronunciation": "/ˈbrɛvɪtɪ/",
+        "meaning": "n.简洁短暂",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "coincide",
+        "pronunciation": "/ˌkoɪnˈsaɪd/",
+        "meaning": "v.同时发生一致，相符相交，重叠",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "collapse",
+        "pronunciation": "/kəˈlæps/",
+        "meaning": "v.瓦解（突然）倒塌（因病等）昏倒 n.坍塌，崩溃昏倒",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "colleague",
+        "pronunciation": "/ˈkɑlig/",
+        "meaning": "n.同事，同僚",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "collect",
+        "pronunciation": "/kəˈlɛkt/",
+        "meaning": "v.收款，收账采集收集领取（使）聚集募捐，募集 adj.对方付费的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "collection",
+        "pronunciation": "/kəˈlɛkʃən/",
+        "meaning": "n.收藏品，收集物系列时装一批物品，一群人募捐作品集",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "collective",
+        "pronunciation": "/kəˈlɛktɪv/",
+        "meaning": "adj.集体的，共同的集合的 n.集体集团",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "collide",
+        "pronunciation": "/kəˈlaɪd/",
+        "meaning": "v.碰撞，撞上冲突，抵触",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "column",
+        "pronunciation": "/ˈkɑləm/",
+        "meaning": "n.专栏柱（形物）纵列栏",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "combat",
+        "pronunciation": "/ˈkɑmbæt/",
+        "meaning": "v.防止，抑制与…作斗争 n.战斗斗争",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "combine",
+        "pronunciation": "/kəmˈbaɪn/",
+        "meaning": "v.（使）结合，混合兼备兼做联合 n.联盟，联合体联合收割机",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "command",
+        "pronunciation": "/kəˈmænd/",
+        "meaning": "v.统率，控制，掌管命令博得呈现 n.指挥部掌握控制命令，指令",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "commend",
+        "pronunciation": "/kəˈmɛnd/",
+        "meaning": "v.赞扬推荐，举荐把……托付给",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "comment",
+        "pronunciation": "/ˈkɑmɛnt/",
+        "meaning": "n.评论批评，指责 v.发表评论",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "commerce",
+        "pronunciation": "/ˈkɑmɝs/",
+        "meaning": "n.商务，商业，贸易",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "commercial",
+        "pronunciation": "/kəˈmɚʃl/",
+        "meaning": "adj.贸易的，商业的商业化的以获利为目的的 n.商业广告",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "commission",
+        "pronunciation": "/kəˈmɪʃən/",
+        "meaning": "n.委员会委托，请求佣金，回扣服务费，手续费犯罪 v.正式委托委任……为军官",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "commit",
+        "pronunciation": "/kəˈmɪt/",
+        "meaning": "v.犯，做承诺，保证自杀忠于，全心全意投入",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "committee",
+        "pronunciation": "/kəˈmɪtɪ/",
+        "meaning": "n.委员会",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "commodity",
+        "pronunciation": "/kəˈmɑdətɪ/",
+        "meaning": "n.商品，货物",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "common",
+        "pronunciation": "/ˈkɑmən/",
+        "meaning": "adj.共有的普通的，常见的粗俗的 n.公共用地",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "communicate",
+        "pronunciation": "/kəˈmjunɪˌket/",
+        "meaning": "v.交流，沟通传达传染相连",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "communication",
+        "pronunciation": "/kəˌmjunɪˈkeʃən/",
+        "meaning": "n.交流，沟通通讯信息信件",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "communism",
+        "pronunciation": "/ˈkɑmjuˌnɪzəm/",
+        "meaning": "n.共产主义",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "community",
+        "pronunciation": "/kəˈmjunɪtɪ/",
+        "meaning": "n.社区，社团团体社会群落",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "detect",
+        "pronunciation": "/dɪˈtɛkt/",
+        "meaning": "v.发现，查明探测，检测",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "deter",
+        "pronunciation": "/dɪˈtə/",
+        "meaning": "v.威慑，吓住，阻止，制止",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "deteriorate",
+        "pronunciation": "/dɪˈtɪrɪəret/",
+        "meaning": "v.恶化，变坏",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "determine",
+        "pronunciation": "/dɪˈtɝmɪn/",
+        "meaning": "v.确定，决定查明是……的决定因素",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "develop",
+        "pronunciation": "/dɪˈvɛləp/",
+        "meaning": "v.开发发展，壮大出现发育，生长养成，获得患病",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "device",
+        "pronunciation": "/dɪˈvaɪs/",
+        "meaning": "n.装置，仪器方法，技巧",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "devise",
+        "pronunciation": "/dɪˈvaɪz/",
+        "meaning": "v.设计，发明，想出",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "ensure",
+        "pronunciation": "/ɪnˈʃᴜə/",
+        "meaning": "v.保证，确保担保",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "entail",
+        "pronunciation": "/ɪnˈtel/",
+        "meaning": "v.使必要，牵涉",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "indeed",
+        "pronunciation": "/ɪnˈdid/",
+        "meaning": "adv.当然，确实其实真正地，实际上甚至 int.表惊讶，不相信",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "independence",
+        "pronunciation": "/ˌɪndɪˈpɛndəns/",
+        "meaning": "n.独立",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "independent",
+        "pronunciation": "/ˌɪndɪˈpɛndənt/",
+        "meaning": "adj.独立的，自主的私立的公正的不相关的 n.无党派人士",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "index",
+        "pronunciation": "/ˈɪnˌdɛks/",
+        "meaning": "n.指数索引指标 v.为……编索引使与……挂钩，使指数化",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "mere",
+        "pronunciation": "/mɪɚ/",
+        "meaning": "adj.仅仅，只不过 n.小湖",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "merely",
+        "pronunciation": "/ˈmɪrlɪ/",
+        "meaning": "adv.只是，仅仅，只不过",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "plausible",
+        "pronunciation": "/ˈplɑzəbəl/",
+        "meaning": "adj.貌似合理的花言巧语的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "plea",
+        "pronunciation": "/pli/",
+        "meaning": "n.恳求，请求申诉托辞",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "plead",
+        "pronunciation": "/plid/",
+        "meaning": "v.恳求申辩认罪陈述案情找借口",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "plot",
+        "pronunciation": "/plɑt/",
+        "meaning": "n.情节布局，阴谋一小块土地 v.图谋，密谋计划，制订绘制画出，标出设计情节",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "policy",
+        "pronunciation": "/ˈpɑləsɪ/",
+        "meaning": "n.政策，方针保险单原则",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "polite",
+        "pronunciation": "/pəˈlaɪt/",
+        "meaning": "adj.有礼貌的，客气的应酬的上流社会的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "political",
+        "pronunciation": "/pəˈlɪtɪkəl/",
+        "meaning": "adj.政治的从事政治的",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "politician",
+        "pronunciation": "/ˌpɑləˈtɪʃn/",
+        "meaning": "n.从政者，政治家政客，玩弄权术者",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "politics",
+        "pronunciation": "/ˈpɑlətɪks/",
+        "meaning": "n.政治政治学权术政治观点",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "poll",
+        "pronunciation": "/pol/",
+        "meaning": "n.民意测验，民意调查投票，投票数 v.对……进行民意调查获得票数",
+        "unit": "必考词 Unit 12"
+    },
+    {
+        "words": "ponder",
+        "pronunciation": "/ˈpɑndɚ/",
+        "meaning": "v.仔细考虑，深思",
+        "unit": "必考词 Unit 12"
+    }
+]

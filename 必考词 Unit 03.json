@@ -1,0 +1,476 @@
+[
+    {
+        "words": "holy",
+        "pronunciation": "/ˈholɪ/",
+        "meaning": "adj.神圣的虔诚的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "honor",
+        "pronunciation": "/ˈɑnɚ/",
+        "meaning": "v.向……表示敬意信守，执行给予表扬，尊敬 n.正义感，道义荣誉尊敬荣幸",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "honorable",
+        "pronunciation": "/ˈɑnərəbl/",
+        "meaning": "adj.可敬的，品格高尚的荣誉的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "horizon",
+        "pronunciation": "/həˈraɪzn/",
+        "meaning": "n.地平线眼界",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "horizontal",
+        "pronunciation": "/ˌhɔrəˈzɑntl/",
+        "meaning": "adj.水平的，横的 n.水平位置水平线，水平面",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "ingenious",
+        "pronunciation": "/ɪnˈdʒinjəs/",
+        "meaning": "adj.灵巧的，巧妙的，精巧的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "ingredient",
+        "pronunciation": "/ɪnˈgridiənt/",
+        "meaning": "n.成分，原料要素",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "initial",
+        "pronunciation": "/ɪˈnɪʃəl/",
+        "meaning": "adj.最初的，开始的，第一的 v.用首字母签名 n.首字母",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "initiate",
+        "pronunciation": "/ɪˈnɪʃiet/",
+        "meaning": "v.使了解开始，发起接纳",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "initiative",
+        "pronunciation": "/ɪˈnɪʃətɪv/",
+        "meaning": "n.倡议，新方案主动性主动权",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "local",
+        "pronunciation": "/ˈlokl/",
+        "meaning": "adj.当地的，本地的 n.本地人，当地居民",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "locality",
+        "pronunciation": "/loˈkælətɪ/",
+        "meaning": "n.地区",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "locate",
+        "pronunciation": "/ˈloket/",
+        "meaning": "v.找出……的准确位置位于设立",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "location",
+        "pronunciation": "/loˈkeʃn/",
+        "meaning": "n.地点，位置",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "neglect",
+        "pronunciation": "/nɪˈɡlɛkt/",
+        "meaning": "v.不重视疏忽，疏漏疏于照看 n.疏忽，忽视",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "negligible",
+        "pronunciation": "/ˈnɛɡlɪdʒəbəl/",
+        "meaning": "adj.微不足道的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "prescribe",
+        "pronunciation": "/prɪˈskraɪb/",
+        "meaning": "v.开药，开处方规定，指示",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "prescription",
+        "pronunciation": "/prɪˈskrɪpʃən/",
+        "meaning": "n.医生开的药，处方解决方案",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "presence",
+        "pronunciation": "/ˈprɛzəns/",
+        "meaning": "n.存在出席，到场风度，仪态幽灵驻军",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "present",
+        "pronunciation": "/ˈprɛznt/",
+        "meaning": "v.呈现提交导致出席主持引见颁发，授予 adj.现在的在场的现在时的存在于……的 n.现在礼物",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "presently",
+        "pronunciation": "/ˈprɛzəntlɪ/",
+        "meaning": "adv.目前，现在不久，随即",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "preserve",
+        "pronunciation": "/prɪˈzɝv/",
+        "meaning": "v.保护，维持保存 n.蜜饯专门领域保护区",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "preside",
+        "pronunciation": "/prɪˈzaɪd/",
+        "meaning": "v.负责，主持",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "press",
+        "pronunciation": "/prɛs/",
+        "meaning": "v.强加于，坚持按，压敦促挤，推录制熨烫 n.报刊，记者媒体出版社按压榨汁机熨烫机印刷机",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "pressure",
+        "pronunciation": "/ˈprɛʃɚ/",
+        "meaning": "n.压力要求气压，压强 v.强迫",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "prestige",
+        "pronunciation": "/presˈti:ʒ/",
+        "meaning": "n.威信，声望 adj.有威望的，有威信的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "presumably",
+        "pronunciation": "/prɪˈzuməblɪ/",
+        "meaning": "adv.大概，很可能",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "presume",
+        "pronunciation": "/prɪˈzum/",
+        "meaning": "v.假设，假定推测擅自主张",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "prevent",
+        "pronunciation": "/prɪˈvɛnt/",
+        "meaning": "v.阻止，阻挠防止，预防",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "previous",
+        "pronunciation": "/ˈpriviəs/",
+        "meaning": "adj.先前的，以往的上一次的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "prey",
+        "pronunciation": "/pre/",
+        "meaning": "v.捕食欺凌困扰 n.猎物受骗者",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "reliable",
+        "pronunciation": "/rɪˈlaɪəbəl/",
+        "meaning": "adj.可靠的，可信赖的可信的，确凿的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "reliance",
+        "pronunciation": "/rɪˈlaɪəns/",
+        "meaning": "n.依赖，依靠，信任",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "religion",
+        "pronunciation": "/rɪˈlɪdʒən/",
+        "meaning": "n.宗教，教派宗教痴迷的活动",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "religious",
+        "pronunciation": "/rɪˈlɪdʒəs/",
+        "meaning": "adj.宗教（信仰）的虔诚的笃信宗教的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "rely",
+        "pronunciation": "/rɪˈlaɪ/",
+        "meaning": "v.依赖，依靠，信赖",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "straight",
+        "pronunciation": "/stret/",
+        "meaning": "adv.直接笔直地坦率地清楚地 adj.直的坦诚的异性恋的纯的整洁的连续的，不间断的 n.异性恋者直道",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "straightforward",
+        "pronunciation": "/ˌstretˈfɔrwɚd/",
+        "meaning": "adj.坦率的简单的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "strain",
+        "pronunciation": "/stren/",
+        "meaning": "v.过多使用使紧张拉伤尽力过滤 n.压力张力类型旋律菌株系，品种拉伤",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "strategy",
+        "pronunciation": "/ˈstrætədʒɪ/",
+        "meaning": "n.战略策略，策划",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "strength",
+        "pronunciation": "/strɛŋθ/",
+        "meaning": "n.体力长处，力量强度实力人力毅力，决心",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "strengthen",
+        "pronunciation": "/ˈstrɛŋθən/",
+        "meaning": "v.加强，增强，巩固",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "strenuous",
+        "pronunciation": "/ˈstrɛnjuəs/",
+        "meaning": "adj.费力的，繁重的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "transaction",
+        "pronunciation": "/trænˈzækʃən/",
+        "meaning": "n.交易办理",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "transfer",
+        "pronunciation": "/ˈtrænsfɝ/",
+        "meaning": "n.转移调动转乘票转乘，换乘 v.转移转让调动",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "transform",
+        "pronunciation": "/trænsˈfɔrm/",
+        "meaning": "v.使改观，改变，转变使改变形态",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "transient",
+        "pronunciation": "/ˈtrænzɪənt/",
+        "meaning": "adj.短暂的，转瞬即逝的 n.暂住者，流动人口",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "translation",
+        "pronunciation": "/trænsˈleʃən/",
+        "meaning": "n.译文，翻译转变",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "architect",
+        "pronunciation": "/ˈɑrkɪtekt/",
+        "meaning": "n.建筑师设计者创立者",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "architecture",
+        "pronunciation": "/ˈɑrkɪtektʃɚ/",
+        "meaning": "n.建筑设计建筑风格建筑学结构，架构",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "archive",
+        "pronunciation": "/ˈɑrkaɪv/",
+        "meaning": "n.档案，案卷档案馆 v.把……归档 adj.档案的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "area",
+        "pronunciation": "/ˈɛrɪə/",
+        "meaning": "n.地域，地区领域，范围区面积",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "arena",
+        "pronunciation": "/əˈrinə/",
+        "meaning": "n.场地，竞技场斗争场所，竞争舞台",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "argue",
+        "pronunciation": "/ˈɑrgju/",
+        "meaning": "v.论证证明，表明争吵，争论主张",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "argument",
+        "pronunciation": "/ˈɑrgjumənt/",
+        "meaning": "n.理由，论据论点争吵，争论",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "arise",
+        "pronunciation": "/əˈraɪz/",
+        "meaning": "v.出现起床起身由……引起",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "arouse",
+        "pronunciation": "/əˈraᴜz/",
+        "meaning": "v.唤起，引起唤醒激起性欲",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "array",
+        "pronunciation": "/əˈre/",
+        "meaning": "n.一批，一大群数组，阵列陈列 v.布置，排列配置",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "visible",
+        "pronunciation": "/ˈvɪzəbəl/",
+        "meaning": "adj.看得见的，可见的显著的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "vision",
+        "pronunciation": "/ˈvɪʒən/",
+        "meaning": "n.想象幻觉远见佳人影像视力，视野",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "visual",
+        "pronunciation": "/ˈvɪʒuəl/",
+        "meaning": "adj.视觉的，视力的 n.视觉资料",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "vital",
+        "pronunciation": "/ˈvaɪtl/",
+        "meaning": "adj.极其重要的生命的充满生机的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "vivid",
+        "pronunciation": "/ˈvɪvɪd/",
+        "meaning": "adj.生动的鲜明的丰富的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "void",
+        "pronunciation": "/vɔɪd/",
+        "meaning": "n.空白，空虚感空间，空洞 adj.无用的，无效的缺乏的，没有的 v.使无效，取消排泄，排尿",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "volume",
+        "pronunciation": "/ˈvɑljum/",
+        "meaning": "n.卷，册量，额音量体积",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "consequence",
+        "pronunciation": "/ˈkɑnsəkwens/",
+        "meaning": "n.结果，后果",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "consequently",
+        "pronunciation": "/ˈkɑnsəkwentlɪ/",
+        "meaning": "adv.因此，结果",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "conservation",
+        "pronunciation": "/ˌkɑnsɚˈveʃn/",
+        "meaning": "n.保护，保持节约",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "conservative",
+        "pronunciation": "/kənˈsɝvətɪv/",
+        "meaning": "adj.守旧的保守党的低估的 n.保守党支持者保守者",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "consider",
+        "pronunciation": "/kənˈsɪdɚ/",
+        "meaning": "v.认为仔细考虑顾及注视",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "considerable",
+        "pronunciation": "/kənˈsɪdərəbəl/",
+        "meaning": "adj.相当多（或大、重要等）的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "considerate",
+        "pronunciation": "/kənˈsɪdərɪt/",
+        "meaning": "adj.替他人着想的体贴的，考虑周到的",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "consume",
+        "pronunciation": "/kənˈsum/",
+        "meaning": "v.消耗吃，喝，饮吞噬，毁灭耗费",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "consumption",
+        "pronunciation": "/kənˈsʌmpʃən/",
+        "meaning": "n.消费消耗，消耗量食用专用肺结核",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "dispute",
+        "pronunciation": "/dɪˈspjut/",
+        "meaning": "v.质疑争夺争论，辩论 n.争论，辩论争端，纠纷",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "dissolve",
+        "pronunciation": "/dɪˈzɑlv/",
+        "meaning": "v.（使）溶解解散消失解除消除",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "exchange",
+        "pronunciation": "/ɪksˈtʃendʒ/",
+        "meaning": "v.交流交换交易，兑换 n.交流交谈交易所交换",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "exclude",
+        "pronunciation": "/ɪkˈsklud/",
+        "meaning": "v.拒绝，阻止不包括排除",
+        "unit": "必考词 Unit 03"
+    },
+    {
+        "words": "exclusive",
+        "pronunciation": "/ɪkˈsklusɪv/",
+        "meaning": "adj.独有的，独享的不含……的高档的，昂贵的独家的排外的 n.独家报道",
+        "unit": "必考词 Unit 03"
+    }
+]

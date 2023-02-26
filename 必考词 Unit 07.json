@@ -1,0 +1,392 @@
+[
+    {
+        "words": "pose",
+        "pronunciation": "/poz/",
+        "meaning": "v.提问造成冒充装腔作势摆好姿势 n.故作姿态姿势",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "position",
+        "pronunciation": "/pəˈzɪʃən/",
+        "meaning": "n.职位立场位置，地方地位姿态 v.安放，放置",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "positive",
+        "pronunciation": "/ˈpɑzətɪv/",
+        "meaning": "adj.积极的正面的，乐观的有益的，正面的阳性的正数的阳极的肯定的 n.优点正片阳性结果",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "possess",
+        "pronunciation": "/pəˈzɛs/",
+        "meaning": "v.具有，拥有，支配",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "possession",
+        "pronunciation": "/pəˈzɛʃən/",
+        "meaning": "n.个人财产拥有属地，领地控制",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "dilute",
+        "pronunciation": "/daɪˈlut/",
+        "meaning": "v.稀释，冲淡削弱，降低 adj.稀释过的，冲淡的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "dim",
+        "pronunciation": "/dɪm/",
+        "meaning": "adj.昏暗的隐约的渺茫的愚笨的 v.变昏暗变渺茫",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "diminish",
+        "pronunciation": "/dɪˈmɪnɪʃ/",
+        "meaning": "v.（使）减小，减弱，降低",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "amateur",
+        "pronunciation": "/ˈæmətʃɚ/",
+        "meaning": "n.业余爱好者 adj.业余的业余爱好的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "amaze",
+        "pronunciation": "/əˈmez/",
+        "meaning": "v.使惊奇，使惊愕",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "ambiguous",
+        "pronunciation": "/æmˈbɪɡjuəs/",
+        "meaning": "adj.模棱两可的不明确的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "ambition",
+        "pronunciation": "/æmˈbɪʃən/",
+        "meaning": "n.追求的目标，夙愿抱负，雄心",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "ambitious",
+        "pronunciation": "/æmˈbɪʃəs/",
+        "meaning": "adj.有野心的，有雄心的艰巨的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "bubble",
+        "pronunciation": "/ˈbʌbl/",
+        "meaning": "n.泡沫泡气泡肥皂泡 v.洋溢着，充溢起泡，沸腾吐泡泡",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "budget",
+        "pronunciation": "/ˈbʌdʒɪt/",
+        "meaning": "n.预算政府财政状况 v.制定预算 adj.低廉的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "build",
+        "pronunciation": "/bɪld/",
+        "meaning": "v.建造建立，发展逐渐增强 n.身材",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "business",
+        "pronunciation": "/ˈbɪznɪs/",
+        "meaning": "n.公司生意，商业事情，事务",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "compress",
+        "pronunciation": "/kəmˈprɛs/",
+        "meaning": "v.压紧，压缩精简，缩短 n.敷布，压布",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "comprise",
+        "pronunciation": "/kəmˈpraɪz/",
+        "meaning": "v.包括，包含，由……组成",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "compromise",
+        "pronunciation": "/ˈkɑmprəmaɪz/",
+        "meaning": "v.妥协，作出让步伤害，危及违背，达不到 n.折中，妥协",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "conceive",
+        "pronunciation": "/kənˈsiv/",
+        "meaning": "v.想象构想，设想认为怀孕",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "concentrate",
+        "pronunciation": "/ˈkɑnsntret/",
+        "meaning": "v.集中（注意力），聚精会神（使）汇集浓缩 n.浓缩物",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "concept",
+        "pronunciation": "/ˈkɑnsɛpt/",
+        "meaning": "n.概念，观念",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "conception",
+        "pronunciation": "/kənˈsɛpʃən/",
+        "meaning": "n.构想概念，观念受孕，怀孕",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "concern",
+        "pronunciation": "/kənˈsɝn/",
+        "meaning": "n.担心，忧虑关心的事公司，企业 v.让（某人）担忧涉及与……有关的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "concise",
+        "pronunciation": "/kənˈsaɪs/",
+        "meaning": "adj.简洁的，简明的简缩的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "concrete",
+        "pronunciation": "/ˈkɑŋkrit/",
+        "meaning": "adj.混凝土制的确实的，具体的有形的 n.混凝土 v.用混凝土浇筑",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "conclude",
+        "pronunciation": "/kənˈklud/",
+        "meaning": "v.推断出结束，终止（使）结束",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "conclusion",
+        "pronunciation": "/kənˈkluʒən/",
+        "meaning": "n.结论，推论结尾商定",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "concurrent",
+        "pronunciation": "/kənˈkɝrənt/",
+        "meaning": "adj.同时发生的，并存的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "confer",
+        "pronunciation": "/kənˈfɚ/",
+        "meaning": "v.授予商讨，协商",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "conference",
+        "pronunciation": "/ˈkɑnfərəns/",
+        "meaning": "n.研讨会（正式的）会议，商谈",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "confess",
+        "pronunciation": "/kənˈfɛs/",
+        "meaning": "v.承认，供认，坦白忏悔，告解",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "epic",
+        "pronunciation": "/ˈɛpɪk/",
+        "meaning": "adj.极好的艰难的壮丽的史诗般的壮丽的，宏大的巨大的 n.史诗",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "epidemic",
+        "pronunciation": "/ˌɛpɪˈdɛmɪk/",
+        "meaning": "n.传染病，流行病盛行，泛滥 adj.流行的，肆虐的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "episode",
+        "pronunciation": "/ˈepɪsod/",
+        "meaning": "n.一段经历片段插曲事件发作一集",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "epoch",
+        "pronunciation": "/ˈɛpək/",
+        "meaning": "n.时代，纪元，时期",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "indifferent",
+        "pronunciation": "/ɪnˈdɪfərənt/",
+        "meaning": "adj.漠不关心的平庸的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "indignant",
+        "pronunciation": "/ɪnˈdɪɡnənt/",
+        "meaning": "adj.愤怒的，愤慨的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "indignation",
+        "pronunciation": "/ˌɪndɪɡˈneʃən/",
+        "meaning": "n.愤怒，愤慨",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "indispensable",
+        "pronunciation": "/ˌɪndɪˈspɛnsəbəl/",
+        "meaning": "adj.不可或缺的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "individual",
+        "pronunciation": "/ˌɪndəˈvɪdʒuəl/",
+        "meaning": "n.个人有个性的人 adj.单独的，个别的独特的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "mess",
+        "pronunciation": "/mɛs/",
+        "meaning": "v.把……弄乱 n.肮脏，凌乱混乱不整洁的人处于困境的人",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "message",
+        "pronunciation": "/ˈmɛsɪdʒ/",
+        "meaning": "n.信息，消息便条，信主题思想口信 v.发消息",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "messenger",
+        "pronunciation": "/ˈmɛsəndʒɚ/",
+        "meaning": "n.送信人，信使",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "method",
+        "pronunciation": "/ˈmɛθəd/",
+        "meaning": "n.方法，措施",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "militant",
+        "pronunciation": "/ˈmɪlɪtənt/",
+        "meaning": "adj.激进的，好战的 n.好斗者，激进分子",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "military",
+        "pronunciation": "/ˈmɪlətɛrɪ/",
+        "meaning": "adj.军事的，军用的军人般的 n.军队，军人",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "mind",
+        "pronunciation": "/maɪnd/",
+        "meaning": "n.思维方式头脑，心智思想有才智的人 v.为……烦恼介意当心服从照看",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "redeem",
+        "pronunciation": "/rɪˈdim/",
+        "meaning": "v.弥补挽回赎回拯救偿清兑现",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "reduce",
+        "pronunciation": "/rɪˈdus/",
+        "meaning": "v.减少，减轻使变稠",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "reduction",
+        "pronunciation": "/rɪˈdʌkʃən/",
+        "meaning": "n.减少，缩小缩影，缩版复位",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "refer",
+        "pronunciation": "/rɪˈfɝ/",
+        "meaning": "v.提到称……（为）提交，移交推荐，介绍求助于参考涉及",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "reference",
+        "pronunciation": "/ˈrɛfərəns/",
+        "meaning": "n.参考谈到，提及引述标记，索引推荐人指称关系推荐信编号 adj.供参考的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "subject",
+        "pronunciation": "/ˈsʌbdʒɛkt/",
+        "meaning": "n.研究对象题材学科主语 adj.易受…的，常患…的臣服的 v.受制于，使遭受使臣服",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "subjective",
+        "pronunciation": "/səbˈdʒɛktɪv/",
+        "meaning": "adj.主观的",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "spoil",
+        "pronunciation": "/spɔɪl/",
+        "meaning": "v.破坏，搞坏溺爱格外关照腐坏 n.战利品连带利益",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "sponsor",
+        "pronunciation": "/ˈspɑnsɚ/",
+        "meaning": "v.赞助倡议主办 n.倡议者赞助者",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "spread",
+        "pronunciation": "/sprɛd/",
+        "meaning": "v.传播展开 n.蔓延，传播酱丰盛饭菜",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "spur",
+        "pronunciation": "/spɝ/",
+        "meaning": "v.鼓励，激励策马前进促进 n.刺激，激励马刺山嘴，尖坡",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "spy",
+        "pronunciation": "/spaɪ/",
+        "meaning": "n.密探，间谍 v.从事间谍活动发现",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "stability",
+        "pronunciation": "/stəˈbɪlɪtɪ/",
+        "meaning": "n.稳定（性）稳固（性）",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "stable",
+        "pronunciation": "/ˈstebəl/",
+        "meaning": "adj.稳定的稳重的 n.马厩 v.把（马）拴在马厩",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "staff",
+        "pronunciation": "/stæf/",
+        "meaning": "n.全体职员管理人员，职工杖，杆五线谱 v.任职于，担当……职员",
+        "unit": "必考词 Unit 07"
+    },
+    {
+        "words": "stage",
+        "pronunciation": "/stedʒ/",
+        "meaning": "n.时期阶段舞台 v.上演组织",
+        "unit": "必考词 Unit 07"
+    }
+]

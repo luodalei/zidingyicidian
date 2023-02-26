@@ -1,0 +1,500 @@
+[
+    {
+        "words": "embrace",
+        "pronunciation": "/ɪmˈbres/",
+        "meaning": "v.拥抱欣然接受，乐意采纳包括 n.拥抱",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "embed",
+        "pronunciation": "/ɪmˈbɛd/",
+        "meaning": "v.使插入，使嵌入",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "embody",
+        "pronunciation": "/ɪmˈbɑdɪ/",
+        "meaning": "v.具体表现，体现包含，包括，收录",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "embryo",
+        "pronunciation": "/ˈɛmbrio/",
+        "meaning": "n.胚，胚胎 adj.萌芽阶段的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "elicit",
+        "pronunciation": "/ɪˈlɪsɪt/",
+        "meaning": "v.引起，引出探出，诱出",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "elite",
+        "pronunciation": "/ɪˈlit/",
+        "meaning": "n.精英，掌权人物 adj.精英的，上层集团的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "elsewhere",
+        "pronunciation": "/ˈɛlsˌwɛr/",
+        "meaning": "adv.在别处，去别处",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "thirst",
+        "pronunciation": "/θɝst/",
+        "meaning": "n.口渴缺水渴望 v.渴望，渴求",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "thorough",
+        "pronunciation": "/ˈθərəᴜ/",
+        "meaning": "adj.彻底的，完全的周到的，严谨的十足的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "though",
+        "pronunciation": "/ðo/",
+        "meaning": "conj.虽然，尽管，不过 adv.不过，可是，然而",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "thought",
+        "pronunciation": "/θɔt/",
+        "meaning": "n.思想沉思想法，看法，主意关心 v.想（think的过去式）",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "thoughtful",
+        "pronunciation": "/ˈθɔtfəl/",
+        "meaning": "adj.认真思考的，深思的考虑周到的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "threat",
+        "pronunciation": "/θrɛt/",
+        "meaning": "n.威胁",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "threaten",
+        "pronunciation": "/ˈθrɛtn/",
+        "meaning": "v.危及威胁可能发生",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "update",
+        "pronunciation": "/ʌpˈdet/",
+        "meaning": "v.使现代化更新，向……提供最新信息 n.更新，最新信息",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "upgrade",
+        "pronunciation": "/ˈʌpˌɡred/",
+        "meaning": "v.升级晋升（使）升舱 n.升级",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "uphold",
+        "pronunciation": "/ʌpˈhold/",
+        "meaning": "v.拥护，维护",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "upset",
+        "pronunciation": "/ʌpˈsɛt/",
+        "meaning": "v.使烦恼搅乱，打翻使肠胃不适碰倒 adj.难过，失望，沮丧心烦的，苦恼的肠胃不适 n.困扰冷门事件肠胃不适",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "up-to-date",
+        "pronunciation": "/ˌʌptəˈdet/",
+        "meaning": "adj.最新的掌握最新信息的现代的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "ventilate",
+        "pronunciation": "/vɛntɪlet/",
+        "meaning": "v.使通风公开表达",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "venture",
+        "pronunciation": "/ˈvɛntʃɚ/",
+        "meaning": "n.风险项目 v.冒险去冒险发表冒着失去……的风险",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "widespread",
+        "pronunciation": "/ˈwaɪdˈsprɛd/",
+        "meaning": "adj.分布广的，普遍的，广泛的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "win",
+        "pronunciation": "/wɪn/",
+        "meaning": "v.赢得获胜 n.胜利",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "wit",
+        "pronunciation": "/wɪt/",
+        "meaning": "n.风趣，机智说话风趣的人",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "withdraw",
+        "pronunciation": "/wɪðˈdrɔ/",
+        "meaning": "v.取（钱）撤走，拿走（使）撤回",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "witness",
+        "pronunciation": "/ˈwɪtnɪs/",
+        "meaning": "v.当场看到，目击，见证连署为……的证据 n.证人目击者见证人",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "inaugurate",
+        "pronunciation": "/ɪˈnɔɡəret/",
+        "meaning": "v.使正式就职启用，启动开创，开始",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "incentive",
+        "pronunciation": "/ɪnˈsɛntɪv/",
+        "meaning": "n.激励，奖励",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "incidence",
+        "pronunciation": "/ˈɪnsɪdəns/",
+        "meaning": "n.发生，发生率",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "incident",
+        "pronunciation": "/ˈɪnsɪdənt/",
+        "meaning": "n.严重事件发生的事情冲突 adj.入射的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "incidentally",
+        "pronunciation": "/ˌɪnsɪˈdɛntlɪ/",
+        "meaning": "adv.顺便谈及附带地，伴随地",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "incline",
+        "pronunciation": "/ɪnˈklaɪn/",
+        "meaning": "v.倾向，趋向使倾斜点头 n.斜坡",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "academic",
+        "pronunciation": "/ˌækəˈdɛmɪk/",
+        "meaning": "adj.学业的，学术的学院的理论的 n.大学教师",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "academy",
+        "pronunciation": "/əˈkædəmɪ/",
+        "meaning": "n.研究院，专科院校",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "accelerate",
+        "pronunciation": "/əkˈsɛləˌret/",
+        "meaning": "v.加速，（使）早日发生",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "accept",
+        "pronunciation": "/əkˈsɛpt/",
+        "meaning": "v.接受赞成，同意接纳相信容忍，忍受",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "acceptance",
+        "pronunciation": "/əkˈsɛptəns/",
+        "meaning": "n.接纳，认可接受容忍",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "access",
+        "pronunciation": "/ˈæksɛs/",
+        "meaning": "n.机会通道进入（权）接近 v.存取，访问使用进入获取",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "accessory",
+        "pronunciation": "/əkˈsɛsərɪ/",
+        "meaning": "n.配饰，配件同谋，帮凶附件，附属品 adj.附属的辅助的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "begin",
+        "pronunciation": "/bɪˈɡɪn/",
+        "meaning": "v.开始以……开始",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "beginning",
+        "pronunciation": "/bɪˈɡɪnɪŋ/",
+        "meaning": "n.开头，开端 v.开始（begin的现在分词）",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "behalf",
+        "pronunciation": "/bɪˈhæf/",
+        "meaning": "n.代表某人，代替某人利益",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "behave",
+        "pronunciation": "/bɪˈhev/",
+        "meaning": "v.表现，举止举止得体",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "behavior",
+        "pronunciation": "/bɪˈhevjɚ/",
+        "meaning": "n.行为，举止（动植物的）活动方式",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "belief",
+        "pronunciation": "/bɪˈlif/",
+        "meaning": "n.信仰看法，信念信心信任",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "believe",
+        "pronunciation": "/bɪˈliv/",
+        "meaning": "v.认为相信认同",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "belong",
+        "pronunciation": "/bɪˈlɔŋ/",
+        "meaning": "v.应在某处属于，归属适应",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "beneficial",
+        "pronunciation": "/ˌbɛnəˈfɪʃəl/",
+        "meaning": "adj.有利的，有帮助的，有用的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "benefit",
+        "pronunciation": "/ˈbɛnəfɪt/",
+        "meaning": "n.优势补助金公司福利益处慈善活动 v.使受益得益于",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "benevolent",
+        "pronunciation": "/bəˈnɛvələnt/",
+        "meaning": "adj.仁慈的，慈善的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "benign",
+        "pronunciation": "/bɪˈnaɪn/",
+        "meaning": "adj.良性的慈祥的，和善的无害的宜人的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "challenge",
+        "pronunciation": "/ˈtʃæləndʒ/",
+        "meaning": "n.挑战，考验怀疑邀请 v.挑战，考验反对盘查怀疑",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "chance",
+        "pronunciation": "/tʃæns/",
+        "meaning": "n.机会，可能性风险偶然 adj.偶然的 v.碰巧发生冒险",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "change",
+        "pronunciation": "/tʃendʒ/",
+        "meaning": "n.变化，改变替代换衣服硬币零钱 v.（使）改变交换，替换换乘更改",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "channel",
+        "pronunciation": "/ˈtʃænəl/",
+        "meaning": "n.渠道沟渠频道航道，海峡 v.引导输送",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "character",
+        "pronunciation": "/ˈkærəktɚ/",
+        "meaning": "n.品质，特点性格性状文字，符号人物，角色",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "characterise",
+        "pronunciation": "/ˈkærɪktəˌraɪz/",
+        "meaning": "v.是……的特征，使……具有特点描述，刻画",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "characteristic",
+        "pronunciation": "/ˌkærəktəˈrɪstɪk/",
+        "meaning": "n.特征，特点 adj.典型的，特有的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "defend",
+        "pronunciation": "/dɪˈfɛnd/",
+        "meaning": "v.保卫，防守辩护卫冕辩解",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "define",
+        "pronunciation": "/dɪˈfaɪn/",
+        "meaning": "v.解释给……下定义，界定显示出……的轮廓",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "definite",
+        "pronunciation": "/ˈdɛfɪnɪt/",
+        "meaning": "adj.清楚的，明确的确切的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "definition",
+        "pronunciation": "/ˌdɛfəˈnɪʃən/",
+        "meaning": "n.定义释义清晰度",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "defy",
+        "pronunciation": "/dɪˈfaɪ/",
+        "meaning": "v.违抗，反抗挑战无法，难以",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "degree",
+        "pronunciation": "/dɪˈɡri/",
+        "meaning": "n.（大学）学位程度学位课程度，度数",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "delay",
+        "pronunciation": "/dɪˈle/",
+        "meaning": "v.使延期使耽搁 n.推迟，延期耽误，耽搁延误，耽搁，推迟",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "deliberate",
+        "pronunciation": "/dɪˈlɪbərɪt/",
+        "meaning": "adj.故意的，蓄意的沉稳的，审慎的 v.慎重考虑",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "delicate",
+        "pronunciation": "/ˈdɛlɪkɪt/",
+        "meaning": "adj.微妙的精细的精美的，精致的柔和的，清淡的虚弱的脆弱的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "deliver",
+        "pronunciation": "/dɪˈlɪvɚ/",
+        "meaning": "v.交付传达分发，递送履行发表接生解救分娩",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "delivery",
+        "pronunciation": "/dɪˈlɪvərɪ/",
+        "meaning": "n.递送，运送演说方式分娩投球",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "fiction",
+        "pronunciation": "/ˈfɪkʃən/",
+        "meaning": "n.虚构的事小说",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "field",
+        "pronunciation": "/fild/",
+        "meaning": "n.球场领域草坪运动场田野字段战场上场选手野外 adj.实地，现场，野外 v.防守成功回答使出场",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "fierce",
+        "pronunciation": "/fɪrs/",
+        "meaning": "adj.凶猛的，凶狠的激烈的恶劣的，极端的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "fight",
+        "pronunciation": "/faɪt/",
+        "meaning": "v.坚决反对吵架努力争取打仗打架 n.争论斗争打架竞赛斗志，战斗力战斗",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "figure",
+        "pronunciation": "/ˈfɪgjɚ/",
+        "meaning": "n.人物数字轮廓图，表身材 v.计算，认为是重要部分估计出现，被包括",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "finance",
+        "pronunciation": "/ˈfaɪnæns/",
+        "meaning": "n.财政，金融财力资金 v.提供资金",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "financial",
+        "pronunciation": "/faɪˈnænʃ(ə)l/",
+        "meaning": "adj.金融的，财政的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "finding",
+        "pronunciation": "/ˈfaɪndɪŋ/",
+        "meaning": "n.发现，调查结果（法律）判决",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "finite",
+        "pronunciation": "/ˈfaɪˌnaɪt/",
+        "meaning": "adj.有限的，有尽的限定的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "firm",
+        "pronunciation": "/fɝm/",
+        "meaning": "n.公司，商行，事务所 adj.强有力的强硬的结实的，牢固的坚定的 v.使稳固",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "first",
+        "pronunciation": "/fɝst/",
+        "meaning": "adv.第一，首先 ord.第一，第一的 n.前所未有的事情",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "fit",
+        "pronunciation": "/fɪt/",
+        "meaning": "v.符合合适，合身安置，安装 adj.适合的健康的 n.适合疾病发作",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "global",
+        "pronunciation": "/ˈglobl/",
+        "meaning": "adj.全球的，全世界的全面的，整体的",
+        "unit": "必考词 Unit 19"
+    },
+    {
+        "words": "globe",
+        "pronunciation": "/glob/",
+        "meaning": "n.地球，地球仪球状物",
+        "unit": "必考词 Unit 19"
+    }
+]

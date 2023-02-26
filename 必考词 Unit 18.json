@@ -1,0 +1,410 @@
+[
+    {
+        "words": "abandon",
+        "pronunciation": "/əˈbændən/",
+        "meaning": "v.舍弃，抛弃，放弃中止 n.放任，放纵",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "abide",
+        "pronunciation": "/əˈbaɪd/",
+        "meaning": "v.遵守，遵循忍受，容忍居住，逗留",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "ability",
+        "pronunciation": "/əˈbɪlətɪ/",
+        "meaning": "n.能力，才能",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "able",
+        "pronunciation": "/ˈebəl/",
+        "meaning": "adj.能够聪明能干的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "abnormal",
+        "pronunciation": "/æbˈnɔrml/",
+        "meaning": "adj.不正常的，反常的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "background",
+        "pronunciation": "/ˈbækˌɡraᴜnd/",
+        "meaning": "n.背景背景声音出身背景，经历",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "balance",
+        "pronunciation": "/ˈbæləns/",
+        "meaning": "n.平衡，平稳余额结欠天平均匀 v.保持平衡权衡使收支平衡",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "base",
+        "pronunciation": "/bes/",
+        "meaning": "n.根部，底部根据，根基基地，总部垒 adj.卑鄙的 v.以……为基础（或根据）",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "basement",
+        "pronunciation": "/ˈbesmənt/",
+        "meaning": "n.地下室",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "basic",
+        "pronunciation": "/ˈbesɪk/",
+        "meaning": "adj.基本的，基础的根本的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "basis",
+        "pronunciation": "/ˈbesɪs/",
+        "meaning": "n.基础，基点基本原则，基本规律原因",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "calculate",
+        "pronunciation": "/ˈkælkjəˌlet/",
+        "meaning": "v.核算计算预测",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "call",
+        "pronunciation": "/kɔl/",
+        "meaning": "v.把……叫做呼喊认为……是召集，传唤打电话给…… n.打电话号召需要叫声",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "calm",
+        "pronunciation": "/kɑm/",
+        "meaning": "adj.镇静的，沉着的平静的 n.宁静的时期 v.使平静，使镇静",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "campaign",
+        "pronunciation": "/kæmˈpen/",
+        "meaning": "n.运动战役 v.参加运动",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "candidate",
+        "pronunciation": "/ˈkændɪdet/",
+        "meaning": "n.候选人，应试者适合……的人",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "data",
+        "pronunciation": "/ˈdetə/",
+        "meaning": "n.资料，数据",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "database",
+        "pronunciation": "/ˈdetəˌbes/",
+        "meaning": "n.数据库，资料库",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "date",
+        "pronunciation": "/det/",
+        "meaning": "n.日期约会约会对象 v.标注日期过时暴露年龄约会确定年代",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "dazzle",
+        "pronunciation": "/ˈdæzəl/",
+        "meaning": "v.使目眩使惊叹 n.耀眼炫目",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "deal",
+        "pronunciation": "/dil/",
+        "meaning": "n.协议，交易大量发牌 v.对付，对待买卖发牌",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "dealer",
+        "pronunciation": "/ˈdilɚ/",
+        "meaning": "n.商人毒品贩子",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "debate",
+        "pronunciation": "/dɪˈbet/",
+        "meaning": "n.辩论争论 v.考虑，权衡争论辩论",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "decade",
+        "pronunciation": "/ˈdɛked/",
+        "meaning": "n.十年，十年期",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "decide",
+        "pronunciation": "/dɪˈsaɪd/",
+        "meaning": "v.决定裁决，判决导致",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "decision",
+        "pronunciation": "/dɪˈsɪʒən/",
+        "meaning": "n.决定，抉择作决定果断",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "decisive",
+        "pronunciation": "/dɪˈsaɪsɪv/",
+        "meaning": "adj.决定性的，关键的果断的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "decorate",
+        "pronunciation": "/ˈdɛkəˌret/",
+        "meaning": "v.装潢装饰粉刷表彰",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "economic",
+        "pronunciation": "/ˌikəˈnɑmɪk/",
+        "meaning": "adj.经济（上）的，经济学的有利可图的，赚钱的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "economical",
+        "pronunciation": "/ˌɛkəˈnɑmɪkl/",
+        "meaning": "adj.经济的，实惠的节俭的简练的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "economics",
+        "pronunciation": "/ˌɛkəˈnɑmɪks/",
+        "meaning": "n.经济学经济体制",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "economy",
+        "pronunciation": "/ɪˈkɑnəmɪ/",
+        "meaning": "n.经济经济体，经济制度节约",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "educate",
+        "pronunciation": "/ˈɛdʒəˌket/",
+        "meaning": "v.教育，教导",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "education",
+        "pronunciation": "/ɛdʒuˈkeʃən/",
+        "meaning": "n.教育教育机构，教育界人士教育学",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "effect",
+        "pronunciation": "/ɪˈfɛkt/",
+        "meaning": "n.影响，结果，效果使用，生效 v.使发生，实现",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "effective",
+        "pronunciation": "/əˈfɛktɪv/",
+        "meaning": "adj.有效的，产生预期效果的实际的生效的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "efficient",
+        "pronunciation": "/ɪˈfɪʃənt/",
+        "meaning": "adj.效率高的，有能力的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "efficiency",
+        "pronunciation": "/ɪˈfɪʃənsɪ/",
+        "meaning": "n.效率，效能，功效功率",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "effort",
+        "pronunciation": "/ˈɛfɚt/",
+        "meaning": "n.努力，尽力努力的结果有组织的行动艰难的尝试",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fabric",
+        "pronunciation": "/ˈfæbrɪk/",
+        "meaning": "n.织物，布料结构",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fabricate",
+        "pronunciation": "/ˈfæbrɪˌket/",
+        "meaning": "v.编造，捏造制造，装配",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "face",
+        "pronunciation": "/fes/",
+        "meaning": "v.面对正视覆盖面临 n.脸方面神情面，表面表盘面子",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "facet",
+        "pronunciation": "/ˈfæsɪt/",
+        "meaning": "n.部分，方面琢面，小平面",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "factor",
+        "pronunciation": "/ˈfæktɚ/",
+        "meaning": "n.因素，要素倍数系数因数凝血因子 v.把……因素包括进去",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fade",
+        "pronunciation": "/fed/",
+        "meaning": "v.逐渐消失（使）褪色变得虚弱",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fail",
+        "pronunciation": "/fel/",
+        "meaning": "v.失败，未能（做到）失灵倒闭衰退辜负缺乏不及格 n.不及格",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "failure",
+        "pronunciation": "/ˈfeljɚ/",
+        "meaning": "n.失败没做到故障衰竭失败的人（或事物）",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fair",
+        "pronunciation": "/fɛɚ/",
+        "meaning": "adj.合理的，公正的相当大的白皙的，浅色的美丽的 n.集市展览会，交易会",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fairly",
+        "pronunciation": "/ˈfɛrlɪ/",
+        "meaning": "adv.公正地相当简直还算",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fall",
+        "pronunciation": "/fɔl/",
+        "meaning": "v.下降倒塌，跌倒沦陷变成落下下垂降临摔倒 n.降落瀑布沦陷骤降秋天",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fan",
+        "pronunciation": "/fæn/",
+        "meaning": "v.煽动，激起扇风扇火 n.迷，狂热爱好者扇子风扇",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fancy",
+        "pronunciation": "/ˈfænsɪ/",
+        "meaning": "v.想要爱慕认为 n.想象（力）爱好 adj.绚丽的，花哨的昂贵的",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "fascinate",
+        "pronunciation": "/ˈfæsɪnet/",
+        "meaning": "v.深深吸引，迷住",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "gain",
+        "pronunciation": "/ɡen/",
+        "meaning": "v.获得受益增加 n.好处利润增加收获",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "gamble",
+        "pronunciation": "/ˈɡæmbl/",
+        "meaning": "v.赌博冒险，以……为赌注 n.冒险，投机赌博",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "gap",
+        "pronunciation": "/ɡæp/",
+        "meaning": "n.差距间隔空白裂口",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "gene",
+        "pronunciation": "/dʒin/",
+        "meaning": "n.基因",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "general",
+        "pronunciation": "/ˈdʒɛnərəl/",
+        "meaning": "adj.普遍的整体的总的常规的首席的 n.将军",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "generalize",
+        "pronunciation": "/ˈdʒɛnərəlaɪz/",
+        "meaning": "v.概括，归纳推广，类推",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "habit",
+        "pronunciation": "/ˈhæbɪt/",
+        "meaning": "n.习惯嗜好瘾",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "habitat",
+        "pronunciation": "/ˈhæbɪˌtæt/",
+        "meaning": "n.生活环境，栖息地",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "hamper",
+        "pronunciation": "/ˈhæmpɚ/",
+        "meaning": "v.妨碍，阻碍 n.食品盒礼品篮洗衣篮",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "handicap",
+        "pronunciation": "/ˈhændiˌkæp/",
+        "meaning": "n.不利条件残疾，缺陷障碍 v.妨碍，阻碍",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "shield",
+        "pronunciation": "/ʃild/",
+        "meaning": "v.保护，防护 n.盾牌，保护物，保护人",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "shift",
+        "pronunciation": "/ʃɪft/",
+        "meaning": "n.改变，转换直筒连衣裙轮班 v.改变主意转移，转向，挪动推卸售出换挡变换，更替",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "shoulder",
+        "pronunciation": "/ˈʃoldɚ/",
+        "meaning": "v.承担，肩负背，扛用肩推或挤 n.肩，肩膀肩部前胛肉路肩",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "show",
+        "pronunciation": "/ʃo/",
+        "meaning": "v.给人看表明，证明显示流露情感引领，指示，带路放映展览 n.流露，体现假象电视节目展品展览演出",
+        "unit": "必考词 Unit 18"
+    },
+    {
+        "words": "shower",
+        "pronunciation": "/ˈʃaᴜɚ/",
+        "meaning": "n.淋浴淋浴器（间）雨送礼会 v.向……抛撒大量给予落下淋浴",
+        "unit": "必考词 Unit 18"
+    }
+]

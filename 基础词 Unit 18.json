@@ -1,0 +1,506 @@
+[
+    {
+        "words": "bend",
+        "pronunciation": "/bɛnd/",
+        "meaning": "v.弯腰屈从歪曲，曲解（使）拐弯倾斜，偏向（使）弯曲 n.弯曲处，转弯处弧线球减压病",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "beneath",
+        "pronunciation": "/bɪˈniθ/",
+        "meaning": "prep.在（或往）……下面 adv.在（或往）……下面",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "beside",
+        "pronunciation": "/bɪˈsaɪd/",
+        "meaning": "prep.在旁边（附近）与……相比",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "besides",
+        "pronunciation": "/bɪˈsaɪdz/",
+        "meaning": "prep.除……之外（还） adv.而且",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "amplify",
+        "pronunciation": "/ˈæmpləˌfaɪ/",
+        "meaning": "v.放大，增强强化，加剧",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "analog",
+        "pronunciation": "/ˈænəˌlɔɡ/",
+        "meaning": "n.相似物，对等物 adj.模拟的指针式的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "analogy",
+        "pronunciation": "/əˈnælədʒɪ/",
+        "meaning": "n.类比，比喻类推",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "analyse",
+        "pronunciation": "/ˈænəˌlaɪz/",
+        "meaning": "v.分析",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "analysis",
+        "pronunciation": "/əˈnæləsɪs/",
+        "meaning": "n.分析，分析结果",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "analytic",
+        "pronunciation": "/ˌænəˈlɪtɪkl/",
+        "meaning": "adj.用于分析的分析的，化验的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "inertia",
+        "pronunciation": "/ɪˈnɚʃə/",
+        "meaning": "n.惰性，缺乏活力惯性",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "infant",
+        "pronunciation": "/ˈɪnfənt/",
+        "meaning": "n.婴儿，幼儿 adj.学前班的，幼儿的初期的供幼儿用的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "infect",
+        "pronunciation": "/ɪnˈfɛkt/",
+        "meaning": "v.使感染，传染使受影响",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "infectious",
+        "pronunciation": "/ɪnˈfɛkʃəs/",
+        "meaning": "adj.传染性的有感染力的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "infinite",
+        "pronunciation": "/ˈɪnfɪnət/",
+        "meaning": "adj.无限的极多的，极度的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "inflation",
+        "pronunciation": "/ɪnˈfleɪʃən/",
+        "meaning": "n.通货膨胀",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "inflict",
+        "pronunciation": "/ɪnˈflɪkt/",
+        "meaning": "v.使遭受",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "infrared",
+        "pronunciation": "/ˌɪnfrəˈrɛd/",
+        "meaning": "adj.红外线的 n.红外线",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "infrastructure",
+        "pronunciation": "/ˈɪnfrəstrʌktʃɚ/",
+        "meaning": "n.基础设施",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "knee",
+        "pronunciation": "/ni/",
+        "meaning": "n.膝盖膝部 v.用膝盖顶",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "kneel",
+        "pronunciation": "/nil/",
+        "meaning": "v.跪，跪着",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "knob",
+        "pronunciation": "/nɑb/",
+        "meaning": "n.旋钮，球形把手小块",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "knot",
+        "pronunciation": "/nɑt/",
+        "meaning": "n.结，装饰性花结痉挛节疤一小群人节 v.打结痉挛",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "knowledge",
+        "pronunciation": "/ˈnɑlɪdʒ/",
+        "meaning": "n.知识，学问知晓，了解",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "leaf",
+        "pronunciation": "/lif/",
+        "meaning": "n.叶子（复数leaves)页，片活动桌板",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "leaflet",
+        "pronunciation": "/ˈliflət/",
+        "meaning": "n.传单，散页印刷品 v.散发传单",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "league",
+        "pronunciation": "/liɡ/",
+        "meaning": "n.等级，水平联盟，社团联合会，联赛",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "leak",
+        "pronunciation": "/lik/",
+        "meaning": "v.透露漏，渗漏 n.裂缝，漏洞渗漏出的液体或气体透露漏，渗漏",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "lean",
+        "pronunciation": "/lin/",
+        "meaning": "adj.萧条的精瘦的肉瘦的精简的 v.倚靠倾斜",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "leap",
+        "pronunciation": "/lip/",
+        "meaning": "v.跳，跳跃飞奔，疾驶激增 n.剧增，剧变跳，跳跃",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "lease",
+        "pronunciation": "/lis/",
+        "meaning": "n.租约 v.租用",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "leather",
+        "pronunciation": "/ˈlɛðɚ/",
+        "meaning": "n.皮革皮衣，皮外套",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "mechanic",
+        "pronunciation": "/məˈkænɪk/",
+        "meaning": "n.机械师，机械修理工方法，手段",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "mechanical",
+        "pronunciation": "/mɪˈkænɪkəl/",
+        "meaning": "adj.机械的发动机的，机器的精通机械的不动脑的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "mechanism",
+        "pronunciation": "/ˈmɛkəˌnɪzəm/",
+        "meaning": "n.方法，机制装置",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "nickname",
+        "pronunciation": "/ˈnɪkˌnem/",
+        "meaning": "n.外号 v.给……起绰号",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "nightmare",
+        "pronunciation": "/ˈnaɪtmɛɚ/",
+        "meaning": "n.噩梦，梦魇令人恐怖的处境",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "nominal",
+        "pronunciation": "/ˈnɑmɪnl/",
+        "meaning": "adj.名义上的微不足道的名词的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "nominate",
+        "pronunciation": "/ˈnɑmənet/",
+        "meaning": "v.提名，推荐任命挑选，指定",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "pleasure",
+        "pronunciation": "/ˈplɛʒɚ/",
+        "meaning": "n.高兴，愉快消遣乐事",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "pledge",
+        "pronunciation": "/plɛdʒ/",
+        "meaning": "v.发誓，保证用……抵押 n.保证，诺言，誓言抵押，抵押品",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "plentiful",
+        "pronunciation": "/ˈplɛntɪfəl/",
+        "meaning": "adj.丰富的，充足的，多的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "pneumonia",
+        "pronunciation": "/nuˈmonɪə/",
+        "meaning": "n.肺炎",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "pocket",
+        "pronunciation": "/ˈpɑkɪt/",
+        "meaning": "n.口袋财力小块地区 adj.小型的，袖珍的 v.据为己有把……放入口袋",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "poison",
+        "pronunciation": "/ˈpɔɪzən/",
+        "meaning": "v.使中毒，毒害下毒使受污染破坏，伤害 n.毒药，毒物极有害的思想或心情毒素",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "poisonous",
+        "pronunciation": "/ˈpɔɪzənəs/",
+        "meaning": "adj.有害的有毒的，分泌毒素的恶意的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "regard",
+        "pronunciation": "/rɪˈgɑrd/",
+        "meaning": "v.将……认为，把……视为看，注视 n.关注尊重",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "regarding",
+        "pronunciation": "/rɪˈgɑrdɪŋ/",
+        "meaning": "prep.关于，至于",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "regardless",
+        "pronunciation": "/rɪˈgɑrdləs/",
+        "meaning": "adv.不顾，不加理会",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "regime",
+        "pronunciation": "/reˈʒim/",
+        "meaning": "n.政权，政体管理体制，体系治疗方案；疗程",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "register",
+        "pronunciation": "/ˈrɛdʒɪstɚ/",
+        "meaning": "v.登记，注册显示引起注意挂号邮寄 n.登记簿语域声区收款机",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "rehearse",
+        "pronunciation": "/rɪˈhɝs/",
+        "meaning": "v.排练，排演详细复述，反复讲",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "reign",
+        "pronunciation": "/ren/",
+        "meaning": "n.为王，当政支配的时期 v.主宰，盛行为王，当政",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "rein",
+        "pronunciation": "/ren/",
+        "meaning": "v.约束，控制 n.缰绳，保护带掌权，主宰",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "reinforce",
+        "pronunciation": "/ˌriɪnˈfɔrs/",
+        "meaning": "v.强化，加深加固，使更结实加强……的力量，增援",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "simulate",
+        "pronunciation": "/ˈsɪmjəˌlet/",
+        "meaning": "v.模仿，模拟假装，冒充",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "simultaneous",
+        "pronunciation": "/ˌsaɪmlˈtenɪəs/",
+        "meaning": "adj.同时发生的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "sin",
+        "pronunciation": "/sɪn/",
+        "meaning": "n.罪，罪过 abbr.正弦 v.犯戒律，犯过失",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "sincere",
+        "pronunciation": "/sɪnˈsɪɚ/",
+        "meaning": "adj.真诚的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "single",
+        "pronunciation": "/ˈsɪŋɡəl/",
+        "meaning": "adj.单一的，单个的单身的单人的单程的 n.单程票单曲一分（垒）打",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "singular",
+        "pronunciation": "/ˈsɪŋɡjəlɚ/",
+        "meaning": "adj.特别的，奇特的，突出的单数的，单数形式的 n.单数，单数形式",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "sink",
+        "pronunciation": "/sɪŋk/",
+        "meaning": "v.沉没下沉倒下，陷入埋入 n.洗碗槽，水槽",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "sip",
+        "pronunciation": "/sɪp/",
+        "meaning": "v.小口喝，抿 n.一小口的量",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "siren",
+        "pronunciation": "/ˈsaɪrən/",
+        "meaning": "n.警报器妖艳而危险的女人",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "thumb",
+        "pronunciation": "/θʌm/",
+        "meaning": "v.用拇指摸请求搭便车 n.拇指",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "thunder",
+        "pronunciation": "/ˈθʌndɚ/",
+        "meaning": "n.雷，雷声雷鸣般的响声 v.打雷轰隆隆地响轰隆隆地快速移动",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "tick",
+        "pronunciation": "/tɪk/",
+        "meaning": "v.打上钩（钟表）发出滴答声标记号 n.钩号蜱嘀嗒声一瞬间赊账",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "ticket",
+        "pronunciation": "/ˈtɪkɪt/",
+        "meaning": "n.票罚款单标签兑奖券候选人名单入场券 v.售票开罚单",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "wealth",
+        "pronunciation": "/wɛlθ/",
+        "meaning": "n.财富大量",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "wealthy",
+        "pronunciation": "/ˈwɛlθɪ/",
+        "meaning": "adj.富有的，富裕的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "weapon",
+        "pronunciation": "/ˈwɛpən/",
+        "meaning": "n.武器手段",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "weave",
+        "pronunciation": "/wiv/",
+        "meaning": "v.编编纂，编造迂回行进，穿行 n.编织式样",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "web",
+        "pronunciation": "/wɛb/",
+        "meaning": "n.网络，网蜘蛛网万维网蹼错综复杂的事物 v.用网缠住",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "wedge",
+        "pronunciation": "/wɛdʒ/",
+        "meaning": "v.把……楔住将……插入 n.三角木楔形物",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "jungle",
+        "pronunciation": "/ˈdʒʌŋɡəl/",
+        "meaning": "n.（热带）丛林，密林杂乱无章的地方弱肉强食的地方一团糟",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "junction",
+        "pronunciation": "/ˈdʒʌŋkʃən/",
+        "meaning": "n.交叉口，枢纽主接点",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "junior",
+        "pronunciation": "/ˈdʒunɪɚ/",
+        "meaning": "n.(美国高中或大学）三年级学生职位较低者青少年 adj.地位（或职位、级别）低下的三年级生的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "juvenile",
+        "pronunciation": "/ˈdʒuvənaɪl/",
+        "meaning": "adj.少年的，未成年的幼稚的 n.少年",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "junk",
+        "pronunciation": "/dʒʌŋk/",
+        "meaning": "n.无用的东西，无价值的东西中国式帆船危险毒品 v.丢弃，废弃",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "unload",
+        "pronunciation": "/ˌʌnˈlod/",
+        "meaning": "v.卸下取出推卸卖掉发泄",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "upper",
+        "pronunciation": "/ˈʌpɚ/",
+        "meaning": "adj.上面的，上层的 n.鞋帮兴奋剂",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "upright",
+        "pronunciation": "/ˈʌpˌraɪt/",
+        "meaning": "adj.直立的没扶手的正直的笔直的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "upstairs",
+        "pronunciation": "/ˌʌpˈstɛɚz/",
+        "meaning": "n.楼上 adv.在（或向）楼上 adj.楼上的",
+        "unit": "基础词 Unit 18"
+    },
+    {
+        "words": "upward",
+        "pronunciation": "/ˈʌpwɚd/",
+        "meaning": "adj.上升的，上涨的向上的 adv.向上增涨",
+        "unit": "基础词 Unit 18"
+    }
+]

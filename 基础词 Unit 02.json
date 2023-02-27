@@ -1,0 +1,530 @@
+[
+    {
+        "words": "bath",
+        "pronunciation": "/bæθ/",
+        "meaning": "n.浴盆洗澡水浴室洗澡 v.（给某人）洗澡洗澡",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "bathe",
+        "pronunciation": "/beð/",
+        "meaning": "v.游泳，戏水，洗澡以（光线）洒满用水清洗 n.游泳",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "batch",
+        "pronunciation": "/bætʃ/",
+        "meaning": "n.一批，一批生产的量 v.分批处理",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "acquaint",
+        "pronunciation": "/əˈkwent/",
+        "meaning": "v.使认识，使熟悉",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "acquaintance",
+        "pronunciation": "/əˈkwentəns/",
+        "meaning": "n.泛泛之交相识了解，熟悉",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "across",
+        "pronunciation": "/əˈkrɔs/",
+        "meaning": "prep.遍及横过过，穿过在……上在另一边，在对面超越 adv.过，穿过朝，向在对面",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "satisfaction",
+        "pronunciation": "/ˌsætɪsˈfækʃən/",
+        "meaning": "n.满足，满意补偿",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "satisfactory",
+        "pronunciation": "/ˌsætɪsˈfæktərɪ/",
+        "meaning": "adj.令人满意的，够好的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "satisfy",
+        "pronunciation": "/ˈsætɪsˌfaɪ/",
+        "meaning": "v.使满意，使满足使确信",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "satire",
+        "pronunciation": "/ˈsætaɪɚ/",
+        "meaning": "n.讽刺，讥讽讽刺作品",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "saturate",
+        "pronunciation": "/ˈsætʃəret/",
+        "meaning": "v.使充满，使饱和使湿透，浸透",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "sauce",
+        "pronunciation": "/sɔs/",
+        "meaning": "n.酱，调味汁",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "saucer",
+        "pronunciation": "/ˈsɔsɚ/",
+        "meaning": "n.茶碟，杯托",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "sausage",
+        "pronunciation": "/ˈsɔsɪdʒ/",
+        "meaning": "n.香肠",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "saw",
+        "pronunciation": "/sɔ/",
+        "meaning": "v.看见（see的过去式）锯 n.锯",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scan",
+        "pronunciation": "/skæn/",
+        "meaning": "v.（用电磁波等）扫描浏览审视符合格律 n.扫描检查浏览",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scandal",
+        "pronunciation": "/ˈskændl/",
+        "meaning": "n.丑行，丑闻丑闻报道丢脸，耻辱",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scar",
+        "pronunciation": "/skɑr/",
+        "meaning": "n.伤疤精神创伤 v.结疤留下伤痕",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scarce",
+        "pronunciation": "/skɛrs/",
+        "meaning": "adj.缺乏的，稀有的 adv.几乎不",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scarcely",
+        "pronunciation": "/ˈskɛɚslɪ/",
+        "meaning": "adv.几乎不不应该刚……就……",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scare",
+        "pronunciation": "/skɛr/",
+        "meaning": "n.恐惧恐慌惊吓，受惊 v.惊吓，受惊使害怕",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scarf",
+        "pronunciation": "/skɑrf/",
+        "meaning": "n.围巾，披巾 v.狼吞虎咽",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scatter",
+        "pronunciation": "/ˈskætɚ/",
+        "meaning": "v.（使）散开撒",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scenario",
+        "pronunciation": "/sɪˈnærio/",
+        "meaning": "n.设想，预测剧情梗概",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scent",
+        "pronunciation": "/sɛnt/",
+        "meaning": "n.气味，气息香味香水臭迹 v.察觉到使具有香味嗅出，闻到",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scholar",
+        "pronunciation": "/ˈskɑlɚ/",
+        "meaning": "n.学者",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "scholarship",
+        "pronunciation": "/ˈskɑlɚˌʃɪp/",
+        "meaning": "n.学术奖学金",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "school",
+        "pronunciation": "/skul/",
+        "meaning": "n.学校学院大学上学学派全体师生 v.训练教育",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tablet",
+        "pronunciation": "/ˈtæblɪt/",
+        "meaning": "n.平板电脑药片便笺本牌，碑",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "taboo",
+        "pronunciation": "/təˈbu/",
+        "meaning": "n.禁忌，忌讳 adj.禁止的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tackle",
+        "pronunciation": "/ˈtækəl/",
+        "meaning": "v.解决，应付，处理阻截，铲断交涉 n.阻截，铲断用具，装备",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tactic",
+        "pronunciation": "/ˈtæktɪk/",
+        "meaning": "n.策略战术",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tag",
+        "pronunciation": "/tæɡ/",
+        "meaning": "n.标签捉人游戏称呼签名涂鸦 v.给……贴标签把……称作",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tailor",
+        "pronunciation": "/ˈtelɚ/",
+        "meaning": "v.按需定制 n.裁缝",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tale",
+        "pronunciation": "/tel/",
+        "meaning": "n.故事叙述",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tame",
+        "pronunciation": "/tem/",
+        "meaning": "adj.驯服的，温顺的乏味的 v.驯化，驯服",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tan",
+        "pronunciation": "/tæn/",
+        "meaning": "n.晒黑的皮肤棕黄色 v.晒黑鞣革 abbr.正切 adj.棕黄色的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tangible",
+        "pronunciation": "/ˈtændʒəbəl/",
+        "meaning": "adj.可感知的有形的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tangle",
+        "pronunciation": "/ˈtæŋɡəl/",
+        "meaning": "n.缠结，纠结混乱，纷乱 v.（使）缠绕使混乱",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tank",
+        "pronunciation": "/tæŋk/",
+        "meaning": "n.罐，箱人造水池坦克 v.下跌失败故意输掉比赛",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tanker",
+        "pronunciation": "/ˈtæŋkɚ/",
+        "meaning": "n.油轮，罐车",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tap",
+        "pronunciation": "/tæp/",
+        "meaning": "n.水龙头阀门轻触窃听 v.开发窃听轻触轻拍，轻敲",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tape",
+        "pronunciation": "/tep/",
+        "meaning": "n.胶带磁带，录音带，录像带 v.录制粘贴",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tariff",
+        "pronunciation": "/ˈtærɪf/",
+        "meaning": "n.关税收费表",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "tax",
+        "pronunciation": "/tæks/",
+        "meaning": "n.税，税款 v.使大伤脑筋征税",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "undergraduate",
+        "pronunciation": "/ˌʌndɚˈgrædʒuət/",
+        "meaning": "n.本科生",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "underground",
+        "pronunciation": "/ˈʌndɚgraᴜnd/",
+        "meaning": "adv.地下，地下地秘密地 adj.地下的秘密的 n.地下组织地铁",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "undermine",
+        "pronunciation": "/ˌʌndɚˈmaɪn/",
+        "meaning": "v.削弱，动摇从根基破坏损害",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "underneath",
+        "pronunciation": "/ˌʌndɚˈniθ/",
+        "meaning": "prep.在……底下 n.底面，底部 adv.在内心深处隐藏在下面",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "van",
+        "pronunciation": "/væn/",
+        "meaning": "n.小型货车货车车厢",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "vanity",
+        "pronunciation": "/ˈvænɪtɪ/",
+        "meaning": "n.虚荣，自负不重要",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "vapor",
+        "pronunciation": "/ˈvepɚ/",
+        "meaning": "n.蒸气，雾气",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "vegetarian",
+        "pronunciation": "/ˌvedʒəˈtɛriən/",
+        "meaning": "adj.素食的素的 n.素食者",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "vegetation",
+        "pronunciation": "/ˌvɛdʒɪˈteʃən/",
+        "meaning": "n.植物，草木（总称）",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "vehicle",
+        "pronunciation": "/ˈviɪkl/",
+        "meaning": "n.交通工具，车辆手段，媒介",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "cash",
+        "pronunciation": "/kæʃ/",
+        "meaning": "v.兑现支票 n.现金，金钱",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "cashier",
+        "pronunciation": "/kæˈʃɪɚ/",
+        "meaning": "n.收银员 v.撤销……军职",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "catalog",
+        "pronunciation": "/ˈkætəlɔɡ/",
+        "meaning": "n.目录一连串 v.编入目录，记录",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "catastrophe",
+        "pronunciation": "/kəˈtæstrəfɪ/",
+        "meaning": "n.灾难，灾祸困境",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "dead",
+        "pronunciation": "/dɛd/",
+        "meaning": "adj.死的停滞的，萧条的死气沉沉的麻木的失灵的 adv.正好很",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "deadline",
+        "pronunciation": "/ˈdɛdˌlaɪn/",
+        "meaning": "n.最后期限，截止日期",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "deadly",
+        "pronunciation": "/ˈdɛdlɪ/",
+        "meaning": "adj.致命的枯燥的十足的，彻底的 adv.极其",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "deaf",
+        "pronunciation": "/dɛf/",
+        "meaning": "adj.聋的对……充耳不闻的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "dean",
+        "pronunciation": "/din/",
+        "meaning": "n.系主任，学院院长主任牧师元老，前辈",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "edible",
+        "pronunciation": "/ˈɛdəbəl/",
+        "meaning": "adj.可食用的，能吃的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "edit",
+        "pronunciation": "/ˈɛdɪt/",
+        "meaning": "v.编辑，编校编选主编剪辑，剪接",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "edition",
+        "pronunciation": "/ɪˈdɪʃən/",
+        "meaning": "n.版本版次一份一期、一辑",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "editor",
+        "pronunciation": "/ˈɛdɪtɚ/",
+        "meaning": "n.主编，编辑校订者记者剪辑师编辑程序",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "editorial",
+        "pronunciation": "/ˌɛdɪˈtɔriəl/",
+        "meaning": "n.社论 adj.编辑的立场的，社论的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "fake",
+        "pronunciation": "/fek/",
+        "meaning": "adj.假的假装的，冒充的虚假的，伪装的 v.伪造佯装 n.赝品骗子",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": false,
+        "pronunciation": "/ fɔːls /",
+        "meaning": "adj.错误的；不正确的；不真实的；非天生的 adv.欺诈地；叛卖地 网络假；假的；虚伪的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "fame",
+        "pronunciation": "/fem/",
+        "meaning": "n.名声，声誉",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "familiar",
+        "pronunciation": "/fəˈmɪljɚ/",
+        "meaning": "adj.通晓的熟悉的，常见到的行为随便的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "family",
+        "pronunciation": "/ˈfæməlɪ/",
+        "meaning": "n.家，家庭子女祖先（动植物）科 adj.家庭的全家共用的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "famine",
+        "pronunciation": "/ˈfæmɪn/",
+        "meaning": "n.饥荒",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "fantastic",
+        "pronunciation": "/ fænˈtæstɪkəl /",
+        "meaning": "adj.奇异的，虚构的",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "fantasy",
+        "pronunciation": "/ˈfæntəsɪ/",
+        "meaning": "n.幻想，想象幻想作品",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "reassure",
+        "pronunciation": "/ˌriəˈʃᴜr/",
+        "meaning": "v.使安心，使打消疑虑",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "rebel",
+        "pronunciation": "/ˈrɛbəl/",
+        "meaning": "v.叛逆造反嫌恶 n.叛乱者反对派叛逆者",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "rebellion",
+        "pronunciation": "/rɪˈbɛljən/",
+        "meaning": "n.叛乱反抗，叛逆",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "recede",
+        "pronunciation": "/rɪˈsid/",
+        "meaning": "v.远离减弱，变小变秃",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "receipt",
+        "pronunciation": "/rɪˈsit/",
+        "meaning": "n.接收收据",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "reception",
+        "pronunciation": "/rɪˈsɛpʃən/",
+        "meaning": "n.接待处对待接收效果欢迎会，招待会",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "recession",
+        "pronunciation": "/rɪˈsɛʃən/",
+        "meaning": "n.经济衰退退后，撤回",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "recipe",
+        "pronunciation": "/ˈrɛsəpɪ/",
+        "meaning": "n.烹饪方法可能原因处方方法，秘诀",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "recipient",
+        "pronunciation": "/rɪˈsɪpiənt/",
+        "meaning": "n.接受者，领受人",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "reciprocal",
+        "pronunciation": "/rɪˈsɪprəkəl/",
+        "meaning": "adj.相互的，互惠的 n.倒数",
+        "unit": "基础词 Unit 02"
+    },
+    {
+        "words": "recite",
+        "pronunciation": "/rɪˈsaɪt/",
+        "meaning": "v.背诵，朗诵细数列举",
+        "unit": "基础词 Unit 02"
+    }
+]

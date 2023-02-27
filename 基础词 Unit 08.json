@@ -1,0 +1,500 @@
+[
+    {
+        "words": "bloom",
+        "pronunciation": "/blum/",
+        "meaning": "n.花容光焕发 v.繁荣开花",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blossom",
+        "pronunciation": "/ˈblɑsəm/",
+        "meaning": "v.往好的方面发展开花 n.花朵",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blow",
+        "pronunciation": "/blo/",
+        "meaning": "n.挫折吹，擤重击 v.吹刮吹奏挥霍毁掉爆炸，炸开",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blueprint",
+        "pronunciation": "/ˈbluˌprɪnt/",
+        "meaning": "n.蓝图模型，型板",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blunder",
+        "pronunciation": "/ˈblʌndɚ/",
+        "meaning": "n.错误，疏忽 v.犯愚蠢的错，失误跌跌撞撞地走",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blunt",
+        "pronunciation": "/blʌnt/",
+        "meaning": "v.使变钝 adj.直率的钝的，不锋利的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blur",
+        "pronunciation": "/blɝ/",
+        "meaning": "v.变模糊使难区分使看不清 n.模糊的东西",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "blush",
+        "pronunciation": "/blʌʃ/",
+        "meaning": "v.脸红",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "praise",
+        "pronunciation": "/prez/",
+        "meaning": "n.表扬，赞扬 v.表扬，赞扬",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "pray",
+        "pronunciation": "/pre/",
+        "meaning": "v.祈祷，祈求希望，祈求 adv.请",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "prayer",
+        "pronunciation": "/prɛr/",
+        "meaning": "n.祷文，祷词，祈望祈祷",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resemblance",
+        "pronunciation": "/rɪˈzɛmbləns/",
+        "meaning": "n.相似，相像",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resemble",
+        "pronunciation": "/rɪˈzɛmbəl/",
+        "meaning": "v.像，与……类似，与…相似",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "reservoir",
+        "pronunciation": "/ˈrezɚvwɑ(r)/",
+        "meaning": "n.储藏，蓄积水库",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "residence",
+        "pronunciation": "/ˈrɛzɪdəns/",
+        "meaning": "n.住处，居所居住，居留",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resident",
+        "pronunciation": "/ˈrɛzɪdənt/",
+        "meaning": "n.居民住院医生 adj.常驻的居住的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resign",
+        "pronunciation": "/rɪˈzaɪn/",
+        "meaning": "v.辞职，辞去",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resolute",
+        "pronunciation": "/ˈrɛzəˌlut/",
+        "meaning": "adj.坚决的，果断的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resolution",
+        "pronunciation": "/ˌrɛzəˈluʃən/",
+        "meaning": "n.决议解决坚决分解分辨率决心，决定",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "resolve",
+        "pronunciation": "/rɪˈzɑlv/",
+        "meaning": "v.解决决定 n.决心，坚定的信念",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "specimen",
+        "pronunciation": "/ˈspɛsəmən/",
+        "meaning": "n.标本样本抽样",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spectacle",
+        "pronunciation": "/ˈspɛktəkəl/",
+        "meaning": "n.眼镜奇异景象壮观场面",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spectator",
+        "pronunciation": "/ˈspɛktetɚ/",
+        "meaning": "n.观众",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spectrum",
+        "pronunciation": "/ˈspɛktrəm/",
+        "meaning": "n.范围光谱，波谱，声谱",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "sphere",
+        "pronunciation": "/sfɪɚ/",
+        "meaning": "n.范围，领域球体，球形层",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spicy",
+        "pronunciation": "/ˈspaɪsɪ/",
+        "meaning": "adj.辣的刺激的加有香料的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spill",
+        "pronunciation": "/spɪl/",
+        "meaning": "v.（使）洒出，（使）溢出蜂拥而出 n.溢出量，溢出物",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spin",
+        "pronunciation": "/spɪn/",
+        "meaning": "v.（使）快速旋转脱水，甩干（纺）线 n.旋转兜风",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spine",
+        "pronunciation": "/spaɪn/",
+        "meaning": "n.脊椎书脊（动植物的）刺，刺毛",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spiral",
+        "pronunciation": "/ˈspaɪrəl/",
+        "meaning": "v.急剧增长盘旋上升或下降急剧恶化 n.螺旋形螺旋式运动 adj.螺旋形的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spirit",
+        "pronunciation": "/ˈspɪrɪt/",
+        "meaning": "n.精神灵魂生命力态度烈性酒鬼怪勇气，意志",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spiritual",
+        "pronunciation": "/ˈspɪrɪtʃuəl/",
+        "meaning": "adj.精神的，心灵的宗教的 n.灵歌",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spit",
+        "pronunciation": "/spɪt/",
+        "meaning": "n.唾液烤肉叉岬 v.吐出飘小雨怒斥爆出火花吐口水，吐唾沫吐痰",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spite",
+        "pronunciation": "/spaɪt/",
+        "meaning": "n.恶意，怨恨 v.故意伤害",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "splash",
+        "pronunciation": "/splæʃ/",
+        "meaning": "n.溅上的液体溅泼声亮点，亮色 v.戏水使溅泼，溅落显眼地展示",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "splendid",
+        "pronunciation": "/ˈsplɛndɪd/",
+        "meaning": "adj.极佳的，非常好的壮丽的，雄伟的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "split",
+        "pronunciation": "/splɪt/",
+        "meaning": "v.使分裂撕裂，划破分割，把……分开，分成分担，分摊断绝关系，分手 n.分歧区分裂缝，裂口",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spontaneous",
+        "pronunciation": "/spɑnˈtenɪəs/",
+        "meaning": "adj.自然的，自发的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spot",
+        "pronunciation": "/spɑt/",
+        "meaning": "n.地点斑，点滴，点排名位置 v.下小雨看见，注意到，发现",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "spouse",
+        "pronunciation": "/spaᴜs/",
+        "meaning": "n.配偶",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "time",
+        "pronunciation": "/taɪm/",
+        "meaning": "n.时间年代，时期次数倍数 v.为……安排时间计时",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "timely",
+        "pronunciation": "/ˈtaɪmlɪ/",
+        "meaning": "adj.适时的，及时的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "timid",
+        "pronunciation": "/ˈtɪmɪd/",
+        "meaning": "adj.胆小的，胆怯的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "tin",
+        "pronunciation": "/tɪn/",
+        "meaning": "n.锡罐头烤盘听，罐",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "tiny",
+        "pronunciation": "/ˈtaɪnɪ/",
+        "meaning": "adj.极小的，微小的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "tower",
+        "pronunciation": "/ˈtaᴜɚ/",
+        "meaning": "n.塔信号发射塔 v.屹立",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "toxic",
+        "pronunciation": "/ˈtɑksɪk/",
+        "meaning": "adj.有毒的恶毒的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "wicked",
+        "pronunciation": "/ˈwɪkɪd/",
+        "meaning": "adj.邪恶的淘气的危险的很棒的，极好的 n.恶人",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "width",
+        "pronunciation": "/wɪdθ/",
+        "meaning": "n.宽度，广度池宽",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "wild",
+        "pronunciation": "/waɪld/",
+        "meaning": "adj.狂暴的，疯狂的野生的荒凉的 n.野生环境",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "wind",
+        "pronunciation": "/wɪnd/",
+        "meaning": "n.风呼吸废话 v.使气急卷绕上弦蜿蜒，上发条，缠绕",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "wink",
+        "pronunciation": "/wɪŋk/",
+        "meaning": "v.向……眨眼闪烁 n.眨眼，眼色",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "arm",
+        "pronunciation": "/ɑrm/",
+        "meaning": "v.武装提供 n.臂胳膊袖子扶手狭长地带部门",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "army",
+        "pronunciation": "/ˈɑrmɪ/",
+        "meaning": "n.大批，大群陆军，陆军部队",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "congratulate",
+        "pronunciation": "/kənˈɡrætʃəˌlet/",
+        "meaning": "v.祝贺为自己感到自豪称赞",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "congratulation",
+        "pronunciation": "/kənˌɡrætʃᴜˈleʃən/",
+        "meaning": "n.祝贺",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "conjunction",
+        "pronunciation": "/kənˈdʒʌŋkʃən/",
+        "meaning": "n.同时发生连词天体相合",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "conquer",
+        "pronunciation": "/ˈkɑŋkɚ/",
+        "meaning": "v.克服，攻克占领，征服，控制",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "conquest",
+        "pronunciation": "/ˈkɑŋkwest/",
+        "meaning": "n.征服，占领征服的土地被俘虏者克服，控制",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "disaster",
+        "pronunciation": "/dɪˈzæstɚ/",
+        "meaning": "n.灾难，不幸，祸患失败的人或事",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "disastrous",
+        "pronunciation": "/dɪˈzæstrəs/",
+        "meaning": "adj.极糟糕的，灾难性的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "discard",
+        "pronunciation": "/dɪsˈkɑrd/",
+        "meaning": "v.丢弃，抛弃出牌 n.出掉的牌",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "discern",
+        "pronunciation": "/dɪˈsɝn/",
+        "meaning": "v.觉察出，辨别出，了解",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "discharge",
+        "pronunciation": "/dɪsˈtʃɑrdʒ/",
+        "meaning": "v.允许离开，解雇释放尽职，履行排出，放出射出，开火放电 n.获准离开放出，排出履行，执行",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "era",
+        "pronunciation": "/ˈɪrə/",
+        "meaning": "n.时代，年代，纪元",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "eradicate",
+        "pronunciation": "/ɪˈrædɪket/",
+        "meaning": "v.消灭，灭绝，根除",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "erase",
+        "pronunciation": "/ɪˈres/",
+        "meaning": "v.忘却，消除擦掉，抹去",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "erect",
+        "pronunciation": "/ɪˈrɛkt/",
+        "meaning": "v.建造创建 adj.直立的坚挺的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "erode",
+        "pronunciation": "/ɪˈrod/",
+        "meaning": "v.侵蚀，风化削弱贬值",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "erosion",
+        "pronunciation": "/ɪˈroʒ(ə)n/",
+        "meaning": "n.侵蚀，腐蚀削弱，逐渐的破坏逐渐降低糜烂",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "erroneous",
+        "pronunciation": "/ɪˈroniəs/",
+        "meaning": "adj.错误的",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "error",
+        "pronunciation": "/ˈɛrɚ/",
+        "meaning": "n.错误，差错",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "erupt",
+        "pronunciation": "/ɪˈrʌpt/",
+        "meaning": "v.冒出（火山）爆发突然发生发生骚乱迸发情感爆发（岩浆、烟等）喷出",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "escalate",
+        "pronunciation": "/ˈɛskəlet/",
+        "meaning": "v.（使）扩大，加剧",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "escort",
+        "pronunciation": "/ˈeskɔrt/",
+        "meaning": "n.护送者，护卫者陪护，护送社交陪同者 v.护卫，护送陪伴",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "foam",
+        "pronunciation": "/fom/",
+        "meaning": "n.泡沫橡胶，泡沫泡沫剂 v.起泡沫",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "focus",
+        "pronunciation": "/ˈfokəs/",
+        "meaning": "v.集中，聚集调焦使光束等聚焦 n.重点，重心焦点目的调焦",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "fog",
+        "pronunciation": "/fɑg/",
+        "meaning": "n.雾迷惘 v.使雾气笼罩使困惑",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "nourish",
+        "pronunciation": "/ˈnɝɪʃ/",
+        "meaning": "v.培养，抚养助长，支持",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "novel",
+        "pronunciation": "/ˈnɑvl/",
+        "meaning": "adj.新颖的 n.（长篇）小说",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "novelty",
+        "pronunciation": "/ˈnɑvltɪ/",
+        "meaning": "n.新奇事物新奇新奇小玩意儿",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "nowadays",
+        "pronunciation": "/ˈnaᴜəˌdez/",
+        "meaning": "adv.现今，现在，目前",
+        "unit": "基础词 Unit 08"
+    },
+    {
+        "words": "nowhere",
+        "pronunciation": "/ˈnowɛr/",
+        "meaning": "adv.无处，哪里都不",
+        "unit": "基础词 Unit 08"
+    }
+]

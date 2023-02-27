@@ -1,0 +1,428 @@
+[
+    {
+        "words": "shabby",
+        "pronunciation": "/ˈʃæbɪ/",
+        "meaning": "adj.破旧的衣衫褴褛的不公正的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shaft",
+        "pronunciation": "/ʃæft/",
+        "meaning": "n.矿井轴杆，柄一束，一阵讥讽 v.苛待，欺骗",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shake",
+        "pronunciation": "/ʃek/",
+        "meaning": "v.使震颤抖动摇摇动，晃动摆脱 n.奶昔摇动，抖动",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shallow",
+        "pronunciation": "/ˈʃælo/",
+        "meaning": "adj.浅的肤浅的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shame",
+        "pronunciation": "/ʃem/",
+        "meaning": "n.羞耻，羞愧，惭愧让人遗憾的事 v.使羞愧",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shampoo",
+        "pronunciation": "/ʃæmˈpu/",
+        "meaning": "n.洗发剂洗洗涤剂 v.用洗发剂洗",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shatter",
+        "pronunciation": "/ˈʃætɚ/",
+        "meaning": "v.（使）粉碎，破灭严重打击",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shave",
+        "pronunciation": "/ʃev/",
+        "meaning": "v.剃（须发），刮脸削减，调低 n.剃（须发），刮脸",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shear",
+        "pronunciation": "/ʃɪɚ/",
+        "meaning": "v.剪毛 n.大剪刀",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "shed",
+        "pronunciation": "/ʃɛd/",
+        "meaning": "v.去除流，洒使落下散发出光 n.简易房棚式建筑",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "terrible",
+        "pronunciation": "/ˈtɛrəbəl/",
+        "meaning": "adj.非常讨厌的，可怕的严重的质量极差的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "terrific",
+        "pronunciation": "/təˈrɪfɪk/",
+        "meaning": "adj.极好的，极棒的很大的，巨大的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "terrify",
+        "pronunciation": "/ˈtɛrəfaɪ/",
+        "meaning": "v.使害怕",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "territory",
+        "pronunciation": "/ˈtɛrətɔrɪ/",
+        "meaning": "n.领域，地盘领土，版图属地地区",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "terror",
+        "pronunciation": "/ˈtɛrɚ/",
+        "meaning": "n.恐惧，惊骇恐怖行动恐怖的事物讨厌鬼",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "textile",
+        "pronunciation": "/ˈtɛksˌtaɪl/",
+        "meaning": "n.纺织业纺织品",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "texture",
+        "pronunciation": "/ˈtɛkstʃɚ/",
+        "meaning": "n.质地，纹理结构，构造韵味，格调肌理",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "wash",
+        "pronunciation": "/wɑʃ/",
+        "meaning": "v.洗 n.清洗薄涂层水流，波浪",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "waste",
+        "pronunciation": "/west/",
+        "meaning": "v.浪费 n.浪费垃圾废物，废料荒漠，沙漠 adj.荒废的，废弃的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "watch",
+        "pronunciation": "/wɑtʃ/",
+        "meaning": "v.看，观看照看小心 n.表，手表警卫",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "ahead",
+        "pronunciation": "/əˈhɛd/",
+        "meaning": "adv.向前面，在前面提前领先地",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "air-conditioning",
+        "pronunciation": "/ɛr kənˈdɪʃənɪŋ/",
+        "meaning": "n.空调系统",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "aircraft",
+        "pronunciation": "/ˈɛrkræft/",
+        "meaning": "n.飞机，航空器（单复同）",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "aisle",
+        "pronunciation": "/aɪl/",
+        "meaning": "n.走道，过道",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "alert",
+        "pronunciation": "/əˈlɚt/",
+        "meaning": "n.警戒警报 v.提醒，使（某人）意识到 adj.警觉的敏锐的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "align",
+        "pronunciation": "/əˈlaɪn/",
+        "meaning": "v.使一致与……联合使成直线，校准",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "alike",
+        "pronunciation": "/əˈlaɪk/",
+        "meaning": "adv.相同地，相似地两者都 adj.相同的，相似的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "alive",
+        "pronunciation": "/əˈlaɪv/",
+        "meaning": "adj.活着的继续存在的有生气的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "algorithm",
+        "pronunciation": "/ˈælɡəˌrɪðəm/",
+        "meaning": "n.算法，计算程序",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "cheat",
+        "pronunciation": "/tʃit/",
+        "meaning": "v.作弊，舞弊欺骗，蒙骗 n.欺骗行为作弊软件骗子",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "cheque/check",
+        "pronunciation": "/tʃɛk/",
+        "meaning": "n.支票",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chest",
+        "pronunciation": "/tʃɛst/",
+        "meaning": "n.胸大箱子",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chew",
+        "pronunciation": "/tʃu/",
+        "meaning": "v.咀嚼咬 n.咀嚼物口香糖咀嚼",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chief",
+        "pronunciation": "/tʃif/",
+        "meaning": "adj.最高级别的主要的，首要的 n.酋长，首领负责人",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "childhood",
+        "pronunciation": "/ˈtʃaɪldhᴜd/",
+        "meaning": "n.童年，幼年",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chill",
+        "pronunciation": "/tʃɪl/",
+        "meaning": "v.（使）变冷使恐惧放松 adj.寒冷的 n.害怕寒冷，风寒",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chorus",
+        "pronunciation": "/ˈkɔrəs/",
+        "meaning": "n.叠句，副歌异口同声合唱曲合唱团 v.合唱齐声说",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chronic",
+        "pronunciation": "/ˈkrɑnɪk/",
+        "meaning": "adj.慢性的，长期的难以根除的长期患病的糟糕的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "chunk",
+        "pronunciation": "/tʃʌŋk/",
+        "meaning": "n.厚块大量语块",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "pin",
+        "pronunciation": "/pɪn/",
+        "meaning": "n.别针插头管脚保龄球瓶销，栓胸针 v.别住，钉住按住，压住",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "pinch",
+        "pronunciation": "/pɪntʃ/",
+        "meaning": "v.捏，拧，掐，夹偷取 n.捏，拧撮，少量",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "pint",
+        "pronunciation": "/paɪnt/",
+        "meaning": "n.品脱一品脱啤酒",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "delegate",
+        "pronunciation": "/ˈdɛləɡet/",
+        "meaning": "n.代表 v.授权，委托给选出代表",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "delete",
+        "pronunciation": "/dɪˈlit/",
+        "meaning": "v.删除",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "delicious",
+        "pronunciation": "/dɪˈlɪʃəs/",
+        "meaning": "adj.美味的，可口的令人开心的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "delight",
+        "pronunciation": "/dɪˈlaɪt/",
+        "meaning": "n.愉快使人高兴的事 v.使高兴",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "elect",
+        "pronunciation": "/ɪˈlɛkt/",
+        "meaning": "v.选举，推选选择 n.被选的人 adj.未就任的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "electric",
+        "pronunciation": "/ɪˈlɛktrɪk/",
+        "meaning": "adj.电的用电的，电动的令人激动的 n.电，电能",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "electrical",
+        "pronunciation": "/ɪˈlektrɪkl/",
+        "meaning": "adj.电的，用电的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "electrician",
+        "pronunciation": "/ɪlɛkˈtrɪʃən/",
+        "meaning": "n.电工，电气技师",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "elevate",
+        "pronunciation": "/ˈɛləˌvet/",
+        "meaning": "v.提拔，提升使情绪高昂举起，抬起",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "elevator",
+        "pronunciation": "/ˈɛləvetɚ/",
+        "meaning": "n.电梯，升降机粮仓升降舵",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "eligible",
+        "pronunciation": "/ˈɛlɪdʒəbəl/",
+        "meaning": "adj.有资格的，合格的合适的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "eloquent",
+        "pronunciation": "/ˈɛləkwənt/",
+        "meaning": "adj.雄辩的，有说服力的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "embark",
+        "pronunciation": "/ɪmˈbɑrk/",
+        "meaning": "v.开始从事上船，装船",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "embarrass",
+        "pronunciation": "/ɪmˈbærəs/",
+        "meaning": "v.使窘迫使尴尬使难堪",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "emigrate",
+        "pronunciation": "/ˈɛmɪˌɡret/",
+        "meaning": "v.移居国外，移民",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "emit",
+        "pronunciation": "/ɪˈmɪt/",
+        "meaning": "v.发出，射出，散发",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "empire",
+        "pronunciation": "/ˈɛmˌpaɪɚ/",
+        "meaning": "n.帝国企业集团",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "empirical",
+        "pronunciation": "/ɛmˈpɪrɪkəl/",
+        "meaning": "adj.经验主义的，以实验为依据的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "empty",
+        "pronunciation": "/ˈɛmptɪ/",
+        "meaning": "adj.空的无意义的空虚的空洞的 v.倒空，变空 n.空瓶",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "empathy",
+        "pronunciation": "/ˈɛmpəθɪ/",
+        "meaning": "n.同感，共鸣",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "fee",
+        "pronunciation": "/fi/",
+        "meaning": "n.费用专业服务费，报酬",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "feeble",
+        "pronunciation": "/ˈfibəl/",
+        "meaning": "adj.虚弱的，无力的无效的，不佳的",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "grief",
+        "pronunciation": "/ɡrif/",
+        "meaning": "n.悲伤，悲痛伤心事",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "grieve",
+        "pronunciation": "/ɡriv/",
+        "meaning": "v.悲痛使悲伤",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "grin",
+        "pronunciation": "/ɡrɪn/",
+        "meaning": "n.露齿而笑 v.露齿而笑，咧着嘴笑",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "grind",
+        "pronunciation": "/ɡraɪnd/",
+        "meaning": "v.磨碎使锋利用力挤压缓慢移动 n.摩擦声苦差事书呆子",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "office",
+        "pronunciation": "/ˈɔfɪs/",
+        "meaning": "n.办公室政府部门办事处诊所",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "officer",
+        "pronunciation": "/ˈɔfəsɚ/",
+        "meaning": "n.官员，军官管理人员警察",
+        "unit": "基础词 Unit 20"
+    },
+    {
+        "words": "official",
+        "pronunciation": "/əˈfɪʃəl/",
+        "meaning": "n.官员，高级职员裁判员工作人员 adj.官方的，正式的公开的公务的",
+        "unit": "基础词 Unit 20"
+    }
+]

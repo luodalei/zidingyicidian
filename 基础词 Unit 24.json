@@ -1,0 +1,482 @@
+[
+    {
+        "words": "romance",
+        "pronunciation": "/ˈromæns/",
+        "meaning": "n.罗曼史浪漫爱情故事传奇故事",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "romantic",
+        "pronunciation": "/roˈmæntɪk/",
+        "meaning": "adj.浪漫的多情的浪漫主义的空想的 n.浪漫的人",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "bounce",
+        "pronunciation": "/baᴜns/",
+        "meaning": "v.弹起，球弹起反射跳动，上下晃动蹦蹦跳跳地去向……透露想法被拒付被退回 n.弹跳弹性活力头发蓬松",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "bound",
+        "pronunciation": "/baᴜnd/",
+        "meaning": "adj.受……约束的一定会准备前往（某地） v.捆绑（bind过去式和过去分词）跳动形成……的边界 n.跳动界限",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "boundary",
+        "pronunciation": "/ˈbaᴜndərɪ/",
+        "meaning": "n.界限分界线，边界",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "trap",
+        "pronunciation": "/træp/",
+        "meaning": "n.困境捕鼠器，陷阱捕捉器圈套嘴 v.使困住，卡住使落入险境，使陷入圈套设陷阱捕捉收集",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "trash",
+        "pronunciation": "/træʃ/",
+        "meaning": "n.废物垃圾 v.损坏，捣毁痛贬，贬损丢弃",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "travel",
+        "pronunciation": "/ˈtrævəl/",
+        "meaning": "n.旅行，游历 v.周游，游历（尤指长途）旅行传送",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "wooden",
+        "pronunciation": "/ˈwᴜdn/",
+        "meaning": "adj.木制的，木头的呆板的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "work",
+        "pronunciation": "/wɝk/",
+        "meaning": "n.工作（音乐、艺术）作品 v.工作产生作用经营运转",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "worker",
+        "pronunciation": "/ˈwɚkɚ/",
+        "meaning": "n.工作者工人工蜂",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "workout",
+        "pronunciation": "/ˈwɝkaᴜt/",
+        "meaning": "n.训练，锻炼",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "workshop",
+        "pronunciation": "/ˈwɝkʃɑp/",
+        "meaning": "n.研习班车间，工场，作坊",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "as",
+        "pronunciation": "/æz/",
+        "meaning": "prep.作为，当作像，如同 adv.像……一样，如同 conj.如同当……时由于尽管照……方式",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "ascend",
+        "pronunciation": "/əˈsɛnd/",
+        "meaning": "v.攀登，登上上升，升高升职，即位",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "ascertain",
+        "pronunciation": "/æsɚˈten/",
+        "meaning": "v.查明，确定",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "ascribe",
+        "pronunciation": "/əˈskraɪb/",
+        "meaning": "v.把……归咎于认为……具有",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "cool",
+        "pronunciation": "/kul/",
+        "meaning": "v.冷却冷静 n.冷静凉爽 adj.凉的，凉爽的冷色调的冷静的冷漠的可以的妙极的，酷的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "cooperate",
+        "pronunciation": "/koˈɑpəˌret/",
+        "meaning": "v.合作，协作配合",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "cooperative",
+        "pronunciation": "/koˈɑpərətɪv/",
+        "meaning": "adj.合作的，协作的 n.合作企业",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "coordinate",
+        "pronunciation": "/koˈɔrdəˈnet/",
+        "meaning": "v.使协调，使相配合 n.坐标配套服装",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "cope",
+        "pronunciation": "/kop/",
+        "meaning": "v.处理 n.长袍",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "copy",
+        "pronunciation": "/ˈkɑpɪ/",
+        "meaning": "n.复制品一本，一册稿件 v.抄袭模仿复制，复印",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "copyright",
+        "pronunciation": "/ˈkɑpiraɪt/",
+        "meaning": "n.版权，著作权",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "copper",
+        "pronunciation": "/ˈkɑpɚ/",
+        "meaning": "n.铜警察红棕色 adj.铜色的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "cord",
+        "pronunciation": "/kɔrd/",
+        "meaning": "n.粗线，细绳电线灯芯绒索状结构",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "cordial",
+        "pronunciation": "/ˈkɔrdʒəl/",
+        "meaning": "adj.友好的，热诚的强烈的 n.甜果汁饮料烈性甜酒",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "core",
+        "pronunciation": "/kɔr/",
+        "meaning": "adj.最重要的，核心的 n.核心，精髓果核中心部分 v.给……去核",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "corn",
+        "pronunciation": "/kɔrn/",
+        "meaning": "n.麦类作物，谷物鸡眼玉米",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "coronavirus",
+        "pronunciation": "/kɒrənəˈvaɪrəs/",
+        "meaning": "n.冠状病毒",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "correct",
+        "pronunciation": "/kəˈrɛkt/",
+        "meaning": "v.纠正，改正医疗矫正 adj.正确的，恰当的得体的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "correlate",
+        "pronunciation": "/ˈkɔrəlet/",
+        "meaning": "v.相互关联显示联系",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "correspond",
+        "pronunciation": "/ˌkɔrəˈspɑnd/",
+        "meaning": "v.相一致，相当于通信",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "correspondence",
+        "pronunciation": "/ˌkɔrəˈspɑndəns/",
+        "meaning": "n.通信联系关联来往信件",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "correspondent",
+        "pronunciation": "/ˌkɔrəˈspɑndənt/",
+        "meaning": "n.通讯员，记者",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "corrode",
+        "pronunciation": "/kəˈrod/",
+        "meaning": "v.（使）腐蚀，侵蚀",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "corrupt",
+        "pronunciation": "/kəˈrʌpt/",
+        "meaning": "adj.贪污的堕落的损坏的 v.使堕落损坏，破坏",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "dive",
+        "pronunciation": "/daɪv/",
+        "meaning": "v.跳水扑向暴跌潜水俯冲 n.跳水俯冲暴跌假摔潜水",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "divine",
+        "pronunciation": "/dɪˈvaɪn/",
+        "meaning": "adj.天赐的，神的极好的，美妙的 n.牧师，神学家 v.猜测，估计探测",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "divorce",
+        "pronunciation": "/dɪˈvɔrs/",
+        "meaning": "n.离婚分离，脱离 v.与……离婚使分离，使分开",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "dizzy",
+        "pronunciation": "/ˈdɪzɪ/",
+        "meaning": "adj.头晕的太快的，使人头昏眼花的傻乎乎的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "evoke",
+        "pronunciation": "/ɪˈvok/",
+        "meaning": "v.唤起，引起",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "exact",
+        "pronunciation": "/ɪɡˈzækt/",
+        "meaning": "adj.准确的，确切的严谨的精密的 v.要求，索取",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "exceed",
+        "pronunciation": "/ɪkˈsid/",
+        "meaning": "v.超过，超出",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "exceedingly",
+        "pronunciation": "/ɪkˈsidɪŋlɪ/",
+        "meaning": "adv.非常，极其",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "excel",
+        "pronunciation": "/ɪkˈsɛl/",
+        "meaning": "v.突出，擅长",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "except",
+        "pronunciation": "/ɪkˈsɛpt/",
+        "meaning": "conj.除了，只是 prep.除……之外",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "exception",
+        "pronunciation": "/ɪkˈsɛpʃən/",
+        "meaning": "n.例外的人或事物",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "exceptional",
+        "pronunciation": "/ɪkˈsɛpʃənəl/",
+        "meaning": "adj.非凡的特别的，罕见的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "excerpt",
+        "pronunciation": "/ˈɛksɝpt/",
+        "meaning": "n.摘录，节录",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "excess",
+        "pronunciation": "/ˈɛkˌsɛs/",
+        "meaning": "n.过多过量免赔额 adj.过多的，多余的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "gum",
+        "pronunciation": "/ɡʌm/",
+        "meaning": "n.口香糖牙龈胶树脂 v.用胶粘",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "gun",
+        "pronunciation": "/ɡʌn/",
+        "meaning": "n.枪，炮 v.使加速",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "gut",
+        "pronunciation": "/ɡʌt/",
+        "meaning": "n.直觉内脏肠肚腩胆量肠线 adj.非理性的，直觉的 v.取出……的内脏损毁内部",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "interim",
+        "pronunciation": "/ˈɪntərɪm/",
+        "meaning": "adj.暂时的，过渡的期中的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "intermediate",
+        "pronunciation": "/ˌɪntɚˈmidiət/",
+        "meaning": "adj.中间的中级的，中等的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "intermittent",
+        "pronunciation": "/ˌɪntɚˈmɪtənt/",
+        "meaning": "adj.断断续续的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "interrupt",
+        "pronunciation": "/ˌɪntəˈrʌpt/",
+        "meaning": "v.打扰插嘴，打岔遮挡使暂停，使中断",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "intersection",
+        "pronunciation": "/ˌɪntɚˈsekʃn/",
+        "meaning": "n.十字路口交点，相交",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "interval",
+        "pronunciation": "/ˈɪntɚvəl/",
+        "meaning": "n.时间间隔幕间休息",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "interview",
+        "pronunciation": "/ˈɪntɚvju/",
+        "meaning": "v.采访审讯面试 n.面试访谈",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "loyal",
+        "pronunciation": "/ˈlɔɪəl/",
+        "meaning": "adj.忠诚的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "loyalty",
+        "pronunciation": "/ˈlɔɪəltɪ/",
+        "meaning": "n.忠诚，忠实",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "lubricate",
+        "pronunciation": "/ˈlubrəˌket/",
+        "meaning": "v.润滑，给……加润滑油",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "luck",
+        "pronunciation": "/lʌk/",
+        "meaning": "n.好运，幸运成功运气",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "lucky",
+        "pronunciation": "/ˈlʌkɪ/",
+        "meaning": "adj.幸运的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "moist",
+        "pronunciation": "/mɔɪst/",
+        "meaning": "adj.潮湿的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "moisture",
+        "pronunciation": "/ˈmɔɪstʃɚ/",
+        "meaning": "n.湿气，水分",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "molecule",
+        "pronunciation": "/ˈmɑlɪkjul/",
+        "meaning": "n.分子",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "momentum",
+        "pronunciation": "/moˈmɛntəm/",
+        "meaning": "n.势头，冲劲动量，冲量",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "monarch",
+        "pronunciation": "/ˈmɑnɚk/",
+        "meaning": "n.君主，国王",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "monetary",
+        "pronunciation": "/ˈmʌnɪtɛrɪ/",
+        "meaning": "adj.货币的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "monitor",
+        "pronunciation": "/ˈmɑnɪtɚ/",
+        "meaning": "v.监视，监测，监控 n.监视器，监测仪班长监督员",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "monster",
+        "pronunciation": "/ˈmɑnstɚ/",
+        "meaning": "n.怪物庞然大物恶人，恶魔 adj.巨大的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "monument",
+        "pronunciation": "/ˈmɑnjumənt/",
+        "meaning": "n.纪念碑（馆、堂、像等）丰碑历史遗迹",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "pride",
+        "pronunciation": "/praɪd/",
+        "meaning": "v.为……感到自豪 n.自豪，骄傲尊严",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "priest",
+        "pronunciation": "/prist/",
+        "meaning": "n.教士，神父，牧师，祭司",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "prize",
+        "pronunciation": "/praɪz/",
+        "meaning": "n.奖（品）珍贵的人或物 v.重视，珍惜撬 adj.获奖的",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "probability",
+        "pronunciation": "/ˌprɑbəˈbɪlətɪ/",
+        "meaning": "n.可能性，概率可能发生的事",
+        "unit": "基础词 Unit 24"
+    },
+    {
+        "words": "probable",
+        "pronunciation": "/ˈprɑbəbl/",
+        "meaning": "adj.可能的",
+        "unit": "基础词 Unit 24"
+    }
+]

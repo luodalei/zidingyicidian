@@ -1,0 +1,500 @@
+[
+    {
+        "words": "bump",
+        "pronunciation": "/bʌmp/",
+        "meaning": "v.碰，撞颠簸而行赶走 n.碰撞肿块隆起之处",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "burn",
+        "pronunciation": "/bɝn/",
+        "meaning": "v.发光燃烧烧焦，烫伤，晒伤极度渴望发烫 n.烫伤",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "burst",
+        "pronunciation": "/bɝst/",
+        "meaning": "n.突发，迸发爆裂 v.（使）爆裂，爆发爆满迫切突然出现",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "bury",
+        "pronunciation": "/ˈbɛrɪ/",
+        "meaning": "v.埋葬，安葬掩藏覆盖埋藏失去",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "crime",
+        "pronunciation": "/kraɪm/",
+        "meaning": "n.犯罪活动罪行罪过，严重错误",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "criminal",
+        "pronunciation": "/ˈkrɪmənəl/",
+        "meaning": "adj.犯法的罪过的，严重错误的 n.罪犯",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "cripple",
+        "pronunciation": "/ˈkrɪpəl/",
+        "meaning": "n.残疾人，跛子 v.使残疾严重毁坏",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "crisp",
+        "pronunciation": "/krɪsp/",
+        "meaning": "adj.脆的易碎的平展的凉爽的干冷的 n.炸薯片酥皮点心 v.使变脆",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "criterion",
+        "pronunciation": "/kraɪˈtɪriən/",
+        "meaning": "n.标准，原则",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "crop",
+        "pronunciation": "/krɑp/",
+        "meaning": "n.庄稼，作物一批，一帮一季的收成 v.结果实，有收成修剪，剪裁",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "cross",
+        "pronunciation": "/krɔs/",
+        "meaning": "n.十字记号混合物，杂交品种十字架 v.穿过（马路等）超过使杂交交叉，相交渡过（河） adj.交叉的，十字的生气的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "crow",
+        "pronunciation": "/kro/",
+        "meaning": "v.鸡叫自夸 n.乌鸦",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "crowd",
+        "pronunciation": "/kraᴜd/",
+        "meaning": "n.一群人人群民众观众 v.大批涌入聚集盯着",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "crown",
+        "pronunciation": "/kraᴜn/",
+        "meaning": "n.王国王冠，皇冠王权顶部 v.加冕使圆满加顶",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "exquisite",
+        "pronunciation": "/ɪkˈskwɪzɪt/",
+        "meaning": "adj.精美的，精致的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "exterior",
+        "pronunciation": "/ɪkˈstɪrɪɚ/",
+        "meaning": "n.外部，外观 adj.外部的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "external",
+        "pronunciation": "/ɪkˈstɝnl/",
+        "meaning": "adj.外部的，外来的对外的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "extra",
+        "pronunciation": "/ˈekstrə/",
+        "meaning": "adj.额外的，另外的费用另计的 adv.额外格外 n.额外费用额外之物临时演员",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "extract",
+        "pronunciation": "/ɪkˈstrækt/",
+        "meaning": "v.设法获取提取，提炼摘录（用力）拔出 n.提取物摘录",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "extraordinary",
+        "pronunciation": "/ɪkˈstrɔrdənɛrɪ/",
+        "meaning": "adj.不一般的，非凡的意想不到的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "friendly",
+        "pronunciation": "/ˈfrɛndlɪ/",
+        "meaning": "adj.友好的舒适的友谊的 n.友谊赛",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "friendship",
+        "pronunciation": "/ˈfrɛndˌʃɪp/",
+        "meaning": "n.友好关系友谊，友情",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "fright",
+        "pronunciation": "/fraɪt/",
+        "meaning": "n.惊吓，恐怖惊吓体验，恐怖的经历",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "frighten",
+        "pronunciation": "/ˈfraɪtn/",
+        "meaning": "v.使惊吓，使惊恐",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "fringe",
+        "pronunciation": "/frɪndʒ/",
+        "meaning": "n.穗，流苏刘海，额前短发周边，边缘次要部分 v.形成……边缘",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "frontier",
+        "pronunciation": "/frʌnˈtɪɚ/",
+        "meaning": "n.边境，国界前沿地带边远地区",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "frost",
+        "pronunciation": "/frɔst/",
+        "meaning": "n.霜，霜冻严寒天气 v.挑染给……撒糖霜使蒙上霜，结霜",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "frown",
+        "pronunciation": "/fraᴜn/",
+        "meaning": "v.皱眉 n.皱眉",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "fry",
+        "pronunciation": "/fraɪ/",
+        "meaning": "v.用油煎，用油炸 n.鱼苗油煎的食物",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "fuel",
+        "pronunciation": "/ˈfjuəl/",
+        "meaning": "n.燃料刺激因素刺激性言行 v.刺激，加剧提供燃料",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "fume",
+        "pronunciation": "/fjum/",
+        "meaning": "n.烟气 v.生气冒烟",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "funeral",
+        "pronunciation": "/ˈfjunərəl/",
+        "meaning": "n.葬礼",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "humid",
+        "pronunciation": "/ˈhjumɪd/",
+        "meaning": "adj.温暖潮湿的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "humidity",
+        "pronunciation": "/hjuˈmɪdɪtɪ/",
+        "meaning": "n.潮湿湿度",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "humiliate",
+        "pronunciation": "/hjuˈmɪliˌet/",
+        "meaning": "v.羞辱，使蒙羞",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "humor",
+        "pronunciation": "/ˈhjumɚ/",
+        "meaning": "n.幽默心情，精神状态 v.迁就",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "humorous",
+        "pronunciation": "/ˈhjumərəs/",
+        "meaning": "adj.有幽默感的，滑稽有趣的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hunt",
+        "pronunciation": "/hʌnt/",
+        "meaning": "v.搜寻打猎追捕 n.猎狐队伍寻找",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hurl",
+        "pronunciation": "/hɝl/",
+        "meaning": "v.猛投，用力掷",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hurricane",
+        "pronunciation": "/ˈhɝɪken/",
+        "meaning": "n.飓风",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hygiene",
+        "pronunciation": "/ˈhaɪdʒin/",
+        "meaning": "n.卫生",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hypothesis",
+        "pronunciation": "/haɪˈpɑθəsɪs/",
+        "meaning": "n.假说，假设猜想",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hysterical",
+        "pronunciation": "/hɪˈstɛrɪkəl/",
+        "meaning": "adj.歇斯底里的极可笑的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "hypocrisy",
+        "pronunciation": "/hɪˈpɑkrəsɪ/",
+        "meaning": "n.虚伪，伪善",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "invent",
+        "pronunciation": "/ɪnˈvɛnt/",
+        "meaning": "v.发明编造，虚构",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "invention",
+        "pronunciation": "/ɪnˈvɛnʃən/",
+        "meaning": "n.发明发明物虚构事物发明才能",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "inventory",
+        "pronunciation": "/ˈɪnvənˌtɔrɪ/",
+        "meaning": "n.存货详细目录，清单",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "inverse",
+        "pronunciation": "/ˌɪnˈvɝs/",
+        "meaning": "adj.相反的，相逆的 n.相反，反面",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "invert",
+        "pronunciation": "/ɪnˈvɝt/",
+        "meaning": "v.使颠倒，使倒置",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "invitation",
+        "pronunciation": "/ˌɪnvɪˈteʃən/",
+        "meaning": "n.邀请请求诱因请帖",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "inward",
+        "pronunciation": "/ˈɪnwɚd/",
+        "meaning": "adj.内心的，精神的向内的，向中心的 adv.内心地，向内地",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "oval",
+        "pronunciation": "/ˈovl/",
+        "meaning": "adj.椭圆形的 n.椭圆",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overflow",
+        "pronunciation": "/ˌovɚˈflo/",
+        "meaning": "v.溢出充满有许多，泛滥 n.溢流口液体溢出容纳不下的人",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overhaul",
+        "pronunciation": "/ˌovɚˈhɔl/",
+        "meaning": "n.检修，全面修改 v.彻底检修，大修改造",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overhead",
+        "pronunciation": "/ˈovɚhɛd/",
+        "meaning": "n.经费 adj.头顶上的，空中的经费的 adv.在头顶，空中",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overhear",
+        "pronunciation": "/ˌovɚˈhɪɚ/",
+        "meaning": "v.偶然听到，偷听到",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overnight",
+        "pronunciation": "/ˌovɚˈnaɪt/",
+        "meaning": "adv.在夜间突然，一下子一夜之间 adj.在夜间的一夜之间的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overt",
+        "pronunciation": "/oˈvɝt/",
+        "meaning": "adj.公开的，明显的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overtake",
+        "pronunciation": "/ˌovɚˈtek/",
+        "meaning": "v.超过突然发生",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overthrow",
+        "pronunciation": "/ˌovɚˈθro/",
+        "meaning": "v.推翻，打倒 n.推翻，打倒",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "overtime",
+        "pronunciation": "/ˈovɚtaɪm/",
+        "meaning": "n.加班，加班费加时赛",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "prone",
+        "pronunciation": "/pron/",
+        "meaning": "adj.易于遭受的俯卧的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "pronounce",
+        "pronunciation": "/prəˈnaᴜns/",
+        "meaning": "v.发音宣布",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "propagate",
+        "pronunciation": "/ˈprɑpəget/",
+        "meaning": "v.散播，宣传繁殖，繁衍",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "propaganda",
+        "pronunciation": "/ˌprɑpəˈgændə/",
+        "meaning": "n.宣传，鼓吹",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "prophet",
+        "pronunciation": "/ˈprɑfɪt/",
+        "meaning": "n.先知预言家",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "roof",
+        "pronunciation": "/ruf/",
+        "meaning": "v.盖屋顶 n.屋顶车顶顶部",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "rope",
+        "pronunciation": "/rop/",
+        "meaning": "n.绳子，绳索一条，一串 v.捆，绑，系",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "rotate",
+        "pronunciation": "/ˈrotet/",
+        "meaning": "v.（使）旋转（使）轮流",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "rot",
+        "pronunciation": "/rɑt/",
+        "meaning": "n.腐烂，腐败废话，胡说 v.(使)腐烂状况越来越糟",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "rotten",
+        "pronunciation": "/ˈrɑtn/",
+        "meaning": "adj.腐烂的，腐败的非常糟糕的坏透了的感到不适的 adv.很大程度上",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "rough",
+        "pronunciation": "/rʌf/",
+        "meaning": "adj.汹涌的粗略的粗糙的 n.草图暴徒 adv.粗鲁地",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "round",
+        "pronunciation": "/raᴜnd/",
+        "meaning": "n.一系列活动一轮，一场一巡饮料一发子弹 prep.在……周围，围绕绕过在某处处处在……各处 v.绕过使变圆对……取整 adv.到处环绕朝反方向逐一，挨个在某处大约 adj.整数的圆形的，球形的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "roundabout",
+        "pronunciation": "/ˈraᴜndəˌbaᴜt/",
+        "meaning": "n.环岛旋转木马旋转椅 adj.转弯抹角的迂回的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "rouse",
+        "pronunciation": "/raᴜz/",
+        "meaning": "v.唤醒使活跃起来使激动激起",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "suite",
+        "pronunciation": "/swit/",
+        "meaning": "n.套间一套家具组曲套装组件",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "sum",
+        "pronunciation": "/sʌm/",
+        "meaning": "n.金额，款项算术全部总数，总和 v.总结，概括",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "summary",
+        "pronunciation": "/ˈsʌmərɪ/",
+        "meaning": "n.总结，摘要 adj.立即的，速决的",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "summit",
+        "pronunciation": "/ˈsʌmɪt/",
+        "meaning": "n.峰会，首脑会议山顶，最高点",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "summon",
+        "pronunciation": "/ˈsʌmən/",
+        "meaning": "v.召集召唤鼓起传唤请求",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "sunrise",
+        "pronunciation": "/ˈsʌnˌraɪz/",
+        "meaning": "n.日出朝霞",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "sunset",
+        "pronunciation": "/ˈsʌnˌsɛt/",
+        "meaning": "n.日落黄昏晚霞",
+        "unit": "基础词 Unit 30"
+    },
+    {
+        "words": "sunshine",
+        "pronunciation": "/ˈsʌnˌʃaɪn/",
+        "meaning": "n.阳光",
+        "unit": "基础词 Unit 30"
+    }
+]

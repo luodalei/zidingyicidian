@@ -1,0 +1,518 @@
+[
+    {
+        "words": "skate",
+        "pronunciation": "/sket/",
+        "meaning": "n.溜冰鞋旱冰鞋鳐鱼 v.滑滑板滑冰",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "ski",
+        "pronunciation": "/ski/",
+        "meaning": "v.滑雪 n.滑雪板 adj.滑雪的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skill",
+        "pronunciation": "/skɪl/",
+        "meaning": "n.技艺，技巧",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skilled",
+        "pronunciation": "/skɪld/",
+        "meaning": "adj.有技术的，熟练的需要特殊技能的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skilful",
+        "pronunciation": "/ˈskɪlfəl/",
+        "meaning": "adj.擅长于",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skim",
+        "pronunciation": "/skɪm/",
+        "meaning": "v.略读撇去掠过",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skin",
+        "pronunciation": "/skɪn/",
+        "meaning": "n.皮，皮肤薄皮，薄层果皮 v.将……去皮",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skip",
+        "pronunciation": "/skɪp/",
+        "meaning": "v.不参加跳跃遗漏悄悄溜走跳绳 n.蹦跳废料桶",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skull",
+        "pronunciation": "/skʌl/",
+        "meaning": "n.头骨，颅骨脑袋",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "skyscraper",
+        "pronunciation": "/ˈskaɪˌskrepɚ/",
+        "meaning": "n.摩天大楼",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slam",
+        "pronunciation": "/slæm/",
+        "meaning": "v.砰地关上摔猛烈抨击猛烈撞击 n.猛击，撞击的声音",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slap",
+        "pronunciation": "/slæp/",
+        "meaning": "v.打，拍，掴啪地一声放下 adv.恰好 n.打，拍，掴",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slaughter",
+        "pronunciation": "/ˈslɔtɚ/",
+        "meaning": "v.杀戮，残杀屠宰使惨败 n.杀戮，残杀屠宰",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "sleeve",
+        "pronunciation": "/sliv/",
+        "meaning": "n.袖子唱片套",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slender",
+        "pronunciation": "/ˈslɛndɚ/",
+        "meaning": "adj.苗条的，修长的微弱的，少量的细长的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slice",
+        "pronunciation": "/slaɪs/",
+        "meaning": "n.份额薄片 v.把……切成薄片",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slide",
+        "pronunciation": "/slaɪd/",
+        "meaning": "v.（使）滑行，滑动悄然做某事陷入下滑 n.载玻片降低，跌落打滑滑坡幻灯片滑梯",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slight",
+        "pronunciation": "/slaɪt/",
+        "meaning": "adj.微不足道的轻微的瘦小的细小的 v.冷落，轻视 n.冷落，轻视",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "slim",
+        "pronunciation": "/slɪm/",
+        "meaning": "adj.单薄的不足的，小的苗条的 v.减肥",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "climate",
+        "pronunciation": "/ˈklaɪmɪt/",
+        "meaning": "n.气候局势，风气",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "climax",
+        "pronunciation": "/ˈklaɪˌmæks/",
+        "meaning": "n.高潮，顶点巅峰 v.（使）接近高潮到达巅峰",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "climb",
+        "pronunciation": "/klaɪm/",
+        "meaning": "v.爬升爬上涨 n.攀登，爬山攀登的地方增加",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "clip",
+        "pronunciation": "/klɪp/",
+        "meaning": "n.片段回形针，夹子首饰别针修剪 v.剪下修剪碰撞夹住，别住",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "cloak",
+        "pronunciation": "/klok/",
+        "meaning": "v.掩藏，遮盖 n.斗篷，披风遮盖物伪装，幌子",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "clockwise",
+        "pronunciation": "/ˈklɑkwaɪz/",
+        "meaning": "adv.按顺时针方向 adj.顺时针方向的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "clone",
+        "pronunciation": "/klon/",
+        "meaning": "v.克隆，以无性繁殖技术复制 n.翻版克隆机克隆动物（或植物）",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "descend",
+        "pronunciation": "/dɪˈsɛnd/",
+        "meaning": "v.下来，下降下倾降临，来临",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "descendant",
+        "pronunciation": "/dɪˈsɛndənt/",
+        "meaning": "n.后裔，后代，子孙派生物，衍生物",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "descent",
+        "pronunciation": "/dɪˈsɛnt/",
+        "meaning": "n.下降，下落斜坡恶化出身下坡",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "desert",
+        "pronunciation": "/ˈdɛzɚt/",
+        "meaning": "n.沙漠 v.抛弃丧失当逃兵",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "endow",
+        "pronunciation": "/ɪnˈdaᴜ/",
+        "meaning": "v.赋予资助，捐助",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "endure",
+        "pronunciation": "/ɪnˈdjᴜr/",
+        "meaning": "v.持续存在忍耐",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "endurance",
+        "pronunciation": "/ɪnˈdᴜrəns/",
+        "meaning": "n.忍耐力，耐久力",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "graph",
+        "pronunciation": "/ɡræf/",
+        "meaning": "n.图，图表，曲线图",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "graphic",
+        "pronunciation": "/ˈɡræfɪk/",
+        "meaning": "adj.形象的，具体的绘画的，图案的 n.图表，图形，图画",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "grateful",
+        "pronunciation": "/ˈɡretfəl/",
+        "meaning": "adj.感激的，表示感谢的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "gratitude",
+        "pronunciation": "/ˈgrætɪtud/",
+        "meaning": "n.感激之情，感谢",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "grave",
+        "pronunciation": "/grev/",
+        "meaning": "n.坟墓死亡 adj.严重的，严肃的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "gravity",
+        "pronunciation": "/ˈɡrævətɪ/",
+        "meaning": "n.重力，引力严重性庄重",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "graze",
+        "pronunciation": "/ɡrez/",
+        "meaning": "v.放牧擦伤擦过吃青草 n.擦伤",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "grease",
+        "pronunciation": "/ɡris/",
+        "meaning": "n.润滑油油脂 v.给……加润滑油，抹油",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "inhabit",
+        "pronunciation": "/ɪnˈhæbɪt/",
+        "meaning": "v.居住于，栖居在",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "inhabitant",
+        "pronunciation": "/ɪnˈhæbɪtənt/",
+        "meaning": "n.居民栖居的动物",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "inhale",
+        "pronunciation": "/ɪnˈhel/",
+        "meaning": "v.吸入",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "inherent",
+        "pronunciation": "/ɪnˈhɪrənt/",
+        "meaning": "adj.内在的，固有的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "inherit",
+        "pronunciation": "/ɪnˈhɛrɪt/",
+        "meaning": "v.继承，传承经遗传获得接手，承担",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "inhibit",
+        "pronunciation": "/ɪnˈhɪbɪt/",
+        "meaning": "v.抑制，约束使……拘谨",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "medal",
+        "pronunciation": "/ˈmɛdl/",
+        "meaning": "n.奖章，勋章 v.获得奖牌",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "medical",
+        "pronunciation": "/ˈmɛdɪkəl/",
+        "meaning": "adj.医疗的，医学的 n.体格检查",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "medicine",
+        "pronunciation": "/ˈmɛdɪsɪn/",
+        "meaning": "n.医学药",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "medieval",
+        "pronunciation": "/ˌmidiˈivəl/",
+        "meaning": "adj.中世纪的，中古时期的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "meet",
+        "pronunciation": "/mit/",
+        "meaning": "v.满足遇见，相逢会晤结识迎接相交遭遇 n.运动会集会，开会",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "melody",
+        "pronunciation": "/ˈmɛlədɪ/",
+        "meaning": "n.曲调歌曲",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "melt",
+        "pronunciation": "/mɛlt/",
+        "meaning": "v.融化情绪等消散",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plight",
+        "pronunciation": "/plaɪt/",
+        "meaning": "n.困境，苦境 v.保证，约定",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plough/plow",
+        "pronunciation": "/plaᴜ/",
+        "meaning": "n.犁 v.犁，耕",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plug",
+        "pronunciation": "/plʌɡ/",
+        "meaning": "v.插，塞射击宣传封堵补足 n.（电源）插座，插头塞子堵塞物宣传",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plumber",
+        "pronunciation": "/ˈplʌmɚ/",
+        "meaning": "n.管子工，水暖工",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plunge",
+        "pronunciation": "/plʌndʒ/",
+        "meaning": "v.纵身投入（使）骤降 n.投入突然陷入骤降",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plural",
+        "pronunciation": "/ˈplᴜrəl/",
+        "meaning": "adj.复数的，复数形式的 n.复数，复数形式",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "plus",
+        "pronunciation": "/plʌs/",
+        "meaning": "conj.而且，此外加，加上 prep.加，加上 n.有利因素加号 adj.正的，零上的有利的略多的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "fiber/fibre",
+        "pronunciation": "/ˈfaɪbɚ/",
+        "meaning": "n.纤维",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "file",
+        "pronunciation": "/faɪl/",
+        "meaning": "v.提起（诉讼）归档发送纵队行进锉 n.文件夹锉刀排成一行文件档案",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "fill",
+        "pronunciation": "/fɪl/",
+        "meaning": "v.（使）充满，装满填塞担任充斥",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "film",
+        "pronunciation": "/fɪlm/",
+        "meaning": "n.电影影像资料胶卷薄层塑料薄膜 v.拍摄",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "filter",
+        "pronunciation": "/ˈfɪltɚ/",
+        "meaning": "v.慢慢传开过滤渗入，透过 n.滤器，过滤器滤镜转弯信号灯",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "relax",
+        "pronunciation": "/rɪˈlæks/",
+        "meaning": "v.放松使松弛放宽",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "relay",
+        "pronunciation": "/ˈrile/",
+        "meaning": "n.接力赛接班的人 v.转发转播",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "release",
+        "pronunciation": "/rɪˈlis/",
+        "meaning": "v.释放，放出放开发布免除发泄放松发行 n.释放发布泄露解脱发行物",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "relief",
+        "pronunciation": "/rɪˈlif/",
+        "meaning": "n.（焦虑、痛苦的）减轻或消除轻松，解脱救济",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "relieve",
+        "pronunciation": "/rɪˈliv/",
+        "meaning": "v.缓解使有趣解围救济给（某人）换班",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "relish",
+        "pronunciation": "/ˈrɛlɪʃ/",
+        "meaning": "v.喜爱渴望 n.佐料享受，乐趣",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "reluctant",
+        "pronunciation": "/rɪˈlʌktənt/",
+        "meaning": "adj.不情愿的，勉强的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "treasure",
+        "pronunciation": "/ˈtrɛʒɚ/",
+        "meaning": "n.珍品，珍宝珠宝财富 v.珍藏，珍爱",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "tremble",
+        "pronunciation": "/ˈtrɛmbəl/",
+        "meaning": "v.颤抖，发抖 n.颤抖",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "tremendous",
+        "pronunciation": "/trɪˈmɛndəs/",
+        "meaning": "adj.巨大的，极大的极好的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "trench",
+        "pronunciation": "/trɛntʃ/",
+        "meaning": "n.壕沟战壕海沟",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "usage",
+        "pronunciation": "/ˈjusɪdʒ/",
+        "meaning": "n.使用用法利用度",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "useful",
+        "pronunciation": "/ˈjusfəl/",
+        "meaning": "adj.有用的",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "utmost",
+        "pronunciation": "/ˈʌtmost/",
+        "meaning": "adj.最大的 n.最大限度",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "bold",
+        "pronunciation": "/bold/",
+        "meaning": "adj.大胆自信的，敢于冒险的莽撞的鲜明的清晰的 n.黑体字",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "bolt",
+        "pronunciation": "/bolt/",
+        "meaning": "n.螺栓闩闪电匹，卷弩箭 v.用螺栓固定闩上奔跑狼吞虎咽",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "bolster",
+        "pronunciation": "/ˈbolstɚ/",
+        "meaning": "v.增强，改善巩固 n.长枕，垫枕",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "bomb",
+        "pronunciation": "/bɑm/",
+        "meaning": "v.轰炸，对……投炸弹疾行失败 n.炸弹核武器",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "bond",
+        "pronunciation": "/bɑnd/",
+        "meaning": "n.密切联系纽带，关系债券 v.增强信任关系使牢固结合",
+        "unit": "基础词 Unit 19"
+    },
+    {
+        "words": "bone",
+        "pronunciation": "/bon/",
+        "meaning": "n.骨头，骨骼鱼刺 v.剔骨",
+        "unit": "基础词 Unit 19"
+    }
+]

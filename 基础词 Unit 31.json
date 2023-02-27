@@ -1,0 +1,4286 @@
+[
+    {
+        "words": "about",
+        "pronunciation": "/əˈbaᴜt/",
+        "meaning": "prep.关于对，就为了围绕 adv.大约到处 adj.现成的即将做的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "accustom",
+        "pronunciation": "/əˈkʌstəm/",
+        "meaning": "v.使习惯，使适应",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "acre",
+        "pronunciation": "/ˈekɚ/",
+        "meaning": "n.英亩",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "actor",
+        "pronunciation": "/ˈæktɚ/",
+        "meaning": "n.演员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "actress",
+        "pronunciation": "/ˈæktrɪs/",
+        "meaning": "n.女演员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "adjective",
+        "pronunciation": "/ˈædʒɪktɪv/",
+        "meaning": "n.形容词 adj.额外的，从属的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "administer",
+        "pronunciation": "/ædˈmɪnɪstɚ/",
+        "meaning": "v.掌管执行给予",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "aeroplane/airplane",
+        "pronunciation": "/ˈɛrəplen/",
+        "meaning": "n.飞机",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "afraid",
+        "pronunciation": "/əˈfred/",
+        "meaning": "adj.害怕的担心的，忧虑的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "after",
+        "pronunciation": "/ˈæftɚ/",
+        "meaning": "prep.在（时间）后在……后，接着追求依照……命名模仿 adv.后来，在后面 conj.在……以后",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "aftermath",
+        "pronunciation": "/ˈæftɚmæθ/",
+        "meaning": "n.后果，余波，创伤",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "afternoon",
+        "pronunciation": "/ˌæftɚˈnun/",
+        "meaning": "n.下午",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "again",
+        "pronunciation": "/əˈɡɛn/",
+        "meaning": "adv.又一次，再一次返回原处，复原",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "agent",
+        "pronunciation": "/ˈedʒənt/",
+        "meaning": "n.代理人，经纪人原动力，动因间谍作用剂实施者，施动者",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ago",
+        "pronunciation": "/əˈgo/",
+        "meaning": "adv.以前",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "agree",
+        "pronunciation": "/əˈɡri/",
+        "meaning": "v.同意，赞同达成一致商定",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "agriculture",
+        "pronunciation": "/ˈæɡrɪˌkʌltʃɚ/",
+        "meaning": "n.农业，农学",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "air",
+        "pronunciation": "/ɛɚ/",
+        "meaning": "n.天空空气空运氛围 v.播送，播放使公开使通风",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "albeit",
+        "pronunciation": "/ɔlˈbiɪt/",
+        "meaning": "conj.尽管，虽然",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "album",
+        "pronunciation": "/ˈælbəm/",
+        "meaning": "n.唱片集，专辑簿，册",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "alcohol",
+        "pronunciation": "/ˈælkəhɔl/",
+        "meaning": "n.酒，酒精含酒精饮料",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "almost",
+        "pronunciation": "/ˈɔlmost/",
+        "meaning": "adv.几乎，差不多",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "aloud",
+        "pronunciation": "/əˈlaᴜd/",
+        "meaning": "adv.大声地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "already",
+        "pronunciation": "/ɔlˈrɛdɪ/",
+        "meaning": "adv.已经，早已",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "also",
+        "pronunciation": "/ˈɔlso/",
+        "meaning": "adv.还，也",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "aluminium/aluminum",
+        "pronunciation": "/əˈlu:mɪnəm/",
+        "meaning": "n.铝",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "always",
+        "pronunciation": "/ˈɔlwez/",
+        "meaning": "adv.总是，一直",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ambulance",
+        "pronunciation": "/ˈæmbjələns/",
+        "meaning": "n.救护车",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "animal",
+        "pronunciation": "/ˈænəməl/",
+        "meaning": "n.兽，动物衣冠禽兽某类型的人 adj.源自动物的肉体的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "another",
+        "pronunciation": "/əˈnʌðɚ/",
+        "meaning": "pron.另一，又一 det.另一个，再一个别的非常相似的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ant",
+        "pronunciation": "/ænt/",
+        "meaning": "n.蚂蚁",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "archeology",
+        "pronunciation": "/ˌɑrkiˈɑlədʒɪ/",
+        "meaning": "n.考古学",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "April",
+        "pronunciation": "/ˈeprəl/",
+        "meaning": "n.四月",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "arithmetic",
+        "pronunciation": "/əˈrɪθmətɪk/",
+        "meaning": "n.算术算术运算 adj.算术的，运算的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "aside",
+        "pronunciation": "/əˈsaɪd/",
+        "meaning": "adv.在旁边除……之外留，存 n.旁白题外话",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "astronaut",
+        "pronunciation": "/ˈæstrəˌnɔt/",
+        "meaning": "n.宇航员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "astronomy",
+        "pronunciation": "/əˈstrɑnəmɪ/",
+        "meaning": "n.天文学",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "atom",
+        "pronunciation": "/ˈætəm/",
+        "meaning": "n.原子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ask",
+        "pronunciation": "/æsk/",
+        "meaning": "v.问请求，要求邀请要价",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "at",
+        "pronunciation": "/æt/",
+        "meaning": "prep.在某处、某时间等向，朝处于某状态由于按照，根据（提供电话号码等时使用）（后面接邮件地址）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "athlete",
+        "pronunciation": "/ˈæθˌlit/",
+        "meaning": "n.运动员运动型人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "auto/automobile",
+        "pronunciation": "/ˈɑtəmobil/",
+        "meaning": "n.汽车",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "autumn",
+        "pronunciation": "/ˈɔtəm/",
+        "meaning": "n.秋天",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "aviation",
+        "pronunciation": "/ˌeviˈeʃən/",
+        "meaning": "n.航空制造业，航空航天学飞行",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "away",
+        "pronunciation": "/əˈwe/",
+        "meaning": "adv.离去，离开相距向一边在别处渐逝地在客场",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bacon",
+        "pronunciation": "/ˈbekən/",
+        "meaning": "n.咸肉，熏肉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bag",
+        "pronunciation": "/bæɡ/",
+        "meaning": "v.获奖把……装袋占据捕获 n.包一袋之量眼袋丑妇猎获纸袋，塑料袋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "balcony",
+        "pronunciation": "/ˈbælkənɪ/",
+        "meaning": "n.阳台楼座，楼厅",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "balloon",
+        "pronunciation": "/bəˈlun/",
+        "meaning": "n.气球热气球 v.像气球般膨胀，激增",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "banana",
+        "pronunciation": "/bəˈnænə/",
+        "meaning": "n.香蕉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bank",
+        "pronunciation": "/bæŋk/",
+        "meaning": "n.银行库岸，堤岸斜坡（一）排，一团 v.存钱入银行开账户（使）堆积",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "barber",
+        "pronunciation": "/ˈbɑrbɚ/",
+        "meaning": "n.男理发师理发店",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "baseball",
+        "pronunciation": "/ˈbesˌbɔl/",
+        "meaning": "n.棒球运动棒球",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "basket",
+        "pronunciation": "/ˈbæskɪt/",
+        "meaning": "n.篮，筐一篮之量（篮球运动的）篮",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "basin",
+        "pronunciation": "/ˈbesɪn/",
+        "meaning": "n.盆内港，内湾流域，盆地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "basketball",
+        "pronunciation": "/ˈbæskɪtbɔl/",
+        "meaning": "n.篮球",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bat",
+        "pronunciation": "/bæt/",
+        "meaning": "n.球棒，球拍蝙蝠 v.击球",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bathroom",
+        "pronunciation": "/ˈbæθrum/",
+        "meaning": "n.浴室，洗手间",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "be",
+        "pronunciation": "/bi/",
+        "meaning": "v.是，就是变成存在 aux.被正在",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "beach",
+        "pronunciation": "/bitʃ/",
+        "meaning": "n.沙滩，海滩 v.使上岸",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bean",
+        "pronunciation": "/bin/",
+        "meaning": "n.豆，豆荚豆形种子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "beautiful",
+        "pronunciation": "/ˈbjutəfəl/",
+        "meaning": "adj.美好的，极好的美丽的仁慈的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "beauty",
+        "pronunciation": "/ˈbjutɪ/",
+        "meaning": "n.美，美丽好处，优点美人美好的东西 adj.美容的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "because",
+        "pronunciation": "/bɪˈkɑz/",
+        "meaning": "conj.因为",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bed",
+        "pronunciation": "/bɛd/",
+        "meaning": "n.床花坛河床底层，基座",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bee",
+        "pronunciation": "/bi/",
+        "meaning": "n.蜜蜂一小组人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "beef",
+        "pronunciation": "/bif/",
+        "meaning": "n.牛肉抱怨 v.抱怨",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "beer",
+        "pronunciation": "/bɪɚ/",
+        "meaning": "n.啤酒一杯啤酒",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bell",
+        "pronunciation": "/bɛl/",
+        "meaning": "n.门铃钟钟（声），铃（声）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "best",
+        "pronunciation": "/bɛst/",
+        "meaning": "adj.最好的 v.击败，战胜 n.最好的人或事 adv.最好地最，最高程度地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "beverage",
+        "pronunciation": "/ˈbɛvərɪdʒ/",
+        "meaning": "n.饮料",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bible",
+        "pronunciation": "/ˈbaɪbl/",
+        "meaning": "n.宝典，权威著作",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "big",
+        "pronunciation": "/bɪɡ/",
+        "meaning": "adj.大的严重的多的影响力大的年长的 adv.大给人印象深刻地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bird",
+        "pronunciation": "/bɝd/",
+        "meaning": "n.鸟小妞某类人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "birthday",
+        "pronunciation": "/ˈbɝθde/",
+        "meaning": "n.生日",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "biscuit",
+        "pronunciation": "/ˈbɪskɪt/",
+        "meaning": "n.饼干松饼",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "black",
+        "pronunciation": "/blæk/",
+        "meaning": "v.使变黑抵制 adj.黑色的黑人的不加奶的坏的无希望的 n.黑人黑色",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "blackboard",
+        "pronunciation": "/ˈblækbɔrd/",
+        "meaning": "n.黑板",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "blog",
+        "pronunciation": "/blɑg/",
+        "meaning": "n.博客（网络电子日志） v.写博客",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "blouse",
+        "pronunciation": "/blaᴜs/",
+        "meaning": "n.女衬衫",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "blue",
+        "pronunciation": "/blu/",
+        "meaning": "n.蓝色蓝调音乐忧郁 adj.蓝色的悲伤的下流的发青的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "boil",
+        "pronunciation": "/bɔɪl/",
+        "meaning": "v.在沸水中煮煮沸，烧开怒火中烧 n.疖子沸腾，沸点",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "borrow",
+        "pronunciation": "/ˈbɑro/",
+        "meaning": "v.向……借贷借入，借来引用",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "both",
+        "pronunciation": "/boθ/",
+        "meaning": "det.两个，两者 conj.不仅...而且 pron.两个都",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bowling",
+        "pronunciation": "/ˈbolɪŋ/",
+        "meaning": "n.保龄球运动曲棍球投球",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "box",
+        "pronunciation": "/bɑks/",
+        "meaning": "n.盒，箱一盒之量方框包厢小亭 v.拳击把……装箱",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "boy",
+        "pronunciation": "/bɔɪ/",
+        "meaning": "n.男孩男青年伙计儿子 int.嗬，好家伙",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "brandy",
+        "pronunciation": "/ˈbrændɪ/",
+        "meaning": "n.白兰地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "breakfast",
+        "pronunciation": "/ˈbrɛkfəst/",
+        "meaning": "n.早餐 v.吃早饭",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "brick",
+        "pronunciation": "/brɪk/",
+        "meaning": "n.砖，砖块可靠的人 v.用砖堵住",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bride",
+        "pronunciation": "/braɪd/",
+        "meaning": "n.新娘",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "briefcase",
+        "pronunciation": "/ˈbrifˌkes/",
+        "meaning": "n.公文包",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "brochure",
+        "pronunciation": "/broˈʃᴜɚ/",
+        "meaning": "n.资料手册",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "broker",
+        "pronunciation": "/ˈbrokɚ/",
+        "meaning": "n.经纪人，掮客 v.协调，安排",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bronze",
+        "pronunciation": "/brɑnz/",
+        "meaning": "n.青铜深红褐色 adj.青铜色的，深红褐色的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "broom",
+        "pronunciation": "/brum/",
+        "meaning": "n.扫帚金雀花",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "brother",
+        "pronunciation": "/ˈbrʌðɚ/",
+        "meaning": "n.兄，弟同志修士老兄 int.天哪",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "brow",
+        "pronunciation": "/braᴜ/",
+        "meaning": "n.额头眉毛山脊，坡顶",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "brown",
+        "pronunciation": "/braᴜn/",
+        "meaning": "adj.棕色的被晒黑的未去壳的 v.炒成褐色 n.棕色",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bucket",
+        "pronunciation": "/ˈbʌkɪt/",
+        "meaning": "n.（有提梁的）桶一桶之量",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bulb",
+        "pronunciation": "/bʌlb/",
+        "meaning": "n.电灯泡鳞茎，鳞茎状物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bull",
+        "pronunciation": "/bᴜl/",
+        "meaning": "n.公牛巨大的雄性动物买空者胡说",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bullet",
+        "pronunciation": "/ˈbᴜlɪt/",
+        "meaning": "n.子弹",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bulletin",
+        "pronunciation": "/ˈbᴜlɪtɪn/",
+        "meaning": "n.新闻快报公告，布告简报",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bus",
+        "pronunciation": "/bʌs/",
+        "meaning": "n.公共汽车 v.用公共汽车运送用校车接送",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "bush",
+        "pronunciation": "/bᴜʃ/",
+        "meaning": "n.灌木浓密的毛发荒野地带",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "busy",
+        "pronunciation": "/ˈbɪzɪ/",
+        "meaning": "adj.忙的热闹的占线的花哨的 v.使忙于",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "butcher",
+        "pronunciation": "/ˈbᴜtʃɚ/",
+        "meaning": "n.肉铺肉贩，屠夫刽子手 v.屠宰屠杀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "butter",
+        "pronunciation": "/ˈbʌtɚ/",
+        "meaning": "n.黄油 v.涂黄油于",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "butterfly",
+        "pronunciation": "/ˈbʌtɚflaɪ/",
+        "meaning": "n.蝴蝶追求享乐的人蝶泳",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "buy",
+        "pronunciation": "/baɪ/",
+        "meaning": "v.买够支付相信获得收买 n.合算的商品买进的东西，购买",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cabbage",
+        "pronunciation": "/ˈkæbɪdʒ/",
+        "meaning": "n.卷心菜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cabin",
+        "pronunciation": "/ˈkæbɪn/",
+        "meaning": "n.机舱，客舱棚屋隔间船舱",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "café",
+        "pronunciation": "/ kæˈfeɪ /",
+        "meaning": "n.小餐馆，咖啡馆；",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cafeteria",
+        "pronunciation": "/ˌkæfəˈtɪriə/",
+        "meaning": "n.自助餐厅，自助食堂",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cage",
+        "pronunciation": "/kedʒ/",
+        "meaning": "n.笼子，鸟笼 v.关在笼中",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cake",
+        "pronunciation": "/kek/",
+        "meaning": "n.蛋糕饼状物 v.覆盖，凝结",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "calcium",
+        "pronunciation": "/ˈkælsiəm/",
+        "meaning": "n.钙",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "camera",
+        "pronunciation": "/ˈkæmərə/",
+        "meaning": "n.照相机",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "canal",
+        "pronunciation": "/kəˈnæl/",
+        "meaning": "n.（体内的）管道运河，灌溉渠",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "candle",
+        "pronunciation": "/ˈkændl/",
+        "meaning": "n.蜡烛",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "candy",
+        "pronunciation": "/ˈkændɪ/",
+        "meaning": "n.糖果",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cannon",
+        "pronunciation": "/ˈkænən/",
+        "meaning": "n.加农炮，大炮机关枪 v.突然撞上，碰撞",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "canoe",
+        "pronunciation": "/kəˈnu/",
+        "meaning": "n.独木舟，皮划艇 v.乘独木舟",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "canteen",
+        "pronunciation": "/kænˈtin/",
+        "meaning": "n.食堂军用水壶整套餐具",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "canvas",
+        "pronunciation": "/ˈkænvəs/",
+        "meaning": "n.画布，油画，帆布",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cap",
+        "pronunciation": "/kæp/",
+        "meaning": "n.最高限额帽子运动员盖火药帽 v.覆盖顶部入选国家队选入定限额包牙",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "capsule",
+        "pronunciation": "/ˈkæpsl/",
+        "meaning": "n.胶囊小容器太空舱",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "car",
+        "pronunciation": "/kɑr/",
+        "meaning": "n.小汽车车厢",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "card",
+        "pronunciation": "/kɑrd/",
+        "meaning": "n.卡，卡片身份证银行卡名片纸牌绝招贺卡明信片",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "care",
+        "pronunciation": "/ˈkɛɚ/",
+        "meaning": "n.照顾小心收养忧虑 v.在意，担忧，关心想要，喜欢照看",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "carpenter",
+        "pronunciation": "/ˈkɑrpəntɚ/",
+        "meaning": "n.木匠",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "carpet",
+        "pronunciation": "/ˈkɑrpɪt/",
+        "meaning": "n.地毯盖在地上的一层 v.给……铺地毯铺满斥责",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cart",
+        "pronunciation": "/kɑrt/",
+        "meaning": "n.手推车运货马车 v.运送，运输",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cartoon",
+        "pronunciation": "/kɑrˈtun/",
+        "meaning": "n.漫画动画片，卡通片",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cassette",
+        "pronunciation": "/kəˈsɛt/",
+        "meaning": "n.盒式磁带胶卷暗盒",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "castle",
+        "pronunciation": "/ˈkæsl/",
+        "meaning": "n.城堡（国际象棋中的）车",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cat",
+        "pronunciation": "/kæt/",
+        "meaning": "n.猫猫科动物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cathedral",
+        "pronunciation": "/kəˈθidrəl/",
+        "meaning": "n.大教堂，主教座堂",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "Catholic",
+        "pronunciation": "/ˈkæθəlɪk/",
+        "meaning": "adj.天主教的 n.天主教徒",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cattle",
+        "pronunciation": "/ˈkætl/",
+        "meaning": "n.牛",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cave",
+        "pronunciation": "/kev/",
+        "meaning": "n.山洞，洞穴 v.让步，屈服",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cellar",
+        "pronunciation": "/ˈsɛlɚ/",
+        "meaning": "n.地窖，地下室酒窖",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cemetery",
+        "pronunciation": "/ˈsɛmətɛrɪ/",
+        "meaning": "n.墓地，公墓",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chalk",
+        "pronunciation": "/tʃɔk/",
+        "meaning": "n.粉笔白垩 v.用粉笔画",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cheap",
+        "pronunciation": "/tʃip/",
+        "meaning": "adj.花钱少的，便宜的价格低质量差的卑鄙的小气的 adv.便宜地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cheek",
+        "pronunciation": "/tʃik/",
+        "meaning": "n.脸颊，脸蛋一边臀部粗鲁的话或行为 v.粗鲁无礼地说",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cheese",
+        "pronunciation": "/tʃiz/",
+        "meaning": "n.奶酪",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chef",
+        "pronunciation": "/ʃɛf/",
+        "meaning": "n.厨师，主厨",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chemist",
+        "pronunciation": "/ˈkɛmɪst/",
+        "meaning": "n.药房化学家药剂师",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chemistry",
+        "pronunciation": "/ˈkɛmɪstrɪ/",
+        "meaning": "n.化学化学组成，化学成分相互吸引",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cherry",
+        "pronunciation": "/ˈtʃɛrɪ/",
+        "meaning": "n.樱桃树，樱桃色樱桃 adj.樱桃红的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chess",
+        "pronunciation": "/tʃɛs/",
+        "meaning": "n.国际象棋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chicken",
+        "pronunciation": "/ˈtʃɪkən/",
+        "meaning": "n.鸡胆小鬼鸡肉 adj.胆小的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "child",
+        "pronunciation": "/tʃaɪld/",
+        "meaning": "n.子女小孩，儿童孩子气的人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chimney",
+        "pronunciation": "/ˈtʃɪmnɪ/",
+        "meaning": "n.烟囱岩石狭缝，一线天",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chin",
+        "pronunciation": "/tʃɪn/",
+        "meaning": "n.下巴",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "china",
+        "pronunciation": "/ˈtʃaɪnə/",
+        "meaning": "n.瓷，瓷器",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "chocolate",
+        "pronunciation": "/ˈtʃɑklət/",
+        "meaning": "n.巧克力巧克力热饮巧克力色 adj.巧克力色的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "choir",
+        "pronunciation": "/kwaɪɚ/",
+        "meaning": "n.合唱队唱诗班",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "Christ",
+        "pronunciation": "/kraɪst/",
+        "meaning": "n.耶稣基督",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "Christian",
+        "pronunciation": "/ˈkrɪstʃən/",
+        "meaning": "n.基督教徒 adj.仁慈的，友好的基督教的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "Christmas",
+        "pronunciation": "/ˈkrɪsməs/",
+        "meaning": "n.圣诞节",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "church",
+        "pronunciation": "/tʃɝtʃ/",
+        "meaning": "n.基督教教派教堂礼拜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cigar",
+        "pronunciation": "/sɪˈɡɑr/",
+        "meaning": "n.雪茄烟",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cigarette/cigaret",
+        "pronunciation": "/ˈsɪgɚɛt/",
+        "meaning": "n.香烟，纸烟",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cinema",
+        "pronunciation": "/ˈsɪnəmə/",
+        "meaning": "n.电影院电影业",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "circus",
+        "pronunciation": "/ˈsɚkəs/",
+        "meaning": "n.马戏团马戏热闹的场面圆形广场",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "city",
+        "pronunciation": "/ˈsɪtɪ/",
+        "meaning": "n.城市",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "classmate",
+        "pronunciation": "/ˈklæsmet/",
+        "meaning": "n.同班同学",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "claw",
+        "pronunciation": "/klɔ/",
+        "meaning": "n.脚爪螯，钳爪形工具 v.抓，挠，撕",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "clay",
+        "pronunciation": "/kle/",
+        "meaning": "n.黏土，陶土",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "clean",
+        "pronunciation": "/klin/",
+        "meaning": "v.清洗打扫 adj.干净的清白的空白的 adv.完全地 n.打扫，清扫",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "clergy",
+        "pronunciation": "/ˈklɝdʒɪ/",
+        "meaning": "n.牧师，神职人员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "clerk",
+        "pronunciation": "/klɚk/",
+        "meaning": "n.职员 v.担任职员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "clever",
+        "pronunciation": "/ˈklɛvɚ/",
+        "meaning": "adj.灵巧的滑头的聪明的，聪颖的巧妙的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cliff",
+        "pronunciation": "/klɪf/",
+        "meaning": "n.（常指海边的）悬崖，峭壁",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "clinic",
+        "pronunciation": "/ˈklɪnɪk/",
+        "meaning": "n.诊所门诊部",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "club",
+        "pronunciation": "/klʌb/",
+        "meaning": "n.会所，社团俱乐部夜总会高尔夫球杆棍棒 v.棒打",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "coal",
+        "pronunciation": "/kol/",
+        "meaning": "n.煤炭",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "coast",
+        "pronunciation": "/kost/",
+        "meaning": "n.海岸，海滨 v.惯性滑行不费力地取得成功",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "coat",
+        "pronunciation": "/kot/",
+        "meaning": "n.外衣，大衣皮毛涂料层 v.给……涂上",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cocaine",
+        "pronunciation": "/koˈken/",
+        "meaning": "n.可卡因",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cock",
+        "pronunciation": "/kɑk/",
+        "meaning": "n.公鸡雄鸟老兄，伙计 v.竖起，翘起扣上扳机准备射击",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "coffee",
+        "pronunciation": "/ˈkɔfɪ/",
+        "meaning": "n.咖啡咖啡豆，咖啡粉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "coil",
+        "pronunciation": "/kɔɪl/",
+        "meaning": "n.线圈卷，圈 v.卷，盘绕",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cold",
+        "pronunciation": "/kold/",
+        "meaning": "n.感冒寒冷 adj.寒冷的，冷的冷的，冰凉的冷色调的冷淡的 adv.突然，完全毫无准备地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "college",
+        "pronunciation": "/ˈkɑlɪdʒ/",
+        "meaning": "n.学院，大学，高等专科学校学会，协会公学（学院的）师生",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "collision",
+        "pronunciation": "/kəˈlɪʒən/",
+        "meaning": "n.碰撞，相撞冲突，抵触",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "comb",
+        "pronunciation": "/kom/",
+        "meaning": "v.仔细搜寻梳理（头发） n.梳子鸡冠梳理（头发）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "comrade",
+        "pronunciation": "/ˈkɑmræd/",
+        "meaning": "n.朋友同志",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "continent",
+        "pronunciation": "/ˈkɑntɪnənt/",
+        "meaning": "n.欧洲大陆洲，大陆 adj.克制的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cook",
+        "pronunciation": "/kᴜk/",
+        "meaning": "v.烹调，烹饪 n.厨师",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cop",
+        "pronunciation": "/kɑp/",
+        "meaning": "n.警察 v.逮捕抓，拿",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "corner",
+        "pronunciation": "/ˈkɔrnɚ/",
+        "meaning": "n.角，角落困境，窘境墙角嘴角，眼角拐角角球 v.使走投无路截住与其说话垄断转弯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "corridor",
+        "pronunciation": "/ˈkɔrɪdɚ/",
+        "meaning": "n.走廊，过道，通道狭长地带",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "costly",
+        "pronunciation": "/ˈkɔstlɪ/",
+        "meaning": "adj.昂贵的造成严重损失的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cottage",
+        "pronunciation": "/ˈkɑtɪdʒ/",
+        "meaning": "n.小屋，（尤指）村舍，小别墅",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cotton",
+        "pronunciation": "/ˈkɑtn/",
+        "meaning": "n.棉，棉花棉线，棉纱棉布",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cough",
+        "pronunciation": "/kɔf/",
+        "meaning": "v.咳嗽发出类似咳嗽的声音 n.咳嗽病咳嗽",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "could",
+        "pronunciation": "/kᴜd/",
+        "meaning": "modal.能（can的过去式）本可以可能真想",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "courtyard",
+        "pronunciation": "/ˈkɔrtjɑrd/",
+        "meaning": "n.庭院，院子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cousin",
+        "pronunciation": "/ˈkʌzn/",
+        "meaning": "n.同辈表亲（或堂亲）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "crab",
+        "pronunciation": "/kræb/",
+        "meaning": "n.蟹，螃蟹，蟹肉 v.捕蟹抱怨",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "crane",
+        "pronunciation": "/kren/",
+        "meaning": "n.起重机鹤 v.伸长（脖子）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cricket",
+        "pronunciation": "/ˈkrɪkɪt/",
+        "meaning": "n.板球（运动）蟋蟀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cry",
+        "pronunciation": "/kraɪ/",
+        "meaning": "v.哭喊叫，呼喊吠 n.抗议，请求动物叫声哭，叫喊",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cucumber",
+        "pronunciation": "/ˈkjuˌkʌmbɚ/",
+        "meaning": "n.黄瓜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cupboard",
+        "pronunciation": "/ˈkʌbɚd/",
+        "meaning": "n.橱柜，衣柜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "curtain",
+        "pronunciation": "/ˈkɝtn/",
+        "meaning": "n.窗帘帷幔幕布遮蔽物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "cushion",
+        "pronunciation": "/ˈkᴜʃən/",
+        "meaning": "n.坐垫，靠垫缓冲物 v.缓和冲击",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "custody",
+        "pronunciation": "/ˈkʌstədɪ/",
+        "meaning": "n.监护权监禁，关押照管，监护",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "customer",
+        "pronunciation": "/ˈkʌstəmɚ/",
+        "meaning": "n.顾客，客户",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dairy",
+        "pronunciation": "/ˈdɛrɪ/",
+        "meaning": "n.乳品店，牛奶厂乳制品 adj.奶制的，乳品（业）的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dam",
+        "pronunciation": "/dæm/",
+        "meaning": "n.水坝，拦河坝母兽，母马 v.在（河）上筑坝",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "danger",
+        "pronunciation": "/ˈdendʒɚ/",
+        "meaning": "n.风险危险危险的事物或人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dangerous",
+        "pronunciation": "/ˈdendʒərəs/",
+        "meaning": "adj.危险的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dare",
+        "pronunciation": "/dɛr/",
+        "meaning": "v.敢于，胆敢",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "darling",
+        "pronunciation": "/ˈdɑrlɪŋ/",
+        "meaning": "n.亲爱的，宝贝儿宠儿 adj.亲爱的迷人的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dark",
+        "pronunciation": "/dɑrk/",
+        "meaning": "n.黑暗，暗处暗色 adj.黑暗的暗的恐怖的神秘的忧郁的黑色的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dear",
+        "pronunciation": "/dɪɚ/",
+        "meaning": "adj.亲爱的高价的 int.哎呀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "death",
+        "pronunciation": "/dɛθ/",
+        "meaning": "n.死，死亡终结，破灭",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "December",
+        "pronunciation": "/dɪˈsɛmbɚ/",
+        "meaning": "n.十二月",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "deep",
+        "pronunciation": "/dip/",
+        "meaning": "adj.深的深奥的深切的有……深的低沉的深刻的沉睡的严重的 adv.深地在深处",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "deer",
+        "pronunciation": "/dɪɚ/",
+        "meaning": "n.鹿",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "defence",
+        "pronunciation": "/dɪˈfɛns/",
+        "meaning": "n.辩护国防防御，保卫辩护律师防守",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dental",
+        "pronunciation": "/ˈdɛntl/",
+        "meaning": "adj.牙齿的，牙科的齿音的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "despatch/dispatch",
+        "pronunciation": "/dɪˈspætʃ/",
+        "meaning": "v.派遣，派出发出，发送迅速处理 n.派遣，发送急件电讯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dessert",
+        "pronunciation": "/dɪˈzɝt/",
+        "meaning": "n.（饭后）甜点，甜食",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "destroy",
+        "pronunciation": "/dɪˈstrɔɪ/",
+        "meaning": "v.摧毁，破灭杀死",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dew",
+        "pronunciation": "/du/",
+        "meaning": "n.露水",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dialog",
+        "pronunciation": "/ˈdaɪəˌlɔɡ/",
+        "meaning": "n.对话对白",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "diamond",
+        "pronunciation": "/ˈdaɪəmənd/",
+        "meaning": "n.钻石方块牌菱形",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "diary",
+        "pronunciation": "/ˈdaɪərɪ/",
+        "meaning": "n.日程簿日记",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dictionary",
+        "pronunciation": "/ˈdɪkʃənɛrɪ/",
+        "meaning": "n.词典",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "die",
+        "pronunciation": "/daɪ/",
+        "meaning": "v.消失，灭亡，死亡垂死停止运行渴望 n.模具，冲模，压模",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "different",
+        "pronunciation": "/ˈdɪfrənt/",
+        "meaning": "adj.不同的各种的与众不同的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "difficult",
+        "pronunciation": "/ˈdɪfɪkəlt/",
+        "meaning": "adj.困难的难相处的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "difficulty",
+        "pronunciation": "/ˈdɪfɪˌkʌltɪ/",
+        "meaning": "n.困难，难题困难程度，难度",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dinner",
+        "pronunciation": "/ˈdɪnɚ/",
+        "meaning": "n.（中午或晚上吃的）正餐晚宴，宴会",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "direct",
+        "pronunciation": "/dɪˈrɛkt/",
+        "meaning": "adj.直接的直系的直率的 v.朝着，指向指示，指引导演，领导",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "directly",
+        "pronunciation": "/dəˈrektli/",
+        "meaning": "adv.直接地，径直地；坦率地；恰好，正好；立即，很快地 conj.一……就……",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dirt",
+        "pronunciation": "/dɝt/",
+        "meaning": "n.丑闻灰尘，尘土泥土，污物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "discourse",
+        "pronunciation": "/ˈdɪskɔrs/",
+        "meaning": "n.语篇，言语交谈，谈话演讲，论述论文，文章 v.讲述，论述",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "disc/disk",
+        "pronunciation": "/dɪsk/",
+        "meaning": "n.圆盘椎间盘唱片，圆盘，圆片",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ditch",
+        "pronunciation": "/dɪtʃ/",
+        "meaning": "v.摆脱，抛弃紧急迫降 n.沟，渠",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dome",
+        "pronunciation": "/dom/",
+        "meaning": "n.穹顶，圆屋顶半球形物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "donkey",
+        "pronunciation": "/ˈdɑŋkɪ/",
+        "meaning": "n.驴",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "doorway",
+        "pronunciation": "/ˈdɔrwe/",
+        "meaning": "n.出入口，门道",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dormitory/dorm",
+        "pronunciation": "/ˈdɔrmətɔrɪ/",
+        "meaning": "n.寝室宿舍楼",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dove",
+        "pronunciation": "/dʌv/",
+        "meaning": "n.鸽子鸽派人物，温和派人物 v.跳水（dive的过去式和过去分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "downstairs",
+        "pronunciation": "/daᴜnˈstɛɚz/",
+        "meaning": "n.楼下 adv.往楼下，去楼下在楼下 adj.楼下的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dozen",
+        "pronunciation": "/ˈdʌzən/",
+        "meaning": "n.十二个，一打",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dream",
+        "pronunciation": "/drim/",
+        "meaning": "n.梦想梦梦寐以求的事空想 v.渴望料到梦想做梦 adj.理想的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "drunk",
+        "pronunciation": "/drʌŋk/",
+        "meaning": "n.醉汉，酒鬼 adj.喝醉的陶醉的，兴奋的 v.喝",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "during",
+        "pronunciation": "/ˈdᴜrɪŋ/",
+        "meaning": "prep.在……期间",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dust",
+        "pronunciation": "/dʌst/",
+        "meaning": "n.沙土，尘土，灰尘 v.掸去，刷去（灰尘）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "dwelling",
+        "pronunciation": "/ˈdwɛlɪŋ/",
+        "meaning": "n.住宅，居所，房屋 v.居住，栖身",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "eagle",
+        "pronunciation": "/ˈiɡəl/",
+        "meaning": "n.鹰雕",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "earthquake",
+        "pronunciation": "/ˈɝθkwek/",
+        "meaning": "n.地震",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "Easter",
+        "pronunciation": "/ˈistɚ/",
+        "meaning": "n.复活节",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "eclipse",
+        "pronunciation": "/ɪˈklɪps/",
+        "meaning": "v.使失色，盖过……重要性遮掩……的光 n.日食，月食黯然失色",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "elder",
+        "pronunciation": "/ˈɛldɚ/",
+        "meaning": "n.长辈长老 adj.年纪较长的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "electricity",
+        "pronunciation": "/ɪlɛkˈtrɪsɪtɪ/",
+        "meaning": "n.电，电能",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "electron",
+        "pronunciation": "/ɪˈlektrɑn/",
+        "meaning": "n.电子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "electronic",
+        "pronunciation": "/ɪˌlɛkˈtrɑnɪk/",
+        "meaning": "adj.电子的电子设备的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "else",
+        "pronunciation": "/ɛls/",
+        "meaning": "adv.另外，其他 adj.其他的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "embassy",
+        "pronunciation": "/ˈɛmbəsɪ/",
+        "meaning": "n.大使馆",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "emperor",
+        "pronunciation": "/ˈɛmpɚɚ/",
+        "meaning": "n.皇帝",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "encyclopedia/encyclopaedia",
+        "pronunciation": "/ɪnˌsaɪkləˈpidɪə/",
+        "meaning": "n.百科全书",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ending",
+        "pronunciation": "/ˈɛndɪŋ/",
+        "meaning": "n.结尾，结局词尾",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "enemy",
+        "pronunciation": "/ˈɛnəmɪ/",
+        "meaning": "n.敌人，仇人敌军，敌国危害",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "enjoy",
+        "pronunciation": "/ɛnˈdʒɔɪ/",
+        "meaning": "v.享有享受……乐趣，喜爱过得快活",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "enough",
+        "pronunciation": "/ɪˈnʌf/",
+        "meaning": "adj.充足的，充分的 adv.足够地，充足地，充分地很，十分 pron.足够 det.足够",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "enter",
+        "pronunciation": "/ˈɛntɚ/",
+        "meaning": "v.进来，进去加入参加输入",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "envelope",
+        "pronunciation": "/ˈenvəlop/",
+        "meaning": "n.信封塑料封套",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "exam/examination",
+        "pronunciation": "/ɪɡˌzæmɪˈneʃn/",
+        "meaning": "n.考察考试审查",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "excellent",
+        "pronunciation": "/ˈɛksələnt/",
+        "meaning": "adj.极好的，优秀的 int.好极了，太好了",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "excessive",
+        "pronunciation": "/ɪkˈsɛsɪv/",
+        "meaning": "adj.过度的，过分的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "excite",
+        "pronunciation": "/ɪkˈsaɪt/",
+        "meaning": "v.使激动，使兴奋激起，引起",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "exciting",
+        "pronunciation": "/ɪkˈsaɪtɪŋ/",
+        "meaning": "adj.令人激动的，令人兴奋的 v.使兴奋（excite的现在分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "expensive",
+        "pronunciation": "/ɪkˈspɛnsɪv/",
+        "meaning": "adj.昂贵的，花钱多的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "explain",
+        "pronunciation": "/ɪkˈsplen/",
+        "meaning": "v.解释，说明",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "eyebrow",
+        "pronunciation": "/ˈaɪˌbraᴜ/",
+        "meaning": "n.眉毛",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "eyesight",
+        "pronunciation": "/ˈaɪˌsaɪt/",
+        "meaning": "n.视力",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "famous",
+        "pronunciation": "/ˈfeməs/",
+        "meaning": "adj.著名的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fairy",
+        "pronunciation": "/ˈfɛrɪ/",
+        "meaning": "n.仙女小精灵男同性恋者",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "far",
+        "pronunciation": "/fɑr/",
+        "meaning": "adv.很大程度上远久……得多 adj.政见极端的较远的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "farm",
+        "pronunciation": "/fɑrm/",
+        "meaning": "n.农场养殖场，饲养场 v.饲养务农，种田",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "farmer",
+        "pronunciation": "/ˈfɑrmɚ/",
+        "meaning": "n.农民；农场主",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fertilizer/fertiliser",
+        "pronunciation": "/ˈfɚtəlaɪzɚ/",
+        "meaning": "n.肥料",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "festival",
+        "pronunciation": "/ˈfɛstəvəl/",
+        "meaning": "n.（音乐、戏剧等的）会演节节日",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "few",
+        "pronunciation": "/fju/",
+        "meaning": "det.不多，很少 pron.不多，很少很少 n.少数派，少数人 adj.几个，少数",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "finger",
+        "pronunciation": "/ˈfɪŋɡɚ/",
+        "meaning": "n.手指手指部分指状物 v.用手指触碰，抚摸指证",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fist",
+        "pronunciation": "/fɪst/",
+        "meaning": "n.拳，拳头",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "flag",
+        "pronunciation": "/flæɡ/",
+        "meaning": "v.标示衰退，减弱 n.旗旗帜（指国家或组织等）菖蒲",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fleet",
+        "pronunciation": "/flit/",
+        "meaning": "adj.跑得快的，快速的 n.（统一调度的）船队，机群车队",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "floor",
+        "pronunciation": "/flɔr/",
+        "meaning": "n.地板楼层底部 v.使惊呆击倒",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "flour",
+        "pronunciation": "/flaᴜɚ/",
+        "meaning": "n.面，面粉 v.撒面粉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "flower",
+        "pronunciation": "/ˈflaᴜɚ/",
+        "meaning": "n.花，花朵 v.壮大，成熟开花",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "forest",
+        "pronunciation": "/ˈfɔrɪst/",
+        "meaning": "n.森林，林区一丛",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "forever",
+        "pronunciation": "/fɔrˈɛvɚ/",
+        "meaning": "adv.永远总是时间久地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "forget",
+        "pronunciation": "/fɚˈɡɛt/",
+        "meaning": "v.忘记",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fork",
+        "pronunciation": "/fɔrk/",
+        "meaning": "v.分岔用叉子叉 n.餐叉叉，耙分岔处",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fossil",
+        "pronunciation": "/ˈfɑsl/",
+        "meaning": "n.化石",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "found",
+        "pronunciation": "/faᴜnd/",
+        "meaning": "v.把……建立在发现（find的过去式）建立，兴建，创办",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fox",
+        "pronunciation": "/fɑks/",
+        "meaning": "n.狐狸狐狸皮狡猾的人 v.难住使上当",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fridge/refrigerator",
+        "pronunciation": "/rɪˈfrɪdʒəˌretɚ/",
+        "meaning": "n.冰箱",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "frog",
+        "pronunciation": "/frɔg/",
+        "meaning": "n.青蛙",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "front",
+        "pronunciation": "/frʌnt/",
+        "meaning": "n.前面领域封面海滨气象锋前线正面 adj.前面的首页的，头版的 v.面朝领导",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "full",
+        "pronunciation": "/fᴜl/",
+        "meaning": "adj.满的全部的最大的宽松的丰满的浓厚的饱的足足的 adv.直接完全 n.最大量，尽可能",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "fun",
+        "pronunciation": "/fʌn/",
+        "meaning": "adj.有趣的 n.乐趣，快乐嬉戏",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "furious",
+        "pronunciation": "/ˈfjᴜərɪəs/",
+        "meaning": "adj.狂怒的猛烈的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "furnace",
+        "pronunciation": "/ˈfɝnɪs/",
+        "meaning": "n.火炉，锅炉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "furniture",
+        "pronunciation": "/ˈfɚnɪtʃɚ/",
+        "meaning": "n.家具",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gallon",
+        "pronunciation": "/ˈɡælən/",
+        "meaning": "n.加仑（容积单位）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gadget",
+        "pronunciation": "/ˈɡædʒɪt/",
+        "meaning": "n.小器具",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "garden",
+        "pronunciation": "/ˈgɑrdn/",
+        "meaning": "v.打理庭园 n.花园，菜园公园园，街，广场",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "garlic",
+        "pronunciation": "/ˈgɑrlɪk/",
+        "meaning": "n.大蒜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "garment",
+        "pronunciation": "/ˈgɑrmənt/",
+        "meaning": "n.衣服",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gasoline/gasolene",
+        "pronunciation": "/ɡæsəˈlin/",
+        "meaning": "n.汽油",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gate",
+        "pronunciation": "/ɡet/",
+        "meaning": "n.大门登机门，登机口观众人数门票收入",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "genetic",
+        "pronunciation": "/dʒəˈnɛtɪk/",
+        "meaning": "adj.遗传学的，基因的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gentleman",
+        "pronunciation": "/ˈdʒɛntlmən/",
+        "meaning": "n.绅士君子先生",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "glass",
+        "pronunciation": "/glæs/",
+        "meaning": "n.玻璃一杯玻璃制品眼镜玻璃杯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "glove",
+        "pronunciation": "/ɡlʌv/",
+        "meaning": "n.(分手指的）手套 v.给……戴手套接球",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "god",
+        "pronunciation": "/gɑd/",
+        "meaning": "n.神，上帝极受尊崇的人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "golf",
+        "pronunciation": "/gɑlf/",
+        "meaning": "n.高尔夫球运动",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "goodness",
+        "pronunciation": "/ˈɡᴜdnəs/",
+        "meaning": "n.美德养分天啊，啊呀 int.天哪",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "goose",
+        "pronunciation": "/ɡus/",
+        "meaning": "n.鹅鹅肉傻瓜 v.推动",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "grammar",
+        "pronunciation": "/ˈɡræmɚ/",
+        "meaning": "n.语法语法书",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "grass",
+        "pronunciation": "/græs/",
+        "meaning": "n.草告密者，揭发者草坪 v.向警方揭发，告发",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gray/-ey",
+        "pronunciation": "/ɡre/",
+        "meaning": "adj.灰色的 n.灰色 v.变灰色",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "guess",
+        "pronunciation": "/ɡɛs/",
+        "meaning": "v.猜想，以为 n.猜测",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "guest",
+        "pronunciation": "/ɡɛst/",
+        "meaning": "n.嘉宾,客人 v.做嘉宾",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "guitar",
+        "pronunciation": "/ɡɪˈtɑr/",
+        "meaning": "n.吉他",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gulf",
+        "pronunciation": "/ɡʌlf/",
+        "meaning": "n.海湾鸿沟，隔阂裂口",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "guy",
+        "pronunciation": "/ɡaɪ/",
+        "meaning": "n.小伙子，男人家伙（非正式）伙计们",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "gymnasium/gym",
+        "pronunciation": "/dʒɪmˈneziəm/",
+        "meaning": "n.体育馆，健身房",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hamburger/burger",
+        "pronunciation": "/ˈhæmbɚgɚ/",
+        "meaning": "n.汉堡包",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "handkerchief",
+        "pronunciation": "/ˈhæŋkɚtʃɪf/",
+        "meaning": "n.手帕纸巾",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "handsome",
+        "pronunciation": "/ˈhænsəm/",
+        "meaning": "adj.可观的，优厚的，相当大金额的英俊的漂亮的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "harness",
+        "pronunciation": "/ˈhɑrnɪs/",
+        "meaning": "v.控制，利用给……套上挽具 n.背带，保护带（马的）挽具，马具",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hate",
+        "pronunciation": "/het/",
+        "meaning": "v.讨厌，不喜欢不愿 n.憎恨",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "headache",
+        "pronunciation": "/ˈhɛdek/",
+        "meaning": "n.头疼令人头痛的事",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "headmaster",
+        "pronunciation": "/ˌhedˈmæstɚ/",
+        "meaning": "n.校长",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hen",
+        "pronunciation": "/hɛn/",
+        "meaning": "n.母鸡雌禽",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hi/hey",
+        "pronunciation": "/he/",
+        "meaning": "int.嘿，喂",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hide",
+        "pronunciation": "/haɪd/",
+        "meaning": "v.隐瞒隐蔽遮挡躲藏 n.藏身处兽皮",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "high",
+        "pronunciation": "/haɪ/",
+        "meaning": "adj.高的兴奋的高级的高音的变质的 adv.在高处高高地 n.最高水平快感，兴奋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "historic",
+        "pronunciation": "/hɪˈstɔrɪk/",
+        "meaning": "adj.历史上著名（或重要）的有史时期的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "history",
+        "pronunciation": "/ˈhɪstrɪ/",
+        "meaning": "n.历史历史学经历往事病史",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hole",
+        "pronunciation": "/hol/",
+        "meaning": "n.漏洞，缺陷洞洞穴",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "home",
+        "pronunciation": "/hom/",
+        "meaning": "n.家，家庭住宅，住所家乡养育院，收容所活动本部 adj.国内的家庭的家用的 adv.到正确的位置，到终点到家，在家",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "honey",
+        "pronunciation": "/ˈhʌnɪ/",
+        "meaning": "n.蜂蜜亲爱的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hopeful",
+        "pronunciation": "/ˈhopfl/",
+        "meaning": "adj.满怀希望的给人以希望的 n.希望获得成功的人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hospital",
+        "pronunciation": "/ˈhɑspɪtl/",
+        "meaning": "n.医院",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hot",
+        "pronunciation": "/hɑt/",
+        "meaning": "adj.热门的热的最新的性感的激烈的易怒的辣的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "housewife",
+        "pronunciation": "/ˈhaᴜsˌwaɪf/",
+        "meaning": "n.家庭主妇",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "housework",
+        "pronunciation": "/ˈhaᴜswɝk/",
+        "meaning": "n.家务劳动",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hungry",
+        "pronunciation": "/ˈhʌŋɡrɪ/",
+        "meaning": "adj.渴望的饥饿的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hurry",
+        "pronunciation": "/ˈhɝɪ/",
+        "meaning": "v.匆忙地走催促快，迅速 n.匆忙",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hurt",
+        "pronunciation": "/hɝt/",
+        "meaning": "v.（使）伤心损害（使）受伤感到疼痛（使）受伤（hurt的过去式） n.痛苦 adj.受伤的伤心的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hut",
+        "pronunciation": "/hʌt/",
+        "meaning": "n.小屋临时工棚",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hybrid",
+        "pronunciation": "/ˈhaɪbrɪd/",
+        "meaning": "n.杂交植物，杂交动物混合动力车混合体 adj.杂交的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "hydrogen",
+        "pronunciation": "/ˈhaɪdrədʒən/",
+        "meaning": "n.氢，氢气",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ice-cream",
+        "pronunciation": "/ˈaɪskrim/",
+        "meaning": "n.冰淇淋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "icon",
+        "pronunciation": "/ˈaɪkɑn/",
+        "meaning": "n.代表人物圣像偶像图标",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "idea",
+        "pronunciation": "/aɪˈdiə/",
+        "meaning": "n.想法，主意意见计划，建议概念目的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "idiot",
+        "pronunciation": "/ˈɪdiət/",
+        "meaning": "n.白痴，傻子，笨蛋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "inch",
+        "pronunciation": "/ɪntʃ/",
+        "meaning": "n.英寸短距离 v.缓慢移动",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "inn",
+        "pronunciation": "/ɪn/",
+        "meaning": "n.小旅馆小酒馆",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "insect",
+        "pronunciation": "/ˈɪnˌsɛkt/",
+        "meaning": "n.昆虫",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "instead",
+        "pronunciation": "/ɪnˈstɛd/",
+        "meaning": "adv.反而，却代替",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "interesting",
+        "pronunciation": "/ˈɪntrɪstɪŋ/",
+        "meaning": "adj.有趣的怪异的 v.使感兴趣（interest的现在分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "invite",
+        "pronunciation": "/ɪnˈvaɪt/",
+        "meaning": "v.邀请招致 n.邀请",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "jar",
+        "pronunciation": "/dʒɑr/",
+        "meaning": "n.广口瓶，罐子一罐，一坛震摇，颠簸 v.震动冲突，不一致令人不快",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "jazz",
+        "pronunciation": "/dʒæz/",
+        "meaning": "n.爵士音乐，爵士舞曲",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "join",
+        "pronunciation": "/dʒɔɪn/",
+        "meaning": "v.加入汇合连接 n.接合处",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "joke",
+        "pronunciation": "/dʒok/",
+        "meaning": "n.笑话荒唐可笑的人或事物笑柄 v.讲笑话，开玩笑",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "joy",
+        "pronunciation": "/dʒɔɪ/",
+        "meaning": "n.高兴，愉快令人高兴的事或人成功，满意乐趣",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "jug",
+        "pronunciation": "/dʒʌɡ/",
+        "meaning": "n.罐，壶一罐的量",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "just",
+        "pronunciation": "/dʒʌst/",
+        "meaning": "adv.只刚刚正好，恰好正，马上就是完全，简直只是 adj.合理的公正的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "keep",
+        "pronunciation": "/kip/",
+        "meaning": "v.保持某种状态记载，记录保留经营饲养照看继续 n.生活费用城堡主楼",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "kettle",
+        "pronunciation": "/ˈkɛtl/",
+        "meaning": "n.（烧水用的）壶，水壶一壶的量",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "kick",
+        "pronunciation": "/kɪk/",
+        "meaning": "v.戒除踢 n.踢极大的乐趣",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "kilometer/kilometre",
+        "pronunciation": "/kɪˈlɑmətɚ/",
+        "meaning": "n.千米，公里",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "kindergarten",
+        "pronunciation": "/ˈkɪndɚgɑrtn/",
+        "meaning": "n.幼儿园",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "knock",
+        "pronunciation": "/nɑk/",
+        "meaning": "v.敲，击碰，撞把……打成批评 n.敲击声敲击",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lab/laboratory",
+        "pronunciation": "/ˈlæbrətɔrɪ/",
+        "meaning": "n.实验室",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ladder",
+        "pronunciation": "/ˈlædɚ/",
+        "meaning": "n.阶梯梯子（体育比赛）阶梯晋级赛滑丝，抽丝 v.滑丝，抽丝",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lamp",
+        "pronunciation": "/læmp/",
+        "meaning": "n.台灯照射灯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "land",
+        "pronunciation": "/lænd/",
+        "meaning": "n.土地国土陆地 v.搞到，捞到落下把……送到着陆，降落",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "landlady",
+        "pronunciation": "/ˈlændˌledɪ/",
+        "meaning": "n.女房东女店主",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "landlord",
+        "pronunciation": "/ˈlændlɔrd/",
+        "meaning": "n.房东地主酒吧老板",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "landscape",
+        "pronunciation": "/ˈlændˌskep/",
+        "meaning": "n.风景山水风景画横向打印格式地形 v.对……作景观美化",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "laptop",
+        "pronunciation": "/ˈlæptɑp/",
+        "meaning": "n.手提电脑",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "Latin",
+        "pronunciation": "/ˈlætn/",
+        "meaning": "n.拉丁裔拉丁语 adj.拉丁语系国家的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lavatory",
+        "pronunciation": "/ˈlævətɔrɪ/",
+        "meaning": "n.厕所，卫生间",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lawn",
+        "pronunciation": "/lɔn/",
+        "meaning": "n.草坪",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lawyer",
+        "pronunciation": "/ˈlɔjɚ/",
+        "meaning": "n.律师",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "layoff",
+        "pronunciation": "/ˈleˌɔf/",
+        "meaning": "n.裁员，解雇休养，疗养",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "least",
+        "pronunciation": "/list/",
+        "meaning": "adv.最小，最少 adj.最小的，最少的程度最轻的 pron.最低程度最小的，最少的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lemon",
+        "pronunciation": "/ˈlɛmən/",
+        "meaning": "n.柠檬柠檬汁，柠檬水浅黄色 adj.浅黄色的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "length",
+        "pronunciation": "/lɛŋθ/",
+        "meaning": "n.持续时间长，长度篇幅一段",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "let",
+        "pronunciation": "/lɛt/",
+        "meaning": "v.允许，让让我（们）假设出租 n.擦网球出租",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "liberty",
+        "pronunciation": "/ˈlɪbɚtɪ/",
+        "meaning": "n.自由冒犯，失礼",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "librarian",
+        "pronunciation": "/laɪˈbrɛriən/",
+        "meaning": "n.图书馆管理员，图书馆馆长",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lip",
+        "pronunciation": "/lɪp/",
+        "meaning": "n.嘴唇边缘，豁口失礼的话",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "liter/litre",
+        "pronunciation": "/ˈlitɚ/",
+        "meaning": "n.公升",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "literacy",
+        "pronunciation": "/ˈlɪtərəsɪ/",
+        "meaning": "n.读写能力",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "living-room",
+        "pronunciation": "/ˈlɪvɪŋˈrum/",
+        "meaning": "n.起居室，客厅",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "load",
+        "pronunciation": "/lod/",
+        "meaning": "v.装上，装入载入数据 n.大量负荷工作量承载量某物的量",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lock",
+        "pronunciation": "/lɑk/",
+        "meaning": "v.锁上，锁住固定 n.船闸一绺（头发）锁",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "locker",
+        "pronunciation": "/ˈlɑkɚ/",
+        "meaning": "n.寄物柜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lonely",
+        "pronunciation": "/ˈlonlɪ/",
+        "meaning": "adj.孤独的，寂寞的人迹罕至的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lounge",
+        "pronunciation": "/laᴜndʒ/",
+        "meaning": "n.休息厅，候机厅起居室，客厅 v.懒洋洋地坐，躺",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lovely",
+        "pronunciation": "/ˈlʌvlɪ/",
+        "meaning": "adj.可爱的，美丽的令人愉快的心地善良的 n.美女，美人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lover",
+        "pronunciation": "/ˈlʌvɚ/",
+        "meaning": "n.爱好者情人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "luggage",
+        "pronunciation": "/ˈlʌɡɪdʒ/",
+        "meaning": "n.行李",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "lure",
+        "pronunciation": "/lᴜɚ/",
+        "meaning": "v.引诱，哄骗 n.诱饵诱惑",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "magazine",
+        "pronunciation": "/ˈmægəzin/",
+        "meaning": "n.杂志弹夹军火库",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mail",
+        "pronunciation": "/mel/",
+        "meaning": "n.邮政邮件，信件 v.发电子邮件邮寄",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mammal",
+        "pronunciation": "/ˈmæməl/",
+        "meaning": "n.哺乳动物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "manager",
+        "pronunciation": "/ˈmænɪdʒɚ/",
+        "meaning": "n.经理，经营者经纪人主教练",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "masculine",
+        "pronunciation": "/ˈmæskjəlɪn/",
+        "meaning": "adj.男性的，男子汉的阳性的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mathematics",
+        "pronunciation": "/ˌmæθəˈmætɪks/",
+        "meaning": "n.数学运算数学",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "meadow",
+        "pronunciation": "/ˈmedo/",
+        "meaning": "n.草地，牧场",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "meal",
+        "pronunciation": "/mil/",
+        "meaning": "n.餐一餐所吃的食物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "melon",
+        "pronunciation": "/ˈmɛlən/",
+        "meaning": "n.瓜，甜瓜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "menu",
+        "pronunciation": "/ˈmɛnju/",
+        "meaning": "n.菜单菜肴计算机选单",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "middle",
+        "pronunciation": "/ˈmɪdl/",
+        "meaning": "adj.中间的中古的中等的中部的 n.中间腰部中期，中部",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "millimetre/millimeter",
+        "pronunciation": "/ˈmɪlimi:tɚ/",
+        "meaning": "n.毫米，千分之一米",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "more",
+        "pronunciation": "/mɔr/",
+        "meaning": "adv.更加更大程度地继续再 det.更多的额外的 pron.更多的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mosquito",
+        "pronunciation": "/məˈskito/",
+        "meaning": "n.蚊子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mountain",
+        "pronunciation": "/ˈmaᴜntn/",
+        "meaning": "n.大量，许多高山，山岳",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mouse",
+        "pronunciation": "/maᴜs/",
+        "meaning": "n.鼠标老鼠",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "movement",
+        "pronunciation": "/ˈmuvmənt/",
+        "meaning": "n.动作，运动，活动运动团体调遣乐章",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "movie",
+        "pronunciation": "/ˈmuvɪ/",
+        "meaning": "n.电影",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "museum",
+        "pronunciation": "/mjuˈziəm/",
+        "meaning": "n.博物馆",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "mushroom",
+        "pronunciation": "/ˈmʌʃˌrum/",
+        "meaning": "n.蘑菇 v.迅速成长",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "napkin",
+        "pronunciation": "/ˈnæpkɪn/",
+        "meaning": "n.餐巾，餐巾纸",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "neck",
+        "pronunciation": "/nɛk/",
+        "meaning": "n.脖子衣领，领口 v.拥吻",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "neighbor",
+        "pronunciation": "/ˈnebɚ/",
+        "meaning": "n.邻居邻近的人邻国",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "neither",
+        "pronunciation": "/ˈniðɚ/",
+        "meaning": "adv.两者都不 conj.既不…… pron.两者都不 det.也不",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nephew",
+        "pronunciation": "/ˈnɛfju/",
+        "meaning": "n.外甥，侄子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nickel",
+        "pronunciation": "/ˈnɪkəl/",
+        "meaning": "n.镍五分硬币",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nitrogen",
+        "pronunciation": "/ˈnaɪtrədʒən/",
+        "meaning": "n.氮，氮气",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "niece",
+        "pronunciation": "/nis/",
+        "meaning": "n.外甥女，侄女",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nobody",
+        "pronunciation": "/ˈnobədɪ/",
+        "meaning": "pron.没有人 n.小人物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nod",
+        "pronunciation": "/nɑd/",
+        "meaning": "n.点头 v.点头",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "noisy",
+        "pronunciation": "/ˈnɔɪzɪ/",
+        "meaning": "adj.吵闹的，嘈杂的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nor",
+        "pronunciation": "/nɔr/",
+        "meaning": "conj.也不 adv.也不",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "northwest",
+        "pronunciation": "/ˈnɔrθˈwɛst/",
+        "meaning": "n.西北，西北方，西北地区 adv.向西北，在西北 adj.西北的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nose",
+        "pronunciation": "/noz/",
+        "meaning": "n.鼻子前部嗅觉气味 v.小心翼翼地行驶窥探",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "noun",
+        "pronunciation": "/naᴜn/",
+        "meaning": "n.名词",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nurse",
+        "pronunciation": "/nɝs/",
+        "meaning": "n.护士 v.护理，照料调养心怀……哺乳",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "nylon",
+        "pronunciation": "/ˈnaɪlɑn/",
+        "meaning": "n.尼龙尼龙长袜",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "oak",
+        "pronunciation": "/ok/",
+        "meaning": "n.栎树，橡树",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ocean",
+        "pronunciation": "/ˈoʃn/",
+        "meaning": "n.海洋洋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "offensive",
+        "pronunciation": "/əˈfɛnsɪv/",
+        "meaning": "adj.进攻性的冒犯性的令人不适的 n.进攻系列行动",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "oil",
+        "pronunciation": "/ɔɪl/",
+        "meaning": "n.石油润肤油油彩油，食用油 v.给……上油",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "onion",
+        "pronunciation": "/ˈʌnjən/",
+        "meaning": "n.洋葱，葱头",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "orchard",
+        "pronunciation": "/ˈɔrtʃɚd/",
+        "meaning": "n.果园",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "orchestra",
+        "pronunciation": "/ˈɔrkɪstrə/",
+        "meaning": "n.（大型的）管弦乐队",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ore",
+        "pronunciation": "/ɔr/",
+        "meaning": "n.矿石",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "orphan",
+        "pronunciation": "/ˈɔrfn/",
+        "meaning": "n.孤儿 v.使成为孤儿",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ounce",
+        "pronunciation": "/aᴜns/",
+        "meaning": "n.盎司一点，少量",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "oven",
+        "pronunciation": "/ˈʌvən/",
+        "meaning": "n.烤箱，烤炉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "overcoat",
+        "pronunciation": "/ˈovɚkot/",
+        "meaning": "n.长大衣",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "owl",
+        "pronunciation": "/aᴜl/",
+        "meaning": "n.猫头鹰",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "oxide",
+        "pronunciation": "/ˈɑksaɪd/",
+        "meaning": "n.氧化物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "oxygen",
+        "pronunciation": "/ˈɑksɪdʒən/",
+        "meaning": "n.氧气",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "packet",
+        "pronunciation": "/ˈpækɪt/",
+        "meaning": "n.一大笔钱小包包小包裹数据包包装盒",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "page",
+        "pronunciation": "/pedʒ/",
+        "meaning": "n.页一页网页门童学习骑士 v.呼叫传呼",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "painting",
+        "pronunciation": "/ˈpentɪŋ/",
+        "meaning": "n.油画，绘画绘画作品粉刷（一幅）画 v.绘画（paint的现在分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "palace",
+        "pronunciation": "/ˈpælɪs/",
+        "meaning": "n.宫殿，王宫王室",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pan",
+        "pronunciation": "/pæn/",
+        "meaning": "n.平底锅烤盘 v.严厉批评摇摄淘金",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pants",
+        "pronunciation": "/pænts/",
+        "meaning": "n.内裤，短裤裤子 adj.劣质的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "party",
+        "pronunciation": "/ˈpɑrtɪ/",
+        "meaning": "n.党派参与方群，组聚会，派对 v.狂欢",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "passenger",
+        "pronunciation": "/ˈpæsəndʒɚ/",
+        "meaning": "n.乘客，旅客闲散人员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pasture",
+        "pronunciation": "/ˈpæstʃɚ/",
+        "meaning": "n.牧场，牧草地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "patient",
+        "pronunciation": "/ˈpeʃənt/",
+        "meaning": "n.病人 adj.有耐心的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "paw",
+        "pronunciation": "/pɔ/",
+        "meaning": "n.爪，爪子手 v.用爪子抓动手动脚",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pea",
+        "pronunciation": "/pi/",
+        "meaning": "n.豌豆",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "peace",
+        "pronunciation": "/pis/",
+        "meaning": "n.平静，安宁和平",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "peach",
+        "pronunciation": "/pitʃ/",
+        "meaning": "n.桃子特别漂亮的人或物桃红色 adj.桃红色的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "peanut",
+        "pronunciation": "/ˈpiˌnʌt/",
+        "meaning": "n.花生一小笔钱",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "peasant",
+        "pronunciation": "/ˈpɛzənt/",
+        "meaning": "n.（多指旧时或贫穷国家的）农民，农夫",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pebble",
+        "pronunciation": "/ˈpɛbəl/",
+        "meaning": "n.卵石，小圆石，砺石",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pendulum",
+        "pronunciation": "/ˈpendʒələm/",
+        "meaning": "n.摆，钟摆摇摆不定的事态",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pepper",
+        "pronunciation": "/ˈpɛpɚ/",
+        "meaning": "v.密集击打布满撒胡椒粉 n.胡椒粉甜椒，柿子椒",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "percent/per cent",
+        "pronunciation": "/pɚˈsɛnt/",
+        "meaning": "n.百分之…… adv.每一百中",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "perhaps",
+        "pronunciation": "/pɚˈhæps/",
+        "meaning": "adv.可能，大概，也许",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "person",
+        "pronunciation": "/ˈpɝsn/",
+        "meaning": "n.人人称",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pet",
+        "pronunciation": "/pɛt/",
+        "meaning": "n.宠物宠儿 v.抚摸，摩挲 adj.很喜欢的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "physicist",
+        "pronunciation": "/ˈfɪzɪsɪst/",
+        "meaning": "n.物理学家",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "physics",
+        "pronunciation": "/ˈfɪzɪks/",
+        "meaning": "n.物理",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "physiology",
+        "pronunciation": "/ˌfɪziˈɑlədʒɪ/",
+        "meaning": "n.生理学，生理机能",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pick",
+        "pronunciation": "/pɪk/",
+        "meaning": "v.挑选摘，采集剔除撬开锁 n.挑选牙签鹤嘴锄",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "piece",
+        "pronunciation": "/pis/",
+        "meaning": "n.一项，一件作品，篇，首张，片，块部件硬币棋子份额碎片，碎块 v.拼凑",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pigeon",
+        "pronunciation": "/ˈpɪdʒən/",
+        "meaning": "n.鸽子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pillow",
+        "pronunciation": "/ˈpɪlo/",
+        "meaning": "n.枕头坐垫",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pine",
+        "pronunciation": "/paɪn/",
+        "meaning": "n.松树松木 v.难过，悲伤苦苦盼望",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pink",
+        "pronunciation": "/pɪŋk/",
+        "meaning": "adj.粉色的同性恋者的左倾的 n.粉色石竹 v.发爆声",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pity",
+        "pronunciation": "/ˈpɪtɪ/",
+        "meaning": "n.怜悯遗憾 v.同情，怜悯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "plaintiff",
+        "pronunciation": "/ˈplentɪf/",
+        "meaning": "n.原告，起诉人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "plan",
+        "pronunciation": "/plæn/",
+        "meaning": "n.计划方案，规划平面图图纸 v.打算，计划绘制",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "plane",
+        "pronunciation": "/plen/",
+        "meaning": "n.飞机平面水平，程度木工刨悬铃木 adj.平的 v.刨平",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "playground",
+        "pronunciation": "/ˈpleˌɡraᴜnd/",
+        "meaning": "n.操场游乐场娱乐场所",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pleasant",
+        "pronunciation": "/ˈplɛzənt/",
+        "meaning": "adj.令人愉快的，舒适的友好的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "plenty",
+        "pronunciation": "/ˈplɛntɪ/",
+        "meaning": "pron.大量，众多 adv.大量，很多十分，很 n.富裕 det.大量，很多",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "poem",
+        "pronunciation": "/ˈpoəm/",
+        "meaning": "n.诗",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "poet",
+        "pronunciation": "/ˈpoət/",
+        "meaning": "n.诗人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "poetry",
+        "pronunciation": "/ˈpoətrɪ/",
+        "meaning": "n.诗集，诗歌诗意韵文",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pond",
+        "pronunciation": "/pɑnd/",
+        "meaning": "n.池塘",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "population",
+        "pronunciation": "/ˌpɑpjuˈleʃn/",
+        "meaning": "n.人口，人口数量总数",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "porch",
+        "pronunciation": "/pɔrtʃ/",
+        "meaning": "n.门廊，走廊",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pork",
+        "pronunciation": "/pɔrk/",
+        "meaning": "n.猪肉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "port",
+        "pronunciation": "/pɔrt/",
+        "meaning": "n.港口港口城市，口岸端口左舷波尔图葡萄酒 adj.左舷的 v.移植（软件）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "postcard",
+        "pronunciation": "/ˈpostkɑrd/",
+        "meaning": "n.明信片",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pottery",
+        "pronunciation": "/ˈpɑtərɪ/",
+        "meaning": "n.陶器陶艺",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "poultry",
+        "pronunciation": "/ˈpoltrɪ/",
+        "meaning": "n.家禽家禽肉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "powerful",
+        "pronunciation": "/ˈpaᴜɚfl/",
+        "meaning": "adj.强有力的，力量大的有权势的，有影响力的强大的，强烈的强效的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "predator",
+        "pronunciation": "/ˈprɛdətɚ/",
+        "meaning": "n.掠食动物，捕食性动物掠夺者",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "prefer",
+        "pronunciation": "/prɪˈfɝ/",
+        "meaning": "v.更喜欢",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "prepare",
+        "pronunciation": "/prɪˈpɛɚ/",
+        "meaning": "v.为……做准备使做好准备，把……准备好",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "preposition",
+        "pronunciation": "/ˌprɛpəˈzɪʃən/",
+        "meaning": "n.介词，前置词",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "president",
+        "pronunciation": "/ˈprɛzɪdənt/",
+        "meaning": "n.总统院长，校长，会长，总裁负责人主席",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pretend",
+        "pronunciation": "/prɪˈtɛnd/",
+        "meaning": "v.假装自诩装扮 adj.假装的，想象的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "price",
+        "pronunciation": "/praɪs/",
+        "meaning": "n.价格代价 v.给……定价查明……的价格",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "prince",
+        "pronunciation": "/prɪns/",
+        "meaning": "n.王子亲王",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "princess",
+        "pronunciation": "/ˈprɪnsɛs/",
+        "meaning": "n.公主",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "print",
+        "pronunciation": "/prɪnt/",
+        "meaning": "n.印刷业印刷字体印花照片版画脚印指纹 v.印刷刊登冲洗印用印刷体书写",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "prison",
+        "pronunciation": "/ˈprɪzən/",
+        "meaning": "n.监狱难以脱身的地方监禁",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "prisoner",
+        "pronunciation": "/ˈprɪzənɚ/",
+        "meaning": "n.囚犯，俘虏为……所困的人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "professor",
+        "pronunciation": "/prəˈfɛsɚ/",
+        "meaning": "n.教授大学教师",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "progress",
+        "pronunciation": "/ˈprɑgres/",
+        "meaning": "n.进步，进展 v.进步，进展缓慢进行",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "projector",
+        "pronunciation": "/prəˈdʒɛktɚ/",
+        "meaning": "n.投影仪，放映机",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pronoun",
+        "pronunciation": "/ˈpronaᴜn/",
+        "meaning": "n.代词",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pronunciation",
+        "pronunciation": "/prəˌnʌnsiˈeʃən/",
+        "meaning": "n.发音，读音",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "prose",
+        "pronunciation": "/proz/",
+        "meaning": "n.散文",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pub",
+        "pronunciation": "/pʌb/",
+        "meaning": "n.酒吧，酒馆",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pupil",
+        "pronunciation": "/ˈpjupəl/",
+        "meaning": "n.学生，（尤指）小学生门生瞳孔",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "purple",
+        "pronunciation": "/ˈpɝpl/",
+        "meaning": "adj.紫的，紫色的词藻华丽的 n.紫色",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "pyramid",
+        "pronunciation": "/ˈpɪrəmɪd/",
+        "meaning": "n.金字塔式组织或体系金字塔棱锥体",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "queen",
+        "pronunciation": "/kwin/",
+        "meaning": "n.女王雌性昆虫王后",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "quilt",
+        "pronunciation": "/kwɪlt/",
+        "meaning": "n.被子，床罩",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rabbit",
+        "pronunciation": "/ˈræbɪt/",
+        "meaning": "n.兔，野兔",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "radar",
+        "pronunciation": "/ˈredɑr/",
+        "meaning": "n.雷达",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rainbow",
+        "pronunciation": "/ˈrenbo/",
+        "meaning": "n.虹，彩虹",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rat",
+        "pronunciation": "/ræt/",
+        "meaning": "n.老鼠小人 v.揭发，告密",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rather",
+        "pronunciation": "/ˈræðɚ/",
+        "meaning": "adv.相反相当更确切地说有点儿",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "razor",
+        "pronunciation": "/ˈrezɚ/",
+        "meaning": "n.刮胡刀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "real",
+        "pronunciation": "/ˈriəl/",
+        "meaning": "adj.实际的，确实的真实的逼真的，天然的 adv.非常",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "really",
+        "pronunciation": "/ˈriəˌlɪ/",
+        "meaning": "adv.真正地确实非常实际上 int.真的（表示兴趣或惊讶）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "record",
+        "pronunciation": "/ˈrɛkɚd/",
+        "meaning": "n.记录录制的歌曲案底病历唱片 v.录制，录（音）记录",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "regret",
+        "pronunciation": "/rɪˈɡrɛt/",
+        "meaning": "v.感到遗憾，懊悔 n.遗憾懊悔",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "reptile",
+        "pronunciation": "/ˈrɛptaɪl/",
+        "meaning": "n.爬行动物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rectangle",
+        "pronunciation": "/ˈrɛkˌtæŋɡəl/",
+        "meaning": "n.长方形，矩形",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "return",
+        "pronunciation": "/rɪˈtɝn/",
+        "meaning": "v.归还回来，返回回报 n.利润返回归还 adj.往返的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rifle",
+        "pronunciation": "/ˈraɪfəl/",
+        "meaning": "v.快速翻找偷窃为枪凿制来复线猛踢 n.步枪",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "ring",
+        "pronunciation": "/rɪŋ/",
+        "meaning": "n.环状物打电话团伙戒指 v.打电话围绕响",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "robe",
+        "pronunciation": "/rob/",
+        "meaning": "n.袍服，礼袍浴袍 v.（给某人）穿上礼袍",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rocket",
+        "pronunciation": "/ˈrɑkɪt/",
+        "meaning": "v.猛涨飞奔迅速成功 n.火箭芝麻菜烟花火箭弹",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rose",
+        "pronunciation": "/roz/",
+        "meaning": "v.上升（rise的过去式） n.玫瑰花玫瑰色 adj.玫瑰色的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "rug",
+        "pronunciation": "/rʌɡ/",
+        "meaning": "n.小地毯，垫子小毯子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sale",
+        "pronunciation": "/sel/",
+        "meaning": "n.销售销售量销售活动拍卖特价销售，大减价",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "salesman",
+        "pronunciation": "/ˈselzmən/",
+        "meaning": "n.售货员，推销员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "salient",
+        "pronunciation": "/ˈselɪənt/",
+        "meaning": "adj.最重要的，显著的，突出的 n.突出部分",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "salt",
+        "pronunciation": "/sɔlt/",
+        "meaning": "n.盐盐类 adj.咸的腌制的 v.腌制加盐",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sand",
+        "pronunciation": "/sænd/",
+        "meaning": "n.沙沙滩 v.打磨",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "scissors",
+        "pronunciation": "/ˈsɪzɚz/",
+        "meaning": "n.剪刀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "search",
+        "pronunciation": "/sɝtʃ/",
+        "meaning": "v.搜索，搜查 n.搜索，搜查",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "seat",
+        "pronunciation": "/sit/",
+        "meaning": "n.席位座位，席位椅面基地 v.可容纳使坐下",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "seed",
+        "pronunciation": "/sid/",
+        "meaning": "n.种子种子选手起源，萌芽 v.在……播种结籽使……为种子选手",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "seldom",
+        "pronunciation": "/ˈsɛldəm/",
+        "meaning": "adv.不常，很少",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sex",
+        "pronunciation": "/sɛks/",
+        "meaning": "n.性别性行为男性，女性性 v.辨识……的性别",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "shell",
+        "pronunciation": "/ʃɛl/",
+        "meaning": "v.剥落剥壳炮轰，炮击 n.壳保护壳框架炮弹壳状物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "shore",
+        "pronunciation": "/ʃɔr/",
+        "meaning": "n.岸，滨临海国家",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "short",
+        "pronunciation": "/ʃɔrt/",
+        "meaning": "adj.短暂的矮的，短的不足的简称的 n.短裤烈酒短片短路 adv.中断提前 v.使短路",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "shout",
+        "pronunciation": "/ʃaᴜt/",
+        "meaning": "v.呼喊，大叫 n.呼喊",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "shrug",
+        "pronunciation": "/ʃrʌɡ/",
+        "meaning": "v.耸肩 n.耸肩女士短羊毛衫",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sibling",
+        "pronunciation": "/ˈsɪblɪŋ/",
+        "meaning": "n.兄弟姐妹",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "silk",
+        "pronunciation": "/sɪlk/",
+        "meaning": "n.丝绸",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "slave",
+        "pronunciation": "/slev/",
+        "meaning": "n.奴隶 v.辛苦地工作",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "slow",
+        "pronunciation": "/slo/",
+        "meaning": "adj.迟钝的慢的沉闷的情节拖沓的 v.（使）放慢速度 adv.缓慢地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "smoke",
+        "pronunciation": "/smok/",
+        "meaning": "v.吸烟，抽烟熏制冒烟 n.烟烟雾",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "snack",
+        "pronunciation": "/snæk/",
+        "meaning": "n.点心，小吃，快餐 v.吃小吃",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soap",
+        "pronunciation": "/sop/",
+        "meaning": "n.肥皂肥皂剧 v.用肥皂擦洗",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soccer",
+        "pronunciation": "/ˈsɑkɚ/",
+        "meaning": "n.（英式）足球",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soda",
+        "pronunciation": "/ˈsodə/",
+        "meaning": "n.苏打水一瓶汽水苏打",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sofa",
+        "pronunciation": "/ˈsofə/",
+        "meaning": "n.长沙发",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soft",
+        "pronunciation": "/sɔft/",
+        "meaning": "adj.柔和的柔软的柔滑的容易的（毒品）软的疲软的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soldier",
+        "pronunciation": "/ˈsoldʒɚ/",
+        "meaning": "n.军人士兵 v.坚持干当兵",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "solitary",
+        "pronunciation": "/ˈsɑlətɛrɪ/",
+        "meaning": "adj.独居的独自的孤独的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soon",
+        "pronunciation": "/sun/",
+        "meaning": "adv.不久，很快",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sophomore",
+        "pronunciation": "/ˈsɑfəmɔ(r)/",
+        "meaning": "n.高二学生，大二学生",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "soup",
+        "pronunciation": "/sup/",
+        "meaning": "n.汤",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "southeast",
+        "pronunciation": "/saᴜθˈist/",
+        "meaning": "adj.东南的 adv.向东南，在东南 n.东南，东南方，东南地区",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "southwest",
+        "pronunciation": "/saᴜθˈwɛst/",
+        "meaning": "adv.向西南，在西南 adj.西南的 n.西南",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "spade",
+        "pronunciation": "/sped/",
+        "meaning": "n.铲，锹黑桃牌黑桃",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "speaker",
+        "pronunciation": "/ˈspikɚ/",
+        "meaning": "n.发言者演说家扬声器讲（某种语言）的人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "spear",
+        "pronunciation": "/spɪɚ/",
+        "meaning": "n.矛，投枪，梭镖嫩茎 v.用矛刺，叉住",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "spectacular",
+        "pronunciation": "/spɛkˈtækjəlɚ/",
+        "meaning": "adj.壮观的，壮丽的，惊人的巨大的 n.壮丽的场面，精彩的表演",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "speech",
+        "pronunciation": "/spitʃ/",
+        "meaning": "n.演说，讲演说话能力，说话方式口语，言语",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "speed",
+        "pronunciation": "/spid/",
+        "meaning": "n.高速速度 v.快速移动加速超速行驶",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "spider",
+        "pronunciation": "/ˈspaɪdɚ/",
+        "meaning": "n.蜘蛛",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "spokesman",
+        "pronunciation": "/ˈspoksmən/",
+        "meaning": "n.男发言人",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sponge",
+        "pronunciation": "/spʌndʒ/",
+        "meaning": "n.海绵海绵动物海绵块海绵蛋糕 v.用湿海绵擦白要，白吃",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "spoon",
+        "pronunciation": "/spun/",
+        "meaning": "n.勺一匙的量 v.用勺舀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "squirrel",
+        "pronunciation": "/ˈskwɝrəl/",
+        "meaning": "n.松鼠",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stadium",
+        "pronunciation": "/ˈstediəm/",
+        "meaning": "n.（露天）体育场",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stair",
+        "pronunciation": "/stɛr/",
+        "meaning": "n.楼梯梯级",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "staircase",
+        "pronunciation": "/ˈstɛrˌkes/",
+        "meaning": "n.楼梯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stairway",
+        "pronunciation": "/ˈstɛrwe/",
+        "meaning": "n.楼梯",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "steel",
+        "pronunciation": "/stil/",
+        "meaning": "n.钢，钢铁钢铁工业 v.准备应付，下决心做",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stereo",
+        "pronunciation": "/stɛrɪo/",
+        "meaning": "adj.立体声的 n.立体声音响",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stocking",
+        "pronunciation": "/ˈstɑkɪŋ/",
+        "meaning": "n.长筒袜 v.贮备（stock的现在分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stomach",
+        "pronunciation": "/ˈstʌmək/",
+        "meaning": "n.胃下腹承受能力肚子 v.忍受",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stone",
+        "pronunciation": "/ston/",
+        "meaning": "n.石头纪念碑宝石结石果核 v.去掉果核用石头砸",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stool",
+        "pronunciation": "/stul/",
+        "meaning": "n.凳子大便，粪便",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "story",
+        "pronunciation": "/ˈstɔrɪ/",
+        "meaning": "n.楼层",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stove",
+        "pronunciation": "/stov/",
+        "meaning": "n.炉子，火炉",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "strawberry",
+        "pronunciation": "/ˈstrɔˌbɛrɪ/",
+        "meaning": "n.草莓",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "strict",
+        "pronunciation": "/strɪkt/",
+        "meaning": "adj.严明的要求严格的，严厉的严谨的恪守信条的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "stupid",
+        "pronunciation": "/ˈstupɪd/",
+        "meaning": "adj.愚蠢的讨厌的 n.傻子，笨蛋",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "subsidy",
+        "pronunciation": "/ˈsʌbsɪdɪ/",
+        "meaning": "n.补助",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "suburb",
+        "pronunciation": "/ˈsʌbɝb/",
+        "meaning": "n.郊区，城外",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sugar",
+        "pronunciation": "/ˈʃᴜɡɚ/",
+        "meaning": "n.糖分糖方糖亲爱的 v.加糖，撒糖 int.哎呀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sulphur/sulfur",
+        "pronunciation": "/ˈsʌlfɚ/",
+        "meaning": "n.硫磺",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "summarise",
+        "pronunciation": "/ˈsʌməˌraɪz/",
+        "meaning": "v.总结，概括",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sure",
+        "pronunciation": "/ʃᴜɚ/",
+        "meaning": "adj.确定的十分清楚的 adv.当然（表示同意）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "swan",
+        "pronunciation": "/swɑn/",
+        "meaning": "n.天鹅 v.漫游，游走，闲逛",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sweater",
+        "pronunciation": "/ˈswɛtɚ/",
+        "meaning": "n.毛衣",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "sword",
+        "pronunciation": "/sɔrd/",
+        "meaning": "n.剑，刀",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "table",
+        "pronunciation": "/ˈtebəl/",
+        "meaning": "n.桌子表格 v.正式提出搁置",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tail",
+        "pronunciation": "/tel/",
+        "meaning": "n.尾部尾巴燕尾服盯梢人(硬币)反面 v.跟踪，盯梢",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "task",
+        "pronunciation": "/tæsk/",
+        "meaning": "n.任务，工作 v.给……分配任务",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "team",
+        "pronunciation": "/tim/",
+        "meaning": "n.队，组球队，运动队 v.组成团队",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "temperament",
+        "pronunciation": "/ˈtɛmpərəmənt/",
+        "meaning": "n.性格，性情暴躁，喜怒无常",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tent",
+        "pronunciation": "/tɛnt/",
+        "meaning": "n.帐篷",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "test",
+        "pronunciation": "/tɛst/",
+        "meaning": "n.测验体检考验 v.试验，测试",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "testimony",
+        "pronunciation": "/ˈtestɪmonɪ/",
+        "meaning": "n.证据，证明证词",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "textbook",
+        "pronunciation": "/ˈtɛkstˌbᴜk/",
+        "meaning": "n.课本 adj.教科书般的，典范的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "thief",
+        "pronunciation": "/θif/",
+        "meaning": "n.窃贼，小偷",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "throat",
+        "pronunciation": "/θrot/",
+        "meaning": "n.咽喉，喉咙",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "thus",
+        "pronunciation": "/ðʌs/",
+        "meaning": "adv.如此，因此以这种方式",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tile",
+        "pronunciation": "/taɪl/",
+        "meaning": "v.铺 n.瓷砖瓦片",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "till",
+        "pronunciation": "/tɪl/",
+        "meaning": "prep.直到 v.耕作 n.收银机 conj.到，直到",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "timber",
+        "pronunciation": "/ˈtɪmbɚ/",
+        "meaning": "n.木材，树木",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tobacco",
+        "pronunciation": "/təˈbæko/",
+        "meaning": "n.烟草，烟叶",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "toe",
+        "pronunciation": "/to/",
+        "meaning": "n.脚趾足尖部 v.用脚尖走",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "toilet",
+        "pronunciation": "/ˈtɔɪlət/",
+        "meaning": "n.厕所，洗手间坐便器",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tooth",
+        "pronunciation": "/tuθ/",
+        "meaning": "n.牙齿（复数teeth）齿状物",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tour",
+        "pronunciation": "/tᴜr/",
+        "meaning": "n.游览，观光巡回活动 v.作巡回活动旅行，旅游",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tourist",
+        "pronunciation": "/ˈtᴜrɪst/",
+        "meaning": "n.旅行者，观光者",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "towel",
+        "pronunciation": "/ˈtaᴜəl/",
+        "meaning": "n.毛巾，浴巾抹布 v.用毛巾擦",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "town",
+        "pronunciation": "/taᴜn/",
+        "meaning": "n.城镇，市镇市中心中心城市",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "toy",
+        "pronunciation": "/tɔɪ/",
+        "meaning": "n.玩具玩物 adj.小的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tractor",
+        "pronunciation": "/ˈtræktɚ/",
+        "meaning": "n.拖拉机牵引车头",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tray",
+        "pronunciation": "/tre/",
+        "meaning": "n.托盘，碟",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "trolley/trolly",
+        "pronunciation": "/ˈtrɑlɪ/",
+        "meaning": "n.手推车有轨电车",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "trousers",
+        "pronunciation": "/ˈtraᴜzɚz/",
+        "meaning": "n.裤子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "truck",
+        "pronunciation": "/trʌk/",
+        "meaning": "n.卡车货运火车厢 v.用卡车运",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "trumpet",
+        "pronunciation": "/ˈtrʌmpɪt/",
+        "meaning": "v.大力鼓吹 n.小号，喇叭吼声",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "truth",
+        "pronunciation": "/truθ/",
+        "meaning": "n.真理实情，事实真实性",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tub",
+        "pronunciation": "/tʌb/",
+        "meaning": "n.桶，盆，缸一桶之量浴缸",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "tumor",
+        "pronunciation": "/ˈtu:mɚ/",
+        "meaning": "n.肿瘤",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "typewriter",
+        "pronunciation": "/ˈtaɪpˌraɪtɚ/",
+        "meaning": "n.打字机",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "typist",
+        "pronunciation": "/ˈtaɪpɪst/",
+        "meaning": "n.打字员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "typhoon",
+        "pronunciation": "/taɪˈfun/",
+        "meaning": "n.台风",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "until",
+        "pronunciation": "/ʌnˈtɪl/",
+        "meaning": "conj.直到……为止 prep.直到",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "upon",
+        "pronunciation": "/əˈpɑn/",
+        "meaning": "prep.在……上，到……上将要发生",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "used",
+        "pronunciation": "/just/",
+        "meaning": "adj.用过的，旧的，二手的习惯于 v.使用（use的过去式和过去分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "valley",
+        "pronunciation": "/ˈvælɪ/",
+        "meaning": "n.山谷，谷",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "vegetable",
+        "pronunciation": "/ˈvɛdʒtəbəl/",
+        "meaning": "n.蔬菜 adj.蔬菜的，植物的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "vase",
+        "pronunciation": "/ves/",
+        "meaning": "n.花瓶",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "venue",
+        "pronunciation": "/ˈvɛnju/",
+        "meaning": "n.活动场地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "verb",
+        "pronunciation": "/vɝb/",
+        "meaning": "n.动词",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "victory",
+        "pronunciation": "/ˈvɪktərɪ/",
+        "meaning": "n.胜利，成功",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "vigorous",
+        "pronunciation": "/ˈvɪɡərəs/",
+        "meaning": "adj.剧烈的健壮的充满活力的，精力充沛的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "village",
+        "pronunciation": "/ˈvɪlɪdʒ/",
+        "meaning": "n.村庄，村镇",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "visa",
+        "pronunciation": "/ˈvizə/",
+        "meaning": "n.签证",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "visit",
+        "pronunciation": "/ˈvɪzɪt/",
+        "meaning": "v.参观拜访浏览 n.参观拜访访问",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "visitor",
+        "pronunciation": "/ˈvɪzɪtɚ/",
+        "meaning": "n.访问者游人，游客",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "vocabulary",
+        "pronunciation": "/voˈkæbjəlɛrɪ/",
+        "meaning": "n.词汇，词汇量",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "vitamin",
+        "pronunciation": "/ˈvaɪtəmɪn/",
+        "meaning": "n.维生素",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "volt",
+        "pronunciation": "/volt/",
+        "meaning": "n.伏，伏特",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "voltage",
+        "pronunciation": "/ˈvoltɪdʒ/",
+        "meaning": "n.电压",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wait",
+        "pronunciation": "/wet/",
+        "meaning": "v.等待服务，招待",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "waiter",
+        "pronunciation": "/ˈwetɚ/",
+        "meaning": "n.（男）服务员侍者",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "waitress",
+        "pronunciation": "/ˈwetrɪs/",
+        "meaning": "n.女服务员",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wall",
+        "pronunciation": "/wɔl/",
+        "meaning": "n.墙壁内壁屏障隔阂",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wallet",
+        "pronunciation": "/ˈwɑlɪt/",
+        "meaning": "n.钱包",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "warm",
+        "pronunciation": "/wɔrm/",
+        "meaning": "adj.温暖的，暖和的保温的暖色调的热心的 adv.使人暖和地 v.使暖和变得友好",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wary",
+        "pronunciation": "/ˈwɛrɪ/",
+        "meaning": "adj.小心的，提防的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "watt",
+        "pronunciation": "/wɑt/",
+        "meaning": "n.瓦，瓦特",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wedding",
+        "pronunciation": "/ˈwɛdɪŋ/",
+        "meaning": "n.婚礼，结婚庆典 v.结婚（wed的现在分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "west",
+        "pronunciation": "/wɛst/",
+        "meaning": "n.西西方国家西部 adv.向西，朝西 adj.西风的向西的，西部的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "western",
+        "pronunciation": "/ˈwestɚn/",
+        "meaning": "adj.西方的，西部的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wheat",
+        "pronunciation": "/wit/",
+        "meaning": "n.麦，麦子",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wheel",
+        "pronunciation": "/wil/",
+        "meaning": "n.轮子机轮方向盘 v.推转圈，盘旋突然转身",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "whether",
+        "pronunciation": "/ˈwɛðɚ/",
+        "meaning": "conj.是否不管……（还是），或者……（或者）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "whisky",
+        "pronunciation": "/ˈwɪski/",
+        "meaning": "n.威士忌酒 adj.威士忌酒的",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "white",
+        "pronunciation": "/waɪt/",
+        "meaning": "adj.白色的白人的苍白的 n.白人白葡萄酒蛋白眼白白色",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wide",
+        "pronunciation": "/waɪd/",
+        "meaning": "adj.广泛的宽的，宽阔的，宽广的完全张开的……宽的未打中的 adv.完全地，大大地",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "widow",
+        "pronunciation": "/ˈwɪdo/",
+        "meaning": "n.寡妇，遗孀 v.丧偶",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "willing",
+        "pronunciation": "/ˈwɪlɪŋ/",
+        "meaning": "adj.心甘情愿的乐意的，愿意的 v.希望，决心，立遗嘱（will的现在分词）",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wing",
+        "pronunciation": "/wɪŋ/",
+        "meaning": "n.机翼翅膀政党派别舞台侧面边锋队员 v.飞行，赶往",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wolf",
+        "pronunciation": "/wᴜlf/",
+        "meaning": "n.狼 v.狼吞虎咽",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "wool",
+        "pronunciation": "/wᴜl/",
+        "meaning": "n.羊毛羊毛织物毛，毛线，毛料",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "worst",
+        "pronunciation": "/wɝst/",
+        "meaning": "adj.最差的，最坏的，最糟的 n.最坏的事或人最糟的情况 v.击败，打败 adv.最坏，最糟，最严重",
+        "unit": "基础词 Unit 31"
+    },
+    {
+        "words": "youngster",
+        "pronunciation": "/ˈjʌŋstɚ/",
+        "meaning": "n.年轻人",
+        "unit": "基础词 Unit 31"
+    }
+]

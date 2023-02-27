@@ -1,0 +1,530 @@
+[
+    {
+        "words": "sail",
+        "pronunciation": "/sel/",
+        "meaning": "n.帆乘船航行 v.驾驶帆船航行，起航",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "sailor",
+        "pronunciation": "/ˈselɚ/",
+        "meaning": "n.水手，海员",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "saint",
+        "pronunciation": "/sent/",
+        "meaning": "n.圣人，圣徒",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "sake",
+        "pronunciation": "/sek/",
+        "meaning": "n.目的，理由日本清酒",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "salad",
+        "pronunciation": "/ˈsæləd/",
+        "meaning": "n.沙拉",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "salary",
+        "pronunciation": "/ˈsælərɪ/",
+        "meaning": "n.薪水，薪金",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "salute",
+        "pronunciation": "/səˈlut/",
+        "meaning": "v.敬礼，致敬 n.敬礼，致敬",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "salvation",
+        "pronunciation": "/sælˈveʃən/",
+        "meaning": "n.灵魂得救，救助救助途径",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "accent",
+        "pronunciation": "/ˈæksɛnt/",
+        "meaning": "n.口音，腔调变音符号强调，关注重音 v.强调",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "accident",
+        "pronunciation": "/ˈæksɪdənt/",
+        "meaning": "n.意外，偶然车祸事故",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "accord",
+        "pronunciation": "/əˈkɔrd/",
+        "meaning": "v.一致，符合授予，给予 n.协议，条约",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "accordance",
+        "pronunciation": "/əˈkɔrdns/",
+        "meaning": "n.依照，按照",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "according to",
+        "pronunciation": "/ əˈkɔːdɪŋ tuː/",
+        "meaning": "prep.据……所说，根据……报道；取决于，以…为转移；根据，依照 （原则等）",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "accordingly",
+        "pronunciation": "/əˈkɔrdɪŋlɪ/",
+        "meaning": "adv.相应地因此，于是",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "ache",
+        "pronunciation": "/ek/",
+        "meaning": "v.疼痛渴望 n.痛，疼痛",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "acid",
+        "pronunciation": "/ˈæsɪd/",
+        "meaning": "n.酸迷幻剂 adj.尖酸的酸的，酸性的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "bald",
+        "pronunciation": "/bɔld/",
+        "meaning": "adj.秃顶的磨平了的直白的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "ballet",
+        "pronunciation": "/bæˈle/",
+        "meaning": "n.芭蕾舞芭蕾舞剧",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "ballot",
+        "pronunciation": "/ˈbælət/",
+        "meaning": "n.选票无记名投票 v.进行无记名投票",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "band",
+        "pronunciation": "/bænd/",
+        "meaning": "n.乐队一伙人带状物范围带子",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "bandage",
+        "pronunciation": "/ˈbændɪdʒ/",
+        "meaning": "n.绷带 v.用绷带包扎",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "bang",
+        "pronunciation": "/bæŋ/",
+        "meaning": "n.突然的巨响撞击 adv.恰好 int.砰 v.砰地关上猛摔，碰撞猛敲砸",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "bankrupt",
+        "pronunciation": "/ˈbæŋkˌrʌpt/",
+        "meaning": "adj.破产的，倒闭的完全丧失的 v.使破产，使倒闭 n.破产者",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "banner",
+        "pronunciation": "/ˈbænɚ/",
+        "meaning": "n.横幅，标语广告条主张，原则",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "banquet",
+        "pronunciation": "/ˈbæŋkwɪt/",
+        "meaning": "n.宴会，盛宴",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "barbecue",
+        "pronunciation": "/ˈbɑrbɪkju/",
+        "meaning": "n.烤架烧烤 v.烧烤",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "bark",
+        "pronunciation": "/bɑrk/",
+        "meaning": "v.吠，叫咆哮，怒吼 n.树皮狗叫声",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "barn",
+        "pronunciation": "/bɑrn/",
+        "meaning": "n.谷仓，粮仓简陋的大建筑物车库",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "barrel",
+        "pronunciation": "/ˈbærəl/",
+        "meaning": "n.桶枪管 v.飞驶",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "barren",
+        "pronunciation": "/ˈbærən/",
+        "meaning": "adj.贫瘠的无效果的不孕的不结果实的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "barrier",
+        "pronunciation": "/ˈbɛrɪɚ/",
+        "meaning": "n.障碍物大关障碍检票口隔阂",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "camel",
+        "pronunciation": "/ˈkæməl/",
+        "meaning": "n.骆驼",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "camp",
+        "pronunciation": "/kæmp/",
+        "meaning": "n.阵营营地度假村 adj.女里女气的夸张的 v.野营",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "campus",
+        "pronunciation": "/ˈkæmpəs/",
+        "meaning": "n.校园，校区",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "can",
+        "pronunciation": "/kæn/",
+        "meaning": "modal.可以，能够可能 v.将……装罐保存 n.罐，听",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "cancel",
+        "pronunciation": "/ˈkænsəl/",
+        "meaning": "v.取消，终止废除盖销",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "cancer",
+        "pronunciation": "/ˈkænsɚ/",
+        "meaning": "n.癌，癌症（社会）毒瘤毒瘤",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "cape",
+        "pronunciation": "/kep/",
+        "meaning": "n.披肩，斗篷海角，岬",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "captain",
+        "pronunciation": "/ˈkæptən/",
+        "meaning": "n.（海军）上校队长船长，机长 v.担任队长，当船长或舰长",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carbohydrate",
+        "pronunciation": "/ˌkɑrboˈhaɪdret/",
+        "meaning": "n.碳水化合物，糖类",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carbon",
+        "pronunciation": "/ˈkɑrbən/",
+        "meaning": "n.碳",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "cardinal",
+        "pronunciation": "/ˈkɑrdɪnl/",
+        "meaning": "n.红衣主教，枢机主教红衣凤头鸟基数 adj.最重要的，基本的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "cargo",
+        "pronunciation": "/ˈkɑrgo/",
+        "meaning": "n.货物",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carriage",
+        "pronunciation": "/ˈkærɪdʒ/",
+        "meaning": "n.四轮马车车厢运费，运输仪态",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carrier",
+        "pronunciation": "/ˈkæriɚ/",
+        "meaning": "n.运输工具搬运人客运航空公司病毒携带者电信运营商载物架",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carry",
+        "pronunciation": "/ˈkærɪ/",
+        "meaning": "v.携带具有提，抱，扛，背，搬运载支撑怀孕",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carrot",
+        "pronunciation": "/ˈkærət/",
+        "meaning": "n.胡萝卜",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "carve",
+        "pronunciation": "/kɑrv/",
+        "meaning": "v.刻，雕刻切下",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "eccentric",
+        "pronunciation": "/ɪkˈsɛntrɪk/",
+        "meaning": "adj.古怪的，怪异的 n.古怪的人，怪人",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "echo",
+        "pronunciation": "/ˈɛko/",
+        "meaning": "v.模仿，仿效发出回声重复，附和 n.回声，回响仿效，模仿",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "ecology",
+        "pronunciation": "/iˈkɑlədʒɪ/",
+        "meaning": "n.生态生态学",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "edge",
+        "pronunciation": "/ɛdʒ/",
+        "meaning": "n.边，边缘优势声音的尖锐刀刃 v.缓慢移动",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "faint",
+        "pronunciation": "/fent/",
+        "meaning": "adj.不积极的微弱的，虚弱的微小的眩晕的 n.昏厥，晕厥 v.昏倒",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "faith",
+        "pronunciation": "/feθ/",
+        "meaning": "n.信任，相信宗教宗教信仰",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "faithful",
+        "pronunciation": "/ˈfeθfəl/",
+        "meaning": "adj.忠诚的虔诚的 n.忠实支持者",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "gentle",
+        "pronunciation": "/ˈdʒɛntl/",
+        "meaning": "adj.温柔的，文静的轻柔的平缓的温和的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "gently",
+        "pronunciation": "/ˈdʒentlɪ/",
+        "meaning": "adv.轻轻地平缓地",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "genuine",
+        "pronunciation": "/ˈdʒɛnjuɪn/",
+        "meaning": "adj.真正的真诚的，可信赖的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "geography",
+        "pronunciation": "/dʒɪˈɑgrəfɪ/",
+        "meaning": "n.地理地形，地貌",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "geology",
+        "pronunciation": "/dʒiˈɑlədʒɪ/",
+        "meaning": "n.地质学地质情况",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "geometry",
+        "pronunciation": "/dʒiˈɑmətrɪ/",
+        "meaning": "n.几何学几何图形",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "germ",
+        "pronunciation": "/dʒɝm/",
+        "meaning": "n.微生物，细菌，病菌起源，发端",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "gesture",
+        "pronunciation": "/ˈdʒɛstʃɚ/",
+        "meaning": "v.打手势 n.姿势表示手势",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "ghost",
+        "pronunciation": "/gost/",
+        "meaning": "n.鬼，鬼魂（可怕的）记忆",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "majesty",
+        "pronunciation": "/ˈmædʒɪstɪ/",
+        "meaning": "n.陛下壮观，庄严",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "male",
+        "pronunciation": "/ˈmel/",
+        "meaning": "n.男性雄性 adj.雄的男性的，男的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "malignant",
+        "pronunciation": "/məˈlɪɡnənt/",
+        "meaning": "adj.恶性的恶意的，恶毒的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "passage",
+        "pronunciation": "/ˈpæsɪdʒ/",
+        "meaning": "n.通过通道，走廊道航行章节，段落",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "passerby",
+        "pronunciation": "/ˈpæsɚˌbaɪ/",
+        "meaning": "n.过路人，经过者",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "passport",
+        "pronunciation": "/ˈpæspɔrt/",
+        "meaning": "n.护照途径，手段",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "paste",
+        "pronunciation": "/pest/",
+        "meaning": "n.糨糊，面团酱铅质玻璃 v.粘贴",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "pastime",
+        "pronunciation": "/ˈpæstaɪm/",
+        "meaning": "n.消遣，娱乐",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "pat",
+        "pronunciation": "/pæt/",
+        "meaning": "v.拍，打 n.轻拍小块黄油 adj.敷衍的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "path",
+        "pronunciation": "/pæθ/",
+        "meaning": "n.小径，小路途径路线，道路",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "pathetic",
+        "pronunciation": "/pəˈθɛtɪk/",
+        "meaning": "adj.可怜的无用的，差劲的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "patience",
+        "pronunciation": "/ˈpeʃəns/",
+        "meaning": "n.耐心毅力",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "patriotic",
+        "pronunciation": "/ˌpetriˈɑtɪk/",
+        "meaning": "adj.爱国的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "patrol",
+        "pronunciation": "/pəˈtrol/",
+        "meaning": "v.巡逻，巡查 n.巡逻，巡查巡逻兵，巡逻队，巡逻车",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "patron",
+        "pronunciation": "/ˈpetrən/",
+        "meaning": "n.赞助人，资助人老主顾",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "pause",
+        "pronunciation": "/pɔz/",
+        "meaning": "v.停顿 n.停顿的时间暂停键休止符",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "pave",
+        "pronunciation": "/pev/",
+        "meaning": "v.铺（路、地面等）",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "pavement",
+        "pronunciation": "/ˈpevmənt/",
+        "meaning": "n.人行道路面",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "dance",
+        "pronunciation": "/dæns/",
+        "meaning": "n.舞蹈跳舞舞会 v.跳舞跳动",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "dash",
+        "pronunciation": "/dæʃ/",
+        "meaning": "v.飞奔猛摔，猛撞 n.飞奔短跑少量破折号长音，长划气魄，帅气 int.糟糕，讨厌",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "daunting",
+        "pronunciation": "/dɔntɪŋ/",
+        "meaning": "adj.吓人的，使人气馁的",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "dawn",
+        "pronunciation": "/dɔn/",
+        "meaning": "n.开端，萌芽黎明 v.变得明朗开始",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "daily",
+        "pronunciation": "/ˈdelɪ/",
+        "meaning": "adj.每日的，日常的 n.日报 adv.每日，每天",
+        "unit": "基础词 Unit 03"
+    },
+    {
+        "words": "daylight",
+        "pronunciation": "/ˈdeˌlaɪt/",
+        "meaning": "n.日光拂晓",
+        "unit": "基础词 Unit 03"
+    }
+]

@@ -1,0 +1,530 @@
+[
+    {
+        "words": "tie",
+        "pronunciation": "/taɪ/",
+        "meaning": "n.联系平局淘汰赛领带 v.捆，束，系使关系密切束缚得分相同",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "tide",
+        "pronunciation": "/taɪd/",
+        "meaning": "n.潮水潮流浪潮",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "tidy",
+        "pronunciation": "/ˈtaɪdɪ/",
+        "meaning": "adj.整齐的，整洁的高额的 v.整理，收拾",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "tight",
+        "pronunciation": "/taɪt/",
+        "meaning": "adj.严厉的严密的紧的紧身的挤满的忐忑的小气的绷紧的 adv.紧紧地，牢固地",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "tilt",
+        "pronunciation": "/tɪlt/",
+        "meaning": "v.（使）倾斜，倾侧（使）倾向于 n.倾斜，倾侧尝试，努力",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "weekday",
+        "pronunciation": "/ˈwikˌde/",
+        "meaning": "n.工作日",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "weekly",
+        "pronunciation": "/ˈwiklɪ/",
+        "meaning": "adj.每周的按周计算的 n.周刊 adv.每周地",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "weed",
+        "pronunciation": "/wid/",
+        "meaning": "n.杂草 v.除杂草",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "weep",
+        "pronunciation": "/wip/",
+        "meaning": "v.哭泣，流泪流血，渗出液体",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "well-known",
+        "pronunciation": "/ˈwɛlˈnon/",
+        "meaning": "adj.众所周知的，著名的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "wet",
+        "pronunciation": "/wɛt/",
+        "meaning": "adj.湿的，潮湿的下雨的 n.液体（尤指水） v.把……弄湿",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "ancestor",
+        "pronunciation": "/ˈænˌsɛstɚ/",
+        "meaning": "n.祖宗，祖先物种原型",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "ancient",
+        "pronunciation": "/ˈenʃənt/",
+        "meaning": "adj.古代的，古老的古代人 n.古代人",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "and",
+        "pronunciation": "/ænd/",
+        "meaning": "conj.和，与然后越来越那么为了又而",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "anecdote",
+        "pronunciation": "/ˈænɪkdot/",
+        "meaning": "n.轶事，趣闻",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "angel",
+        "pronunciation": "/ˈendʒəl/",
+        "meaning": "n.天使大好人善人",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "angle",
+        "pronunciation": "/ˈæŋɡəl/",
+        "meaning": "n.角度，立场角视角 v.斜置以（某观点）提供信息",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "anger",
+        "pronunciation": "/ˈæŋɡɚ/",
+        "meaning": "n.怒，怒火，怒气 v.使生气",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "angry",
+        "pronunciation": "/ˈæŋɡrɪ/",
+        "meaning": "adj.生气的发炎的波涛汹涌的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "ankle",
+        "pronunciation": "/ˈæŋkəl/",
+        "meaning": "n.脚踝",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "anniversary",
+        "pronunciation": "/ˌænɪˈvɚsərɪ/",
+        "meaning": "n.周年纪念日",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "announce",
+        "pronunciation": "/əˈnaᴜns/",
+        "meaning": "v.宣布，宣告播报通知声称",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "antenna",
+        "pronunciation": "/ænˈtɛnə/",
+        "meaning": "n.触角，触须天线感觉，直觉",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "antique",
+        "pronunciation": "/ænˈtik/",
+        "meaning": "adj.古老的，古董的 n.古物，古董",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "bet",
+        "pronunciation": "/bɛt/",
+        "meaning": "n.打赌，赌注 v.打赌，下赌注确信，敢说",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "betray",
+        "pronunciation": "/bɪˈtre/",
+        "meaning": "v.出卖流露，暴露失信于，辜负背弃",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "better",
+        "pronunciation": "/ˈbɛtɚ/",
+        "meaning": "adj.更好的（good的比较级）好转的 adv.较好地，更好地更 v.胜过改善 n.较好者",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "between",
+        "pronunciation": "/bɪˈtwin/",
+        "meaning": "prep.在……中间合用，共享 adv.在中间",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "beware",
+        "pronunciation": "/bɪˈwɛr/",
+        "meaning": "v.小心，提防",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "bewilder",
+        "pronunciation": "/bɪˈwɪldɚ/",
+        "meaning": "v.使困惑，使糊涂",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "beyond",
+        "pronunciation": "/bɪˈjɑnd/",
+        "meaning": "prep.超出除……之外在更远处晚于，迟于 adv.在更远处",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "cloth",
+        "pronunciation": "/klɑθ/",
+        "meaning": "n.织物，布料（一块）布",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "clothe",
+        "pronunciation": "/kloð/",
+        "meaning": "v.为……提供衣服",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "clothes",
+        "pronunciation": "/kloðz/",
+        "meaning": "n.衣服，服装",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "clothing",
+        "pronunciation": "/ˈkloðɪŋ/",
+        "meaning": "n.衣服",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "cloud",
+        "pronunciation": "/klaᴜd/",
+        "meaning": "n.云一团 v.（使）模糊使难以理解",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "cloudy",
+        "pronunciation": "/ˈklaᴜdɪ/",
+        "meaning": "adj.阴天的，多云的浑浊的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "clue",
+        "pronunciation": "/klu/",
+        "meaning": "n.提示线索 v.提供线索",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "clumsy",
+        "pronunciation": "/ˈklʌmzɪ/",
+        "meaning": "adj.笨拙的，不灵活的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "cluster",
+        "pronunciation": "/ˈklʌstɚ/",
+        "meaning": "n.串，丛，簇 v.聚集",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "clutch",
+        "pronunciation": "/klʌtʃ/",
+        "meaning": "v.紧握，紧抓 n.离合器一窝蛋一小群",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "desolate",
+        "pronunciation": "/ˈdɛsəlɪt/",
+        "meaning": "adj.荒凉的，荒废的孤寂的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "despair",
+        "pronunciation": "/dɪˈspɛr/",
+        "meaning": "v.绝望，感到无望 n.绝望",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "desperate",
+        "pronunciation": "/ˈdɛspərɪt/",
+        "meaning": "adj.绝望的，孤注一掷的很危急的非常需要的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "destination",
+        "pronunciation": "/ˌdɛstɪˈneʃən/",
+        "meaning": "n.目的地，终点",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "destiny",
+        "pronunciation": "/ˈdɛstənɪ/",
+        "meaning": "n.命运，天命",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "destruction",
+        "pronunciation": "/dɪˈstrʌkʃən/",
+        "meaning": "n.摧毁，毁灭，破坏",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "destructive",
+        "pronunciation": "/dɪˈstrʌktɪv/",
+        "meaning": "adj.破坏（或毁灭）性的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "engine",
+        "pronunciation": "/ˈɛndʒɪn/",
+        "meaning": "n.发动机，引擎火车头",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "engineer",
+        "pronunciation": "/ˌɛndʒɪˈnɪɚ/",
+        "meaning": "v.精心谋划设计，制造 n.工程师技工，机械师",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "engineering",
+        "pronunciation": "/ˌendʒɪˈnɪrɪŋ/",
+        "meaning": "n.工程，工程学 v.设计制造，策划",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "enormous",
+        "pronunciation": "/ɪˈnɔrməs/",
+        "meaning": "adj.巨大的，极大的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "enquire/inquire",
+        "pronunciation": "/ɪnˈkwaɪɚ/",
+        "meaning": "v.询问，打听",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "enrich",
+        "pronunciation": "/ɛnˈrɪtʃ/",
+        "meaning": "v.充实，使丰富使富有",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "enrol",
+        "pronunciation": "/ɪnˈrol/",
+        "meaning": "v.（使）加入；注册；招生；吸收",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "final",
+        "pronunciation": "/ˈfaɪnəl/",
+        "meaning": "adj.最终的，最后的不可改变的 n.决赛结业考试",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "finally",
+        "pronunciation": "/ˈfaɪnəlɪ/",
+        "meaning": "adv.最后",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fine",
+        "pronunciation": "/faɪn/",
+        "meaning": "n.罚金，罚款 adv.令人满意地 adj.美好的好的精致的（身体）很好 int.没问题 v.对……处以罚款",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "finish",
+        "pronunciation": "/ˈfɪnɪʃ/",
+        "meaning": "n.最后部分抛光 v.结束吃完，喝光完成，做好",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fire",
+        "pronunciation": "/faɪr/",
+        "meaning": "n.火火灾，失火炉火取暖器激情火力 v.烧制点火激起，唤起射出解雇，开除",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fireman",
+        "pronunciation": "/ˈfaɪrmən/",
+        "meaning": "n.消防员（复数firemen)",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fireplace",
+        "pronunciation": "/ˈfaɪrples/",
+        "meaning": "n.壁炉",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fiscal",
+        "pronunciation": "/ˈfɪskəl/",
+        "meaning": "adj.财政的，国库的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fish",
+        "pronunciation": "/fɪʃ/",
+        "meaning": "n.鱼鱼肉 v.摸找，搜寻钓鱼，捕鱼",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "fisherman",
+        "pronunciation": "/ˈfɪʃɚmən/",
+        "meaning": "n.渔民钓鱼的人",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "inner",
+        "pronunciation": "/ˈɪnɚ/",
+        "meaning": "adj.内部的，里面的内心的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "innumerable",
+        "pronunciation": "/ɪˈnumərəbl/",
+        "meaning": "adj.无数的，数不清的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "input",
+        "pronunciation": "/ˈɪnˌpᴜt/",
+        "meaning": "v.输入 n.投入输入",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "inquiry/enquiry",
+        "pronunciation": "/ɪnˈkwaɪərɪ/",
+        "meaning": "n.调查询问",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "lecture",
+        "pronunciation": "/ˈlɛktʃɚ/",
+        "meaning": "n.讲座，演讲讲课教训 v.教训讲课，讲授",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "legacy",
+        "pronunciation": "/ˈlɛɡəsɪ/",
+        "meaning": "n.遗产，遗赠，遗留物遗留问题",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "legend",
+        "pronunciation": "/ˈlɛdʒənd/",
+        "meaning": "n.传说，传奇故事图例传奇人物刻印文字",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "lend",
+        "pronunciation": "/lɛnd/",
+        "meaning": "v.增添，赋予借给，借出",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "lens",
+        "pronunciation": "/lɛnz/",
+        "meaning": "n.透镜，镜片镜头晶状体",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "lest",
+        "pronunciation": "/lɛst/",
+        "meaning": "conj.唯恐，以免",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "poke",
+        "pronunciation": "/pok/",
+        "meaning": "v.戳，刺，捅伸出来，探出来 n.戳，刺，捅",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "polar",
+        "pronunciation": "/ˈpolɚ/",
+        "meaning": "adj.（近）极地的，南极（或北极）的截然相反的磁极的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "pole",
+        "pronunciation": "/pol/",
+        "meaning": "n.（行星的）极，地极杆子磁极两极，任何一方 v.摆船",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "pollute",
+        "pronunciation": "/pəˈlut/",
+        "meaning": "v.污染",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "pollution",
+        "pronunciation": "/pəˈluʃən/",
+        "meaning": "n.污染污染物",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "pool",
+        "pronunciation": "/pul/",
+        "meaning": "v.集合资源 n.池子池塘落袋台球共享资源赌球赌注备用人员",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "remark",
+        "pronunciation": "/rɪˈmɑrk/",
+        "meaning": "v.谈到 n.言论，意见，评论",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "remarkable",
+        "pronunciation": "/rɪˈmɑrkəbl/",
+        "meaning": "adj.非凡的，显著的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "greedy",
+        "pronunciation": "/ˈɡridɪ/",
+        "meaning": "adj.贪婪的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "green",
+        "pronunciation": "/ɡrin/",
+        "meaning": "n.绿地果岭青菜绿色 adj.绿色的环保的青葱的不成熟的生的 v.绿化",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "greenhouse",
+        "pronunciation": "/ˈɡrinˌhaᴜs/",
+        "meaning": "n.温室，暖房 adj.温室效应的",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "greet",
+        "pronunciation": "/ɡrit/",
+        "meaning": "v.和……打招呼，迎接回应映入……眼帘",
+        "unit": "基础词 Unit 09"
+    },
+    {
+        "words": "greeting",
+        "pronunciation": "/ˈɡritɪŋ/",
+        "meaning": "n.问候 v.问候（greet的现在分词）",
+        "unit": "基础词 Unit 09"
+    }
+]

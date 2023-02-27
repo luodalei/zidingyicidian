@@ -1,0 +1,542 @@
+[
+    {
+        "words": "sick",
+        "pronunciation": "/sɪk/",
+        "meaning": "adj.有病的想吐的厌烦的 n.病人呕吐物",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "side",
+        "pronunciation": "/saɪd/",
+        "meaning": "n.一旁，一边，一侧一方肋部方面 adj.旁边的次要的 v.支持",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "sideways",
+        "pronunciation": "/ˈsaɪdˌwez/",
+        "meaning": "adv.（斜）向一边，向旁边平级地侧着 adj.侧向的平级的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "siege",
+        "pronunciation": "/sidʒ/",
+        "meaning": "n.围攻，包围",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "sigh",
+        "pronunciation": "/saɪ/",
+        "meaning": "v.叹气，叹息叹着气说 n.叹气，叹息",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "sight",
+        "pronunciation": "/saɪt/",
+        "meaning": "n.看见景象，视野名胜视力，视觉瞄准器 v.看见",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "sightseeing",
+        "pronunciation": "/ˈsaɪtˌsiɪŋ/",
+        "meaning": "n.观光，游览",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "silence",
+        "pronunciation": "/ˈsaɪləns/",
+        "meaning": "n.沉默，缄默，无声寂静 v.使安静，使沉默",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "silent",
+        "pronunciation": "/ˈsaɪlənt/",
+        "meaning": "adj.不说话的，沉默的无声的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "silicon",
+        "pronunciation": "/ˈsɪlɪkən/",
+        "meaning": "n.硅",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "silly",
+        "pronunciation": "/ˈsɪlɪ/",
+        "meaning": "adj.愚蠢的，不明事理的 n.傻孩子，淘气鬼",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "silver",
+        "pronunciation": "/ˈsɪlvɚ/",
+        "meaning": "adj.银色的 n.银银币银色银器",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "thread",
+        "pronunciation": "/θrɛd/",
+        "meaning": "n.线主线，思路线状物螺纹线索 v.穿针使穿过穿起来给穿入",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "threshold",
+        "pronunciation": "/ˈθreʃhold/",
+        "meaning": "n.界限，起始点门槛，门口",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "throne",
+        "pronunciation": "/θron/",
+        "meaning": "n.王权，王位王座，宝座",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "throw",
+        "pronunciation": "/θro/",
+        "meaning": "v.投下扔把……投进监狱（马）甩落使为难，使吃惊 n.投，掷",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "thrust",
+        "pronunciation": "/θrʌst/",
+        "meaning": "v.猛推，刺挤，推 n.猛推，刺推力要点",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "unfold",
+        "pronunciation": "/ʌnˈfold/",
+        "meaning": "v.展现，变得明朗（卷着的东西）展开，打开",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "unfortunately",
+        "pronunciation": "/ʌnˈfɔrtʃənətlɪ/",
+        "meaning": "adv.不幸地",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "uniform",
+        "pronunciation": "/ˈjunɪfɔrm/",
+        "meaning": "adj.统一的 n.制服",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "unit",
+        "pronunciation": "/ˈjunɪt/",
+        "meaning": "n.单位小组元件科室单元",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "unite",
+        "pronunciation": "/juˈnaɪt/",
+        "meaning": "v.统一，联合，团结",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "unity",
+        "pronunciation": "/ˈjunɪtɪ/",
+        "meaning": "n.团结一致，联合，统一统一体，联合体，整体",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "violet",
+        "pronunciation": "/ˈvaɪələt/",
+        "meaning": "n.紫罗兰紫罗兰色 adj.紫罗兰色的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "virgin",
+        "pronunciation": "/ˈvɝdʒɪn/",
+        "meaning": "adj.未使用的，未开发的 n.处女，童男新手，无经验者",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "virus",
+        "pronunciation": "/ˈvaɪrəs/",
+        "meaning": "n.病毒病毒性疾病",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "vocal",
+        "pronunciation": "/ˈvokl/",
+        "meaning": "adj.大声说出的，直言的嗓音的，发声的 n.歌唱部分",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "vocation",
+        "pronunciation": "/voˈkeʃn/",
+        "meaning": "n.职业使命感圣召",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "voice",
+        "pronunciation": "/vɔɪs/",
+        "meaning": "v.表达 n.嗓音观点发言权语态声音",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "volatile",
+        "pronunciation": "/ˈvɑlətl/",
+        "meaning": "adj.易变的，动荡的,反复无常的易挥发的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "volcano",
+        "pronunciation": "/vɑlˈkeno/",
+        "meaning": "n.火山",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "voyage",
+        "pronunciation": "/ˈvɔɪɪdʒ/",
+        "meaning": "n.航行 v.航行",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "waterfall",
+        "pronunciation": "/ˈwɔtɚfɔl/",
+        "meaning": "n.瀑布",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "waterproof",
+        "pronunciation": "/ˈwɔtɚpruf/",
+        "meaning": "adj.防水的 v.对……作防水处理 n.防水服，雨衣",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "wave",
+        "pronunciation": "/wev/",
+        "meaning": "n.爆发波波浪卷高涨挥手道别海浪 v.挥手挥舞飘动烫（发）",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "wax",
+        "pronunciation": "/wæks/",
+        "meaning": "n.蜡耳屎 v.给……打蜡用蜡除毛畅谈",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "although",
+        "pronunciation": "/ɔlˈðo/",
+        "meaning": "conj.虽然，尽管，即使然而",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "altitude",
+        "pronunciation": "/ˈæltɪtud/",
+        "meaning": "n.海拔",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "altogether",
+        "pronunciation": "/ˌɔltəˈɡɛðɚ/",
+        "meaning": "adv.全部完全地总之总共，一共 n.裸体",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "ambassador",
+        "pronunciation": "/æmˈbæsədɚ/",
+        "meaning": "n.大使，使节",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "amiable",
+        "pronunciation": "/ˈemɪəbəl/",
+        "meaning": "adj.和蔼可亲的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "amid",
+        "pronunciation": "/əˈmɪdst/",
+        "meaning": "prep.在……当中",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "belly",
+        "pronunciation": "/ˈbɛlɪ/",
+        "meaning": "n.腹部圆形或凸起部分",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "beloved",
+        "pronunciation": "/bɪˈlʌvɪd/",
+        "meaning": "adj.深爱的，钟爱的 n.爱人，心爱的人",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "below",
+        "pronunciation": "/bɪˈlo/",
+        "meaning": "prep.低于，小于，少于在……下面，到……下面 adv.在下面，到下面",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "belt",
+        "pronunciation": "/bɛlt/",
+        "meaning": "n.地带皮带传动带狠击 v.痛打疾驰用带系住",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "bench",
+        "pronunciation": "/bɛntʃ/",
+        "meaning": "n.长凳工作台议员席法官替补队员席 v.换下，罚下场卧推",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "clap",
+        "pronunciation": "/klæp/",
+        "meaning": "v.鼓掌拍手击掌 n.鼓掌霹雳声，响雷",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "clarify",
+        "pronunciation": "/ˈklærəˌfaɪ/",
+        "meaning": "v.使更清晰易懂，阐明，澄清使净化",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "clarity",
+        "pronunciation": "/ˈklærɪtɪ/",
+        "meaning": "n.清楚，清晰",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "clash",
+        "pronunciation": "/klæʃ/",
+        "meaning": "n.分歧，冲突打斗争论不搭配金属撞击声 v.打斗争论，不相容时间冲突不搭配（使）碰撞作响",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "clasp",
+        "pronunciation": "/klæsp/",
+        "meaning": "v.抱紧握紧 n.扣环紧握紧抱",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "class",
+        "pronunciation": "/klæs/",
+        "meaning": "n.阶层课等级班，班级课堂类别典雅 adj.优秀的 v.把……归类",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "classic",
+        "pronunciation": "/ˈklæsɪk/",
+        "meaning": "adj.典型的经典的传统的最优秀的 n.经典经典作品，名著",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "classical",
+        "pronunciation": "/ˈklæsɪkəl/",
+        "meaning": "adj.传统的古典的简洁典雅的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "classification",
+        "pronunciation": "/ˌklæsəfɪˈkeʃən/",
+        "meaning": "n.归类，分类，分级，类别",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "classify",
+        "pronunciation": "/ˈklæsəfaɪ/",
+        "meaning": "v.将……分类，把……归入一类",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "clause",
+        "pronunciation": "/klɔz/",
+        "meaning": "n.条款分句，从句",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "depart",
+        "pronunciation": "/dɪˈpɑrt/",
+        "meaning": "v.辞职离开",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "departure",
+        "pronunciation": "/dɪˈpɑrtʃɚ/",
+        "meaning": "n.离开，出发离开的班次背离",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "depict",
+        "pronunciation": "/dɪˈpɪkt/",
+        "meaning": "v.描述，描写",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "deplete",
+        "pronunciation": "/dɪˈplit/",
+        "meaning": "v.耗费，消耗",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "deplore",
+        "pronunciation": "/dɪˈplɔr/",
+        "meaning": "v.谴责，强烈反对痛惜，对……深感遗憾",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "deploy",
+        "pronunciation": "/dɪˈplɔɪ/",
+        "meaning": "v.部署，调动有效运用，发挥作用",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "depth",
+        "pronunciation": "/dɛpθ/",
+        "meaning": "n.向下（或向里）的距离，深（度）深厚深渊",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "deputy",
+        "pronunciation": "/ˈdɛpjətɪ/",
+        "meaning": "n.副职，副手代表，议员警官",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "enclose",
+        "pronunciation": "/ɪnˈkloz/",
+        "meaning": "v.将……围起来随函（或包裹）附上",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "enclosure",
+        "pronunciation": "/ɪnˈkloʒɚ/",
+        "meaning": "n.围场，圈地附件",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "gorgeous",
+        "pronunciation": "/ˈgɔrdʒəs/",
+        "meaning": "adj.令人愉快的绚丽的，华丽的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "gossip",
+        "pronunciation": "/ˈgɑsɪp/",
+        "meaning": "n.流言蜚语闲聊爱说长道短的人 v.传播流言蜚语",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "gown",
+        "pronunciation": "/ɡaᴜn/",
+        "meaning": "n.女礼服长袍罩衣",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "grade",
+        "pronunciation": "/ɡred/",
+        "meaning": "n.成绩等级，评分等级年级 v.分等级评分",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "grain",
+        "pronunciation": "/ɡren/",
+        "meaning": "n.谷物，粮食颗粒细粒微量纹理，质地格令",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "gram",
+        "pronunciation": "/ɡræm/",
+        "meaning": "n.克",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "hedge",
+        "pronunciation": "/hɛdʒ/",
+        "meaning": "v.限制避免，拐弯抹角 n.树篱保护手段",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "heel",
+        "pronunciation": "/hil/",
+        "meaning": "n.足跟（近腕处的）手掌根女高跟鞋鞋跟",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "height",
+        "pronunciation": "/haɪt/",
+        "meaning": "n.高度高地身高，高度",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "heighten",
+        "pronunciation": "/ˈhaɪtn/",
+        "meaning": "v.（使）增强，加剧",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "heir",
+        "pronunciation": "/ɛɚ/",
+        "meaning": "n.继承人",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "helicopter",
+        "pronunciation": "/ˈhɛlɪkɑptɚ/",
+        "meaning": "n.直升机",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "hell",
+        "pronunciation": "/hɛl/",
+        "meaning": "n.地狱痛苦的境况 int.见鬼，该死",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "helmet",
+        "pronunciation": "/ˈhɛlmɪt/",
+        "meaning": "n.头盔",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "helpful",
+        "pronunciation": "/ˈhɛlpfəl/",
+        "meaning": "adj.有用的，愿意帮忙的",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "hemisphere",
+        "pronunciation": "/ˈhɛmɪsfɪɚ/",
+        "meaning": "n.半球半球，北半球，南半球",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "hence",
+        "pronunciation": "/hɛns/",
+        "meaning": "adv.从此因此，由此",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "henceforth",
+        "pronunciation": "/ˌhensˈfɔrθ/",
+        "meaning": "adv.从今以后",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "herald",
+        "pronunciation": "/ˈhɛrəld/",
+        "meaning": "v.预示，宣布 n.预兆传令官",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "herb",
+        "pronunciation": "/ɝb/",
+        "meaning": "n.药草，香草，草本",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "herd",
+        "pronunciation": "/hɝd/",
+        "meaning": "n.芸芸众生牧群，兽群 v.使集中在一起牧放",
+        "unit": "基础词 Unit 21"
+    },
+    {
+        "words": "heritage",
+        "pronunciation": "/ˈhɛrɪtɪdʒ/",
+        "meaning": "n.遗产",
+        "unit": "基础词 Unit 21"
+    }
+]

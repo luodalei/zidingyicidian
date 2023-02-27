@@ -1,0 +1,566 @@
+[
+    {
+        "words": "naked",
+        "pronunciation": "/ˈnekɪd/",
+        "meaning": "adj.裸体的不能保护自己的无遮蔽的公然的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "nail",
+        "pronunciation": "/nel/",
+        "meaning": "n.指甲，趾甲钉子 v.抓获，证明……有罪钉牢，固定",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "naive",
+        "pronunciation": "/nɑˈiv/",
+        "meaning": "adj.天真的，幼稚的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "namely",
+        "pronunciation": "/ˈnemlɪ/",
+        "meaning": "adv.即，也就是",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "nap",
+        "pronunciation": "/næp/",
+        "meaning": "n.打盹，小睡绒毛 v.打盹，小睡",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "naughty",
+        "pronunciation": "/ˈnɔtɪ/",
+        "meaning": "adj.淘气的不守规矩的色情的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "keen",
+        "pronunciation": "/kin/",
+        "meaning": "adj.浓厚的喜爱，有兴趣热衷的，渴望的机智的灵敏的寒冷的 v.恸哭",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "keyboard",
+        "pronunciation": "/ˈkibɔrd/",
+        "meaning": "n.键盘琴键键盘式电子乐器",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "labor",
+        "pronunciation": "/ˈlebɚ/",
+        "meaning": "n.劳动英国工党劳动者分娩 v.劳作艰苦地做",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "lace",
+        "pronunciation": "/les/",
+        "meaning": "n.鞋带网眼织物，花边，蕾丝 v.系……的鞋带给……掺入",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "lack",
+        "pronunciation": "/læk/",
+        "meaning": "n.缺乏，短缺 v.没有，缺乏",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "lad",
+        "pronunciation": "/ˈlæd/",
+        "meaning": "n.小伙子，少年",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "lamb",
+        "pronunciation": "/læm/",
+        "meaning": "n.小羊羊羔肉 v.产羊羔",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "lame",
+        "pronunciation": "/lem/",
+        "meaning": "adj.无说服力的瘸的 n.腿瘸者",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "machine",
+        "pronunciation": "/məˈʃin/",
+        "meaning": "n.机器电脑机构机械工作的人车辆 v.用机器制造",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "machinery",
+        "pronunciation": "/məˈʃinərɪ/",
+        "meaning": "n.机器体制",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "mad",
+        "pronunciation": "/mæd/",
+        "meaning": "adj.疯的极愚蠢的很生气",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "madam",
+        "pronunciation": "/ˈmædəm/",
+        "meaning": "n.夫人，女士",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "magic",
+        "pronunciation": "/ˈmædʒɪk/",
+        "meaning": "n.魅力魔法，巫术魔术魔力 adj.神奇的有魔力的 int.好极了",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "magistrate",
+        "pronunciation": "/ˈmædʒɪˌstret/",
+        "meaning": "n.治安法官，地方法官",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "magnet",
+        "pronunciation": "/ˈmæɡnɪt/",
+        "meaning": "n.有吸引力的人或物磁体磁铁，吸铁石",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "magnetic",
+        "pronunciation": "/mæɡˈnɛtɪk/",
+        "meaning": "adj.磁的，磁性的有吸引力的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "maiden",
+        "pronunciation": "/ˈmedn/",
+        "meaning": "n.少女，姑娘未得分的一轮投球 adj.初次的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "main",
+        "pronunciation": "/men/",
+        "meaning": "adj.主要的，最重要的 n.主管道",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "mainland",
+        "pronunciation": "/ˈmenˌlænd/",
+        "meaning": "n.大陆，本土",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "oar",
+        "pronunciation": "/ɔr/",
+        "meaning": "n.桨",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "oath",
+        "pronunciation": "/oθ/",
+        "meaning": "n.誓言，誓约诅咒，咒骂",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "obedience",
+        "pronunciation": "/oˈbidiəns/",
+        "meaning": "n.服从，顺从，温驯",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "obedient",
+        "pronunciation": "/oˈbidiənt/",
+        "meaning": "adj.服从的，顺从的，温驯的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "obey",
+        "pronunciation": "/oˈbe/",
+        "meaning": "v.服从",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "obesity",
+        "pronunciation": "/oˈbisɪtɪ/",
+        "meaning": "n.肥胖（症）",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pack",
+        "pronunciation": "/pæk/",
+        "meaning": "v.塞进收拾（行李）堆积包装，装箱 n.包，盒背包全套东西一包，一批，一群",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "package",
+        "pronunciation": "/ˈpækɪdʒ/",
+        "meaning": "n.一组建议包裹包装盒一包，一袋，一盒 v.包装成打包",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pact",
+        "pronunciation": "/pækt/",
+        "meaning": "n.协定，条约",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pad",
+        "pronunciation": "/pæd/",
+        "meaning": "n.垫子便笺本停机坪爪垫公寓浮叶 v.塞填，垫衬蹑手蹑脚地走做假账",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paddle",
+        "pronunciation": "/ˈpædl/",
+        "meaning": "n.桨，短桨涉水乒乓球拍 v.用桨划船涉水狗爬式游泳",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pain",
+        "pronunciation": "/pen/",
+        "meaning": "n.苦恼疼痛悲痛 v.使痛苦，使苦恼",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "painful",
+        "pronunciation": "/ˈpenfəl/",
+        "meaning": "adj.令人痛苦的令人疼痛的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paint",
+        "pronunciation": "/pent/",
+        "meaning": "v.用颜料绘画涂油漆描绘成 n.油漆，油漆涂层颜料",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "painter",
+        "pronunciation": "/ˈpentɚ/",
+        "meaning": "n.画家油漆工",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pair",
+        "pronunciation": "/pɛr/",
+        "meaning": "n.（一）双，对，副一对夫妻 v.配对交配",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pale",
+        "pronunciation": "/pel/",
+        "meaning": "adj.苍白的，灰白的浅色的 v.显得逊色变白",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "palm",
+        "pronunciation": "/pɑm/",
+        "meaning": "n.手掌，手心棕榈树 v.把……藏在手中",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pamphlet",
+        "pronunciation": "/ˈpæmflɪt/",
+        "meaning": "n.小册子",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "panic",
+        "pronunciation": "/ˈpænɪk/",
+        "meaning": "n.恐慌局面恐慌 v.（使）惊慌失措",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pant",
+        "pronunciation": "/pænt/",
+        "meaning": "v.气喘，喘息",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paper",
+        "pronunciation": "/ˈpepɚ/",
+        "meaning": "n.论文报纸纸文件试卷 v.贴墙纸",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paperback",
+        "pronunciation": "/ˈpepɚbæk/",
+        "meaning": "n.平装书",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "parachute",
+        "pronunciation": "/ˈpærəˌʃut/",
+        "meaning": "v.跳伞空投 n.降落伞",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "parade",
+        "pronunciation": "/pəˈred/",
+        "meaning": "n.（庆祝）游行一系列事物检阅 v.炫耀，展示游行庆祝游行示威",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paradigm",
+        "pronunciation": "/ˈpærəˌdaɪm/",
+        "meaning": "n.范例，示例词形变化表",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paradise",
+        "pronunciation": "/ˈpærəˌdaɪs/",
+        "meaning": "n.乐园天堂胜地",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "paradox",
+        "pronunciation": "/ˈpærədɑks/",
+        "meaning": "n.自相矛盾的情况矛盾的人（或事物）悖论",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "parameter",
+        "pronunciation": "/pəˈræmɪtɚ/",
+        "meaning": "n.参数界限，范围",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "parasite",
+        "pronunciation": "/ˈpærəˌsaɪt/",
+        "meaning": "n.寄生虫，寄生生物靠他人为生者",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "parcel",
+        "pronunciation": "/ˈpɑrsl/",
+        "meaning": "n.包裹地块 v.裹好，打包",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "pardon",
+        "pronunciation": "/ˈpɑrdn/",
+        "meaning": "int.请再说一遍 v.赦免原谅",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "parliament",
+        "pronunciation": "/ˈpɑrləmənt/",
+        "meaning": "n.议会，国会议会活动期",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sack",
+        "pronunciation": "/sæk/",
+        "meaning": "n.麻布袋，厚纸袋一满袋开除洗劫 v.解雇劫掠擒杀",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sacred",
+        "pronunciation": "/ˈsekrɪd/",
+        "meaning": "adj.神圣的宗教的不可侵犯的受尊敬的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sacrifice",
+        "pronunciation": "/ˈsækrəˌfaɪs/",
+        "meaning": "n.牺牲 v.牺牲，舍弃，献出献祭",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "saddle",
+        "pronunciation": "/ˈsædl/",
+        "meaning": "n.马鞍，车座，鞍座脊肉鞍状物；假牙牙托 v.给……装鞍",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sample",
+        "pronunciation": "/ˈsæmpl/",
+        "meaning": "n.样品，样本抽样 v.品尝，尝试体验，尝试抽样选录",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sanction",
+        "pronunciation": "/ˈsæŋkʃən/",
+        "meaning": "n.制裁，处罚认可，批准 v.许可，批准制裁，处罚",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sandwich",
+        "pronunciation": "/ˈsændwɪtʃ/",
+        "meaning": "n.三明治 v.夹在中间",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sane",
+        "pronunciation": "/sen/",
+        "meaning": "adj.精神健全的明智的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "sarcastic",
+        "pronunciation": "/sɑrˈkæstɪk/",
+        "meaning": "adj.讽刺的，挖苦的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "satellite",
+        "pronunciation": "/ˈsætəlaɪt/",
+        "meaning": "n.卫星人造卫星卫星城，卫星国 adj.卫星的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "ugly",
+        "pronunciation": "/ˈʌɡlɪ/",
+        "meaning": "adj.丑陋的，难看的危险的，暴力的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "ultraviolet",
+        "pronunciation": "/ˌʌltrəˈvaɪəlɪt/",
+        "meaning": "adj.紫外线的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "umbrella",
+        "pronunciation": "/ʌmˈbrɛlə/",
+        "meaning": "n.伞，雨伞总称保护伞",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "unanimous",
+        "pronunciation": "/jᴜˈnænəməs/",
+        "meaning": "adj.意见一致的，无异议的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "uncover",
+        "pronunciation": "/ʌnˈkʌvɚ/",
+        "meaning": "v.揭露，发现发掘移去覆盖物",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "vacant",
+        "pronunciation": "/ˈvekənt/",
+        "meaning": "adj.空的，未被占用的空缺的茫然的",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "vacation",
+        "pronunciation": "/veˈkeʃən/",
+        "meaning": "n.假日，休假假期休庭期 v.度假",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "vaccine",
+        "pronunciation": "/vækˈsin/",
+        "meaning": "n.疫苗",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "vacuum",
+        "pronunciation": "/ˈvækjᴜm/",
+        "meaning": "n.真空空缺，空白清扫真空吸尘器 v.用真空吸尘器打扫",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "valve",
+        "pronunciation": "/vælv/",
+        "meaning": "n.阀，活门心脏瓣，瓣膜",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "wagon",
+        "pronunciation": "/ˈwæɡən/",
+        "meaning": "n.四轮运货车货车车厢",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "waist",
+        "pronunciation": "/west/",
+        "meaning": "n.腰，腰部衣服的腰身",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "wake",
+        "pronunciation": "/wek/",
+        "meaning": "n.尾流，航迹 v.弄醒，醒唤起",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "waken",
+        "pronunciation": "/ˈwekən/",
+        "meaning": "v.醒来，唤醒唤起",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "X-ray",
+        "pronunciation": "/ˈɛksˌre/",
+        "meaning": "n.X光照片，X射线 v.拍X光片",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "yard",
+        "pronunciation": "/jɑrd/",
+        "meaning": "n.码场地院子",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "yawn",
+        "pronunciation": "/jɔn/",
+        "meaning": "v.打哈欠裂开，豁开 n.哈欠枯燥的事物",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "yearly",
+        "pronunciation": "/ˈjɪrlɪ/",
+        "meaning": "adj.一年一度的年度的 adv.一年一度",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "yell",
+        "pronunciation": "/jɛl/",
+        "meaning": "v.叫喊，吼叫 n.叫喊，吼叫",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "yet",
+        "pronunciation": "/jɛt/",
+        "meaning": "conj.可是，然而 adv.还，仍然迄今马上更，甚至",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "zeal",
+        "pronunciation": "/zil/",
+        "meaning": "n.热情",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "zero",
+        "pronunciation": "/ˈzɪro/",
+        "meaning": "num.零零度全无 adj.毫无 v.调到零",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "zip",
+        "pronunciation": "/zɪp/",
+        "meaning": "n.拉链能量，速度没有 v.拉拉链快速移动压缩文档",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "agency",
+        "pronunciation": "/ˈedʒənsɪ/",
+        "meaning": "n.（政府的）专门机构服务机构机关，代理机构",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "agenda",
+        "pronunciation": "/əˈdʒɛndə/",
+        "meaning": "n.议程表，议事日程议题",
+        "unit": "基础词 Unit 05"
+    },
+    {
+        "words": "agony",
+        "pronunciation": "/ˈæɡənɪ/",
+        "meaning": "n.痛楚，苦难",
+        "unit": "基础词 Unit 05"
+    }
+]

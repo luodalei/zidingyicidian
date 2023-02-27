@@ -1,0 +1,464 @@
+[
+    {
+        "words": "bake",
+        "pronunciation": "/bek/",
+        "meaning": "v.烘烤烤硬",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "bait",
+        "pronunciation": "/bet/",
+        "meaning": "n.饵，诱饵诱惑物 v.装上诱饵激怒纵犬袭击",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "bachelor",
+        "pronunciation": "/ˈbætʃəlɚ/",
+        "meaning": "n.学士未婚男子，单身汉",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "backward",
+        "pronunciation": "/ˈbækwɚd/",
+        "meaning": "adj.落后的向后的倒退的迟钝的 adv.反向向后，倒",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "bacteria",
+        "pronunciation": "/bækˈtɪrɪə/",
+        "meaning": "n.细菌",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "bad",
+        "pronunciation": "/bæd/",
+        "meaning": "adj.糟糕的劣质的，差的邪恶的，坏的严重的抱歉的 adv.很 n.坏人，坏事",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "badly",
+        "pronunciation": "/ˈbædlɪ/",
+        "meaning": "adv.差非常负面地严重地",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "badge",
+        "pronunciation": "/bædʒ/",
+        "meaning": "n.徽章标记",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "badminton",
+        "pronunciation": "/ˈbædˌmɪntən/",
+        "meaning": "n.羽毛球运动",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "baggage",
+        "pronunciation": "/ˈbæɡɪdʒ/",
+        "meaning": "n.行李思想包袱",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "bail",
+        "pronunciation": "/bel/",
+        "meaning": "n.保释金板球赛中的横木 v.保释往外舀水",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "abdomen",
+        "pronunciation": "/ˈæbdəmən/",
+        "meaning": "n.腹部",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "aboard",
+        "pronunciation": "/əˈbɔrd/",
+        "meaning": "adv.上船（或飞机、公共汽车、火车等） prep.上（船、飞机等）",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "abound",
+        "pronunciation": "/əˈbaᴜnd/",
+        "meaning": "v.大量存在，盛产",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "above",
+        "pronunciation": "/əˈbʌv/",
+        "meaning": "prep.超过在（或向）上面高于 adv.前文提到在上面 adj.上述的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "abrupt",
+        "pronunciation": "/əˈbrʌpt/",
+        "meaning": "adj.突然的粗鲁的，不友好的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "absurd",
+        "pronunciation": "/əbˈsɚd/",
+        "meaning": "adj.荒谬的，荒唐的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "abundant",
+        "pronunciation": "/əˈbʌndənt/",
+        "meaning": "adj.大量的，丰富的，充裕的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "abuse",
+        "pronunciation": "/əˈbjus/",
+        "meaning": "n.滥用虐待辱骂 v.虐待滥用辱骂",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "cab",
+        "pronunciation": "/kæb/",
+        "meaning": "n.出租车驾驶室马车",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "cabinet",
+        "pronunciation": "/ˈkæbənɪt/",
+        "meaning": "n.贮藏柜，陈列柜内阁",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "cable",
+        "pronunciation": "/ˈkebəl/",
+        "meaning": "n.有线电视电缆电报缆绳 v.给……发电报",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "calendar",
+        "pronunciation": "/ˈkæləndɚ/",
+        "meaning": "n.日历历法大事记日程表",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "calorie",
+        "pronunciation": "/ˈkælərɪ/",
+        "meaning": "n.卡路里（热量单位）",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "damage",
+        "pronunciation": "/ˈdæmɪdʒ/",
+        "meaning": "n.损害，伤害损坏，破坏损害赔偿金 v.伤害损害，损坏",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "damn",
+        "pronunciation": "/dæm/",
+        "meaning": "adj.该死的 int.该死，讨厌 adv.太，很 v.谴责，指责惩罚",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "damp",
+        "pronunciation": "/dæmp/",
+        "meaning": "adj.潮湿的，湿气重的 v.使潮湿 n.潮气",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "eager",
+        "pronunciation": "/ˈiɡɚ/",
+        "meaning": "adj.热切的，渴望的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "ear",
+        "pronunciation": "/ɪɚ/",
+        "meaning": "n.耳朵辨音力倾听穗",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "earnest",
+        "pronunciation": "/ˈɝnɪst/",
+        "meaning": "adj.非常认真的诚实的，真诚的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "earth",
+        "pronunciation": "/ɝθ/",
+        "meaning": "n.地球世界陆地泥土兽穴地线 v.把电线接地",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "ease",
+        "pronunciation": "/iz/",
+        "meaning": "v.（使）宽慰，减轻，缓解小心缓慢地移动使…容易些 n.舒适，自在容易",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "east",
+        "pronunciation": "/ist/",
+        "meaning": "n.东方（指亚洲南部和东部）东东部 adj.东方的，东部的（风）从东面吹来的 adv.在东方向东，朝东",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "ebb",
+        "pronunciation": "/ɛb/",
+        "meaning": "v.落潮，退潮衰退，减退 n.退潮",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "fable",
+        "pronunciation": "/ˈfebəl/",
+        "meaning": "n.寓言无稽之谈 v.虚构",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "fabulous",
+        "pronunciation": "/ˈfæbjələs/",
+        "meaning": "adj.极好的虚构的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "facilitate",
+        "pronunciation": "/fəˈsɪləˌtet/",
+        "meaning": "v.促进，促使，使便利",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "facility",
+        "pronunciation": "/fəˈsɪlətɪ/",
+        "meaning": "n.场所设施，设备天资，特色功能",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "faculty",
+        "pronunciation": "/ˈfækəltɪ/",
+        "meaning": "n.全体教员官能，能力院，系",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gang",
+        "pronunciation": "/ɡæŋ/",
+        "meaning": "n.一伙 v.结成一伙",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gaol/jail",
+        "pronunciation": "/dʒel/",
+        "meaning": "n.监狱，拘留所 v.监禁",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "garage",
+        "pronunciation": "/gəˈrɑʒ/",
+        "meaning": "n.停车房，车库汽车修理厂 v.把车停在车库里",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "garbage",
+        "pronunciation": "/ˈgɑrbɪdʒ/",
+        "meaning": "n.垃圾，废物废话垃圾场",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gas",
+        "pronunciation": "/ɡæs/",
+        "meaning": "n.气体燃料气体胃胀气毒气麻醉气汽油 v.用毒气杀死闲聊",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gasp",
+        "pronunciation": "/gæsp/",
+        "meaning": "n.喘息，倒抽气 v.喘息，倒抽气喘着气说",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gather",
+        "pronunciation": "/ˈɡæðɚ/",
+        "meaning": "v.召集，聚集拥抱推断增加收割收集",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gauge",
+        "pronunciation": "/ɡedʒ/",
+        "meaning": "v.测量，计量判断，判定 n.测量仪器评判方法铁轨轨距厚度，直径内径，口径",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gay",
+        "pronunciation": "/ɡe/",
+        "meaning": "adj.同性恋的鲜艳的，艳丽的快乐的，兴奋的 n.同性恋者",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gaze",
+        "pronunciation": "/ɡez/",
+        "meaning": "n.凝视，盯着看，注视 v.凝视，盯着看，注视",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gear",
+        "pronunciation": "/gɪɚ/",
+        "meaning": "v.使适合，使适应 n.齿轮，变速器挡位装备，用具服装毒品",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "gender",
+        "pronunciation": "/ˈdʒɛndɚ/",
+        "meaning": "n.性别",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "hail",
+        "pronunciation": "/hel/",
+        "meaning": "v.赞扬，称颂生于下冰雹拦车招呼 n.冰雹一阵",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "hall",
+        "pronunciation": "/hɔl/",
+        "meaning": "n.大厅走廊，过道学生公寓庄园",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "halt",
+        "pronunciation": "/hɔlt/",
+        "meaning": "v.（使）停住 n.停下，中止",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "hand",
+        "pronunciation": "/hænd/",
+        "meaning": "n.手支配帮助工人一手牌指针 v.递，交，给",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "handbook",
+        "pronunciation": "/ˈhændˌbᴜk/",
+        "meaning": "n.手册，指南",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "handful",
+        "pronunciation": "/ˈhændˌfᴜl/",
+        "meaning": "n.一把少数难对付的人",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "handle",
+        "pronunciation": "/ˈhændl/",
+        "meaning": "v.应付，处理操纵拿，触摸买卖 n.柄，把手方法",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "handy",
+        "pronunciation": "/ˈhændɪ/",
+        "meaning": "adj.手边的好用的手巧的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "hang",
+        "pronunciation": "/hæŋ/",
+        "meaning": "v.悬挂，垂下贴绞死悬浮",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "ham",
+        "pronunciation": "/hæm/",
+        "meaning": "n.火腿拙劣演员",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "hammer",
+        "pronunciation": "/ˈhæmɚ/",
+        "meaning": "n.榔头，锤子链球撞针 v.锤打反复敲打强行灌输；反复强调大败",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "ice",
+        "pronunciation": "/aɪs/",
+        "meaning": "n.冰冰淇淋钻石 v.为……挂糖衣",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "idiom",
+        "pronunciation": "/ˈɪdiəm/",
+        "meaning": "n.习语，成语风格，特色",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "idle",
+        "pronunciation": "/ˈaɪdl/",
+        "meaning": "adj.无事可做的，闲散的，失业的闲置的懒惰的 v.使闲散，使无事可做，使停工空转",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "if",
+        "pronunciation": "/ɪf/",
+        "meaning": "conj.如果是否即便 n.不确定的情况",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "ignite",
+        "pronunciation": "/ɪɡˈnaɪt/",
+        "meaning": "v.点燃，（使）燃烧激起",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "illegal",
+        "pronunciation": "/ɪˈliɡəl/",
+        "meaning": "adj.不合法的，非法的 n.非法移民，非法劳工",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "illiterate",
+        "pronunciation": "/ɪˈlɪtərɪt/",
+        "meaning": "adj.文盲的外行的 n.文盲",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "illuminate",
+        "pronunciation": "/ɪˈluməˌnet/",
+        "meaning": "v.阐释照亮，照明",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jam",
+        "pronunciation": "/dʒæm/",
+        "meaning": "n.果酱困境堵塞，拥挤 v.塞入卡住干扰信号即兴演奏",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jargon",
+        "pronunciation": "/ˈdʒɑrgən/",
+        "meaning": "n.行话，术语",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jaw",
+        "pronunciation": "/dʒɔ/",
+        "meaning": "n.颌，下巴 v.唠唠叨叨",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jealous",
+        "pronunciation": "/ˈdʒɛləs/",
+        "meaning": "adj.妒忌的吃醋的爱惜的",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jet",
+        "pronunciation": "/dʒɛt/",
+        "meaning": "n.喷气式飞机喷射流黑玉 v.乘飞机旅行",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jewel",
+        "pronunciation": "/ˈdʒuəl/",
+        "meaning": "n.珠宝珍贵的东西或人",
+        "unit": "基础词 Unit 07"
+    },
+    {
+        "words": "jewelry",
+        "pronunciation": "/ˈdʒuəlrɪ/",
+        "meaning": "n.珠宝；首饰；珠宝饰品 网络珠宝首饰；宝石；徐仁英",
+        "unit": "基础词 Unit 07"
+    }
+]

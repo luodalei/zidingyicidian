@@ -1,0 +1,464 @@
+[
+    {
+        "words": "battle",
+        "pronunciation": "/ˈbætl/",
+        "meaning": "n.争论奋斗，斗争战斗，战役 v.搏斗奋斗",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "battery",
+        "pronunciation": "/ˈbætərɪ/",
+        "meaning": "n.电池炮组殴打 adj.层架式养鸡的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "bay",
+        "pronunciation": "/be/",
+        "meaning": "n.海湾隔间突出结构 adj.枣红色的 v.强烈要求高声长吠",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "adhere",
+        "pronunciation": "/ədˈhɪɚ/",
+        "meaning": "v.遵守黏附，附着",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "adjacent",
+        "pronunciation": "/əˈdʒesənt/",
+        "meaning": "adj.邻近的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "adolescent",
+        "pronunciation": "/ˌædəˈlesnt/",
+        "meaning": "n.青少年 adj.青少年的，青春期的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "adore",
+        "pronunciation": "/əˈdɔr/",
+        "meaning": "v.热爱，爱慕，喜爱",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "advent",
+        "pronunciation": "/ˈædvɛnt/",
+        "meaning": "n.出现，来临，到来",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "adventure",
+        "pronunciation": "/ædˈvɛntʃɚ/",
+        "meaning": "n.冒险，冒险经历，奇遇 v.冒险",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "adverse",
+        "pronunciation": "/ædˈvɝs/",
+        "meaning": "adj.不利的，有害的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "advertise",
+        "pronunciation": "/ˈædvɚtaɪz/",
+        "meaning": "v.宣传，做广告宣扬，张扬公布",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "ceiling",
+        "pronunciation": "/ˈsilɪŋ/",
+        "meaning": "n.天花板，顶棚上限",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "cell",
+        "pronunciation": "/sɛl/",
+        "meaning": "n.细胞电池手机基层组织小房间，单间牢房",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "cement",
+        "pronunciation": "/səˈmɛnt/",
+        "meaning": "v.巩固，加强涂水泥，使黏结 n.水泥黏合剂",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "censorship",
+        "pronunciation": "/ˈsensɚʃɪp/",
+        "meaning": "n.审查，检查",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "census",
+        "pronunciation": "/ˈsɛnsəs/",
+        "meaning": "n.调查，统计，人口普查",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "cent",
+        "pronunciation": "/sɛnt/",
+        "meaning": "n.美分",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "center/centre",
+        "pronunciation": "/ˈsɛntɚ/",
+        "meaning": "n.中心中间派 v.以…为中心居中",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "central",
+        "pronunciation": "/ˈsɛntrəl/",
+        "meaning": "adj.重要的中心的 n.电话总机",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "century",
+        "pronunciation": "/ˈsɛntʃərɪ/",
+        "meaning": "n.百年，世纪",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "centigrade/Celsius",
+        "pronunciation": "/ˈsɛntɪˌɡred/",
+        "meaning": "adj.摄氏度的 n.摄氏度",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "centimeter/centimetre",
+        "pronunciation": "/ˈsɛntəˌmitɚ/",
+        "meaning": "n.厘米",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "cereal",
+        "pronunciation": "/ˈsɪrɪəl/",
+        "meaning": "n.谷类食物谷物麦片粥",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "debt",
+        "pronunciation": "/dɛt/",
+        "meaning": "n.债务人情债",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "debut",
+        "pronunciation": "/deˈbju/",
+        "meaning": "n.首次登台，首演 v.首次亮相，首演",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "decay",
+        "pronunciation": "/dɪˈke/",
+        "meaning": "v.衰退，衰落（使）烂，腐朽 n.衰退，衰落腐烂，腐朽",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "deceit",
+        "pronunciation": "/dɪˈsit/",
+        "meaning": "n.欺骗，欺诈",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "deceive",
+        "pronunciation": "/dɪˈsiv/",
+        "meaning": "v.欺骗",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "decent",
+        "pronunciation": "/ˈdisənt/",
+        "meaning": "adj.相当不错的正派的得体的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "decimal",
+        "pronunciation": "/ˈdɛsəməl/",
+        "meaning": "adj.十进位的，小数的 n.小数",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "ego",
+        "pronunciation": "/ˈigo/",
+        "meaning": "n.自我，自我评价，自尊",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fare",
+        "pronunciation": "/fɛɚ/",
+        "meaning": "n.车费出租车乘客饭菜船费，飞机票价 v.进展",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "farewell",
+        "pronunciation": "/ˌfeɚˈwel/",
+        "meaning": "int.再见，再会 n.告别，辞行",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "farther",
+        "pronunciation": "/ˈfɑrðɚ/",
+        "meaning": "adj.更远的 adv.较远",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fast",
+        "pronunciation": "/fæst/",
+        "meaning": "adj.快的不褪色的放荡的 adv.快地立即牢固地 v.禁食 n.禁食期",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fasten",
+        "pronunciation": "/ˈfæsn/",
+        "meaning": "v.扣牢，系牢拴上，关紧",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fate",
+        "pronunciation": "/fet/",
+        "meaning": "n.命运，定数，天意",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fatal",
+        "pronunciation": "/ˈfetl/",
+        "meaning": "adj.致命的，灾难性的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fatigue",
+        "pronunciation": "/fəˈtiɡ/",
+        "meaning": "n.疲劳，劳累金属部件的疲劳 v.使极度疲劳",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fault",
+        "pronunciation": "/fɔlt/",
+        "meaning": "n.错误过失毛病，故障断层缺点 v.挑剔，指责",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "faulty",
+        "pronunciation": "/ˈfɔltɪ/",
+        "meaning": "adj.有故障的，有缺陷的错误的，有错的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "fax",
+        "pronunciation": "/fæks/",
+        "meaning": "n.传真，传真机传真件 v.发传真",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "giggle",
+        "pronunciation": "/ˈɡɪɡəl/",
+        "meaning": "v.咯咯地笑，傻笑 n.咯咯笑，傻笑趣事，玩笑",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "glacier",
+        "pronunciation": "/ˈgleʃɚ/",
+        "meaning": "n.冰川",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "glare",
+        "pronunciation": "/glɛr/",
+        "meaning": "v.怒视发出强光 n.怒视刺眼的强光",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "glance",
+        "pronunciation": "/glæns/",
+        "meaning": "n.一瞥，很快的一看 v.一瞥，看一眼浏览",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "glimpse",
+        "pronunciation": "/ɡlɪmps/",
+        "meaning": "n.一瞥，扫视短暂的感受 v.瞥见",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "glitter",
+        "pronunciation": "/ˈɡlɪtɚ/",
+        "meaning": "v.闪烁，闪耀，闪光 n.闪烁，闪光，小发光物魅力",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "glow",
+        "pronunciation": "/glo/",
+        "meaning": "n.微弱稳定的光红润喜悦 v.发微弱稳定的光容光焕发散发",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "harvest",
+        "pronunciation": "/ˈhɑrvɪst/",
+        "meaning": "n.收成收割，收获收获季节 v.捕猎（动物、鱼）收割，收获",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "haste",
+        "pronunciation": "/hest/",
+        "meaning": "n.急速，仓促",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "hasty",
+        "pronunciation": "/ˈhestɪ/",
+        "meaning": "adj.匆忙的，仓促的冲动的，草率的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "hatch",
+        "pronunciation": "/hætʃ/",
+        "meaning": "v.孵出使孵出密谋 n.舱口传菜口孵化",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "hatred",
+        "pronunciation": "/ˈhetrɪd/",
+        "meaning": "n.仇恨，敌意",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "haul",
+        "pronunciation": "/hɔl/",
+        "meaning": "v.拉，拖拖拽去使受审 n.大批赃物旅程一网鱼",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "hawk",
+        "pronunciation": "/hɔk/",
+        "meaning": "v.叫卖，兜售 n.鹰鹰派人物",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "hay",
+        "pronunciation": "/he/",
+        "meaning": "n.干草",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "hazard",
+        "pronunciation": "/ˈhæzɚd/",
+        "meaning": "n.危险，危害 v.冒险，使遭受危险",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "he",
+        "pronunciation": "/hi/",
+        "meaning": "pron.他（泛指性别不明时）人 n.男性，雄性",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "jog",
+        "pronunciation": "/dʒɑg/",
+        "meaning": "v.慢跑轻推蹒跚前行 n.慢跑",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "joint",
+        "pronunciation": "/dʒɔɪnt/",
+        "meaning": "adj.联合的，共同的 n.接合处公共场所关节 v.把肉切成大块",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "jolly",
+        "pronunciation": "/ˈdʒɑlɪ/",
+        "meaning": "adj.快活的惬意的 adv.很，非常 v.哄，鼓励",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "kid",
+        "pronunciation": "/kɪd/",
+        "meaning": "n.小孩小山羊 adj.年幼的 v.开玩笑，欺骗",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "kidnap",
+        "pronunciation": "/ˈkɪdˌnæp/",
+        "meaning": "v.绑架，劫持",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "kidney",
+        "pronunciation": "/ˈkɪdnɪ/",
+        "meaning": "n.肾，肾脏，腰子",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "kill",
+        "pronunciation": "/kɪl/",
+        "meaning": "v.破坏，终止杀死折磨消磨 n.杀死猎物",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "late",
+        "pronunciation": "/let/",
+        "meaning": "adj.晚期的晚，迟已故的近日暮的，近深夜的 adv.晚，迟接近末期",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "lately",
+        "pronunciation": "/ˈletlɪ/",
+        "meaning": "adv.最近，不久前",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "later",
+        "pronunciation": "/ˈletɚ/",
+        "meaning": "adv.后来，以后 adj.后来的，以后的晚年的，后期的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "latent",
+        "pronunciation": "/ˈletnt/",
+        "meaning": "adj.潜在的，潜藏的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "latitude",
+        "pronunciation": "/ˈlætɪtud/",
+        "meaning": "n.纬度自由 adj.纬度的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "laughter",
+        "pronunciation": "/ˈlæftɚ/",
+        "meaning": "n.笑，笑声",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "launch",
+        "pronunciation": "/lɔntʃ/",
+        "meaning": "v.发起发射船首次下水上市 n.大型汽艇发布会发射发起上市发行",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "laundry",
+        "pronunciation": "/ˈlɔndrɪ/",
+        "meaning": "n.待洗或洗完的衣物洗衣店",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "reckless",
+        "pronunciation": "/ˈrɛklɪs/",
+        "meaning": "adj.轻率的，鲁莽的",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "reckon",
+        "pronunciation": "/ˈrɛkən/",
+        "meaning": "v.估计认为，以为",
+        "unit": "基础词 Unit 01"
+    },
+    {
+        "words": "reclaim",
+        "pronunciation": "/rɪˈklem/",
+        "meaning": "v.收回，拿回开拓，开垦使变回沙漠、森林等",
+        "unit": "基础词 Unit 01"
+    }
+]

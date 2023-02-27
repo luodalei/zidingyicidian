@@ -1,0 +1,542 @@
+[
+    {
+        "words": "beast",
+        "pronunciation": "/bist/",
+        "meaning": "n.野兽",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "beat",
+        "pronunciation": "/bit/",
+        "meaning": "v.打败敲打猛击优于（使）有节奏地跳动或作响 n.跳动节拍",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "before",
+        "pronunciation": "/bɪˈfɔr/",
+        "meaning": "conj.在……以前直到……发生 prep.在……之前在……面前当面 adv.以前",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "blind",
+        "pronunciation": "/blaɪnd/",
+        "meaning": "adj.盲目的失明的盲区的视而不见的，未察觉的 v.蒙蔽使失明 n.卷帘，百叶窗",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "block",
+        "pronunciation": "/blɑk/",
+        "meaning": "n.块街区大厦堵塞物 v.妨碍阻塞挡住",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "blood",
+        "pronunciation": "/blʌd/",
+        "meaning": "n.血血统，家世 v.使取得初次经验",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "bloody",
+        "pronunciation": "/ˈblʌdɪ/",
+        "meaning": "adj.流血的该死的血腥的 v.使流血",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "tomb",
+        "pronunciation": "/tum/",
+        "meaning": "n.坟墓",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "tongue",
+        "pronunciation": "/tʌŋ/",
+        "meaning": "n.舌头说话方式语言 v.吹奏舔",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "tool",
+        "pronunciation": "/tul/",
+        "meaning": "n.手段，方法工具傀儡",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "top",
+        "pronunciation": "/tɑp/",
+        "meaning": "adj.最高的最好的，极棒的顶端的 n.顶部表面盖子上衣上边，上面 v.为……之首超过",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "torch",
+        "pronunciation": "/tɔrtʃ/",
+        "meaning": "n.手电筒喷灯火炬，火把 v.放火烧",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "torment",
+        "pronunciation": "/ˈtɔrment/",
+        "meaning": "n.极度痛苦，苦恼烦恼事 v.折磨，使痛苦戏弄",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "torture",
+        "pronunciation": "/ˈtɔrtʃɚ/",
+        "meaning": "v.拷打，拷问折磨 n.拷打折磨",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "torrent",
+        "pronunciation": "/ˈtɔrənt/",
+        "meaning": "n.激流，洪流连发，迸发",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "whole",
+        "pronunciation": "/hol/",
+        "meaning": "adj.整个的，全部的完好的（用于强调） n.全部，整体 adv.完全地",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "wholly",
+        "pronunciation": "/ˈhollɪ/",
+        "meaning": "adv.完全地",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "wholesome",
+        "pronunciation": "/ˈholsəm/",
+        "meaning": "adj.健康的，有益身心的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "appal",
+        "pronunciation": "/əˈpɔl/",
+        "meaning": "v.使胆寒",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "apparatus",
+        "pronunciation": "/ˌæpəˈrætəs/",
+        "meaning": "n.机构，组织器械，设备",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "appendix",
+        "pronunciation": "/əˈpɛndɪks/",
+        "meaning": "n.阑尾附录",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "appetite",
+        "pronunciation": "/ˈæpəˌtaɪt/",
+        "meaning": "n.强烈欲望食欲，胃口",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "applaud",
+        "pronunciation": "/əˈplɔd/",
+        "meaning": "v.称赞鼓掌",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "applause",
+        "pronunciation": "/əˈplɔz/",
+        "meaning": "n.鼓掌，喝彩",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "appraisal",
+        "pronunciation": "/əˈprezəl/",
+        "meaning": "n.评价，评估鉴定，考核",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "approximate",
+        "pronunciation": "/əˈprɑksɪmət/",
+        "meaning": "adj.大概的，近似的 v.近似于",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "arbitrary",
+        "pronunciation": "/ˈɑrbətrɛrɪ/",
+        "meaning": "adj.专制的随意的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "arch",
+        "pronunciation": "/ɑrtʃ/",
+        "meaning": "n.拱，拱形结构足弓拱门 v.呈弧形横跨，（使）成弓形",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compact",
+        "pronunciation": "/ˈkɑmpækt/",
+        "meaning": "n.契约，协定带镜粉盒小型汽车 adj.紧凑的袖珍的矮壮的 v.把……压实",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "companion",
+        "pronunciation": "/kəmˈpænjən/",
+        "meaning": "n.同伴伴侣陪护成对物之一指南，手册",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "company",
+        "pronunciation": "/ˈkʌmpənɪ/",
+        "meaning": "n.商行公司演出团体连陪伴",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compartment",
+        "pronunciation": "/kəmˈpɑrtmənt/",
+        "meaning": "n.分隔厢，隔间格，隔层隔室",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compass",
+        "pronunciation": "/ˈkʌmpəs/",
+        "meaning": "n.指南针，罗盘范围，界限圆规",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compassion",
+        "pronunciation": "/kəmˈpæʃən/",
+        "meaning": "n.怜悯，同情",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compatible",
+        "pronunciation": "/kəmˈpætəbəl/",
+        "meaning": "adj.可以并存的合得来的兼容的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "composite",
+        "pronunciation": "/kəmˈpɑzɪt/",
+        "meaning": "n.合成物，混合物 adj.拼成的，合成的，复合的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compound",
+        "pronunciation": "/ˈkɑmpaᴜnd/",
+        "meaning": "n.化合物围起来的场地复合物，混合物复合词 v.使恶化由……构成使混合 adj.复合的以复利计算的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compulsory",
+        "pronunciation": "/kəmˈpʌlsərɪ/",
+        "meaning": "adj.强制性的，必修的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "compute",
+        "pronunciation": "/kəmˈpjut/",
+        "meaning": "v.计算",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "conceal",
+        "pronunciation": "/kənˈsil/",
+        "meaning": "v.隐藏",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "concede",
+        "pronunciation": "/kənˈsid/",
+        "meaning": "v.承认让步认输",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "concert",
+        "pronunciation": "/ˈkɑnsɝt/",
+        "meaning": "n.音乐会",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "concession",
+        "pronunciation": "/kənˈsɛʃən/",
+        "meaning": "n.让步，妥协认输特许使用权优惠价格特许销售权",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "dilemma",
+        "pronunciation": "/dɪˈlɛmə/",
+        "meaning": "n.进退两难的境地，困境",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "diligent",
+        "pronunciation": "/ˈdɪlədʒənt/",
+        "meaning": "adj.勤勉的，刻苦的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "dimension",
+        "pronunciation": "/dɪˈmɛnʃən/",
+        "meaning": "n.方面维规模，范围",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "dine",
+        "pronunciation": "/daɪn/",
+        "meaning": "v.进餐，用饭",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "dinosaur",
+        "pronunciation": "/ˈdaɪnəsɔr/",
+        "meaning": "n.恐龙过时的人或物",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "dioxide",
+        "pronunciation": "/daɪˈɑksaɪd/",
+        "meaning": "n.二氧化物",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "dip",
+        "pronunciation": "/dɪp/",
+        "meaning": "v.蘸，浸下降，下沉调车灯为近光给……洗药浴 n.蘸酱游泳凹陷处下降药浴液",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "diploma",
+        "pronunciation": "/dɪˈplomə/",
+        "meaning": "n.毕业文凭",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "diplomatic",
+        "pronunciation": "/ˌdɪpləˈmætɪk/",
+        "meaning": "adj.外交的讲究方法的，委婉的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "direction",
+        "pronunciation": "/dəˈrɛkʃən/",
+        "meaning": "n.方向，方位发展方向指示，指导",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "director",
+        "pronunciation": "/dɪˈrɛktɚ/",
+        "meaning": "n.经理部门负责人导演指挥",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "directory",
+        "pronunciation": "/dɪˈrɛktərɪ/",
+        "meaning": "n.名录目录",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "equip",
+        "pronunciation": "/ɪˈkwɪp/",
+        "meaning": "v.使有知识和技能，使能够胜任配备",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "equipment",
+        "pronunciation": "/ɪˈkwɪpmənt/",
+        "meaning": "n.设备，器材装备",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "equity",
+        "pronunciation": "/ˈɛkwɪtɪ/",
+        "meaning": "n.公平，公正股本，股票值，股票资产净值",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "groan",
+        "pronunciation": "/gron/",
+        "meaning": "v.呻吟，抱怨，叹息 n.呻吟声，抱怨声，叹息声",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "grocer",
+        "pronunciation": "/ˈgrosɚ/",
+        "meaning": "n.食品杂货商食品杂货店",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "grope",
+        "pronunciation": "/grop/",
+        "meaning": "v.摸索，探寻摸，猥亵",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "hobby",
+        "pronunciation": "/ˈhɑbɪ/",
+        "meaning": "n.业余爱好",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "hollow",
+        "pronunciation": "/ˈhɑlo/",
+        "meaning": "adj.中空的，空心的凹陷的无价值的虚伪的空响的 n.凹陷处洞，孔 v.挖空",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "homogeneous",
+        "pronunciation": "/ˌhoməˈdʒiniəs/",
+        "meaning": "adj.同种类的，同性质的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "honest",
+        "pronunciation": "/ˈɑnɪst/",
+        "meaning": "adj.诚实的，老实的正直的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "instal",
+        "pronunciation": "/ɪnˈstɔl/",
+        "meaning": "v.安装，设置任命安顿",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "installation",
+        "pronunciation": "/ˌɪnstəˈleʃən/",
+        "meaning": "n.现代雕塑装置设施安装就职",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "installment",
+        "pronunciation": "/ɪnˈstɔlmənt/",
+        "meaning": "n.分期付款",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "instance",
+        "pronunciation": "/ˈɪnstəns/",
+        "meaning": "n.例子，实例，事例",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "instant",
+        "pronunciation": "/ˈɪnstənt/",
+        "meaning": "adj.立即的速食的 n.瞬间，片刻（某一）时刻",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "instantaneous",
+        "pronunciation": "/ˌɪnstənˈtenɪəs/",
+        "meaning": "adj.瞬间的，即时的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "limb",
+        "pronunciation": "/lɪm/",
+        "meaning": "n.四肢，翼树枝",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "limp",
+        "pronunciation": "/lɪmp/",
+        "meaning": "v.跛行，一瘸一拐地走进行缓慢 adj.软弱的，无力的 n.跛行",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "linear",
+        "pronunciation": "/ˈlɪnɪɚ/",
+        "meaning": "adj.直线的，线性的长度的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "linen",
+        "pronunciation": "/ˈlɪnən/",
+        "meaning": "n.亚麻布亚麻织品",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "liner",
+        "pronunciation": "/ˈlaɪnɚ/",
+        "meaning": "n.邮轮，客轮衬里",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "linger",
+        "pronunciation": "/ˈlɪŋɡɚ/",
+        "meaning": "v.徘徊，逗留继续存留",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "linguistic",
+        "pronunciation": "/lɪŋˈɡwɪstɪk/",
+        "meaning": "adj.语言的，语言学的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "mine",
+        "pronunciation": "/maɪn/",
+        "meaning": "n.矿井地雷 pron.我的 v.开采在……布雷",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "mineral",
+        "pronunciation": "/ˈmɪnərəl/",
+        "meaning": "n.矿物质，矿物汽水（复数） adj.矿物的，含矿物的",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "mingle",
+        "pronunciation": "/ˈmɪŋɡəl/",
+        "meaning": "v.混合，混杂交际",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "miniature",
+        "pronunciation": "/ˈmɪniəˌtʃᴜr/",
+        "meaning": "adj.微小的，微型的 n.微型画微缩模型小瓶装的酒",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minimize",
+        "pronunciation": "/ˈmɪnəˌmaɪz/",
+        "meaning": "v.减到最低，使最小化贬低，淡化",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minimum",
+        "pronunciation": "/ˈmɪnəməm/",
+        "meaning": "adj.最低（限度）的，最小的 n.最小值，最少量 adv.至少",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minister",
+        "pronunciation": "/ˈmɪnɪstɚ/",
+        "meaning": "n.牧师大臣，部长外交使节 v.服侍",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "ministry",
+        "pronunciation": "/ˈmɪnɪstrɪ/",
+        "meaning": "n.（政府的）部神职",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minor",
+        "pronunciation": "/ˈmaɪnɚ/",
+        "meaning": "adj.较小的，轻微的次要的小调的 n.辅修科目未成年人",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minority",
+        "pronunciation": "/maɪˈnɔrətɪ/",
+        "meaning": "n.少数派，少数人少数民族少数",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minus",
+        "pronunciation": "/ˈmaɪnəs/",
+        "meaning": "prep.减，减去 adj.有欠缺的负的，零下的 n.减号劣势",
+        "unit": "基础词 Unit 13"
+    },
+    {
+        "words": "minute",
+        "pronunciation": "/ˈmɪnɪt/",
+        "meaning": "n.分钟片刻分（度量单位）会议纪要 adj.微小的详细的 v.将……写入会议纪要",
+        "unit": "基础词 Unit 13"
+    }
+]

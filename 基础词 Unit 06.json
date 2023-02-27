@@ -1,0 +1,524 @@
+[
+    {
+        "words": "gallery",
+        "pronunciation": "/ˈɡælərɪ/",
+        "meaning": "n.展览馆，画廊私人画店楼座",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "galaxy",
+        "pronunciation": "/ˈɡæləksɪ/",
+        "meaning": "n.星系银河系群英荟萃",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "peel",
+        "pronunciation": "/pil/",
+        "meaning": "n.果皮 v.掉漆脱皮剥皮，去皮",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "peep",
+        "pronunciation": "/pip/",
+        "meaning": "v.偷看，窥视隐现，微微露出 n.偷偷一瞥讲话，啾啾声",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "penalty",
+        "pronunciation": "/ˈpɛnəltɪ/",
+        "meaning": "n.惩罚，刑罚点球不利后果",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "penetrate",
+        "pronunciation": "/ˈpɛnətret/",
+        "meaning": "v.渗入，穿透进入，跻身透过……看见理解，洞察",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "peninsula",
+        "pronunciation": "/pəˈnɪnsələ/",
+        "meaning": "n.半岛",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "penny",
+        "pronunciation": "/ˈpɛnɪ/",
+        "meaning": "n.便士分分文",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "pension",
+        "pronunciation": "/ˈpɛnʃən/",
+        "meaning": "n.养老金抚恤金",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "people",
+        "pronunciation": "/ˈpipl/",
+        "meaning": "n.人们，人民族，种族人民，民众 v.居住在，挤满人",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "perfume",
+        "pronunciation": "/pɝˈfjum/",
+        "meaning": "n.香水香味 v.使香气弥漫",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "permanent",
+        "pronunciation": "/ˈpɚmənənt/",
+        "meaning": "adj.永久的，永恒的不断出现的固定的 n.烫发",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "permeate",
+        "pronunciation": "/ˈpɝmiet/",
+        "meaning": "v.渗透，弥漫，扩散传播，散布",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "permission",
+        "pronunciation": "/pɚˈmɪʃn/",
+        "meaning": "n.准许，批准许可证",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "permit",
+        "pronunciation": "/pɚˈmɪt/",
+        "meaning": "v.允许，准许使有可能 n.许可证，特许证",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "quantify",
+        "pronunciation": "/ˈkwɑntɪfaɪ/",
+        "meaning": "v.量化，用数量表示",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "quantitative",
+        "pronunciation": "/ˈkwɑntətetɪv/",
+        "meaning": "adj.数量的，量化的，定量的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "quantity",
+        "pronunciation": "/ˈkwɑntətɪ/",
+        "meaning": "n.数量大量，大宗",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "race",
+        "pronunciation": "/res/",
+        "meaning": "n.人种，种族竞赛竞争民族赛跑 v.（使）参赛快速移动飞速运转",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "racial",
+        "pronunciation": "/ˈreʃəl/",
+        "meaning": "adj.种族的人种的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "rack",
+        "pronunciation": "/ræk/",
+        "meaning": "n.架子，搁物架拉肢刑具颈脊肉齿条破坏 v.折磨，施刑压榨",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "racket",
+        "pronunciation": "/ˈrækɪt/",
+        "meaning": "n.喧嚷球拍非法谋财的勾当",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "radio",
+        "pronunciation": "/ˈredio/",
+        "meaning": "n.收音机无线电广播无线电通信，收发设备电台节目 v.用无线电联系",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "radioactive",
+        "pronunciation": "/ˌredɪoˈæktɪv/",
+        "meaning": "adj.放射性的，有辐射的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "radius",
+        "pronunciation": "/ˈrediəs/",
+        "meaning": "n.半径范围半径",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "rag",
+        "pronunciation": "/ræɡ/",
+        "meaning": "n.破布，抹布破旧衣服小报，烂报 v.嘲笑，捉弄",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "rage",
+        "pronunciation": "/redʒ/",
+        "meaning": "n.暴力行为风靡盛怒 v.发脾气肆虐出去作乐",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "raid",
+        "pronunciation": "/red/",
+        "meaning": "n.突袭，突击，突然搜查打劫 v.突袭，突击，突然搜查抢劫，偷偷取走某处的东西",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "semester",
+        "pronunciation": "/səˈmɛstɚ/",
+        "meaning": "n.学期",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "semiconductor",
+        "pronunciation": "/sɛmikənˈdʌktɚ/",
+        "meaning": "n.半导体",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "seminar",
+        "pronunciation": "/ˈsɛməˌnɑr/",
+        "meaning": "n.研讨会研讨班",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "senate",
+        "pronunciation": "/ˈsɛnət/",
+        "meaning": "n.参议院大学评议会",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "senator",
+        "pronunciation": "/ˈsɛnətɚ/",
+        "meaning": "n.参议员",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "sentence",
+        "pronunciation": "/ˈsɛntəns/",
+        "meaning": "v.判决，判刑 n.句子判决，判刑",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "sentiment",
+        "pronunciation": "/ˈsɛntəmənt/",
+        "meaning": "n.情绪观点感伤，温情",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "session",
+        "pronunciation": "/ˈsɛʃən/",
+        "meaning": "n.开庭期，会期会议一场，一段时间",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "sew",
+        "pronunciation": "/so/",
+        "meaning": "v.缝，做针线活缝合",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shine",
+        "pronunciation": "/ʃaɪn/",
+        "meaning": "v.反光，发亮（太阳）发光，照耀擦亮出众 n.光亮，光泽",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shipment",
+        "pronunciation": "/ˈʃɪpmənt/",
+        "meaning": "n.运输，装运运输的货物",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shiver",
+        "pronunciation": "/ˈʃɪvɚ/",
+        "meaning": "v.发抖 n.颤抖，寒颤",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shock",
+        "pronunciation": "/ʃɑk/",
+        "meaning": "n.触电震惊，令人震惊的事惊吓休克剧烈震动 v.使厌恶使震惊",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shoot",
+        "pronunciation": "/ʃut/",
+        "meaning": "v.射击，发射射门，投篮射杀，射伤冲，奔摄影 n.摄影嫩芽",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shot",
+        "pronunciation": "/ʃɑt/",
+        "meaning": "n.照片一小杯射击注射投球，射球，击球 v.射击（shoot的过去式和过去分词） adj.闪色的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shortage",
+        "pronunciation": "/ˈʃɔrtɪdʒ/",
+        "meaning": "n.不足，缺少，短缺",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shortcoming",
+        "pronunciation": "/ˈʃɔrtkʌmɪŋ/",
+        "meaning": "n.缺点，短处",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shorthand",
+        "pronunciation": "/ˈʃɔrthænd/",
+        "meaning": "n.速记，速记法简略的表达方式",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "shove",
+        "pronunciation": "/ʃʌv/",
+        "meaning": "v.猛推乱放，胡乱丢 n.猛推",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "temple",
+        "pronunciation": "/ˈtɛmpəl/",
+        "meaning": "n.寺太阳穴",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "tempo",
+        "pronunciation": "/ˈtempo/",
+        "meaning": "n.发展速度，步调节奏，拍子",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "tenant",
+        "pronunciation": "/ˈtɛnənt/",
+        "meaning": "n.承租人，房客",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "tender",
+        "pronunciation": "/ˈtɛndɚ/",
+        "meaning": "adj.温柔的幼小的嫩的，软的 n.投标 v.投标提出，提供",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "tense",
+        "pronunciation": "/tɛns/",
+        "meaning": "n.时态 adj.（局势）紧张的（肌肉）绷紧的紧张的，焦虑不安的 v.（使）（肌肉）紧张",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "tension",
+        "pronunciation": "/ˈtɛnʃən/",
+        "meaning": "n.紧张关系，紧张，焦虑分歧张力",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "then",
+        "pronunciation": "/ðɛn/",
+        "meaning": "adv.然后那时那么毕竟,而且那么，就 adj.当时的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "thereafter",
+        "pronunciation": "/ˌðɛrˈæftɚ/",
+        "meaning": "adv.之后，此后",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "thereby",
+        "pronunciation": "/ˌðɛrˈbaɪ/",
+        "meaning": "adv.因此，由此",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "therefore",
+        "pronunciation": "/ˈðɛrfɔ(r)/",
+        "meaning": "adv.因此，所以",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "vest",
+        "pronunciation": "/vest/",
+        "meaning": "n.背心马甲",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "veteran",
+        "pronunciation": "/ˈvɛtərən/",
+        "meaning": "n.退伍军人，老兵有经验的人",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "veto",
+        "pronunciation": "/ˈvito/",
+        "meaning": "v.否决，禁止反对 n.否决权禁止",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "walk",
+        "pronunciation": "/wɔk/",
+        "meaning": "n.漫步，行走小径 v.行走遛陪某人走",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "ward",
+        "pronunciation": "/wɔrd/",
+        "meaning": "n.病房被监护人",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "wardrobe",
+        "pronunciation": "/ˈwɔrdrob/",
+        "meaning": "n.衣柜服装部全部服装",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "warehouse",
+        "pronunciation": "/ˈweɚhaᴜs/",
+        "meaning": "n.仓库，货仓",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "warfare",
+        "pronunciation": "/ˈwɔrfɛr/",
+        "meaning": "n.战争，作战斗争，冲突",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "warmth",
+        "pronunciation": "/wɔrmθ/",
+        "meaning": "n.温暖，暖和热情，友好",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "warn",
+        "pronunciation": "/wɔrn/",
+        "meaning": "v.警告，告诫",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "warrant",
+        "pronunciation": "/ˈwɔrənt/",
+        "meaning": "n.搜查令，令状做事情的理由 v.使有必要，使正当",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "warranty",
+        "pronunciation": "/ˈwɔrəntɪ/",
+        "meaning": "n.保修单",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "aerial",
+        "pronunciation": "/ˈɛriəl/",
+        "meaning": "adj.从飞机上的空中的 n.天线",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "affluent",
+        "pronunciation": "/ˈæfluənt/",
+        "meaning": "adj.富裕的，富足的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "afterward",
+        "pronunciation": "/ˈæftɚwɚdz/",
+        "meaning": "adv.以后，后来",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "against",
+        "pronunciation": "/əˈɡenst/",
+        "meaning": "prep.反对违背和…相比以防不利于倚，碰，撞对抗",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "age",
+        "pronunciation": "/edʒ/",
+        "meaning": "n.年龄年龄段时代很长时间 v.（使）变老",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "coach",
+        "pronunciation": "/kotʃ/",
+        "meaning": "n.教练四轮大马车经济舱长途客车私人教师 v.训练辅导",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "coalition",
+        "pronunciation": "/ˌkoəˈlɪʃn/",
+        "meaning": "n.联盟，联合体联合政府联合，结合",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "coarse",
+        "pronunciation": "/kɔrs/",
+        "meaning": "adj.粗的，粗糙的粗鲁的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "cognitive",
+        "pronunciation": "/ˈkɑgnətɪv/",
+        "meaning": "adj.认知的，认识过程的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "inject",
+        "pronunciation": "/ɪnˈdʒɛkt/",
+        "meaning": "v.增添，投入给……注射",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "injure",
+        "pronunciation": "/ˈɪndʒɚ/",
+        "meaning": "v.伤害，使受伤",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "injury",
+        "pronunciation": "/ˈɪndʒərɪ/",
+        "meaning": "n.（对躯体的）伤害，损伤感情、名誉上的伤害",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "ink",
+        "pronunciation": "/ɪŋk/",
+        "meaning": "n.墨水，墨汁 v.给……上油墨",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "inland",
+        "pronunciation": "/ˈɪnlənd/",
+        "meaning": "adv.向内陆，在内地 adj.内地的，内陆的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "blank",
+        "pronunciation": "/blæŋk/",
+        "meaning": "adj.无表情的，木然的空白的，空的 n.空弹空白，空白处，空格",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "blanket",
+        "pronunciation": "/ˈblæŋkɪt/",
+        "meaning": "n.毛毯，毯子覆盖层 adj.总结的 v.覆盖",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "light",
+        "pronunciation": "/laɪt/",
+        "meaning": "n.光，光线，光亮电灯红绿灯打火机角度 v.照亮点燃 adj.明亮的轻便的浅色的轻松的少量的",
+        "unit": "基础词 Unit 06"
+    },
+    {
+        "words": "lightning",
+        "pronunciation": "/ˈlaɪtnɪŋ/",
+        "meaning": "n.闪电 adj.闪电似的",
+        "unit": "基础词 Unit 06"
+    }
+]

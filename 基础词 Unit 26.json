@@ -1,0 +1,566 @@
+[
+    {
+        "words": "body",
+        "pronunciation": "/ˈbɑdɪ/",
+        "meaning": "n.躯干身体大量，大批团体主体尸体香醇",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "boot",
+        "pronunciation": "/but/",
+        "meaning": "v.使启动猛踢 n.长筒靴，靴后备箱猛踢",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "booth",
+        "pronunciation": "/buθ/",
+        "meaning": "n.临时货摊小亭，小房间火车座，雅座",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "boss",
+        "pronunciation": "/bɔs/",
+        "meaning": "n.老板，上司 v.对……指手画脚",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "botany",
+        "pronunciation": "/ˈbɑtənɪ/",
+        "meaning": "n.植物学",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "bottom",
+        "pronunciation": "/ˈbɑtəm/",
+        "meaning": "n.最底层底部，最下部臀部 adj.最下方的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "art",
+        "pronunciation": "/ɑrt/",
+        "meaning": "n.艺术美术艺术作品文科",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "artery",
+        "pronunciation": "/ˈɑrtərɪ/",
+        "meaning": "n.动脉干道，干线",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "article",
+        "pronunciation": "/ˈɑrtɪkl/",
+        "meaning": "n.文章，论文物品条款冠词",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "articulate",
+        "pronunciation": "/ɑrˈtɪkjəlet/",
+        "meaning": "v.清楚地表达吐字清楚 adj.善于表达的，口齿伶俐的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "artificial",
+        "pronunciation": "/ˌɑrtɪˈfɪʃl/",
+        "meaning": "adj.人工的假的虚伪的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "artist",
+        "pronunciation": "/ˈɑrtɪst/",
+        "meaning": "n.画家，艺术家能手，大师",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "artistic",
+        "pronunciation": "/ɑrˈtɪstɪk/",
+        "meaning": "adj.精美的艺术的，艺术家的有艺术天赋的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "artefact/artifact",
+        "pronunciation": "/ˈɑrtəˌfækt/",
+        "meaning": "n.人工制品，手工艺品",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "disrupt",
+        "pronunciation": "/dɪsˈrʌpt/",
+        "meaning": "v.扰乱",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "dissipate",
+        "pronunciation": "/ˈdɪsəpet/",
+        "meaning": "v.（使）消失，消除浪费驱散",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "distance",
+        "pronunciation": "/ˈdɪstəns/",
+        "meaning": "n.间隔距离疏远 v.拉开距离",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "distant",
+        "pronunciation": "/ˈdɪstənt/",
+        "meaning": "adj.遥远的，远处的远亲的疏远的心不在焉的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "distil",
+        "pronunciation": "/dɪˈstɪl/",
+        "meaning": "v.蒸馏，提取",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "distress",
+        "pronunciation": "/dɪˈstrɛs/",
+        "meaning": "v.使忧虑，使悲伤 n.悲伤，忧虑危难，危急",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "district",
+        "pronunciation": "/ˈdɪstrɪkt/",
+        "meaning": "n.管区，行政区地区，区域",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "disturb",
+        "pronunciation": "/dɪˈstɝb/",
+        "meaning": "v.打扰，扰乱弄乱，挪动使烦恼",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "disturbance",
+        "pronunciation": "/dɪˈstɚbəns/",
+        "meaning": "n.骚乱，动乱干扰失调，紊乱",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "eve",
+        "pronunciation": "/iv/",
+        "meaning": "n.傍晚前夜",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "even",
+        "pronunciation": "/ˈivən/",
+        "meaning": "adv.连，愈加甚至 adj.恒定的平坦的平均的偶数的对等的 v.使平均",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "event",
+        "pronunciation": "/ɪˈvɛnt/",
+        "meaning": "n.大事，公开活动，比赛项目",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "eventually",
+        "pronunciation": "/ɪˈvɛntʃuəlɪ/",
+        "meaning": "adv.最后，终于",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "ever",
+        "pronunciation": "/ˈɛvɚ/",
+        "meaning": "adv.在任何时候，从来曾经总是究竟",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "for",
+        "pronunciation": "/fɔr/",
+        "meaning": "prep.为了给对关于当作，作为 conj.因为",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "forbid",
+        "pronunciation": "/fɚˈbɪd/",
+        "meaning": "v.禁止，不准阻止，阻碍",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "forehead",
+        "pronunciation": "/ˈfɔrhɛd/",
+        "meaning": "n.前额",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "foreign",
+        "pronunciation": "/ˈfɔrən/",
+        "meaning": "adj.外国的外交的外来的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "foreigner",
+        "pronunciation": "/ˈfɔrənɚ/",
+        "meaning": "n.外国人外来人，外地人",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "look",
+        "pronunciation": "/lᴜk/",
+        "meaning": "v.看起来寻找看，瞧留心面向 n.看找外表，神态风格",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "loom",
+        "pronunciation": "/lum/",
+        "meaning": "n.织布机 v.赫然耸现逼近，即将爆发",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "loop",
+        "pronunciation": "/lup/",
+        "meaning": "n.圈，环 v.打环环绕",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "loose",
+        "pronunciation": "/lus/",
+        "meaning": "adj.松的，未系紧的零散的不受束缚的疏松的不严密的宽松的 v.释放松开射出",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "loosen",
+        "pronunciation": "/ˈlusən/",
+        "meaning": "v.放宽（使）疏远松开使变松",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "lord",
+        "pronunciation": "/lɔrd/",
+        "meaning": "n.勋爵，贵族大人，阁下上帝，耶稣领主 int.天哪！ v.对……指手画脚",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "lorry",
+        "pronunciation": "/ˈlɔrɪ/",
+        "meaning": "n.卡车",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "lottery",
+        "pronunciation": "/ˈlɑtərɪ/",
+        "meaning": "n.彩票，抽彩碰运气的事",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "moan",
+        "pronunciation": "/mon/",
+        "meaning": "v.抱怨，牢骚呻吟，呜咽 n.呻吟声，呜咽声抱怨，牢骚",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "mob",
+        "pronunciation": "/mɑb/",
+        "meaning": "n.暴民，乌合之众黑帮，犯罪集团一群人，一伙 v.成群围住，围攻",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "mobile",
+        "pronunciation": "/ˈmobl/",
+        "meaning": "adj.可移动的，非固定的行动方便的流动的 n.移动电话",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "mobilize",
+        "pronunciation": "/ˈmobəlaɪz/",
+        "meaning": "v.调动，调用动员，鼓动",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "module",
+        "pronunciation": "/ˈmɑdʒul/",
+        "meaning": "n.模块，单元舱",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "mold",
+        "pronunciation": "/mold/",
+        "meaning": "n.模具，类型风格霉，霉菌 v.对……施加影响（使）紧贴于，吻合浇铸，塑造",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "pretext",
+        "pronunciation": "/ˈpriˌtɛkst/",
+        "meaning": "n.借口",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "pretty",
+        "pronunciation": "/ˈprɪtɪ/",
+        "meaning": "adj.漂亮的，好看的美观的，精致的 adv.相当，十分，很",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "prevail",
+        "pronunciation": "/prɪˈvel/",
+        "meaning": "v.盛行占上风，占优势获胜",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "prevalent",
+        "pronunciation": "/ˈprɛvələnt/",
+        "meaning": "adj.流行的，普遍的，盛行的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rhetoric",
+        "pronunciation": "/ˈrɛtərɪk/",
+        "meaning": "n.华丽的词藻修辞（学）",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rhythm",
+        "pronunciation": "/ˈrɪðəm/",
+        "meaning": "n.节奏，韵律规律",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rib",
+        "pronunciation": "/rɪb/",
+        "meaning": "n.肋骨排骨肋拱 v.开玩笑",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "ribbon",
+        "pronunciation": "/ˈrɪbən/",
+        "meaning": "n.带子，丝带，带状物色带绶带，勋带",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rid",
+        "pronunciation": "/rɪd/",
+        "meaning": "v.摆脱，消除",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "riddle",
+        "pronunciation": "/ˈrɪdl/",
+        "meaning": "n.谜，谜语神秘事件 v.解谜使布满窟窿",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "ridge",
+        "pronunciation": "/rɪdʒ/",
+        "meaning": "n.脊，山脊屋脊隆起高压脊 v.成脊状",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "ridiculous",
+        "pronunciation": "/rɪˈdɪkjələs/",
+        "meaning": "adj.愚蠢的，荒谬的，荒唐的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rigid",
+        "pronunciation": "/ˈrɪdʒɪd/",
+        "meaning": "adj.坚硬的死板的严格的固执的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rigorous",
+        "pronunciation": "/ˈrɪɡərəs/",
+        "meaning": "adj.严格缜密的一丝不苟的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "rim",
+        "pronunciation": "/rɪm/",
+        "meaning": "n.（圆形物体的）边沿轮圈 v.给……镶边",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "riot",
+        "pronunciation": "/ˈraɪət/",
+        "meaning": "n.暴乱，骚动丰富多彩 v.闹事，暴乱",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "static",
+        "pronunciation": "/ˈstætɪk/",
+        "meaning": "adj.静止的静力的 n.静电静电干扰抨击",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "station",
+        "pronunciation": "/ˈsteʃən/",
+        "meaning": "n.所，局，基地（车）站位置电（视）台 v.派驻安置",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "stationary",
+        "pronunciation": "/ˈsteʃənɛrɪ/",
+        "meaning": "adj.静止不动的不变的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "stationery",
+        "pronunciation": "/ˈsteʃənɛrɪ/",
+        "meaning": "n.文具",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "steak",
+        "pronunciation": "/stek/",
+        "meaning": "n.牛排，肉排，鱼排",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "steam",
+        "pronunciation": "/stim/",
+        "meaning": "n.水蒸气，蒸汽，水汽蒸汽动力 v.冒蒸汽蒸靠蒸汽行驶快速行走",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "steep",
+        "pronunciation": "/stip/",
+        "meaning": "adj.急剧的陡的过高的 v.浸泡",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "stereotype",
+        "pronunciation": "/ˈstɛriəˌtaɪp/",
+        "meaning": "n.模式化的思想 v.对……有成见",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "steward",
+        "pronunciation": "/ˈstuɚd/",
+        "meaning": "n.乘务员，服务员组织者，管理员",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "transcend",
+        "pronunciation": "/trænˈsɛnd/",
+        "meaning": "v.超越，超出",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "transistor",
+        "pronunciation": "/trænˈzɪstɚ/",
+        "meaning": "n.晶体管晶体管收音机",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "transit",
+        "pronunciation": "/ˈtrænzɪt/",
+        "meaning": "n.运输通过交通运输系统 adj.中转的，过境的 v.运输",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "transition",
+        "pronunciation": "/trænˈzɪʃən/",
+        "meaning": "n.过渡，转变，变迁 v.过渡，逐渐转向",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "translate",
+        "pronunciation": "/trænsˈlet/",
+        "meaning": "v.理解为（使）转变，变为翻译意为被译成",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "transparent",
+        "pronunciation": "/trænsˈpærənt/",
+        "meaning": "adj.清楚的，明显的透明的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "intact",
+        "pronunciation": "/ɪnˈtækt/",
+        "meaning": "adj.完整无缺的，毫发无伤的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "interface",
+        "pronunciation": "/ˈɪntɚfes/",
+        "meaning": "v.相互联系（使）接合，连接 n.边缘区域，接合点界面接口",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "interfere",
+        "pronunciation": "/ˌɪntɚˈfɪɚ/",
+        "meaning": "v.介入，干涉妨碍",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "interference",
+        "pronunciation": "/ˌɪntɚˈfɪərəns/",
+        "meaning": "n.干涉干扰",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "intervene",
+        "pronunciation": "/ˌɪntɚˈvin/",
+        "meaning": "v.插话干预，介入干扰发生于其间",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "contemplate",
+        "pronunciation": "/ˈkɑntəmplet/",
+        "meaning": "v.考虑，思量沉思，深思熟虑考虑接受凝视",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "contrive",
+        "pronunciation": "/kənˈtraɪv/",
+        "meaning": "v.策划，谋划设法做到设计，创造",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "convenience",
+        "pronunciation": "/kənˈvinɪəns/",
+        "meaning": "n.方便，便利便利设施公共厕所",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "convenient",
+        "pronunciation": "/kənˈvinjənt/",
+        "meaning": "adj.便利的，方便的附近的，近便的",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "conversation",
+        "pronunciation": "/ˌkɑnvɚˈseʃn/",
+        "meaning": "n.交谈，谈话",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "conversely",
+        "pronunciation": "/kənˈvɝslɪ/",
+        "meaning": "adv.相反地",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "conversion",
+        "pronunciation": "/kənˈvɚʒn/",
+        "meaning": "n.变换，转变皈依，归附改建的房屋",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "convert",
+        "pronunciation": "/kənˈvɚt/",
+        "meaning": "v.使转变，使转换改造，改建折算改变信仰 n.改变想法的人",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "convict",
+        "pronunciation": "/kənˈvɪkt/",
+        "meaning": "v.定罪，宣判有罪 n.已决犯，囚犯",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "conviction",
+        "pronunciation": "/kənˈvɪkʃən/",
+        "meaning": "n.定罪，判罪坚定的信念坚信，深信",
+        "unit": "基础词 Unit 26"
+    },
+    {
+        "words": "convince",
+        "pronunciation": "/kənˈvɪns/",
+        "meaning": "v.使相信，使确信说服",
+        "unit": "基础词 Unit 26"
+    }
+]

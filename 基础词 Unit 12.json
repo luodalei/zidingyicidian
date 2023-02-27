@@ -1,0 +1,500 @@
+[
+    {
+        "words": "apartment",
+        "pronunciation": "/əˈpɑrtmənt/",
+        "meaning": "n.公寓套房",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "ape",
+        "pronunciation": "/ep/",
+        "meaning": "n.猿 v.模仿",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "apologize",
+        "pronunciation": "/əˈpɑlədʒaɪz/",
+        "meaning": "v.道歉",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "apology",
+        "pronunciation": "/əˈpɑlədʒɪ/",
+        "meaning": "n.道歉",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "bleak",
+        "pronunciation": "/blik/",
+        "meaning": "adj.没有希望的萧瑟的阴冷的，阴郁的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "bleed",
+        "pronunciation": "/blid/",
+        "meaning": "v.流血，失血渗开，弥散逐渐榨取抽干",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "blend",
+        "pronunciation": "/blɛnd/",
+        "meaning": "v.混合，融合 n.混合物混合，融合",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "bless",
+        "pronunciation": "/blɛs/",
+        "meaning": "v.为……祈神赐福祝福使神圣",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "comfort",
+        "pronunciation": "/ˈkʌmfɚt/",
+        "meaning": "v.安慰，抚慰 n.安慰，舒服令人感到安慰的人或事物",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "come",
+        "pronunciation": "/kʌm/",
+        "meaning": "v.来发生来到，达到成为，变成变得",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "comedy",
+        "pronunciation": "/ˈkɑmədɪ/",
+        "meaning": "n.喜剧，喜剧片诙谐",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "comet",
+        "pronunciation": "/ˈkɑmət/",
+        "meaning": "n.彗星",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "comic",
+        "pronunciation": "/ˈkɑmɪk/",
+        "meaning": "adj.喜剧的滑稽的 n.喜剧演员连环画杂志",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "commemorate",
+        "pronunciation": "/kəˈmɛməˌret/",
+        "meaning": "v.庆祝，为……举办纪念活动",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "commence",
+        "pronunciation": "/kəˈmɛns/",
+        "meaning": "v.开始，着手",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "commonplace",
+        "pronunciation": "/ˈkɑmənples/",
+        "meaning": "adj.平常的，普遍的 n.老生常谈",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "commonwealth",
+        "pronunciation": "/ˈkɑmənwɛlθ/",
+        "meaning": "n.英联邦州，自治政区联邦，联合体",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "commute",
+        "pronunciation": "/kəˈmjut/",
+        "meaning": "n.每天上班的路程 v.通勤减刑",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "diabetes",
+        "pronunciation": "/ˌdaɪəˈbitɪs/",
+        "meaning": "n.糖尿病",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "diagnose",
+        "pronunciation": "/ˌdaɪəgˈnos/",
+        "meaning": "v.诊断，判断",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "diagram",
+        "pronunciation": "/ˈdaɪəˌɡræm/",
+        "meaning": "n.简图，图解，图表 v.用图表示",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "dial",
+        "pronunciation": "/ˈdaɪəl/",
+        "meaning": "n.表盘，刻度盘调节盘拨号盘 v.拨（电话号码）",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "dialect",
+        "pronunciation": "/ˈdaɪəlɛkt/",
+        "meaning": "n.地方话，方言",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "diameter",
+        "pronunciation": "/daɪˈæmɪtɚ/",
+        "meaning": "n.直径放大率",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "dictate",
+        "pronunciation": "/ˈdɪktet/",
+        "meaning": "v.命令影响，决定口授，口述 n.命令，指令",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "dictation",
+        "pronunciation": "/dɪkˈteʃən/",
+        "meaning": "n.口授，口述听写",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "diet",
+        "pronunciation": "/ˈdaɪət/",
+        "meaning": "v.节食 n.饮食限制饮食 adj.健康的，低脂的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "differentiate",
+        "pronunciation": "/ˌdɪfəˈrɛnʃɪet/",
+        "meaning": "v.区分，辨别使有差别，使不同",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "dig",
+        "pronunciation": "/dɪɡ/",
+        "meaning": "v.挖（土），掘（洞）喜欢研究，搜寻 n.考古发掘嘲讽戳",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "digest",
+        "pronunciation": "/daɪˈdʒɛst/",
+        "meaning": "v.消化领会，领悟 n.摘要，文摘",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "digital",
+        "pronunciation": "/ˈdɪdʒɪtl/",
+        "meaning": "adj.数码的数字的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "dignity",
+        "pronunciation": "/ˈdɪgnətɪ/",
+        "meaning": "n.庄重，庄严，尊严高尚",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "envisage",
+        "pronunciation": "/ɪnˈvɪzɪdʒ/",
+        "meaning": "v.设想，想象，展望",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "envy",
+        "pronunciation": "/ˈɛnvɪ/",
+        "meaning": "n.嫉妒，羡慕 v.羡慕，嫉妒",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "equal",
+        "pronunciation": "/ˈikwəl/",
+        "meaning": "v.等于比得上 adj.平等的同样的，相等的能胜任的 n.同等的人，相等物",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "equality",
+        "pronunciation": "/iˈkwɑlətɪ/",
+        "meaning": "n.均等，平等",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "equivalent",
+        "pronunciation": "/ɪˈkwɪvələnt/",
+        "meaning": "adj.等同的，等值的 n.等同物",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "equation",
+        "pronunciation": "/ɪˈkweʃən/",
+        "meaning": "n.平衡等式，方程式相等",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "equator",
+        "pronunciation": "/ɪˈkwetɚ/",
+        "meaning": "n.赤道",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "float",
+        "pronunciation": "/flot/",
+        "meaning": "v.使浮动，使漂流漂浮提出 n.浮体漂浮物鱼漂彩车",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "flock",
+        "pronunciation": "/flɑk/",
+        "meaning": "n.羊群，鸟群，人群短绒，绒屑 v.蜂拥，群集",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "flood",
+        "pronunciation": "/flʌd/",
+        "meaning": "n.洪水，水灾大量 v.泛滥充满淹没大量涌入使灌满水",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "flow",
+        "pronunciation": "/flo/",
+        "meaning": "v.流，流动流畅涨潮飘垂，飘拂 n.流动流畅涨潮供应",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "flu/influenza",
+        "pronunciation": "/ˌɪnflᴜˈenzə/",
+        "meaning": "n.流感",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "fluctuate",
+        "pronunciation": "/ˈflʌktʃuˌet/",
+        "meaning": "v.波动，浮动",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "fluent",
+        "pronunciation": "/ˈflu:ənt/",
+        "meaning": "adj.流利的流畅的，文笔好的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "fluid",
+        "pronunciation": "/ˈfluɪd/",
+        "meaning": "n.流体，液体 adj.流畅优美的不稳定的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "flush",
+        "pronunciation": "/flʌʃ/",
+        "meaning": "v.脸红冲洗冲走赶出冲（抽水马桶） n.脸红冲一阵强烈情感 adj.齐平的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "fly",
+        "pronunciation": "/flaɪ/",
+        "meaning": "v.飞开飞机飞舞疾驰飞逝放（风筝等） n.苍蝇裤子的前裆开口 adj.机灵的时髦迷人的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "microphone",
+        "pronunciation": "/ˈmaɪkrəfon/",
+        "meaning": "n.麦克风，话筒",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "microscope",
+        "pronunciation": "/ˈmaɪkrəskop/",
+        "meaning": "n.显微镜",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "midst",
+        "pronunciation": "/mɪdst/",
+        "meaning": "n.中间，当中 prep.在……中",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "migrate",
+        "pronunciation": "/ˈmaɪgret/",
+        "meaning": "v.移居，迁徙迁徙，洄游移动，转移",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "mild",
+        "pronunciation": "/maɪld/",
+        "meaning": "adj.轻微的温和的，和煦的温良的清淡的 n.淡味啤酒",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "millionaire",
+        "pronunciation": "/ˌmɪljəˈnɛr/",
+        "meaning": "n.百万富翁",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "mill",
+        "pronunciation": "/mɪl/",
+        "meaning": "n.工厂，制造厂磨坊研磨器 v.磨成粉",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "nostalgic",
+        "pronunciation": "/nɒˈstældʒɪk/",
+        "meaning": "adj.引起怀旧的恋旧的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "notable",
+        "pronunciation": "/ˈnotəbl/",
+        "meaning": "adj.显要的，显著的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "nothing",
+        "pronunciation": "/ˈnʌθɪŋ/",
+        "meaning": "pron.没有什么无关紧要的东西 n.小人物 adv.并不",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "notice",
+        "pronunciation": "/ˈnotɪs/",
+        "meaning": "v.注意到，意识到 n.注意预告，警告通知，通告",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "notify",
+        "pronunciation": "/ˈnotɪfaɪ/",
+        "meaning": "v.通知，告知",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "notorious",
+        "pronunciation": "/noˈtɔrɪəs/",
+        "meaning": "adj.声名狼藉的，臭名昭著的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "notwithstanding",
+        "pronunciation": "/ˌnɑtwɪθˈstændɪŋ/",
+        "meaning": "prep.尽管 adv.尽管 conj.尽管",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "ornament",
+        "pronunciation": "/ˈɔrnəmənt/",
+        "meaning": "n.装饰，摆设装饰物，饰品 v.装饰，点缀",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "orthodox",
+        "pronunciation": "/ˈɔrθədɑks/",
+        "meaning": "adj.正统的正统派的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "pot",
+        "pronunciation": "/pɑt/",
+        "meaning": "n.锅一锅的量花盆罐，壶 v.栽入盆中击（球）入袋",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "pound",
+        "pronunciation": "/paᴜnd/",
+        "meaning": "n.英镑猫狗收留所违停车辆扣留场磅（重量单位） v.猛击狂跳捣碎",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "powder",
+        "pronunciation": "/ˈpaᴜdɚ/",
+        "meaning": "n.粉末，细面美容粉 v.抹粉",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "represent",
+        "pronunciation": "/ˌrɛprɪˈzɛnt/",
+        "meaning": "v.代表，象征描绘相当于维护……的利益正式提出",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "representative",
+        "pronunciation": "/ˌrɛprɪˈzɛntətɪv/",
+        "meaning": "n.代表代理人 adj.代议制的典型的，有代表性的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "repression",
+        "pronunciation": "/rɪˈprɛʃən/",
+        "meaning": "n.镇压压抑",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "reproach",
+        "pronunciation": "/rɪˈprotʃ/",
+        "meaning": "v.责备，斥责 n.责备，斥责",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "reproduce",
+        "pronunciation": "/ˌriprəˈdus/",
+        "meaning": "v.再现复制繁殖",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "republic",
+        "pronunciation": "/rɪˈpʌblɪk/",
+        "meaning": "n.共和国",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "republican",
+        "pronunciation": "/rɪˈpʌblɪkən/",
+        "meaning": "n.共和党人 adj.共和党的共和国的共和主义者",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "sore",
+        "pronunciation": "/sɔr/",
+        "meaning": "adj.疼痛的，酸痛的恼怒的 n.痛处",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "sorrow",
+        "pronunciation": "/ˈsɑro/",
+        "meaning": "n.悲伤，悲痛伤心事 v.感到悲伤",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "so-called",
+        "pronunciation": "/ˈsoˈkɔld/",
+        "meaning": "adj.所谓的，号称的名叫……的",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "spark",
+        "pronunciation": "/spɑrk/",
+        "meaning": "v.触发，导致冒火花 n.火花电火花导火线一丁点生气，热情",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "sparkle",
+        "pronunciation": "/ˈspɑrkl/",
+        "meaning": "v.闪耀聪明活泼 n.闪耀，闪光",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "space",
+        "pronunciation": "/spes/",
+        "meaning": "n.空间空白，空格开阔期间太空 v.以一定间隔排列",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "spacecraft/spaceship",
+        "pronunciation": "/ˈspeskræft/",
+        "meaning": "n.宇宙飞船",
+        "unit": "基础词 Unit 12"
+    },
+    {
+        "words": "spacious",
+        "pronunciation": "/ˈspeʃəs/",
+        "meaning": "adj.广阔的，宽敞的",
+        "unit": "基础词 Unit 12"
+    }
+]

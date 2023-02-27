@@ -1,0 +1,536 @@
+[
+    {
+        "words": "sob",
+        "pronunciation": "/sɑb/",
+        "meaning": "v.抽噎，啜泣，哭泣呜咽着说，哭诉 n.抽噎，啜泣，哭泣",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "sober",
+        "pronunciation": "/ˈsobɚ/",
+        "meaning": "adj.严肃的清醒的，没醉的素净的 v.变得冷静",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "software",
+        "pronunciation": "/ˈsɔftwɛɚ/",
+        "meaning": "n.软件",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "soil",
+        "pronunciation": "/sɔɪl/",
+        "meaning": "n.土壤，土地国土，领土 v.弄脏",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "solar",
+        "pronunciation": "/ˈsolɚ/",
+        "meaning": "adj.太阳能的太阳的，与太阳有关的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "sole",
+        "pronunciation": "/sol/",
+        "meaning": "adj.唯一的专用的 n.脚底鞋底舌鰨 v.给鞋换新底",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "solemn",
+        "pronunciation": "/ˈsɑləm/",
+        "meaning": "adj.严肃的，庄重的冷峻的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "solid",
+        "pronunciation": "/ˈsɑlɪd/",
+        "meaning": "adj.固体的坚实的坚硬的实心的纯的不停息的可靠的 n.固体立体图形",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "solidarity",
+        "pronunciation": "/ˌsɑləˈdærətɪ/",
+        "meaning": "n.团结一致，相互支持",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "solo",
+        "pronunciation": "/ˈsolo/",
+        "meaning": "adj.独自的独唱的，独奏的 adv.单独地 n.独奏，独唱",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "somewhat",
+        "pronunciation": "/ˈsʌmˌhwɑt/",
+        "meaning": "adv.有点，稍微",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "hierarchy",
+        "pronunciation": "/ˈhaɪərɑrkɪ/",
+        "meaning": "n.等级制度统治集团",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "hijack",
+        "pronunciation": "/ˈhaɪˌdʒæk/",
+        "meaning": "v.把持，控制，使用劫持 n.劫持",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "hike",
+        "pronunciation": "/haɪk/",
+        "meaning": "n.徒步旅行突然上涨 v.大幅提高去……远足，做徒步旅行",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "historical",
+        "pronunciation": "/hɪˈstɔrɪkl/",
+        "meaning": "adj.（有关）历史的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "historian",
+        "pronunciation": "/hɪˈstɔriən/",
+        "meaning": "n.历史学家，史学工作者",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "hinge",
+        "pronunciation": "/hɪndʒ/",
+        "meaning": "n.铰链，合页 v.用铰链连接(某物)",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "hip",
+        "pronunciation": "/hɪp/",
+        "meaning": "n.臀部，髋 adj.赶时髦的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "hire",
+        "pronunciation": "/haɪɚ/",
+        "meaning": "v.租用，雇用 n.租赁新员工",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "insert",
+        "pronunciation": "/ɪnˈsɝt/",
+        "meaning": "v.插入在文章中插入 n.插入物插页",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "inside",
+        "pronunciation": "/ɪnˈsaɪd/",
+        "meaning": "adv.在……里面在监狱里 prep.在……里面在某段时间内 n.内部，里面可获得内情的职位 adj.内部的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "insight",
+        "pronunciation": "/ˈɪnˌsaɪt/",
+        "meaning": "n.洞察力，眼光洞悉，深刻见解",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "insist",
+        "pronunciation": "/ɪnˈsɪst/",
+        "meaning": "v.坚称坚持坚持认为",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "inspect",
+        "pronunciation": "/ɪnˈspɛkt/",
+        "meaning": "v.检查，审视视察",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "inspiration",
+        "pronunciation": "/ˌɪnspəˈreʃən/",
+        "meaning": "n.灵感启发妙计鼓舞人心的人（或事物）",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "inspire",
+        "pronunciation": "/ɪnˈspaɪɚ/",
+        "meaning": "v.激励激起（某种感情或反应）吸入，吸（气）启发思考",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "lick",
+        "pronunciation": "/lɪk/",
+        "meaning": "v.舔，舐掠过，拍击轻易打败 n.舔，舐抽打，鞭打少量小过门",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "lid",
+        "pronunciation": "/lɪd/",
+        "meaning": "n.盖子眼皮限制 v.给……盖盖子",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "lie",
+        "pronunciation": "/laɪ/",
+        "meaning": "v.在于躺，平躺平放在排名伸展说谎位于，坐落在存在，处于 n.谎话，谎言",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "life",
+        "pronunciation": "/laɪf/",
+        "meaning": "n.生活寿命人生生命有效期生物活力",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "lifetime",
+        "pronunciation": "/ˈlaɪfˌtaɪm/",
+        "meaning": "n.使用期一生，有生之年",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "lift",
+        "pronunciation": "/lɪft/",
+        "meaning": "v.举起，抬高撤销振奋提高 n.鼓舞抬，举电梯搭便车",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "merchandise",
+        "pronunciation": "/ˈmɚtʃəndaɪs/",
+        "meaning": "n.商品，货物 v.推销，促销",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "merchant",
+        "pronunciation": "/ˈmɚtʃənt/",
+        "meaning": "n.商人……爱好者批发商 adj.海运的，商船的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "mercury",
+        "pronunciation": "/ˈmɝkjərɪ/",
+        "meaning": "n.水银，汞温度表",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "mercy",
+        "pronunciation": "/ˈmɝsɪ/",
+        "meaning": "n.仁慈，宽恕恩惠",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "merge",
+        "pronunciation": "/mɝdʒ/",
+        "meaning": "v.（使）合并，（使）融合融入",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "merit",
+        "pronunciation": "/ˈmɛrɪt/",
+        "meaning": "n.优点，长处良好品质，价值 v.值得",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "merry",
+        "pronunciation": "/ˈmɛrɪ/",
+        "meaning": "adj.高兴的，愉快的微醺的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "metal",
+        "pronunciation": "/ˈmɛtl/",
+        "meaning": "n.金属",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "metaphor",
+        "pronunciation": "/ˈmɛtəfɔr/",
+        "meaning": "n.暗喻象征",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "metre/meter",
+        "pronunciation": "/ˈmitɚ/",
+        "meaning": "n.米（美式英语：meter）",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "metric",
+        "pronunciation": "/ˈmɛtrɪk/",
+        "meaning": "n.衡量指标 adj.公制的，米制的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "metropolitan",
+        "pronunciation": "/ˌmɛtrəˈpɑlətn/",
+        "meaning": "adj.大都市的本土的 n.大城市人",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "none",
+        "pronunciation": "/nʌn/",
+        "meaning": "pron.没有一个，毫无",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "nonsense",
+        "pronunciation": "/ˈnɑnsens/",
+        "meaning": "n.胡说，废话荒谬的想法（看法）愚蠢的举动",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "oral",
+        "pronunciation": "/ˈɔrəl/",
+        "meaning": "adj.口头的口腔的 n.口试",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "orbit",
+        "pronunciation": "/ˈɔrbɪt/",
+        "meaning": "n.轨道，势力范围眼眶，眼窝 v.沿轨道运行",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "order",
+        "pronunciation": "/ˈɔrdɚ/",
+        "meaning": "n.订单命令法令条理秩序种类点菜顺序 v.命令组织，整理点菜订购",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "orderly",
+        "pronunciation": "/ˈɔrdɚlɪ/",
+        "meaning": "adj.有秩序的，有条理的，整齐的 n.护理员",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "ordinary",
+        "pronunciation": "/ˈɔrdnɛrɪ/",
+        "meaning": "adj.普通的，平常的平淡无奇的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "orient",
+        "pronunciation": "/ˈɔrɪənt/",
+        "meaning": "v.使面对使适应确定方向 n.东方",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "oriental",
+        "pronunciation": "/ɔrɪˈɛntl/",
+        "meaning": "adj.东方的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "orientation",
+        "pronunciation": "/ˌɔriɛnˈteʃən/",
+        "meaning": "n.导向基本信仰，取向朝向培训，迎新",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "pop",
+        "pronunciation": "/pɑp/",
+        "meaning": "v.突然出现发出砰的一声迸，崩，爆迅速放置 adj.流行音乐的大众的，通俗的（口语）大众的，流行的（口语） n.流行音乐，流行乐曲汽水砰的一声",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "pope",
+        "pronunciation": "/pop/",
+        "meaning": "n.天主教教皇",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "popular",
+        "pronunciation": "/ˈpɑpjəlɚ/",
+        "meaning": "adj.受欢迎的大众的，通俗的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "porcelain",
+        "pronunciation": "/ˈpɔrsələn/",
+        "meaning": "n.瓷，瓷器",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "portable",
+        "pronunciation": "/ˈpɔrtəbl/",
+        "meaning": "adj.轻便的，便携的 n.便携式设备",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "porter",
+        "pronunciation": "/ˈpɔrtɚ/",
+        "meaning": "n.看门人搬运工列车服务员护工",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "portfolio",
+        "pronunciation": "/pɔrtˈfolio/",
+        "meaning": "n.代表作品集公文包，文件夹投资组合政府职务产品组合",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "portrait",
+        "pronunciation": "/ˈpɔrtret/",
+        "meaning": "n.人物照片，肖像描写 adj.竖向的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "portray",
+        "pronunciation": "/pɔrˈtre/",
+        "meaning": "v.描绘，描述扮演",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "post",
+        "pronunciation": "/post/",
+        "meaning": "n.职位，要职邮政邮件邮班岗位帖子柱子 v.寄公布，张贴派驻",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "postage",
+        "pronunciation": "/ˈpostɪdʒ/",
+        "meaning": "n.邮费",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "poster",
+        "pronunciation": "/ˈpostɚ/",
+        "meaning": "n.海报，招贴画",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "postman",
+        "pronunciation": "/ˈpostmən/",
+        "meaning": "n.邮递员",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "postpone",
+        "pronunciation": "/poˈspon/",
+        "meaning": "v.延迟，延期",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "posture",
+        "pronunciation": "/ˈpɑstʃɚ/",
+        "meaning": "n.姿势态度，立场 v.故作姿态",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "remnant",
+        "pronunciation": "/ˈrɛmnənt/",
+        "meaning": "n.残余部分布头，零料",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "renaissance",
+        "pronunciation": "/ˈrenəsɑns/",
+        "meaning": "n.文艺复兴复兴",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "renew",
+        "pronunciation": "/rɪˈnu/",
+        "meaning": "v.更新重新开始延长期限重申续借",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "renovate",
+        "pronunciation": "/ˈrɛnəˌvet/",
+        "meaning": "v.修复，翻新",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "rent",
+        "pronunciation": "/rɛnt/",
+        "meaning": "v.租借，出租租来撕破（rend的过去式和过去分词） n.租金裂缝",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repair",
+        "pronunciation": "/rɪˈpɛr/",
+        "meaning": "v.修理，修补补救 n.修理",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repay",
+        "pronunciation": "/rɪˈpe/",
+        "meaning": "v.偿还报答",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repeat",
+        "pronunciation": "/rɪˈpit/",
+        "meaning": "v.重复重做 n.重现重播节目",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repeatedly",
+        "pronunciation": "/rɪˈpitɪdlɪ/",
+        "meaning": "adv.重复地",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repel",
+        "pronunciation": "/rɪˈpɛl/",
+        "meaning": "v.击退排斥使厌恶",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repertoire",
+        "pronunciation": "/ˈrepɚtwɑ(r)/",
+        "meaning": "n.全部节目，全部曲目全部技能",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "repetition",
+        "pronunciation": "/ˌrɛpɪˈtɪʃən/",
+        "meaning": "n.重复",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "tire",
+        "pronunciation": "/taɪɚ/",
+        "meaning": "n.轮胎，车胎 v.使疲劳",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "tiresome",
+        "pronunciation": "/ˈtaɪɚsəm/",
+        "meaning": "adj.烦人的，令人厌烦的",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "tissue",
+        "pronunciation": "/ˈtɪʃu/",
+        "meaning": "n.组织薄纸纸巾",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "toil",
+        "pronunciation": "/tɔɪl/",
+        "meaning": "v.苦干，辛勤劳动 n.苦活，苦工",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "blade",
+        "pronunciation": "/bled/",
+        "meaning": "n.刀片，刀刃桨叶叶片",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "blame",
+        "pronunciation": "/blem/",
+        "meaning": "v.责怪 n.责任，归咎",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "blast",
+        "pronunciation": "/blæst/",
+        "meaning": "n.爆炸轰鸣枪击强气流狂欢严厉批评 v.爆炸，爆破轰鸣批评喷射",
+        "unit": "基础词 Unit 11"
+    },
+    {
+        "words": "blaze",
+        "pronunciation": "/blez/",
+        "meaning": "n.光辉，闪耀迸发烈火，大火 v.熊熊燃烧照耀连续射击",
+        "unit": "基础词 Unit 11"
+    }
+]

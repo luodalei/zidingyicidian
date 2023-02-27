@@ -1,0 +1,530 @@
+[
+    {
+        "words": "cycle",
+        "pronunciation": "/ˈsaɪkəl/",
+        "meaning": "n.循环，周期整套自行车摩托车 v.骑自行车",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "cylinder",
+        "pronunciation": "/ˈsɪlɪndɚ/",
+        "meaning": "n.圆柱体，圆筒汽缸",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "cube",
+        "pronunciation": "/kjub/",
+        "meaning": "n.立方体立方，三次方 v.把……切成方块求……的立方",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "cue",
+        "pronunciation": "/kju/",
+        "meaning": "n.提示，暗示信号球杆 v.给（某人）暗示（或提示）",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "cunning",
+        "pronunciation": "/ˈkʌnɪŋ/",
+        "meaning": "n.狡黠，机灵 adj.狡猾的吸引人的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "curb",
+        "pronunciation": "/kɝb/",
+        "meaning": "v.控制，约束 n.起控制作用的事物路缘",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "cure",
+        "pronunciation": "/kjᴜɚ/",
+        "meaning": "n.措施治疗药物 v.解决治愈矫正加工贮藏",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "curl",
+        "pronunciation": "/kɝl/",
+        "meaning": "v.（使）卷曲（使）蜷缩 n.（一绺）卷发卷曲卷状物",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "curriculum",
+        "pronunciation": "/kəˈrɪkjələm/",
+        "meaning": "n.课程",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "curse",
+        "pronunciation": "/kɝs/",
+        "meaning": "v.诅咒，咒骂 n.祸因，祸根诅咒，咒语",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "curve",
+        "pronunciation": "/kɝv/",
+        "meaning": "n.曲线，弧线 v.弯曲",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "custom",
+        "pronunciation": "/ˈkʌstəm/",
+        "meaning": "n.风俗，习俗光顾习惯 adj.定制的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "cyberspace",
+        "pronunciation": "/ˈsaɪbɚspes/",
+        "meaning": "n.网络空间",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "surface",
+        "pronunciation": "/ˈsɝfɪs/",
+        "meaning": "v.公开，显露 n.台面，地面表面，表层 adj.水面的，表面的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "surge",
+        "pronunciation": "/sɝdʒ/",
+        "meaning": "v.激增涌动，涌现 n.激增涌动，涌现",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "surgeon",
+        "pronunciation": "/ˈsɚdʒən/",
+        "meaning": "n.外科大夫",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "surgery",
+        "pronunciation": "/ˈsɚdʒərɪ/",
+        "meaning": "n.外科手术诊室应诊时间外科学",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "swallow",
+        "pronunciation": "/ˈswɑlo/",
+        "meaning": "v.完全相信吞下，咽下做吞咽动作吞没 n.吞燕子",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "swamp",
+        "pronunciation": "/swɑmp/",
+        "meaning": "v.淹没使疲于应对 n.湿地，沼泽",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "sway",
+        "pronunciation": "/swe/",
+        "meaning": "v.（使）摇摆，摇动使相信 n.摇摆控制，影响",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "sweat",
+        "pronunciation": "/swɛt/",
+        "meaning": "n.汗满身大汗繁重的工作 v.出水努力担心出汗，流汗",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "sweep",
+        "pronunciation": "/swip/",
+        "meaning": "v.席卷，吹走，清除扫，打扫拂去迅速传播 n.绵延的地带清扫",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "swift",
+        "pronunciation": "/swɪft/",
+        "meaning": "adj.迅速的，敏捷的 n.雨燕",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "swim",
+        "pronunciation": "/swɪm/",
+        "meaning": "v.游泳浸泡头晕仿佛在旋转 n.游泳",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "symbol",
+        "pronunciation": "/ˈsɪmbəl/",
+        "meaning": "n.象征符号",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "symmetry",
+        "pronunciation": "/ˈsɪmətrɪ/",
+        "meaning": "n.对称相似，相等",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "sympathetic",
+        "pronunciation": "/ˌsɪmpəˈθɛtɪk/",
+        "meaning": "adj.同情的，有同情心的赞同的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "sympathize",
+        "pronunciation": "/ˈsɪmpəθaɪz/",
+        "meaning": "v.同情，体谅赞同，支持",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "sympathy",
+        "pronunciation": "/ˈsɪmpəθɪ/",
+        "meaning": "n.同情赞同",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "symphony",
+        "pronunciation": "/ˈsɪmfənɪ/",
+        "meaning": "n.交响乐，交响曲",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "symposium",
+        "pronunciation": "/sɪmˈpoziəm/",
+        "meaning": "n.研讨会，专题讨论会",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "symptom",
+        "pronunciation": "/ˈsɪmptəm/",
+        "meaning": "n.症状征候，征兆",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "syndrome",
+        "pronunciation": "/ˈsɪndrom/",
+        "meaning": "n.综合征典型表现",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "synthesis",
+        "pronunciation": "/ˈsɪnθəsɪs/",
+        "meaning": "n.综合体，结合合成",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "synthetic",
+        "pronunciation": "/sɪnˈθɛtɪk/",
+        "meaning": "adj.合成的，人造的 n.合成纤维物",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "much",
+        "pronunciation": "/mʌtʃ/",
+        "meaning": "pron.许多，大量，多少 adv.非常很多地 det.许多，大量，多少",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "mud",
+        "pronunciation": "/mʌd/",
+        "meaning": "n.泥",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "mug",
+        "pronunciation": "/mʌɡ/",
+        "meaning": "n.马克杯冤大头，傻瓜脸 v.抢劫",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "murder",
+        "pronunciation": "/ˈmɝdɚ/",
+        "meaning": "n.谋杀，杀害 v.谋杀毁坏",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "murmur",
+        "pronunciation": "/ˈmɚmɚ/",
+        "meaning": "v.私下抱怨，咕哝低声说 n.低语声，细语私下的抱怨心脏的杂音",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "multiple",
+        "pronunciation": "/ˈmʌltəpəl/",
+        "meaning": "adj.数量多的，多种多样的多发性的 n.倍数连锁店",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "multiply",
+        "pronunciation": "/ˈmʌltəˌplaɪ/",
+        "meaning": "v.乘，乘以（使）大大增加，（使）倍增繁殖",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "multitude",
+        "pronunciation": "/ˈmʌltɪtud/",
+        "meaning": "n.许多，大量人群，群众",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "municipal",
+        "pronunciation": "/mjuˈnɪsəpəl/",
+        "meaning": "adj.市政的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "muscle",
+        "pronunciation": "/ˈmʌsəl/",
+        "meaning": "n.肌肉体力实力，影响力",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "muscular",
+        "pronunciation": "/ˈmʌskjəlɚ/",
+        "meaning": "adj.肌肉的强壮的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "puff",
+        "pronunciation": "/pʌf/",
+        "meaning": "v.吸，抽使喷出，冒出喘息 n.吸，抽一缕，少量喘气",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "pull",
+        "pronunciation": "/pᴜl/",
+        "meaning": "v.抽出拉，拽移开吸引拉伤撤销 n.拉，拖引力拉手魅力",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "pulse",
+        "pronunciation": "/pʌls/",
+        "meaning": "n.脉搏，脉率节拍脉冲意向 v.搏动，跳动",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "pump",
+        "pronunciation": "/pʌmp/",
+        "meaning": "n.汽油泵泵，抽水机，打气筒平底鞋体操鞋无带低帮女鞋 v.涌出追问用泵输送",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "punch",
+        "pronunciation": "/pʌntʃ/",
+        "meaning": "n.用力捶打打孔器吸引力潘趣酒，宾治酒 v.用拳猛击按打孔",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "punctual",
+        "pronunciation": "/ˈpʌŋtʃᴜəl/",
+        "meaning": "adj.准时的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "punish",
+        "pronunciation": "/ˈpʌnɪʃ/",
+        "meaning": "v.处罚，惩罚",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "puppet",
+        "pronunciation": "/ˈpʌpɪt/",
+        "meaning": "n.木偶傀儡",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "pure",
+        "pronunciation": "/pjᴜr/",
+        "meaning": "adj.纯的纯正的纯粹的完全的纯净的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "purify",
+        "pronunciation": "/ˈpjᴜrɪfaɪ/",
+        "meaning": "v.净化，使纯净",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "purpose",
+        "pronunciation": "/ˈpɚpəs/",
+        "meaning": "n.目的，目标用途，意义决心",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "purse",
+        "pronunciation": "/pɝs/",
+        "meaning": "n.女用钱包手提包资金，财力 v.撅嘴，嘟嘴",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "rumor",
+        "pronunciation": "/ˈrumɚ/",
+        "meaning": "n.谣言，传闻",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "run",
+        "pronunciation": "/rʌn/",
+        "meaning": "v.管理，运作，提供跑参加赛跑（使）流动选举运转，运行迅速赶往 n.跑竞选行程连续上演",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "rural",
+        "pronunciation": "/ˈrᴜrəl/",
+        "meaning": "adj.乡村的，农村的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "rush",
+        "pronunciation": "/rʌʃ/",
+        "meaning": "v.快速行进仓促，急促赶紧做突袭 n.热潮，抢购感情迸发仓促，急促",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "rust",
+        "pronunciation": "/rʌst/",
+        "meaning": "n.锈，铁锈锈病，锈菌铁锈色，红褐色 v.生锈",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "ruthless",
+        "pronunciation": "/ˈruθlɪs/",
+        "meaning": "adj.无情的，冷酷的，残忍的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "attendant",
+        "pronunciation": "/əˈtɛndənt/",
+        "meaning": "adj.伴随的在场的服务的 n.服务员，侍者",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "attorney",
+        "pronunciation": "/əˈtɚnɪ/",
+        "meaning": "n.律师代理人",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "attract",
+        "pronunciation": "/əˈtrækt/",
+        "meaning": "v.吸引，引起……的好感（或爱慕）引起",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "attractive",
+        "pronunciation": "/əˈtræktɪv/",
+        "meaning": "adj.有吸引力的迷人的漂亮的，优美的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "bunch",
+        "pronunciation": "/bʌntʃ/",
+        "meaning": "n.大量，大批一伙发辫束，串，捆 v.打褶",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "bundle",
+        "pronunciation": "/ˈbʌndl/",
+        "meaning": "n.捆，束风趣的人，笑料一批 v.匆匆送走，乱塞匆忙赶往捆绑销售",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "burden",
+        "pronunciation": "/ˈbɝdn/",
+        "meaning": "n.负担，重担负荷 v.使烦恼",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "bureau",
+        "pronunciation": "/ˈbjᴜro/",
+        "meaning": "n.办事处局，处，科书桌五斗橱",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "bureaucracy",
+        "pronunciation": "/bjᴜˈrɑkrəsɪ/",
+        "meaning": "n.官僚制度官僚作风，官僚主义",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "burglar",
+        "pronunciation": "/ˈbɚglɚ/",
+        "meaning": "n.入室窃贼",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "troop",
+        "pronunciation": "/trup/",
+        "meaning": "n.部队，军队骑兵队一群 v.结队前行",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "tropic",
+        "pronunciation": "/ˈtrɑpɪk/",
+        "meaning": "n.回归线热带，热带地区",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "tropical",
+        "pronunciation": "/ˈtrɑpɪkl/",
+        "meaning": "adj.热带的湿热的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "troublesome",
+        "pronunciation": "/ˈtrʌbəlsəm/",
+        "meaning": "adj.引起麻烦的，令人烦恼的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": true,
+        "pronunciation": "/ truː /",
+        "meaning": "adj.符合事实的；确实的；如实的；真正的（而非表面上的） adv.笔直地；不偏不斜地；直言相告；实话实说 v.配准；校准；整形 网络为真；真实的；真的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "trust",
+        "pronunciation": "/trʌst/",
+        "meaning": "v.相信，信任希望 n.信任信托",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "trunk",
+        "pronunciation": "/trʌŋk/",
+        "meaning": "n.树干旅行箱后备箱男式游泳裤躯干象鼻",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "tube",
+        "pronunciation": "/tub/",
+        "meaning": "n.管，管子管状容器管状器官地铁电视机",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "tuck",
+        "pronunciation": "/tʌk/",
+        "meaning": "v.把……塞入 n.减肥手术打褶食物",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "twin",
+        "pronunciation": "/twɪn/",
+        "meaning": "n.一对相似的事物之一双胞胎之一 v.使结成友好地区 adj.成双的相关的同时发生的双胞胎之一的",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "twinkle",
+        "pronunciation": "/ˈtwɪŋkəl/",
+        "meaning": "v.闪烁，闪耀闪亮，发亮 n.闪亮，闪烁",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "wrench",
+        "pronunciation": "/rɛntʃ/",
+        "meaning": "v.猛拽挣脱扭伤 n.扳手猛扭，猛拉离别的痛苦",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "wrinkle",
+        "pronunciation": "/ˈrɪŋkəl/",
+        "meaning": "n.皱纹皱褶 v.皱起起皱纹",
+        "unit": "基础词 Unit 28"
+    },
+    {
+        "words": "wrist",
+        "pronunciation": "/rɪst/",
+        "meaning": "n.手腕",
+        "unit": "基础词 Unit 28"
+    }
+]

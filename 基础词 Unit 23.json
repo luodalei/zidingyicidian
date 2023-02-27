@@ -1,0 +1,524 @@
+[
+    {
+        "words": "lively",
+        "pronunciation": "/ˈlaɪvlɪ/",
+        "meaning": "adj.生气勃勃的热闹的，热烈的（色彩）鲜艳的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "liver",
+        "pronunciation": "/ˈlɪvɚ/",
+        "meaning": "n.肝，肝脏以某种方式生活的人",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "living",
+        "pronunciation": "/ˈlɪvɪŋ/",
+        "meaning": "adj.活着的居住的在用的 n.生计生活方式活着的人们",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "loaf",
+        "pronunciation": "/lof/",
+        "meaning": "n.一条（面包） v.(无所事事）游荡，闲逛",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "loan",
+        "pronunciation": "/lon/",
+        "meaning": "n.贷款，借款借出 v.借出",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "lobby",
+        "pronunciation": "/ˈlɑbɪ/",
+        "meaning": "n.游说团体大堂，门厅 v.游说",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "locomotive",
+        "pronunciation": "/ˌlokəˈmotɪv/",
+        "meaning": "n.机车，火车头",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "lodge",
+        "pronunciation": "/lɑdʒ/",
+        "meaning": "n.小屋，小舍门房地方分会穴，窝 v.正式提出寄宿寄存卡住",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "lofty",
+        "pronunciation": "/ˈlɔftɪ/",
+        "meaning": "adj.高尚的高的高傲的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "log",
+        "pronunciation": "/lɑg/",
+        "meaning": "v.登录，记录行驶伐木把……载入正式记录 n.原木，木材日志",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "long",
+        "pronunciation": "/lɔŋ/",
+        "meaning": "adj.长时间的长的（记忆力）强的 adv.长久地始终 v.渴望 n.长期",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "longitude",
+        "pronunciation": "/ˈlɑndʒətjud/",
+        "meaning": "n.经度 adj.经度的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "discount",
+        "pronunciation": "/ˈdɪskaᴜnt/",
+        "meaning": "n.折扣 v.忽视打折",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "discourage",
+        "pronunciation": "/dɪsˈkɝɪdʒ/",
+        "meaning": "v.阻拦，阻止使灰心",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "discreet",
+        "pronunciation": "/dɪˈskrit/",
+        "meaning": "adj.谨慎的，考虑周到的不显眼的，小巧的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "discrete",
+        "pronunciation": "/dɪˈskrit/",
+        "meaning": "adj.分离的，各自的，单独的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "discretion",
+        "pronunciation": "/dɪˈskrɛʃən/",
+        "meaning": "n.慎重，自行决定的自由",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "discrepancy",
+        "pronunciation": "/dɪˈskrɛpənsɪ/",
+        "meaning": "n.差异，不一致",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "disguise",
+        "pronunciation": "/dɪsˈɡaɪz/",
+        "meaning": "n.伪装化装用具 v.装扮，假扮掩盖",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "disgust",
+        "pronunciation": "/dɪsˈɡʌst/",
+        "meaning": "n.厌恶，憎恶 v.使厌恶，使憎恶",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "dislike",
+        "pronunciation": "/dɪsˈlaɪk/",
+        "meaning": "v.不喜爱，厌恶 n.不喜欢，反感不喜欢的事物，讨厌的事物",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "dismay",
+        "pronunciation": "/dɪsˈme/",
+        "meaning": "n.诧异丧气 v.使灰心使诧异",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "disposal",
+        "pronunciation": "/dɪˈspozl/",
+        "meaning": "n.清除，处理",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "dispose",
+        "pronunciation": "/dɪˈspoz/",
+        "meaning": "v.使有意于，使倾向于排列，布置丢掉，处理",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "disposition",
+        "pronunciation": "/ˌdɪspəˈzɪʃən/",
+        "meaning": "n.性情，性格倾向，意向排列，布置处置",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "estate",
+        "pronunciation": "/ɪˈstet/",
+        "meaning": "n.工业区地产，住宅区遗产庄园",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "esteem",
+        "pronunciation": "/ɪˈstim/",
+        "meaning": "n.尊敬，敬重，好评 v.尊敬，敬重，好评认为",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "eternal",
+        "pronunciation": "/ɪˈtɝnl/",
+        "meaning": "adj.永久的，永恒的无休止的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "evacuate",
+        "pronunciation": "/ɪˈvækjuˌet/",
+        "meaning": "v.疏散排泄撤出，撤离",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "evade",
+        "pronunciation": "/ɪˈved/",
+        "meaning": "v.规避，逃避回避，避开想不出",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "evaporate",
+        "pronunciation": "/ɪˈvæpəˌret/",
+        "meaning": "v.消失，消散（使）蒸发，（使）挥发",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "fond",
+        "pronunciation": "/fɑnd/",
+        "meaning": "adj.喜爱的，爱好的深情的美好的不切实际的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "fool",
+        "pronunciation": "/ful/",
+        "meaning": "v.愚弄瞎弄 n.蠢人，傻瓜小丑奶油果泥 adj.傻的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "foolish",
+        "pronunciation": "/ˈfulɪʃ/",
+        "meaning": "adj.愚蠢的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "foot",
+        "pronunciation": "/fᴜt/",
+        "meaning": "n.脚底部英尺音步 v.支付 adj.脚踏的步行的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "footstep",
+        "pronunciation": "/ˈfᴜtˌstɛp/",
+        "meaning": "n.足迹",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "mist",
+        "pronunciation": "/mɪst/",
+        "meaning": "n.薄雾，水汽 v.使蒙上水汽",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "mistake",
+        "pronunciation": "/mɪˈstek/",
+        "meaning": "n.错误 v.搞错，误会",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "mistress",
+        "pronunciation": "/ˈmɪstrɪs/",
+        "meaning": "n.情妇女主人女教师",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "misunderstand",
+        "pronunciation": "/ˌmɪsʌndɚˈstænd/",
+        "meaning": "v.误解，误会",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "nuisance",
+        "pronunciation": "/ˈnusns/",
+        "meaning": "n.讨厌的人，麻烦的事情",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "numb",
+        "pronunciation": "/nʌm/",
+        "meaning": "adj.麻木的，失去知觉的 v.使麻木，使失去感觉",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "numerical",
+        "pronunciation": "/nuˈmɛrɪkl/",
+        "meaning": "adj.数字的，以数字表示的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "numerous",
+        "pronunciation": "/ˈnumərəs/",
+        "meaning": "adj.众多的，许多的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "nursery",
+        "pronunciation": "/ˈnɚsərɪ/",
+        "meaning": "adj.幼儿教育的 n.托儿所，保育室苗圃",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "nurture",
+        "pronunciation": "/ˈnɚtʃɚ/",
+        "meaning": "v.养育，培育，培养怀有扶持，帮助，支持 n.养育，培养",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "nut",
+        "pronunciation": "/nʌt/",
+        "meaning": "n.疯子坚果螺母……迷 v.以头撞击",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "nutrition",
+        "pronunciation": "/nuˈtrɪʃən/",
+        "meaning": "n.营养，滋养营养学",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "ought",
+        "pronunciation": "/ɔt/",
+        "meaning": "aux.应当，应该",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "outbreak",
+        "pronunciation": "/ˈaᴜtˌbrek/",
+        "meaning": "n.爆发，突然发生",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "outdoor",
+        "pronunciation": "/ˈaᴜtˌdɔr/",
+        "meaning": "adj.户外的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "outfit",
+        "pronunciation": "/ˈaᴜtˌfɪt/",
+        "meaning": "n.全套服装组织，团队全套装备 v.装备，配备",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "outing",
+        "pronunciation": "/ˈaᴜtɪŋ/",
+        "meaning": "n.外出游玩，远足",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "outskirts",
+        "pronunciation": "/ˈaᴜtskɝts/",
+        "meaning": "n.市郊，郊区",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "outstanding",
+        "pronunciation": "/aᴜtˈstændɪŋ/",
+        "meaning": "adj.优秀的，杰出的未支付的未解决的明显的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retail",
+        "pronunciation": "/ˈritel/",
+        "meaning": "n.零售，售卖 v.零售，零卖详说，述说",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retain",
+        "pronunciation": "/rɪˈten/",
+        "meaning": "v.保持，保留聘请",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retention",
+        "pronunciation": "/rɪˈtɛnʃən/",
+        "meaning": "n.保持滞留记忆力",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retire",
+        "pronunciation": "/rɪˈtaɪɚ/",
+        "meaning": "v.退役，退休离开退庭就寝退出",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retort",
+        "pronunciation": "/rɪˈtɔrt/",
+        "meaning": "v.反驳，回嘴 n.反驳，回嘴曲颈瓶",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retreat",
+        "pronunciation": "/rɪˈtrit/",
+        "meaning": "n.撤退逃避隐居地 v.后退，退避离开",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retrieve",
+        "pronunciation": "/rɪˈtriv/",
+        "meaning": "v.取回，找回，挽回检索",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "retrospect",
+        "pronunciation": "/ˈrɛtrəˌspɛkt/",
+        "meaning": "n.回顾，回想 v.回想",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "revolt",
+        "pronunciation": "/rɪˈvolt/",
+        "meaning": "n.反抗，造反 v.反抗，造反使厌恶，使惊骇",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "revolution",
+        "pronunciation": "/ˌrɛvəˈluʃən/",
+        "meaning": "n.革命，改革重大变革旋转，运行",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "revolutionary",
+        "pronunciation": "/rɛvəˈluʃənərɪ/",
+        "meaning": "adj.革命性的革命的 n.改革者，革命者",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "revolve",
+        "pronunciation": "/rɪˈvɑlv/",
+        "meaning": "v.围绕旋转，环绕以……为中心",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stalk",
+        "pronunciation": "/stɔk/",
+        "meaning": "v.怒气冲冲地走悄悄接近跟踪骚扰 n.茎，秆，柄，梗肉柄",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stain",
+        "pronunciation": "/sten/",
+        "meaning": "v.染污败坏给……着色 n.污渍败坏着色剂",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stake",
+        "pronunciation": "/stek/",
+        "meaning": "v.以……打赌用桩支撑 n.赌注比赛桩股份重大利益",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stale",
+        "pronunciation": "/stel/",
+        "meaning": "adj.不新鲜的缺乏新鲜感的厌倦的，腻烦的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stall",
+        "pronunciation": "/stɔl/",
+        "meaning": "v.推后拖延暂缓（使）熄火 n.隔栏小隔间摊位",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "staple",
+        "pronunciation": "/ˈstepəl/",
+        "meaning": "n.主要部分订书钉主食 adj.主要的 v.用订书钉订",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stamp",
+        "pronunciation": "/stæmp/",
+        "meaning": "n.邮票特征印记，戳记印章 v.盖章跺脚显示出",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "stare",
+        "pronunciation": "/stɛr/",
+        "meaning": "v.盯着看，凝视 n.凝视，注视",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "tragedy",
+        "pronunciation": "/ˈtrædʒɪdɪ/",
+        "meaning": "n.悲剧，悲剧作品不幸，灾难，惨剧",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "tragic",
+        "pronunciation": "/ˈtrædʒɪk/",
+        "meaning": "adj.悲惨的，不幸的悲剧的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "tram",
+        "pronunciation": "/træm/",
+        "meaning": "n.有轨电车缆车",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "bow",
+        "pronunciation": "/baᴜ/",
+        "meaning": "v.鞠躬低头 n.船头蝴蝶结弓鞠躬",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "bowel",
+        "pronunciation": "/ˈbaᴜəl/",
+        "meaning": "n.肠内部，深处",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "bowl",
+        "pronunciation": "/bol/",
+        "meaning": "n.碗一碗的量碗状部分木球，圆球 v.滚球，投球",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "boycott",
+        "pronunciation": "/ˈbɔɪkɑt/",
+        "meaning": "v.抵制 n.抵制",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "contact",
+        "pronunciation": "/ˈkɑntækt/",
+        "meaning": "n.接触，联系隐形眼镜接通联络人接触者 v.接触，联系",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "contagious",
+        "pronunciation": "/kənˈtedʒəs/",
+        "meaning": "adj.接触传染的有感染力的患传染病的",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "contain",
+        "pronunciation": "/kənˈten/",
+        "meaning": "v.包含防止……蔓延控制，抑制",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "contaminate",
+        "pronunciation": "/kənˈtæməˌnet/",
+        "meaning": "v.污染，弄脏，毒害",
+        "unit": "基础词 Unit 23"
+    },
+    {
+        "words": "contingent",
+        "pronunciation": "/kənˈtɪndʒənt/",
+        "meaning": "adj.依情况而定的 n.分遣队，小分队代表团",
+        "unit": "基础词 Unit 23"
+    }
+]

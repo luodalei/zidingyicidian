@@ -1,0 +1,572 @@
+[
+    {
+        "words": "chat",
+        "pronunciation": "/tʃæt/",
+        "meaning": "v.聊天 n.聊天，闲谈",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chain",
+        "pronunciation": "/tʃen/",
+        "meaning": "n.链子，链条连锁店一连串（人或事）束缚 v.用链条拴住",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chair",
+        "pronunciation": "/tʃɛr/",
+        "meaning": "n.主席椅子系主任 v.主持，担任主席",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chairman",
+        "pronunciation": "/ˈtʃɛrmən/",
+        "meaning": "n.董事长主席主持人",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chamber",
+        "pronunciation": "/ˈtʃembɚ/",
+        "meaning": "n.房间议院腔，室",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "champagne",
+        "pronunciation": "/ʃæmˈpen/",
+        "meaning": "n.香槟",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "champion",
+        "pronunciation": "/ˈtʃæmpɪən/",
+        "meaning": "v.拥护，捍卫 n.冠军拥护者，捍卫者 adj.优秀的，一流的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chancellor",
+        "pronunciation": "/ˈtʃænsəlɚ/",
+        "meaning": "n.总理，大臣，大法官大学校长",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chaos",
+        "pronunciation": "/ˈkeɑs/",
+        "meaning": "n.混乱",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chapter",
+        "pronunciation": "/ˈtʃæptɚ/",
+        "meaning": "n.章节时期",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "charity",
+        "pronunciation": "/ˈtʃærɪtɪ/",
+        "meaning": "n.慈善慈善机构仁慈",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "chart",
+        "pronunciation": "/tʃɑrt/",
+        "meaning": "n.图表海图排行榜 v.绘制区域地图记录制定计划",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "charter",
+        "pronunciation": "/ˈtʃɑrtɚ/",
+        "meaning": "n.章程，宪章特许状，许可证包租 v.包租，租用特许成立",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "deck",
+        "pronunciation": "/dɛk/",
+        "meaning": "n.甲板，舱面层面，层转盘装置一副牌平台，凉台 v.装饰，装点打击，击倒",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "declaration",
+        "pronunciation": "/ˌdɛkləˈreʃən/",
+        "meaning": "n.宣言声明，宣告",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "declare",
+        "pronunciation": "/dɪˈklɛr/",
+        "meaning": "v.表明，宣称公布申报",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "deed",
+        "pronunciation": "/did/",
+        "meaning": "n.行动，行为契约，证书",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "default",
+        "pronunciation": "/dɪˈfɔlt/",
+        "meaning": "n.默认值，预置值拖欠，违约 v.拖欠，违约，不履行义务默认，预设 adj.默认的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "defeat",
+        "pronunciation": "/dɪˈfit/",
+        "meaning": "n.失败挫败 v.击败，战胜挫败，使落空",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "defer",
+        "pronunciation": "/dɪˈfɝ/",
+        "meaning": "v.推迟，拖延听从，顺从",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "defect",
+        "pronunciation": "/ˈdifɛkt/",
+        "meaning": "n.缺点，缺陷，毛病 v.背叛",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "deficiency",
+        "pronunciation": "/dɪˈfɪʃənsɪ/",
+        "meaning": "n.缺乏，不足缺点，缺陷",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "deficit",
+        "pronunciation": "/ˈdɛfɪsɪt/",
+        "meaning": "n.赤字，逆差亏损，短缺",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "degenerate",
+        "pronunciation": "/dɪˈdʒenəret/",
+        "meaning": "v.恶化，退化变质；变性 adj.堕落的，颓废的 n.堕落的人",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "either",
+        "pronunciation": "/ˈiðɚ/",
+        "meaning": "pron.（两者中）各方 adv.或者也",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "eject",
+        "pronunciation": "/ɪˈdʒekt/",
+        "meaning": "v.驱逐，逐出喷出，射出，弹射",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "elapse",
+        "pronunciation": "/ɪˈlæps/",
+        "meaning": "v.流逝，消逝",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "elastic",
+        "pronunciation": "/ɪˈlæstɪk/",
+        "meaning": "n.松紧带，橡皮筋 adj.灵活的有弹性的，有弹力的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "elbow",
+        "pronunciation": "/ˈɛlbo/",
+        "meaning": "n.肘 v.用肘推挤",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "feasible",
+        "pronunciation": "/ˈfizəbəl/",
+        "meaning": "adj.可行的，做得到的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "feast",
+        "pronunciation": "/fist/",
+        "meaning": "n.盛宴，宴会，节日感官享受宗教节日使人欢快的事物 v.饱餐",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "feat",
+        "pronunciation": "/fit/",
+        "meaning": "n.功绩，伟业，壮举",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "feather",
+        "pronunciation": "/ˈfɛðɚ/",
+        "meaning": "n.羽毛 v.为……装羽毛",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "glide",
+        "pronunciation": "/ɡlaɪd/",
+        "meaning": "v.滑动，滑行滑翔 n.滑动，滑翔滑音",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "gloomy",
+        "pronunciation": "/ˈɡlumɪ/",
+        "meaning": "adj.忧伤的，无望的昏暗的前景黯淡的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "glory",
+        "pronunciation": "/ˈɡlɔrɪ/",
+        "meaning": "n.荣誉，光荣壮丽，壮观辉煌的成就，荣耀的事赞美",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "glorious",
+        "pronunciation": "/ˈɡlɔriəs/",
+        "meaning": "adj.辉煌的美好的荣耀的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "glue",
+        "pronunciation": "/ɡlu/",
+        "meaning": "n.胶棒胶水 v.用胶水粘",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "headline",
+        "pronunciation": "/ˈhedlaɪn/",
+        "meaning": "n.新闻提要大字标题媒体报道的热门话题 v.标题为担任主演",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "headquarters",
+        "pronunciation": "/ˈhedkwɔrtɚz/",
+        "meaning": "n.总部总公司，司令部",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "hearing",
+        "pronunciation": "/ˈhɪrɪŋ/",
+        "meaning": "n.听证会听力，听觉 adj.能听到的 v.听（hear的现在分词）",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "heart",
+        "pronunciation": "/hɑrt/",
+        "meaning": "n.心脏胸口心肠中心心形红心牌核心内心",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "heat",
+        "pronunciation": "/hit/",
+        "meaning": "n.热炉灶，暖气预赛高温 v.加热，变热",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "member",
+        "pronunciation": "/ˈmɛmbɚ/",
+        "meaning": "n.成员",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "membership",
+        "pronunciation": "/ˈmembɚʃɪp/",
+        "meaning": "n.全体会员，会员人数会员身份",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "menace",
+        "pronunciation": "/ˈmɛnəs/",
+        "meaning": "n.威胁，危险的事物烦人的人危险氛围 v.威胁，威吓",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "mend",
+        "pronunciation": "/mɛnd/",
+        "meaning": "v.修理，缝补（使）痊愈弥合分歧 n.康复，好转",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "persecute",
+        "pronunciation": "/ˈpɝsɪkjut/",
+        "meaning": "v.迫害骚扰",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "persevere",
+        "pronunciation": "/ˌpɚsəˈvɪɚ/",
+        "meaning": "v.坚持，孜孜以求",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "persist",
+        "pronunciation": "/pɚˈsɪst/",
+        "meaning": "v.持续，存留坚持，执意",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "persuade",
+        "pronunciation": "/pɚˈswed/",
+        "meaning": "v.劝说，说服",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "persuasion",
+        "pronunciation": "/pɚˈsweʒn/",
+        "meaning": "n.说服，劝说信仰，信念",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pest",
+        "pronunciation": "/pɛst/",
+        "meaning": "n.害虫讨厌鬼",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "petrol",
+        "pronunciation": "/ˈpɛtrəl/",
+        "meaning": "n.汽油",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "petroleum",
+        "pronunciation": "/pəˈtroliəm/",
+        "meaning": "n.石油",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "petty",
+        "pronunciation": "/ˈpɛtɪ/",
+        "meaning": "adj.琐碎的，不重要的小心眼的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pharmacy",
+        "pronunciation": "/ˈfɑrməsɪ/",
+        "meaning": "n.药房，医药柜台配药，药剂学",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "phone",
+        "pronunciation": "/fon/",
+        "meaning": "n.电话机电话 v.给……打电话",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pile",
+        "pronunciation": "/paɪl/",
+        "meaning": "v.拥挤装入堆放，摞起 n.堆，大量叠，摞大量大厦桩柱痔疮绒面，绒毛，绒头",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pilgrim",
+        "pronunciation": "/ˈpɪlɡrəm/",
+        "meaning": "n.朝圣者，香客",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pill",
+        "pronunciation": "/pɪl/",
+        "meaning": "n.药丸，药片口服避孕药",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pillar",
+        "pronunciation": "/ˈpɪlɚ/",
+        "meaning": "n.柱子，支柱中坚，栋梁",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "pilot",
+        "pronunciation": "/ˈpaɪlət/",
+        "meaning": "n.飞行员领航员试播节目引火火苗 v.驾驶，引航试验使通过 adj.试验性的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "quarrel",
+        "pronunciation": "/ˈkwɔrəl/",
+        "meaning": "n.争吵抱怨或不赞成的理由 v.争吵，吵架",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "quart",
+        "pronunciation": "/kwɔrt/",
+        "meaning": "n.夸脱",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "quarter",
+        "pronunciation": "/ˈkwɔrtɚ/",
+        "meaning": "n.四分之一季度一局比赛25分硬币区个人，群体一刻钟 v.把……分成四等份使……驻扎",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "quarantine",
+        "pronunciation": "/ˈkwɔrəntin/",
+        "meaning": "n.检疫，隔离 v.对……进行隔离检疫",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slip",
+        "pronunciation": "/slɪp/",
+        "meaning": "v.悄悄地做滑倒下降，变糟滑落溜走 n.小纸片小错误摔跤",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slipper",
+        "pronunciation": "/ˈslɪpɚ/",
+        "meaning": "n.拖鞋",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slippery",
+        "pronunciation": "/ˈslɪpərɪ/",
+        "meaning": "adj.滑的滑头的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slogan",
+        "pronunciation": "/ˈslogən/",
+        "meaning": "n.标语，口号",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slope",
+        "pronunciation": "/slop/",
+        "meaning": "n.山坡斜度，坡度斜坡，坡地 v.悄悄地走倾斜，成斜坡",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slot",
+        "pronunciation": "/slɑt/",
+        "meaning": "n.狭缝，狭孔时段，位置 v.插入，放入",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slum",
+        "pronunciation": "/slʌm/",
+        "meaning": "n.贫民区，贫民窟 v.过穷日子",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "slump",
+        "pronunciation": "/slʌmp/",
+        "meaning": "n.猛跌萧条（期） v.暴跌瘫倒，跌坐垂头弯腰地走（或坐等）",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "sly",
+        "pronunciation": "/slaɪ/",
+        "meaning": "adj.诡诈的，诡秘的心照不宣的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "smash",
+        "pronunciation": "/smæʃ/",
+        "meaning": "v.打破，打碎（使）猛烈撞击捣毁 n.撞车走红的歌曲破碎声",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "smog",
+        "pronunciation": "/smɑg/",
+        "meaning": "n.烟雾",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "smooth",
+        "pronunciation": "/smuð/",
+        "meaning": "v.使平使流畅 adj.平滑的，光滑的醇香的流畅的圆滑的悦耳的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "smuggle",
+        "pronunciation": "/ˈsmʌɡəl/",
+        "meaning": "v.走私，偷运",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "bear",
+        "pronunciation": "/bɛɚ/",
+        "meaning": "v.生育承担负载具有忍受开花，结果 n.（股市）做空者熊",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "beard",
+        "pronunciation": "/bɪɚd/",
+        "meaning": "n.胡须，络腮胡子 v.公然反抗",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "bearing",
+        "pronunciation": "/ˈbɛrɪŋ/",
+        "meaning": "n.方位举止，仪态轴承关系，影响",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "rap",
+        "pronunciation": "/ræp/",
+        "meaning": "n.批评说唱音乐敲击（声）看法指控快速敲击 v.批评敲击念白",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "rape",
+        "pronunciation": "/rep/",
+        "meaning": "v.强奸 n.油菜强奸（罪）破坏，糟蹋",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "rapid",
+        "pronunciation": "/ˈræpɪd/",
+        "meaning": "adj.迅速的，快速的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "rash",
+        "pronunciation": "/ræʃ/",
+        "meaning": "adj.轻率的，鲁莽的 n.疹子，皮疹大量，许多",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "raw",
+        "pronunciation": "/rɔ/",
+        "meaning": "adj.未经处理的，原始的无经验的严寒的真实的未煮的，生的",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "ray",
+        "pronunciation": "/re/",
+        "meaning": "n.光线，光束，射线一线鳐",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "reader",
+        "pronunciation": "/ˈridɚ/",
+        "meaning": "n.读者读本阅读器",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "reading",
+        "pronunciation": "/ˈridɪŋ/",
+        "meaning": "n.读书读书会读数理解方法理解，解读",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "readily",
+        "pronunciation": "/ˈrɛdɪlɪ/",
+        "meaning": "adv.迅速地，容易地心甘情愿地",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "realm",
+        "pronunciation": "/rɛlm/",
+        "meaning": "n.领域，范围王国",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "reap",
+        "pronunciation": "/ri:p/",
+        "meaning": "v.收获收割（庄稼）",
+        "unit": "基础词 Unit 17"
+    },
+    {
+        "words": "rear",
+        "pronunciation": "/rɪɚ/",
+        "meaning": "v.抚养，养育饲养用后腿站立高耸，耸立 n.后部，尾部屁股 adj.后面的，后部的",
+        "unit": "基础词 Unit 17"
+    }
+]

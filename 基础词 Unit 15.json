@@ -1,0 +1,452 @@
+[
+    {
+        "words": "pioneer",
+        "pronunciation": "/ˌpaɪəˈnɪɚ/",
+        "meaning": "n.先锋，先驱拓荒者 v.开创，倡导",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "pipe",
+        "pronunciation": "/paɪp/",
+        "meaning": "n.管子，水管烟斗管乐器音管 v.用管子输送",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "pirate",
+        "pronunciation": "/paɪrət/",
+        "meaning": "n.海盗盗版者 v.盗印，窃用",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "pistol",
+        "pronunciation": "/ˈpɪstəl/",
+        "meaning": "n.手枪",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "pit",
+        "pronunciation": "/pɪt/",
+        "meaning": "n.煤矿，矿井果核检修加油站坑，深坑陷阱",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "pitch",
+        "pronunciation": "/pɪtʃ/",
+        "meaning": "n.球场程度音高 v.用力扔，抛踉跄倒下",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "plagiarism",
+        "pronunciation": "/ˈpledʒəˌrɪzəm/",
+        "meaning": "n.剽窃，抄袭",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "plague",
+        "pronunciation": "/pleɡ/",
+        "meaning": "n.灾难，祸患鼠疫，黑死病，瘟疫 v.困扰，折磨",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "plain",
+        "pronunciation": "/plen/",
+        "meaning": "adj.普通的单色的，无花纹的朴素的不好看的简单明了的，直率的家常的 adv.完全地，简直 n.平针平原",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "planet",
+        "pronunciation": "/ˈplænɪt/",
+        "meaning": "n.行星地球",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "plant",
+        "pronunciation": "/plænt/",
+        "meaning": "n.工厂植物机器，设备 v.放置栽赃灌输种植",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "plantation",
+        "pronunciation": "/plænˈteʃn/",
+        "meaning": "n.种植园，大农场人造林",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "lay",
+        "pronunciation": "/le/",
+        "meaning": "v.布置（餐桌）放置，安放产（卵），下（蛋） adj.业余的，外行的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "layer",
+        "pronunciation": "/ˈleɚ/",
+        "meaning": "n.层，表层阶层，等级 v.分层放置",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "layman",
+        "pronunciation": "/ˈlemən/",
+        "meaning": "n.外行，门外汉平信徒",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "layout",
+        "pronunciation": "/ˈleˌaᴜt/",
+        "meaning": "n.布置，设计，布局",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "marathon",
+        "pronunciation": "/ˈmærəθɑn/",
+        "meaning": "n.马拉松赛跑 adj.漫长而累人的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "marble",
+        "pronunciation": "/ˈmɑrbl/",
+        "meaning": "n.大理石弹球",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "march",
+        "pronunciation": "/mɑrtʃ/",
+        "meaning": "v.行进，前进示威游行 n.行进，前进示威游行",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "marine",
+        "pronunciation": "/məˈrin/",
+        "meaning": "adj.海的，海生的 n.海军陆战队士兵",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "marital",
+        "pronunciation": "/ˈmærɪtl/",
+        "meaning": "adj.婚姻的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "married",
+        "pronunciation": "/ˈmærid/",
+        "meaning": "adj.婚姻的结婚的，已婚的致力于 v.结婚（marry的过去式和过去分词）",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "mark",
+        "pronunciation": "/mɑrk/",
+        "meaning": "v.纪念做记号打分留下污痕标志着 n.记号斑点，污迹指标特征迹象分数",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "marvelous",
+        "pronunciation": "/ˈmɑrvələs/",
+        "meaning": "adj.极好的，非凡的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "Marxist",
+        "pronunciation": "/ˈmɑksɪst/",
+        "meaning": "adj.马克思主义的 n.马克思主义者",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "mask",
+        "pronunciation": "/mæsk/",
+        "meaning": "n.伪装，掩饰面具面膜 v.掩饰，隐藏",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "naval",
+        "pronunciation": "/ˈnevəl/",
+        "meaning": "adj.海军的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "navigation",
+        "pronunciation": "/ˌnævɪˈɡeʃən/",
+        "meaning": "n.导航，领航航行，航海浏览（网站）",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "navy",
+        "pronunciation": "/ˈnevɪ/",
+        "meaning": "n.海军海军蓝 adj.海军蓝的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "nearby",
+        "pronunciation": "/ˌnɪrˈbaɪ/",
+        "meaning": "adv.在附近，不远 adj.附近的，邻近的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "nearly",
+        "pronunciation": "/ˈnɪrlɪ/",
+        "meaning": "adv.差不多，将近",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "neat",
+        "pronunciation": "/nit/",
+        "meaning": "adj.整洁的，整齐的爱整洁的巧妙的纯的极好的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "necklace",
+        "pronunciation": "/ˈnɛkləs/",
+        "meaning": "n.项链 v.给（某人）戴火项链",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "needle",
+        "pronunciation": "/ˈnidl/",
+        "meaning": "n.针，缝衣针针叶注射针指针 v.刺激，故意招惹",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "neighborhood",
+        "pronunciation": "/ˈnebɚhᴜd/",
+        "meaning": "n.街坊临近的地方社区，街坊附近",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "queer",
+        "pronunciation": "/kwɪɚ/",
+        "meaning": "adj.奇怪的，难以解释的（男）同性恋的 v.破坏机会 n.（男）同性恋者",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "query",
+        "pronunciation": "/ˈkwɪrɪ/",
+        "meaning": "n.疑问，问题 v.提问，质问，怀疑",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "queue",
+        "pronunciation": "/kju/",
+        "meaning": "n.队，行列数据队列 v.使成队列（人、车等）排队等候",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "quiver",
+        "pronunciation": "/ˈkwɪvɚ/",
+        "meaning": "v.颤动，发抖 n.箭筒颤动，发抖",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "quiz",
+        "pronunciation": "/kwɪz/",
+        "meaning": "n.智力竞赛测试 v.询问测验",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "quota",
+        "pronunciation": "/ˈkwotə/",
+        "meaning": "n.定额，指标，配额最低票数",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "recall",
+        "pronunciation": "/rɪˈkɔl/",
+        "meaning": "v.召回回忆起，回想起 n.记忆力召回",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "recollect",
+        "pronunciation": "/ˌrɛkəˈlɛkt/",
+        "meaning": "v.记起，回忆起",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "reconcile",
+        "pronunciation": "/ˈrɛkənsaɪl/",
+        "meaning": "v.调解，调和，使一致",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "recur",
+        "pronunciation": "/rɪˈkɝ/",
+        "meaning": "v.复发，重现",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "recreation",
+        "pronunciation": "/ˌrɛkriˈeʃən/",
+        "meaning": "n.娱乐重现，再创造游戏",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "recycle",
+        "pronunciation": "/riˈsaɪkəl/",
+        "meaning": "v.回收利用，再利用",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "rectify",
+        "pronunciation": "/ˈrɛktəˌfaɪ/",
+        "meaning": "v.纠正，矫正蒸馏整流",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "redundant",
+        "pronunciation": "/rɪˈdʌndənt/",
+        "meaning": "adj.失业的，被裁减的多余的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "reed",
+        "pronunciation": "/rid/",
+        "meaning": "n.芦苇簧片",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "reel",
+        "pronunciation": "/ril/",
+        "meaning": "n.卷筒，卷盘 v.踉跄感到震惊仿佛天旋地转",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "sheer",
+        "pronunciation": "/ʃɪɚ/",
+        "meaning": "adj.纯粹的，十足的陡峭的极薄的 v.急转 adv.垂直地",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "sheet",
+        "pronunciation": "/ʃit/",
+        "meaning": "n.一张（纸）床单，被单薄板一大片",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shepherd",
+        "pronunciation": "/ˈʃepɚd/",
+        "meaning": "v.引领 n.牧羊人",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shrewd",
+        "pronunciation": "/ʃrud/",
+        "meaning": "adj.精明的，高明的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shrink",
+        "pronunciation": "/ʃrɪŋk/",
+        "meaning": "v.缩小退缩，畏缩 n.心理医生",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shut",
+        "pronunciation": "/ʃʌt/",
+        "meaning": "v.闭上停止营业关闭，关上",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shutter",
+        "pronunciation": "/ˈʃʌtɚ/",
+        "meaning": "n.照相机快门百叶窗",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shuttle",
+        "pronunciation": "/ˈʃʌtl/",
+        "meaning": "n.航天飞机摆渡交通工具 v.频繁往来",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "shy",
+        "pronunciation": "/ʃaɪ/",
+        "meaning": "adj.腼腆的，怕生的不情愿的不够的 v.受惊",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "theatre/theater",
+        "pronunciation": "/ˈθɪətɚ/",
+        "meaning": "n.戏剧表演剧场戏剧工作手术室战场电影院",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "theft",
+        "pronunciation": "/θɛft/",
+        "meaning": "n.偷窃盗窃罪",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thermal",
+        "pronunciation": "/ˈθɚml/",
+        "meaning": "adj.热的，热量的天然温热的保暖的 n.保暖衣上升热气流",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thermometer",
+        "pronunciation": "/θɚˈmɑmɪtɚ/",
+        "meaning": "n.体温计",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thesis",
+        "pronunciation": "/ˈθisɪs/",
+        "meaning": "n.命题，论点论文，学位论文",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thick",
+        "pronunciation": "/θɪk/",
+        "meaning": "adj.厚的，粗的密布的能见度低的稠的蠢的浓的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thigh",
+        "pronunciation": "/θaɪ/",
+        "meaning": "n.大腿，股",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thorn",
+        "pronunciation": "/θɔrn/",
+        "meaning": "n.刺荆棘，带刺的树",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "thousand",
+        "pronunciation": "/ˈθaᴜzənd/",
+        "meaning": "num.（数字）一千",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "via",
+        "pronunciation": "/ˈviə/",
+        "meaning": "prep.通过，借助于经由",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "viable",
+        "pronunciation": "/ˈvaɪəbəl/",
+        "meaning": "adj.可行的，能办到的能存活的",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "vibrate",
+        "pronunciation": "/ˈvaɪˌbret/",
+        "meaning": "v.（使）振动（使）颤动，（使）抖动",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "vicinity",
+        "pronunciation": "/vəˈsɪnɪtɪ/",
+        "meaning": "n.邻近地区",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "video",
+        "pronunciation": "/ˈvɪdio/",
+        "meaning": "n.录像带录像机录像 v.录制，给……录像",
+        "unit": "基础词 Unit 15"
+    },
+    {
+        "words": "violate",
+        "pronunciation": "/ˈvaɪəˌlet/",
+        "meaning": "v.违反，违背侵犯亵渎",
+        "unit": "基础词 Unit 15"
+    }
+]

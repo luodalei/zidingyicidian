@@ -1,0 +1,464 @@
+[
+    {
+        "words": "telescope",
+        "pronunciation": "/ˈtɛləˌskop/",
+        "meaning": "n.望远镜 v.缩短",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "telegraph",
+        "pronunciation": "/ˈtelɪgræf/",
+        "meaning": "n.电报 v.发电报流露",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "tell",
+        "pronunciation": "/tɛl/",
+        "meaning": "v.告诉表明讲命令辨别告诫产生效果",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "tear",
+        "pronunciation": "/tiɚ/",
+        "meaning": "n.眼泪，泪水裂口，裂缝 v.拉伤撕掉飞奔撕裂，撕碎",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "tease",
+        "pronunciation": "/tiz/",
+        "meaning": "v.取笑，揶揄，逗弄 n.爱戏弄人的人卖弄风情的人",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "tedious",
+        "pronunciation": "/ˈtidiəs/",
+        "meaning": "adj.冗长乏味的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "undo",
+        "pronunciation": "/ʌnˈdu/",
+        "meaning": "v.抵消，消除解开，打开",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "undoubtedly",
+        "pronunciation": "/ʌnˈdaᴜtɪdlɪ/",
+        "meaning": "adv.无疑地",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "peaceful",
+        "pronunciation": "/ˈpisfəl/",
+        "meaning": "adj.和平的，安宁的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "peak",
+        "pronunciation": "/pik/",
+        "meaning": "n.顶峰山顶，山峰帽檐尖形 adj.巅峰的高峰（期）的 v.达到顶点",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "pearl",
+        "pronunciation": "/pɝl/",
+        "meaning": "n.珍珠像珍珠之物",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "pedal",
+        "pronunciation": "/ˈpɛdl/",
+        "meaning": "n.踏板 v.踏……的踏板骑自行车",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "pedestrian",
+        "pronunciation": "/pəˈdɛstriən/",
+        "meaning": "n.行人 adj.乏味的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "harassment",
+        "pronunciation": "/həˈræsmənt/",
+        "meaning": "n.骚扰，烦扰",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "harbor",
+        "pronunciation": "/ˈhɑrbɚ/",
+        "meaning": "n.港口，港湾 v.心怀窝藏含有",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "hard",
+        "pronunciation": "/hɑrd/",
+        "meaning": "adj.困难的辛苦的硬的苛刻的浓度高的确凿的努力的，勤劳的 adv.努力地认真地用力地",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "harden",
+        "pronunciation": "/ˈhɑrdn/",
+        "meaning": "v.变硬，硬化（使）变坚定（使）变稳定（使）变严厉，变无情",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "hardly",
+        "pronunciation": "/ˈhɑrdlɪ/",
+        "meaning": "adv.几乎不很难刚刚，才不可能",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "hardship",
+        "pronunciation": "/ˈhɑrdʃɪp/",
+        "meaning": "n.艰难，艰苦",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "hardware",
+        "pronunciation": "/ˈhɑrdwɛr/",
+        "meaning": "n.硬件五金制品",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "hero",
+        "pronunciation": "/ˈhɪro/",
+        "meaning": "n.英雄男主角",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "heroic",
+        "pronunciation": "/hɪˈroɪk/",
+        "meaning": "adj.英雄的，英勇的艰苦卓绝的男主角的 n.英雄壮举逞英雄的行为",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "heroin",
+        "pronunciation": "/ˈhɛroɪn/",
+        "meaning": "n.海洛因",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "heroine",
+        "pronunciation": "/ˈhɛroɪn/",
+        "meaning": "n.女主人公（女）偶像女英雄",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "impatient",
+        "pronunciation": "/ɪmˈpeʃənt/",
+        "meaning": "adj.不耐烦的，急躁的迫不及待的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "imperative",
+        "pronunciation": "/ɪmˈpɛrətɪv/",
+        "meaning": "n.紧迫之事祈使语气，祈使语气动词 adj.重要紧急的命令的，祈使的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "imperial",
+        "pronunciation": "/ɪmˈpɪriəl/",
+        "meaning": "adj.皇帝的，帝国的英制的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "impetus",
+        "pronunciation": "/ˈɪmpɪtəs/",
+        "meaning": "n.推动，促进，动力",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "lane",
+        "pronunciation": "/len/",
+        "meaning": "n.小路，小巷道",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "lantern",
+        "pronunciation": "/ˈlæntɚn/",
+        "meaning": "n.灯笼，提灯",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "lap",
+        "pronunciation": "/læp/",
+        "meaning": "n.（人坐时）大腿部一段路程（跑道等的）一圈 v.领先一圈轻拍舔食",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "lapse",
+        "pronunciation": "/læps/",
+        "meaning": "n.过失，疏忽时间间隔 v.结束，失效时间流逝背弃宗教信仰",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "laser",
+        "pronunciation": "/ˈlezɚ/",
+        "meaning": "n.激光激光（器）",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "lash",
+        "pronunciation": "/læʃ/",
+        "meaning": "n.睫毛鞭端皮条鞭打 v.绑紧鞭打猛袭怒斥",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "mankind",
+        "pronunciation": "/mænˈkaɪnd/",
+        "meaning": "n.人类",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "maneuvre",
+        "pronunciation": "/məˈnuvɚ/",
+        "meaning": "v.熟练地移动操纵 n.精巧动作策略，花招军事演习",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "manual",
+        "pronunciation": "/ˈmænjuəl/",
+        "meaning": "n.使用说明书 adj.体力的，手工的手动的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "manufacture",
+        "pronunciation": "/ˌmænjᴜˈfæktʃɚ/",
+        "meaning": "n.批量生产工业品 v.（用机器）大量生产编造",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "manuscript",
+        "pronunciation": "/ˈmænjᴜskrɪpt/",
+        "meaning": "n.手稿，底稿手抄本",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "obstacle",
+        "pronunciation": "/ˈɑbstəkl/",
+        "meaning": "n.障碍，阻碍，妨碍",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "obstruct",
+        "pronunciation": "/əbˈstrʌkt/",
+        "meaning": "v.阻挠，妨碍阻塞，堵塞",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "obstruction",
+        "pronunciation": "/əbˈstrʌkʃən/",
+        "meaning": "n.阻碍，阻塞，阻塞物梗阻",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "occasion",
+        "pronunciation": "/əˈkeʒən/",
+        "meaning": "n.时刻场合特别的事情（或仪式，庆典）时机 v.造成，引起",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "occasional",
+        "pronunciation": "/əˈkeʒənəl/",
+        "meaning": "adj.偶尔的，偶然的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "odd",
+        "pronunciation": "/ɑd/",
+        "meaning": "adj.奇怪的怪异的，反常的奇数的单个的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "odds",
+        "pronunciation": "/ɑdz/",
+        "meaning": "n.几率，可能性投注赔率",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "odor",
+        "pronunciation": "/ˈodɚ/",
+        "meaning": "n.气味，臭味",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scold",
+        "pronunciation": "/skold/",
+        "meaning": "v.训斥，责骂",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scout",
+        "pronunciation": "/skaᴜt/",
+        "meaning": "n.侦察员星探 v.侦察，搜寻物色",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scramble",
+        "pronunciation": "/ˈskræmbəl/",
+        "meaning": "v.攀登仓促行动艰难完成炒蛋争抢，推挤 n.攀登争抢",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scrap",
+        "pronunciation": "/skræp/",
+        "meaning": "v.取消，废弃，毁掉打架 n.碎片，少量打架废料，废品",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scrape",
+        "pronunciation": "/skrep/",
+        "meaning": "v.刮落刮破发出刮擦声勉强获得 n.刮擦声擦伤自己造成的困境",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scratch",
+        "pronunciation": "/skrætʃ/",
+        "meaning": "v.挠，搔刮，擦划伤退出，取消 n.划痕挠，抓 adj.仓促拼凑的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scream",
+        "pronunciation": "/skrim/",
+        "meaning": "v.尖声喊叫 n.尖叫",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "screen",
+        "pronunciation": "/skrin/",
+        "meaning": "n.银幕屏幕屏风，遮挡物庇护所 v.筛选，普查放映遮挡测试，检查",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "screw",
+        "pronunciation": "/skru/",
+        "meaning": "n.螺钉旋拧螺旋桨狱警 v.拧紧把……揉成团扭曲诈骗性交 adj.带螺旋的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "script",
+        "pronunciation": "/skrɪpt/",
+        "meaning": "v.写剧本，撰稿 n.剧本字母表笔迹脚本语言笔试答卷处方计划",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "scrutiny",
+        "pronunciation": "/ˈskrutnɪ/",
+        "meaning": "n.细看，仔细审查",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "sculpture",
+        "pronunciation": "/ˈskʌlptʃɚ/",
+        "meaning": "n.雕塑，塑像雕刻术",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "seal",
+        "pronunciation": "/sil/",
+        "meaning": "n.图章封口密封装置海豹 v.密封封锁确定",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "seam",
+        "pronunciation": "/sim/",
+        "meaning": "n.煤层，矿层接缝",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "second",
+        "pronunciation": "/ˈsɛkənd/",
+        "meaning": "ord.第二的 n.秒瞬间第二名 v.附议，赞同",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "secondary",
+        "pronunciation": "/ˈsekəndɛrɪ/",
+        "meaning": "adj.（教育）中等的次要的继发性的间接的 n.副手，代理人",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "secretary",
+        "pronunciation": "/ˈsɛkrətɛrɪ/",
+        "meaning": "n.助理部长，大臣秘书干事",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "section",
+        "pronunciation": "/ˈsɛkʃən/",
+        "meaning": "n.部分部门条，款切口切面切开术区域部件，散件 v.切开强制住院",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "sector",
+        "pronunciation": "/ˈsɛktɚ/",
+        "meaning": "n.部门，行业，领域部分，扇形军事管制区",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "segment",
+        "pronunciation": "/ˈsɛɡmənt/",
+        "meaning": "n.部分瓣细分的部分音段 v.划分",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "segregate",
+        "pronunciation": "/ˈsɛɡrɪˌɡet/",
+        "meaning": "v.隔离并区别对待分离，分开",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "seize",
+        "pronunciation": "/siz/",
+        "meaning": "v.把握（机会）抓住，夺取没收控制俘获，捉拿",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "veil",
+        "pronunciation": "/vel/",
+        "meaning": "n.面纱，头巾掩饰，借口遮盖层 v.戴面纱遮掩",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "vein",
+        "pronunciation": "/ven/",
+        "meaning": "n.静脉风格特征矿脉叶脉，翅脉",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "velocity",
+        "pronunciation": "/vəˈlɒsətɪ/",
+        "meaning": "n.速度，速率",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "velvet",
+        "pronunciation": "/ˈvɛlvɪt/",
+        "meaning": "n.丝绒，天鹅绒",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "vertical",
+        "pronunciation": "/ˈvɚtɪkl/",
+        "meaning": "adj.垂直的 n.垂直方向",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "verge",
+        "pronunciation": "/vɝdʒ/",
+        "meaning": "v.接近，濒于 n.路边，植草边沿边缘，边沿",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "versatile",
+        "pronunciation": "/ˈvɚsətl/",
+        "meaning": "adj.多才多艺的多功能的",
+        "unit": "基础词 Unit 04"
+    },
+    {
+        "words": "versus",
+        "pronunciation": "/ˈvɚsəs/",
+        "meaning": "prep.对阵与……相对",
+        "unit": "基础词 Unit 04"
+    }
+]

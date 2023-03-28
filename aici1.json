@@ -1,0 +1,2126 @@
+[
+ {
+  "words": "work",
+  "pronunciation": "wərk",
+  "meaning": "vi.工作；产生···作用；争取v.运转 n.工作；工作成果；作品",
+  "unit": "Unit1"
+ },
+ {
+  "words": "coworker",
+  "pronunciation": "ˈkoʊˈwərkər",
+  "meaning": "n.同事",
+  "unit": "Unit1"
+ },
+ {
+  "words": "workforce",
+  "pronunciation": "ˈwərkˌfɔrs",
+  "meaning": "n.劳动力；全体员工",
+  "unit": "Unit1"
+ },
+ {
+  "words": "workplace",
+  "pronunciation": "ˈwərkˌpleɪs",
+  "meaning": "n.工作场所",
+  "unit": "Unit1"
+ },
+ {
+  "words": "workout",
+  "pronunciation": "ˈwərˌkaʊt",
+  "meaning": "n.训练，锻炼",
+  "unit": "Unit1"
+ },
+ {
+  "words": "patchwork",
+  "pronunciation": "ˈpæʧˌwərk",
+  "meaning": "adj.拼凑的n.拼凑之物",
+  "unit": "Unit1"
+ },
+ {
+  "words": "labor",
+  "pronunciation": "ˈleɪbər",
+  "meaning": "n.劳动；劳工；英国工党 vi.努力做",
+  "unit": "Unit1"
+ },
+ {
+  "words": "laborer",
+  "pronunciation": "ˈleɪbərər",
+  "meaning": "n.体力劳动者",
+  "unit": "Unit1"
+ },
+ {
+  "words": "career",
+  "pronunciation": "kərɪr",
+  "meaning": "n.职业；职业生涯",
+  "unit": "Unit1"
+ },
+ {
+  "words": "vocational",
+  "pronunciation": "voʊˈkeɪʃənəl",
+  "meaning": "adj.职业的，职业技术的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "strike",
+  "pronunciation": "straɪk",
+  "meaning": "n.罢工；撞，碰；打，击v.使突然想到；侵袭；罢工；撞，碰；打，击",
+  "unit": "Unit1"
+ },
+ {
+  "words": "state",
+  "pronunciation": "steɪt",
+  "meaning": "n.状态；国家；州；政府 vt.陈述；规定adj.州的；国家的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "statement",
+  "pronunciation": "ˈsteɪtmənt",
+  "meaning": "n.声明；说法",
+  "unit": "Unit1"
+ },
+ {
+  "words": "restate",
+  "pronunciation": "riˈsteɪt",
+  "meaning": "vt.重申",
+  "unit": "Unit1"
+ },
+ {
+  "words": "overstate",
+  "pronunciation": "ˈoʊvərˌsteɪt",
+  "meaning": "vt.夸大",
+  "unit": "Unit1"
+ },
+ {
+  "words": "estate",
+  "pronunciation": "ɛˈsteɪt",
+  "meaning": "n.地产",
+  "unit": "Unit1"
+ },
+ {
+  "words": "status",
+  "pronunciation": "ˈstætəs",
+  "meaning": "n.地位；状况",
+  "unit": "Unit1"
+ },
+ {
+  "words": "statute",
+  "pronunciation": "ˈstæʧut",
+  "meaning": "n.法规",
+  "unit": "Unit1"
+ },
+ {
+  "words": "stake",
+  "pronunciation": "steɪk",
+  "meaning": "v.立界标以表明；以···打赌 n.重大利害关系；桩；股份",
+  "unit": "Unit1"
+ },
+ {
+  "words": "administer",
+  "pronunciation": "ədˈmɪnɪstər",
+  "meaning": "vt.管理；施行",
+  "unit": "Unit1"
+ },
+ {
+  "words": "administration",
+  "pronunciation": "ædˌmɪnɪˈstreɪʃən",
+  "meaning": "n.管理；管理部门；政府",
+  "unit": "Unit1"
+ },
+ {
+  "words": "administrative",
+  "pronunciation": "ədˈmɪnɪˌstreɪtɪv",
+  "meaning": "adj.管理的；行政的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "change",
+  "pronunciation": "ʧeɪnʤ",
+  "meaning": "n.变化v.改变；变换",
+  "unit": "Unit1"
+ },
+ {
+  "words": "exchange",
+  "pronunciation": "ɪksˈʧeɪnʤ",
+  "meaning": "n.交换；交流vt.交换",
+  "unit": "Unit1"
+ },
+ {
+  "words": "alter",
+  "pronunciation": "ˈɔltər",
+  "meaning": "v.更改；改变",
+  "unit": "Unit1"
+ },
+ {
+  "words": "alternative",
+  "pronunciation": "ɔlˈtərnətɪv",
+  "meaning": "n.可供选择的事物adj.可供替代的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "switch",
+  "pronunciation": "swɪʧ",
+  "meaning": "vi.转变n.改变；开关",
+  "unit": "Unit1"
+ },
+ {
+  "words": "use",
+  "pronunciation": "juz",
+  "meaning": "vt.使用n.使用；用途",
+  "unit": "Unit1"
+ },
+ {
+  "words": "used",
+  "pronunciation": "juzd",
+  "meaning": "adj.习惯于",
+  "unit": "Unit1"
+ },
+ {
+  "words": "useful",
+  "pronunciation": "ˈjusfəl",
+  "meaning": "adj.有用的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "useless",
+  "pronunciation": "ˈjusləs",
+  "meaning": "adj.无用的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "underused",
+  "pronunciation": "ˌəndərˈjuzd",
+  "meaning": "adj.未充分利用的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "misuse",
+  "pronunciation": "mɪsˈjuz",
+  "meaning": "n.误用；滥用vt.误用；滥用",
+  "unit": "Unit1"
+ },
+ {
+  "words": "social",
+  "pronunciation": "ˈsoʊʃəl",
+  "meaning": "adj.社会的；社交的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "sociable",
+  "pronunciation": "ˈsoʊʃəbəl",
+  "meaning": "adj.好交际的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "socialise",
+  "pronunciation": "socialise*",
+  "meaning": "vi.交往vt.使适应社会",
+  "unit": "Unit1"
+ },
+ {
+  "words": "asocial",
+  "pronunciation": "asocial*",
+  "meaning": "adj.缺乏社交性的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "sociologist",
+  "pronunciation": "ˌsoʊsiˈɑləʤɪst",
+  "meaning": "n.社会学家",
+  "unit": "Unit1"
+ },
+ {
+  "words": "society",
+  "pronunciation": "soʊˈsaɪɪti",
+  "meaning": "n.社会；社团",
+  "unit": "Unit1"
+ },
+ {
+  "words": "take",
+  "pronunciation": "teɪk",
+  "meaning": "v.采取；需要······时间；持有；把···带到；举例；读；对待；领会；携带；带去；拿n.看法",
+  "unit": "Unit1"
+ },
+ {
+  "words": "intake",
+  "pronunciation": "ˈɪnˌteɪk",
+  "meaning": "n.摄取量；纳入的人数；吸收",
+  "unit": "Unit1"
+ },
+ {
+  "words": "retake",
+  "pronunciation": "ˈriˈteɪk",
+  "meaning": "vt.重修，重学",
+  "unit": "Unit1"
+ },
+ {
+  "words": "takeaway",
+  "pronunciation": "takeaway*",
+  "meaning": "n.外卖",
+  "unit": "Unit1"
+ },
+ {
+  "words": "mistake",
+  "pronunciation": "mɪˈsteɪk",
+  "meaning": "n.错误",
+  "unit": "Unit1"
+ },
+ {
+  "words": "blunder",
+  "pronunciation": "ˈbləndər",
+  "meaning": "n.思蠢的错误",
+  "unit": "Unit1"
+ },
+ {
+  "words": "company",
+  "pronunciation": "ˈkəmpəˌni",
+  "meaning": "n.公司；剧团；陪伴；同伴",
+  "unit": "Unit1"
+ },
+ {
+  "words": "accompany",
+  "pronunciation": "əˈkəmpəni",
+  "meaning": "vt.陪伴；伴随；为···伴奏",
+  "unit": "Unit1"
+ },
+ {
+  "words": "companion",
+  "pronunciation": "kəmˈpænjən",
+  "meaning": "n.同伴；伴侣",
+  "unit": "Unit1"
+ },
+ {
+  "words": "accord",
+  "pronunciation": "əˈkɔrd",
+  "meaning": "vi.与···一致n.协议",
+  "unit": "Unit1"
+ },
+ {
+  "words": "accordingly",
+  "pronunciation": "əˈkɔrdɪŋli",
+  "meaning": "adv.相应地；因此",
+  "unit": "Unit1"
+ },
+ {
+  "words": "own",
+  "pronunciation": "oʊn",
+  "meaning": "adj.自己的；自己独有的vt.拥有pron.自己的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "owner",
+  "pronunciation": "ˈoʊnər",
+  "meaning": "n.所有者；主人",
+  "unit": "Unit1"
+ },
+ {
+  "words": "ownership",
+  "pronunciation": "ˈoʊnərˌʃɪp",
+  "meaning": "n.所有权；产权",
+  "unit": "Unit1"
+ },
+ {
+  "words": "property",
+  "pronunciation": "ˈprɑpərti",
+  "meaning": "n.财产；房地产",
+  "unit": "Unit1"
+ },
+ {
+  "words": "owe",
+  "pronunciation": "oʊ",
+  "meaning": "vt.欠；把...归功于；感激；应给予",
+  "unit": "Unit1"
+ },
+ {
+  "words": "mean",
+  "pronunciation": "min",
+  "meaning": "vt.意味着；意思是；打算n.平均值；折中adj.吝啬的；不友好的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "means",
+  "pronunciation": "minz",
+  "meaning": "n.方法，方式；财富，钱财",
+  "unit": "Unit1"
+ },
+ {
+  "words": "meaningful",
+  "pronunciation": "ˈminɪŋfəl",
+  "meaning": "adj.有意义的；易于理解的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "intend",
+  "pronunciation": "ˌɪnˈtɛnd",
+  "meaning": "v.打算vt.想要；意指",
+  "unit": "Unit1"
+ },
+ {
+  "words": "intention",
+  "pronunciation": "ˌɪnˈtɛnʧən",
+  "meaning": "n.意图",
+  "unit": "Unit1"
+ },
+ {
+  "words": "intentionally",
+  "pronunciation": "ˌɪnˈtɛnʃənəli",
+  "meaning": "adv.故意地",
+  "unit": "Unit1"
+ },
+ {
+  "words": "choose",
+  "pronunciation": "ʧuz",
+  "meaning": "v.选择；宁愿；决",
+  "unit": "Unit1"
+ },
+ {
+  "words": "select",
+  "pronunciation": "səˈlɛkt",
+  "meaning": "vt.选择",
+  "unit": "Unit1"
+ },
+ {
+  "words": "selection",
+  "pronunciation": "səˈlɛkʃən",
+  "meaning": "n.选择",
+  "unit": "Unit1"
+ },
+ {
+  "words": "selective",
+  "pronunciation": "səˈlɛktɪv",
+  "meaning": "adj.选择性的；仔细挑选的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "opt",
+  "pronunciation": "ɑpt",
+  "meaning": "v.选择",
+  "unit": "Unit1"
+ },
+ {
+  "words": "option",
+  "pronunciation": "ˈɔpʃən",
+  "meaning": "n.选择；可选择的事物；买卖选择权",
+  "unit": "Unit1"
+ },
+ {
+  "words": "business",
+  "pronunciation": "ˈbɪznɪs",
+  "meaning": "n.商业；业务；企业；事情；行业；生意；日常工作；职责",
+  "unit": "Unit1"
+ },
+ {
+  "words": "businessman",
+  "pronunciation": "ˈbɪznɪsˌmæn",
+  "meaning": "n.商人",
+  "unit": "Unit1"
+ },
+ {
+  "words": "commerce",
+  "pronunciation": "ˈkɑmərs",
+  "meaning": "n.商业",
+  "unit": "Unit1"
+ },
+ {
+  "words": "commercial",
+  "pronunciation": "kəˈmərʃəl",
+  "meaning": "adj.商业化的；商业的n.广告",
+  "unit": "Unit1"
+ },
+ {
+  "words": "enterprise",
+  "pronunciation": "ˈɛnərˌpraɪz",
+  "meaning": "n.事业；企业；冒险精神",
+  "unit": "Unit1"
+ },
+ {
+  "words": "entrepreneur",
+  "pronunciation": "ˌɑntrəprəˈnʊr",
+  "meaning": "n.企业家",
+  "unit": "Unit1"
+ },
+ {
+  "words": "trade",
+  "pronunciation": "treɪd",
+  "meaning": "n.贸易；生意",
+  "unit": "Unit1"
+ },
+ {
+  "words": "transaction",
+  "pronunciation": "trænˈzækʃən",
+  "meaning": "n.交易",
+  "unit": "Unit1"
+ },
+ {
+  "words": "sale",
+  "pronunciation": "seɪl",
+  "meaning": "n.销售；拍卖；销售额；销量；销售部门；廉价",
+  "unit": "Unit1"
+ },
+ {
+  "words": "wholesale",
+  "pronunciation": "ˈhoʊlˌseɪl",
+  "meaning": "n.批发 adj.批发的adv.批发地；大批量地",
+  "unit": "Unit1"
+ },
+ {
+  "words": "commodity",
+  "pronunciation": "kəˈmɑdəti",
+  "meaning": "n.商品；有使用价值的事物",
+  "unit": "Unit1"
+ },
+ {
+  "words": "bargain",
+  "pronunciation": "ˈbɑrgɪn",
+  "meaning": "n.交易；减价品；协议vi.讨价还价",
+  "unit": "Unit1"
+ },
+ {
+  "words": "question",
+  "pronunciation": "kˈwɛʃən",
+  "meaning": "n.问题；怀疑；事情 vt.质疑",
+  "unit": "Unit1"
+ },
+ {
+  "words": "query",
+  "pronunciation": "kˈwiri",
+  "meaning": "vt.向···提问n.疑问",
+  "unit": "Unit1"
+ },
+ {
+  "words": "inquire\/enquire",
+  "pronunciation": "inquire\/enquire*",
+  "meaning": "vt.询问；探究",
+  "unit": "Unit1"
+ },
+ {
+  "words": "inquiry\/enquiry",
+  "pronunciation": "inquiry\/enquiry*",
+  "meaning": "n.探究；询问",
+  "unit": "Unit1"
+ },
+ {
+  "words": "issue",
+  "pronunciation": "ˈɪʃu",
+  "meaning": "n.问题；议题；要点vt.发布；发给；发出",
+  "unit": "Unit1"
+ },
+ {
+  "words": "matter",
+  "pronunciation": "ˈmætər",
+  "meaning": "n.事情；问题；事态；物品；物质；材料；课题 vi.重要；关系重大",
+  "unit": "Unit1"
+ },
+ {
+  "words": "affair",
+  "pronunciation": "əˈfɛr",
+  "meaning": "n.事情；事务；风流韵事",
+  "unit": "Unit1"
+ },
+ {
+  "words": "mark",
+  "pronunciation": "mɑrk",
+  "meaning": "n.标志；痕迹；分数vt.标志着；给···确定性质；评分vi.留下痕迹",
+  "unit": "Unit1"
+ },
+ {
+  "words": "marked",
+  "pronunciation": "mɑrkt",
+  "meaning": "adj.显著的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "markedly",
+  "pronunciation": "ˈmɑrkɪdli",
+  "meaning": "adv.显著地",
+  "unit": "Unit1"
+ },
+ {
+  "words": "remarkable",
+  "pronunciation": "rɪˈmɑrkəbəl",
+  "meaning": "adj.非凡的；不同寻常的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "section",
+  "pronunciation": "ˈsɛkʃən",
+  "meaning": "n.部分；节；段；部门",
+  "unit": "Unit1"
+ },
+ {
+  "words": "sector",
+  "pronunciation": "ˈsɛktər",
+  "meaning": "n.部门",
+  "unit": "Unit1"
+ },
+ {
+  "words": "segment",
+  "pronunciation": "ˌsɛgˈmɛnt",
+  "meaning": "n.部分；部门v.分割",
+  "unit": "Unit1"
+ },
+ {
+  "words": "human",
+  "pronunciation": "ˈjumən",
+  "meaning": "n.人",
+  "unit": "Unit1"
+ },
+ {
+  "words": "non-human",
+  "pronunciation": "nɑnˈhjumən",
+  "meaning": "adj.非人类的；非人类制造的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "humanity",
+  "pronunciation": "juˈmænɪti",
+  "meaning": "n.人性；人类",
+  "unit": "Unit1"
+ },
+ {
+  "words": "humanistic",
+  "pronunciation": "ˌhjuməˈnɪstɪk",
+  "meaning": "adj.人本主义的；人文主义的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "anthropologist",
+  "pronunciation": "ˌænθrəˈpɑləʤɪst",
+  "meaning": "n.人类学家",
+  "unit": "Unit1"
+ },
+ {
+  "words": "anthropology",
+  "pronunciation": "ˌænθrəˈpɑləʤi",
+  "meaning": "n.人类学",
+  "unit": "Unit1"
+ },
+ {
+  "words": "archeologist",
+  "pronunciation": "archeologist*",
+  "meaning": "n.考古学家",
+  "unit": "Unit1"
+ },
+ {
+  "words": "archeological",
+  "pronunciation": "ˌɑrkiəˈlɑʤɪkəl",
+  "meaning": "adj.考古的；考古学的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "demographic",
+  "pronunciation": "ˌdɛməˈgræfɪk",
+  "meaning": "adj.人口的；人口统计的n.人口统计数据",
+  "unit": "Unit1"
+ },
+ {
+  "words": "public",
+  "pronunciation": "ˈpəblɪk",
+  "meaning": "adj.公共的；公开的；公众的n.公众",
+  "unit": "Unit1"
+ },
+ {
+  "words": "publication",
+  "pronunciation": "ˌpəblɪˈkeɪʃən",
+  "meaning": "n.出版；出版物；公开",
+  "unit": "Unit1"
+ },
+ {
+  "words": "publish",
+  "pronunciation": "ˈpəblɪʃ",
+  "meaning": "vt.出版；发表；公布",
+  "unit": "Unit1"
+ },
+ {
+  "words": "publisher",
+  "pronunciation": "ˈpəblɪʃər",
+  "meaning": "n.出版者；出版公司",
+  "unit": "Unit1"
+ },
+ {
+  "words": "research",
+  "pronunciation": "ˈrisərʧ",
+  "meaning": "n.研究；调查v.研究；调查",
+  "unit": "Unit1"
+ },
+ {
+  "words": "researcher",
+  "pronunciation": "ˈrisərʧər",
+  "meaning": "n.研究员；调查者",
+  "unit": "Unit1"
+ },
+ {
+  "words": "survey",
+  "pronunciation": "ˈsərˌveɪ",
+  "meaning": "n.民意调查vt.调查；勘测",
+  "unit": "Unit1"
+ },
+ {
+  "words": "investigate",
+  "pronunciation": "ˌɪnˈvɛstəˌgeɪt",
+  "meaning": "vt.调查；审查",
+  "unit": "Unit1"
+ },
+ {
+  "words": "investigation",
+  "pronunciation": "ˌɪnˌvɛstəˈgeɪʃən",
+  "meaning": "n.调查；审查",
+  "unit": "Unit1"
+ },
+ {
+  "words": "government",
+  "pronunciation": "ˈgəvərnmənt",
+  "meaning": "n.政府；治理",
+  "unit": "Unit1"
+ },
+ {
+  "words": "governmental",
+  "pronunciation": "ˌgəvərnˈmɛntəl",
+  "meaning": "adj.政府的；统治的",
+  "unit": "Unit1"
+ },
+ {
+  "words": "govern",
+  "pronunciation": "ˈgəvərn",
+  "meaning": "vt.治理；控制；统治",
+  "unit": "Unit1"
+ },
+ {
+  "words": "governance",
+  "pronunciation": "ˈgəvərnəns",
+  "meaning": "n.控制；治理；统治",
+  "unit": "Unit1"
+ },
+ {
+  "words": "governor",
+  "pronunciation": "ˈgəvərnər",
+  "meaning": "n.州长；总督；董事；监狱长",
+  "unit": "Unit1"
+ },
+ {
+  "words": "comment",
+  "pronunciation": "ˈkɑmɛnt",
+  "meaning": "n.评论；批评v.评论",
+  "unit": "Unit7"
+ },
+ {
+  "words": "opinion",
+  "pronunciation": "əˈpɪnjən",
+  "meaning": "n.看法；评价",
+  "unit": "Unit7"
+ },
+ {
+  "words": "remark",
+  "pronunciation": "rɪˈmɑrk",
+  "meaning": "n.评论v.评论",
+  "unit": "Unit7"
+ },
+ {
+  "words": "attitude",
+  "pronunciation": "ˈætəˌtud",
+  "meaning": "n.态度",
+  "unit": "Unit7"
+ },
+ {
+  "words": "control",
+  "pronunciation": "kənˈtroʊl",
+  "meaning": "vt.控制；掌管；操纵n.控制权；控制能力；限制",
+  "unit": "Unit7"
+ },
+ {
+  "words": "manipulate",
+  "pronunciation": "məˈnɪpjəˌleɪt",
+  "meaning": "vt.控制；操纵",
+  "unit": "Unit7"
+ },
+ {
+  "words": "manipulation",
+  "pronunciation": "məˌnɪpjəˈleɪʃən",
+  "meaning": "n.控制；操纵",
+  "unit": "Unit7"
+ },
+ {
+  "words": "major",
+  "pronunciation": "ˈmeɪʤər",
+  "meaning": "adj.主要的 n.专业vi.主修",
+  "unit": "Unit7"
+ },
+ {
+  "words": "majority",
+  "pronunciation": "məˈʤɔrəti",
+  "meaning": "n.大多数；多数票",
+  "unit": "Unit7"
+ },
+ {
+  "words": "chief",
+  "pronunciation": "ʧif",
+  "meaning": "adj.主要的；首席的n.最高领导人；首领",
+  "unit": "Unit7"
+ },
+ {
+  "words": "main",
+  "pronunciation": "meɪn",
+  "meaning": "adj.主要的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "principal",
+  "pronunciation": "ˈprɪnsəpəl",
+  "meaning": "adj.最重要的n.负责人；校长",
+  "unit": "Unit7"
+ },
+ {
+  "words": "mostly",
+  "pronunciation": "ˈmoʊstli",
+  "meaning": "adv.主要地；大部分地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "largely",
+  "pronunciation": "ˈlɑrʤli",
+  "meaning": "adv.在很大程度上；主要地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "minor",
+  "pronunciation": "ˈmaɪnər",
+  "meaning": "adj.较小的；次要的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "minority",
+  "pronunciation": "məˈnɔrəti",
+  "meaning": "n.少数；少数民族；少数群体",
+  "unit": "Unit7"
+ },
+ {
+  "words": "online",
+  "pronunciation": "ˈɔnˌlaɪn",
+  "meaning": "adj.在线的adv.在线地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "network",
+  "pronunciation": "ˈnɛtˌwərk",
+  "meaning": "n.网状系统；关系网；网；网络vt.将······连接成网络",
+  "unit": "Unit7"
+ },
+ {
+  "words": "hack",
+  "pronunciation": "hæk",
+  "meaning": "vt.非法侵入",
+  "unit": "Unit7"
+ },
+ {
+  "words": "download",
+  "pronunciation": "ˈdaʊnˌloʊd",
+  "meaning": "vt.下载n.已下载的数据资料",
+  "unit": "Unit7"
+ },
+ {
+  "words": "upload",
+  "pronunciation": "ˈəˌploʊd",
+  "meaning": "vt.上传n.上传的数据",
+  "unit": "Unit7"
+ },
+ {
+  "words": "encode",
+  "pronunciation": "ɛnˈkoʊd",
+  "meaning": "vt.把···编码",
+  "unit": "Unit7"
+ },
+ {
+  "words": "code",
+  "pronunciation": "koʊd",
+  "meaning": "n.密码，代码；行为规范，道德准则；法典vt.为···编码",
+  "unit": "Unit7"
+ },
+ {
+  "words": "sense",
+  "pronunciation": "sɛns",
+  "meaning": "n.感觉，意识；判断力意义士摩官项能vt.检测出；感觉到",
+  "unit": "Unit7"
+ },
+ {
+  "words": "nonsense",
+  "pronunciation": "ˈnɑnsɛns",
+  "meaning": "n.胡扯；愚蠢的行为",
+  "unit": "Unit7"
+ },
+ {
+  "words": "sensible",
+  "pronunciation": "ˈsɛnsəbəl",
+  "meaning": "adj.明智的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "sensitive",
+  "pronunciation": "ˈsɛnsɪtɪv",
+  "meaning": "adj.体贴的；须谨慎对待的；过敏的；灵敏的；神经过敏的；有悟性的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "sensitivity",
+  "pronunciation": "ˌsɛnsɪˈtɪvɪti",
+  "meaning": "n.敏感性；体贴；过敏性；灵敏度；神经过敏；悟性",
+  "unit": "Unit7"
+ },
+ {
+  "words": "insensitive",
+  "pronunciation": "ˌɪnˈsɛnsɪtɪv",
+  "meaning": "adj.不敏感的；不顾他人感受的；无感觉的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "sentiment",
+  "pronunciation": "ˈsɛnəmənt",
+  "meaning": "n.观点；情绪",
+  "unit": "Unit7"
+ },
+ {
+  "words": "emotion",
+  "pronunciation": "ˈiˌmoʊʃən",
+  "meaning": "n.情绪",
+  "unit": "Unit7"
+ },
+ {
+  "words": "emotional",
+  "pronunciation": "ˈiˌmoʊʃənəl",
+  "meaning": "adj.情感上的；情绪的；易情绪激动的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "emotionally",
+  "pronunciation": "ˈiˌmoʊʃnəli",
+  "meaning": "adv.情感上；情感冲动地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "commy",
+  "pronunciation": "commy*",
+  "meaning": "n.社区；团体",
+  "unit": "Unit7"
+ },
+ {
+  "words": "communal",
+  "pronunciation": "kəmˈjunəl",
+  "meaning": "adj.团体的；共有的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "communicate",
+  "pronunciation": "kəmˈjunəˌkeɪt",
+  "meaning": "vi.交流vt.传达；传播",
+  "unit": "Unit7"
+ },
+ {
+  "words": "communication",
+  "pronunciation": "kəmˌjunəˈkeɪʃən",
+  "meaning": "n.交流；传播",
+  "unit": "Unit7"
+ },
+ {
+  "words": "corporate",
+  "pronunciation": "ˈkɔrpərət",
+  "meaning": "adj.公司的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "corporation",
+  "pronunciation": "ˌkɔrpərˈeɪʃən",
+  "meaning": "n.公司",
+  "unit": "Unit7"
+ },
+ {
+  "words": "define",
+  "pronunciation": "dɪˈfaɪn",
+  "meaning": "vt.定义；阐明",
+  "unit": "Unit7"
+ },
+ {
+  "words": "definition",
+  "pronunciation": "ˌdɛfəˈnɪʃən",
+  "meaning": "n.定义",
+  "unit": "Unit7"
+ },
+ {
+  "words": "redefine",
+  "pronunciation": "ridɪˈfaɪn",
+  "meaning": "vt.重新定义",
+  "unit": "Unit7"
+ },
+ {
+  "words": "definitely",
+  "pronunciation": "ˈdɛfənətli",
+  "meaning": "adv.肯定；确切地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "indefinitely",
+  "pronunciation": "ˌɪnˈdɛfənətli",
+  "meaning": "adv.无限期地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "effort",
+  "pronunciation": "ˈɛfərt",
+  "meaning": "n.努力；有组织的活动；努力的结果",
+  "unit": "Unit7"
+ },
+ {
+  "words": "endeavor",
+  "pronunciation": "ɪnˈdɛvər",
+  "meaning": "vi.努力n.努力",
+  "unit": "Unit7"
+ },
+ {
+  "words": "strive",
+  "pronunciation": "straɪv",
+  "meaning": "vi.努力；奋斗；力争",
+  "unit": "Unit7"
+ },
+ {
+  "words": "order",
+  "pronunciation": "ˈɔrdər",
+  "meaning": "n.秩序；规定；决议，法令；订单vt.命令；点",
+  "unit": "Unit7"
+ },
+ {
+  "words": "disorder",
+  "pronunciation": "dɪˈsɔrdər",
+  "meaning": "n.混乱；紊乱；动乱",
+  "unit": "Unit7"
+ },
+ {
+  "words": "arrange",
+  "pronunciation": "əreɪnʤ",
+  "meaning": "v.安排；整理",
+  "unit": "Unit7"
+ },
+ {
+  "words": "arrangement",
+  "pronunciation": "ərˈeɪnʤmənt",
+  "meaning": "n.安排；布置；约定",
+  "unit": "Unit7"
+ },
+ {
+  "words": "sequence",
+  "pronunciation": "ˈsikwəns",
+  "meaning": "n.一系列，一连串；顺序，次序",
+  "unit": "Unit7"
+ },
+ {
+  "words": "subsequent",
+  "pronunciation": "ˈsəbsəkwənt",
+  "meaning": "adj.随后的，后来的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "account",
+  "pronunciation": "əˈkaʊnt",
+  "meaning": "n.账户；描述；解释；账目vt.认为vi.占；解释",
+  "unit": "Unit7"
+ },
+ {
+  "words": "accountable",
+  "pronunciation": "əˈkaʊntəbəl",
+  "meaning": "adj.对···负有责任的；可解释的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "accountability",
+  "pronunciation": "əˈkaʊntəˌbɪlɪti",
+  "meaning": "n.责任",
+  "unit": "Unit7"
+ },
+ {
+  "words": "count",
+  "pronunciation": "kaʊnt",
+  "meaning": "vi.数数；有价值 vt.认为；把···算入n.总数",
+  "unit": "Unit7"
+ },
+ {
+  "words": "algorithm",
+  "pronunciation": "ˈælgərˌɪðəm",
+  "meaning": "n.算法",
+  "unit": "Unit7"
+ },
+ {
+  "words": "claim",
+  "pronunciation": "kleɪm",
+  "meaning": "vt.声称；要求；索赔n.声明；所有权；索赔",
+  "unit": "Unit7"
+ },
+ {
+  "words": "acclaim",
+  "pronunciation": "əˈkleɪm",
+  "meaning": "vt.称赞；为···喝彩n.称赞；喝彩",
+  "unit": "Unit7"
+ },
+ {
+  "words": "claimant",
+  "pronunciation": "ˈkleɪmənt",
+  "meaning": "n.领取教济金者；索赔人",
+  "unit": "Unit7"
+ },
+ {
+  "words": "declare",
+  "pronunciation": "dɪˈklɛr",
+  "meaning": "v.宣布，声明",
+  "unit": "Unit7"
+ },
+ {
+  "words": "assert",
+  "pronunciation": "əˈsərt",
+  "meaning": "vt.声称，断言",
+  "unit": "Unit7"
+ },
+ {
+  "words": "assertion",
+  "pronunciation": "əˈsərʃən",
+  "meaning": "n.声明；断言",
+  "unit": "Unit7"
+ },
+ {
+  "words": "allege",
+  "pronunciation": "əˈlɛʤ",
+  "meaning": "vt.声称，指称",
+  "unit": "Unit7"
+ },
+ {
+  "words": "announce",
+  "pronunciation": "əˈnaʊns",
+  "meaning": "vt.宣布",
+  "unit": "Unit7"
+ },
+ {
+  "words": "announcement",
+  "pronunciation": "əˈnaʊnsmɛnt",
+  "meaning": "n.宣告",
+  "unit": "Unit7"
+ },
+ {
+  "words": "contend",
+  "pronunciation": "kənˈtɛnd",
+  "meaning": "vi.声称；竞争",
+  "unit": "Unit7"
+ },
+ {
+  "words": "compliment",
+  "pronunciation": "ˈkɑmpləmɛnt",
+  "meaning": "n.称赞；致意vt.称赞",
+  "unit": "Unit7"
+ },
+ {
+  "words": "describe",
+  "pronunciation": "dɪˈskraɪb",
+  "meaning": "vt.描述，描绘",
+  "unit": "Unit7"
+ },
+ {
+  "words": "description",
+  "pronunciation": "dɪˈskrɪpʃən",
+  "meaning": "n.描述",
+  "unit": "Unit7"
+ },
+ {
+  "words": "prescription",
+  "pronunciation": "prəˈskrɪpʃən",
+  "meaning": "n.药方",
+  "unit": "Unit7"
+ },
+ {
+  "words": "subscribe",
+  "pronunciation": "səbˈskraɪb",
+  "meaning": "vi.订阅，认购；定期捐款",
+  "unit": "Unit7"
+ },
+ {
+  "words": "subscriber",
+  "pronunciation": "səbˈskraɪbər",
+  "meaning": "n.订阅人",
+  "unit": "Unit7"
+ },
+ {
+  "words": "subscription",
+  "pronunciation": "səbˈskrɪpʃən",
+  "meaning": "n.订阅",
+  "unit": "Unit7"
+ },
+ {
+  "words": "manuscript",
+  "pronunciation": "ˈmænjəˌskrɪpt",
+  "meaning": "n.手稿，原稿",
+  "unit": "Unit7"
+ },
+ {
+  "words": "opporty",
+  "pronunciation": "opporty*",
+  "meaning": "n.机会",
+  "unit": "Unit7"
+ },
+ {
+  "words": "chance",
+  "pronunciation": "ʧæns",
+  "meaning": "n.机会；偶然vi.偶然发生",
+  "unit": "Unit7"
+ },
+ {
+  "words": "occasion",
+  "pronunciation": "əˈkeɪʒən",
+  "meaning": "n.场合；时机",
+  "unit": "Unit7"
+ },
+ {
+  "words": "occasionally",
+  "pronunciation": "ɔˈkeɪʒənəˌli",
+  "meaning": "adv.偶尔",
+  "unit": "Unit7"
+ },
+ {
+  "words": "practice",
+  "pronunciation": "ˈpræktɪs",
+  "meaning": "n.实践；做法；练习；惯例；习俗v.练习；实习；实行",
+  "unit": "Unit7"
+ },
+ {
+  "words": "malpractice",
+  "pronunciation": "mælˈpræktɪs",
+  "meaning": "n.玩忽职守",
+  "unit": "Unit7"
+ },
+ {
+  "words": "practical",
+  "pronunciation": "ˈpræktɪkəl",
+  "meaning": "adj.实际的；实践性的；客观存在的；适用的n.实习课",
+  "unit": "Unit7"
+ },
+ {
+  "words": "impractical",
+  "pronunciation": "ˌɪmˈpræktɪkəl",
+  "meaning": "adj.不切实际的；缺乏实际能力的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "practically",
+  "pronunciation": "ˈpræktɪkəli",
+  "meaning": "adv.几乎；实际地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "practicality",
+  "pronunciation": "ˌpræktɪˈkæləti",
+  "meaning": "n.实用性；实际；实例",
+  "unit": "Unit7"
+ },
+ {
+  "words": "routine",
+  "pronunciation": "ruˈtin",
+  "meaning": "n.常规，惯例；生活乏味adj.常规的，日常的；乏味的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "routinely",
+  "pronunciation": "ruˈtinli",
+  "meaning": "adv.例行地；通常地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "nature",
+  "pronunciation": "ˈneɪʧər",
+  "meaning": "n.自然；本质；天性",
+  "unit": "Unit7"
+ },
+ {
+  "words": "natural",
+  "pronunciation": "ˈnæʧərəl",
+  "meaning": "adj.自然的；正常的；天赋的；本能的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "unnatural",
+  "pronunciation": "ənˈnæʧərəl",
+  "meaning": "adj.反常的；不自然的；勉强的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "instinct",
+  "pronunciation": "ˈɪnstɪŋkt",
+  "meaning": "n.本能；直觉；天性",
+  "unit": "Unit7"
+ },
+ {
+  "words": "instinctively",
+  "pronunciation": "ˌɪnˈstɪŋktɪvˌli",
+  "meaning": "adv.本能地；凭直觉；自然而然地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "viscerally",
+  "pronunciation": "ˈvɪsərəli",
+  "meaning": "adv.发自内心地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "trust",
+  "pronunciation": "trəst",
+  "meaning": "n.相信；信托；受托基金机构；委托v.相信；托付",
+  "unit": "Unit7"
+ },
+ {
+  "words": "distrust",
+  "pronunciation": "dɪˈstrəst",
+  "meaning": "n.不信任；怀疑vt.不信任；怀疑",
+  "unit": "Unit7"
+ },
+ {
+  "words": "entrust",
+  "pronunciation": "ɛnˈtrəst",
+  "meaning": "vt.委托",
+  "unit": "Unit7"
+ },
+ {
+  "words": "trustworthiness",
+  "pronunciation": "ˈtrəstˌwərðinəs",
+  "meaning": "n.可信度",
+  "unit": "Unit7"
+ },
+ {
+  "words": "approach",
+  "pronunciation": "əˈproʊʧ",
+  "meaning": "n.方法；接近v.接近vt.与···接洽；处理",
+  "unit": "Unit7"
+ },
+ {
+  "words": "method",
+  "pronunciation": "ˈmɛθəd",
+  "meaning": "n.方法",
+  "unit": "Unit7"
+ },
+ {
+  "words": "habit",
+  "pronunciation": "ˈhæbət",
+  "meaning": "n.习惯；习性；瘾",
+  "unit": "Unit7"
+ },
+ {
+  "words": "inhabit",
+  "pronunciation": "ˌɪnˈhæbət",
+  "meaning": "vt.占据；居住在；栖息于",
+  "unit": "Unit7"
+ },
+ {
+  "words": "habitually",
+  "pronunciation": "həˈbɪʧuəli",
+  "meaning": "adv.习惯地；经常地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "habitat",
+  "pronunciation": "ˈhæbəˌtæt",
+  "meaning": "n.生活环境；栖息地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "inhabitant",
+  "pronunciation": "ˌɪnˈhæbɪtənt",
+  "meaning": "n.居民；栖息动物",
+  "unit": "Unit7"
+ },
+ {
+  "words": "avoid",
+  "pronunciation": "əˈvɔɪd",
+  "meaning": "vt.避免；躲避",
+  "unit": "Unit7"
+ },
+ {
+  "words": "evade",
+  "pronunciation": "ɪˈveɪd",
+  "meaning": "vt.规避；回避；未发生在身上；逃脱",
+  "unit": "Unit7"
+ },
+ {
+  "words": "inevitable",
+  "pronunciation": "ˌɪˈnɛvətəbəl",
+  "meaning": "adj.不可避免的；惯常的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "inevitably",
+  "pronunciation": "ˌɪˈnɛvətəbli",
+  "meaning": "adv.不可避免地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "compare",
+  "pronunciation": "kəmˈpɛr",
+  "meaning": "vt.比较",
+  "unit": "Unit7"
+ },
+ {
+  "words": "comparison",
+  "pronunciation": "kəmˈpɛrəsən",
+  "meaning": "n.比较；对比",
+  "unit": "Unit7"
+ },
+ {
+  "words": "comparable",
+  "pronunciation": "ˈkɑmprəbəl",
+  "meaning": "adj.相当的；类似的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "comparatively",
+  "pronunciation": "kəmˈpærətɪvˌli",
+  "meaning": "adv.相对地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "contrast",
+  "pronunciation": "ˈkɑntræst",
+  "meaning": "n.差别vt.对比",
+  "unit": "Unit7"
+ },
+ {
+  "words": "evidence",
+  "pronunciation": "ˈɛvədəns",
+  "meaning": "n.证据",
+  "unit": "Unit7"
+ },
+ {
+  "words": "evident",
+  "pronunciation": "ˈɛvədənt",
+  "meaning": "adj.明显的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "clear",
+  "pronunciation": "klɪr",
+  "meaning": "adj.清楚的；明显的vt.使通过批准；清除 vi.放晴；变清晰",
+  "unit": "Unit7"
+ },
+ {
+  "words": "clarity",
+  "pronunciation": "ˈklɛrɪti",
+  "meaning": "n.清晰",
+  "unit": "Unit7"
+ },
+ {
+  "words": "apparent",
+  "pronunciation": "əˈpɛrənt",
+  "meaning": "adj.显而易见的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "obvious",
+  "pronunciation": "ˈɑbviəs",
+  "meaning": "adj.明显的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "strikingly",
+  "pronunciation": "ˈstraɪkɪŋli",
+  "meaning": "adv.显然地",
+  "unit": "Unit7"
+ },
+ {
+  "words": "justice",
+  "pronunciation": "ˈʤəstɪs",
+  "meaning": "n.法官；正义",
+  "unit": "Unit7"
+ },
+ {
+  "words": "justify",
+  "pronunciation": "ˈʤəstəˌfaɪ",
+  "meaning": "vt.替···辩护；证明···是正当的",
+  "unit": "Unit7"
+ },
+ {
+  "words": "justification",
+  "pronunciation": "ˌʤəstəfəˈkeɪʃən",
+  "meaning": "n.正当的理由",
+  "unit": "Unit7"
+ },
+ {
+  "words": "jury",
+  "pronunciation": "ˈʤʊri",
+  "meaning": "n.陪审团",
+  "unit": "Unit7"
+ },
+ {
+  "words": "juror",
+  "pronunciation": "ˈʤʊrər",
+  "meaning": "n.陪审员",
+  "unit": "Unit7"
+ },
+ {
+  "words": "jurisdiction",
+  "pronunciation": "ˌʤʊrɪsˈdɪkʃən",
+  "meaning": "n.司法权；管辖权",
+  "unit": "Unit7"
+ },
+ {
+  "words": "note",
+  "pronunciation": "noʊt",
+  "meaning": "vt.提到；注意到n.证明；记录；笔记",
+  "unit": "Unit7"
+ },
+ {
+  "words": "notably",
+  "pronunciation": "ˈnoʊtəbli",
+  "meaning": "adv.显著地；尤其",
+  "unit": "Unit7"
+ },
+ {
+  "words": "notice",
+  "pronunciation": "ˈnoʊtɪs",
+  "meaning": "n.通知；注意vt.注意到；通知；留心",
+  "unit": "Unit7"
+ },
+ {
+  "words": "calm",
+  "pronunciation": "kɑm",
+  "meaning": "adj.风平浪静的；沉着的；无风的vt.使冷静n.平静；平静时期",
+  "unit": "Unit19"
+ },
+ {
+  "words": "composure",
+  "pronunciation": "kəmˈpoʊʒər",
+  "meaning": "n.镇静",
+  "unit": "Unit19"
+ },
+ {
+  "words": "commit",
+  "pronunciation": "kəˈmɪt",
+  "meaning": "vt.进行；承诺；犯",
+  "unit": "Unit19"
+ },
+ {
+  "words": "commnitment",
+  "pronunciation": "commnitment*",
+  "meaning": "n.承诺；信奉；已经承诺的事；奉献",
+  "unit": "Unit19"
+ },
+ {
+  "words": "commission",
+  "pronunciation": "kəˈmɪʃən",
+  "meaning": "n.委员会；佣金；服务费；委任vt.委托",
+  "unit": "Unit19"
+ },
+ {
+  "words": "commissioner",
+  "pronunciation": "kəˈmɪʃənər",
+  "meaning": "n.委员；警长；官员",
+  "unit": "Unit19"
+ },
+ {
+  "words": "committee",
+  "pronunciation": "kəˈmɪti",
+  "meaning": "n.委员会",
+  "unit": "Unit19"
+ },
+ {
+  "words": "submit",
+  "pronunciation": "səbˈmɪt",
+  "meaning": "vi.主张；屈服vt.提交",
+  "unit": "Unit19"
+ },
+ {
+  "words": "compensate",
+  "pronunciation": "ˈkɑmpənˌseɪt",
+  "meaning": "vt.补偿vi.弥补",
+  "unit": "Unit19"
+ },
+ {
+  "words": "compensation",
+  "pronunciation": "ˌkɑmpənˈseɪʃən",
+  "meaning": "n.补偿金；补偿",
+  "unit": "Unit19"
+ },
+ {
+  "words": "comply",
+  "pronunciation": "kəmˈplaɪ",
+  "meaning": "vi.遵守；服从",
+  "unit": "Unit19"
+ },
+ {
+  "words": "compliance",
+  "pronunciation": "kəmˈplaɪəns",
+  "meaning": "n.遵守；服从",
+  "unit": "Unit19"
+ },
+ {
+  "words": "violate",
+  "pronunciation": "ˈvaɪəleɪt",
+  "meaning": "vt.违反；侵犯；亵渎",
+  "unit": "Unit19"
+ },
+ {
+  "words": "obey",
+  "pronunciation": "oʊˈbeɪ",
+  "meaning": "v.遵守；服从",
+  "unit": "Unit19"
+ },
+ {
+  "words": "defy",
+  "pronunciation": "dɪˈfaɪ",
+  "meaning": "vt.违抗；向···挑战，口",
+  "unit": "Unit19"
+ },
+ {
+  "words": "boycott",
+  "pronunciation": "ˈbɔɪˌkɑt",
+  "meaning": "vt.联合抵制n.联合抵制",
+  "unit": "Unit19"
+ },
+ {
+  "words": "endure",
+  "pronunciation": "ɪnˈdʊr",
+  "meaning": "vt.忍受vi.持续",
+  "unit": "Unit19"
+ },
+ {
+  "words": "durable",
+  "pronunciation": "ˈdʊrəbəl",
+  "meaning": "adj.持久的；耐用的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "tolerate",
+  "pronunciation": "ˈtɑlərˌeɪt",
+  "meaning": "vt.容忍；容许；有耐受性",
+  "unit": "Unit19"
+ },
+ {
+  "words": "tolerance",
+  "pronunciation": "ˈtɑlərəns",
+  "meaning": "n.宽容；忍耐力；容忍",
+  "unit": "Unit19"
+ },
+ {
+  "words": "tolerant",
+  "pronunciation": "ˈtɑlərənt",
+  "meaning": "adj.容忍的；能耐···的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "bear",
+  "pronunciation": "bɛr",
+  "meaning": "vt.具有；承担；承受；支撑n.熊",
+  "unit": "Unit19"
+ },
+ {
+  "words": "entertain",
+  "pronunciation": "ˌɛnərˈteɪn",
+  "meaning": "vt.使快乐；招待",
+  "unit": "Unit19"
+ },
+ {
+  "words": "entertaining",
+  "pronunciation": "ˌɛnərˈteɪnɪŋ",
+  "meaning": "adj.有趣的；娱乐的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "entertainment",
+  "pronunciation": "ˌɛnərˈteɪnmənt",
+  "meaning": "n.娱乐活动；招待",
+  "unit": "Unit19"
+ },
+ {
+  "words": "valid",
+  "pronunciation": "ˈvælɪd",
+  "meaning": "adj.合理的；有效的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "validity",
+  "pronunciation": "vəˈlɪdɪti",
+  "meaning": "n.符合逻辑；合法性；认可",
+  "unit": "Unit19"
+ },
+ {
+  "words": "invalidate",
+  "pronunciation": "ˌɪnˈvælɪˌdeɪt",
+  "meaning": "vt.使无效；证明···错误",
+  "unit": "Unit19"
+ },
+ {
+  "words": "exhaust",
+  "pronunciation": "ɪgˈzɔst",
+  "meaning": "vt.用完；使筋疲力尽n.废气；排气管",
+  "unit": "Unit19"
+ },
+ {
+  "words": "exhausted",
+  "pronunciation": "ɪgˈzɔstɪd",
+  "meaning": "adj.筋疲力尽的；耗尽的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "exhaustion",
+  "pronunciation": "ɪgˈzɔsʧən",
+  "meaning": "n.筋疲力尽；耗尽",
+  "unit": "Unit19"
+ },
+ {
+  "words": "fatigue",
+  "pronunciation": "fəˈtig",
+  "meaning": "n.疲劳；厌倦",
+  "unit": "Unit19"
+ },
+ {
+  "words": "philosophy",
+  "pronunciation": "fəˈlɑsəfi",
+  "meaning": "n.哲学；思想体系；生活的信条",
+  "unit": "Unit19"
+ },
+ {
+  "words": "philosopher",
+  "pronunciation": "fəˈlɑsəfər",
+  "meaning": "n.哲学家；善于思考的人",
+  "unit": "Unit19"
+ },
+ {
+  "words": "philosophical",
+  "pronunciation": "ˌfɪləˈsɑfɪkəl",
+  "meaning": "adj.哲学的；处乱不惊的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "worsen",
+  "pronunciation": "ˈwərsən",
+  "meaning": "v.变得更坏",
+  "unit": "Unit19"
+ },
+ {
+  "words": "aggravate",
+  "pronunciation": "ˈægrəˌveɪt",
+  "meaning": "vt.使严重；使恶化",
+  "unit": "Unit19"
+ },
+ {
+  "words": "deteriorate",
+  "pronunciation": "dɪˈtɪriərˌeɪt",
+  "meaning": "vi.恶化；退化",
+  "unit": "Unit19"
+ },
+ {
+  "words": "receptor",
+  "pronunciation": "riˈsɛptər",
+  "meaning": "n.感受器；受体",
+  "unit": "Unit19"
+ },
+ {
+  "words": "recipient",
+  "pronunciation": "rɪˈsɪpiənt",
+  "meaning": "n.接受者",
+  "unit": "Unit19"
+ },
+ {
+  "words": "reception",
+  "pronunciation": "rɪˈsɛpʃən",
+  "meaning": "n.欢迎；接收；接待处；接待仪式；接纳",
+  "unit": "Unit19"
+ },
+ {
+  "words": "withdraw",
+  "pronunciation": "wɪθˈdrɔ",
+  "meaning": "vt.撤回；取；停止提供；收回vi.退出",
+  "unit": "Unit19"
+ },
+ {
+  "words": "retreat",
+  "pronunciation": "riˈtrit",
+  "meaning": "n.躲避；僻静处；撤退；退缩vi.退却；撤退",
+  "unit": "Unit19"
+ },
+ {
+  "words": "stylish",
+  "pronunciation": "ˈstaɪlɪʃ",
+  "meaning": "adj.时尚的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "stylist",
+  "pronunciation": "ˈstaɪlɪst",
+  "meaning": "n.造型设计师；文体家",
+  "unit": "Unit19"
+ },
+ {
+  "words": "fashionable",
+  "pronunciation": "ˈfæʃənəbəl",
+  "meaning": "adj.流行的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "unfashionable",
+  "pronunciation": "ənˈfæʃənəbəl",
+  "meaning": "adj.不再流行的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "impulse",
+  "pronunciation": "ˌɪmˈpəls",
+  "meaning": "n.冲动；脉冲；刺激",
+  "unit": "Unit19"
+ },
+ {
+  "words": "impulsive",
+  "pronunciation": "ˌɪmˈpəlsɪv",
+  "meaning": "adj.冲动的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "sober",
+  "pronunciation": "ˈsoʊbər",
+  "meaning": "adj.严肃的；清醒的vt.使清醒",
+  "unit": "Unit19"
+ },
+ {
+  "words": "adolescent",
+  "pronunciation": "ˌædəˈlɛsənt",
+  "meaning": "adj.青春期的；未成熟的n.青少年",
+  "unit": "Unit19"
+ },
+ {
+  "words": "mature",
+  "pronunciation": "məˈʧʊr",
+  "meaning": "adj.成熟的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "kinship",
+  "pronunciation": "ˈkɪnˌʃɪp",
+  "meaning": "n.亲属关系；亲切感",
+  "unit": "Unit19"
+ },
+ {
+  "words": "acquaintance",
+  "pronunciation": "əkˈweɪntəns",
+  "meaning": "n.熟人；了解",
+  "unit": "Unit19"
+ },
+ {
+  "words": "adequate",
+  "pronunciation": "ˈædəkˌweɪt",
+  "meaning": "adj.足够的；适当的；胜任的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "adequately",
+  "pronunciation": "ˈædəkwɪtli",
+  "meaning": "adv.充分地；足够地；适当地",
+  "unit": "Unit19"
+ },
+ {
+  "words": "inadequate",
+  "pronunciation": "ˌɪˈnædəkˌweɪt",
+  "meaning": "adj.不够的；不胜任的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "contemporary",
+  "pronunciation": "kənˈtɛmpərˌɛri",
+  "meaning": "adj.当代的；同时代的n.与······同时代的人",
+  "unit": "Unit19"
+ },
+ {
+  "words": "temporary",
+  "pronunciation": "ˈtɛmpərˌɛri",
+  "meaning": "adj.临时的n.临时工",
+  "unit": "Unit19"
+ },
+ {
+  "words": "temporarily",
+  "pronunciation": "ˌtɛmpərˈɛrəli",
+  "meaning": "adv.暂时",
+  "unit": "Unit19"
+ },
+ {
+  "words": "modernise",
+  "pronunciation": "modernise*",
+  "meaning": "vt.使现代化",
+  "unit": "Unit19"
+ },
+ {
+  "words": "magnify",
+  "pronunciation": "ˈmægnəˌfaɪ",
+  "meaning": "vt.加剧；放大",
+  "unit": "Unit19"
+ },
+ {
+  "words": "magnificent",
+  "pronunciation": "mægˈnɪfɪsənt",
+  "meaning": "adj.华丽的；壮丽的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "abandon",
+  "pronunciation": "əˈbændən",
+  "meaning": "vt.放弃；遗弃；丢弃",
+  "unit": "Unit19"
+ },
+ {
+  "words": "discard",
+  "pronunciation": "dɪˈskɑrd",
+  "meaning": "vt.丢弃；摒弃",
+  "unit": "Unit19"
+ },
+ {
+  "words": "dismiss",
+  "pronunciation": "dɪsˈmɪs",
+  "meaning": "vt.不予考虑；不受理；摒除；解雇；解散",
+  "unit": "Unit19"
+ },
+ {
+  "words": "quit",
+  "pronunciation": "kwɪt",
+  "meaning": "v.离开；停止",
+  "unit": "Unit19"
+ },
+ {
+  "words": "elegant",
+  "pronunciation": "ˈɛləgənt",
+  "meaning": "adj.优雅的；精美的；简洁的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "elegance",
+  "pronunciation": "ˈɛləgəns",
+  "meaning": "n.优雅",
+  "unit": "Unit19"
+ },
+ {
+  "words": "intelligent",
+  "pronunciation": "ˌɪnˈtɛləʤənt",
+  "meaning": "adj.智能的；有智慧的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "intelligence",
+  "pronunciation": "ˌɪnˈtɛləʤəns",
+  "meaning": "n.智力；情报",
+  "unit": "Unit19"
+ },
+ {
+  "words": "profound",
+  "pronunciation": "proʊˈfaʊnd",
+  "meaning": "adj.深远的；高深的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "profoundly",
+  "pronunciation": "proʊˈfaʊndli",
+  "meaning": "adv.深刻地；完全地",
+  "unit": "Unit19"
+ },
+ {
+  "words": "sweeping",
+  "pronunciation": "sˈwipɪŋ",
+  "meaning": "adj.一概而论的；影响广泛的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "retire",
+  "pronunciation": "ˌriˈtaɪər",
+  "meaning": "vi.退休；撤退；退却",
+  "unit": "Unit19"
+ },
+ {
+  "words": "retirement",
+  "pronunciation": "rɪˈtaɪərmənt",
+  "meaning": "n.退休",
+  "unit": "Unit19"
+ },
+ {
+  "words": "retiree",
+  "pronunciation": "riˈtaɪˈri",
+  "meaning": "n.退休人员",
+  "unit": "Unit19"
+ },
+ {
+  "words": "stare",
+  "pronunciation": "stɛr",
+  "meaning": "vi.盯着看n.盯",
+  "unit": "Unit19"
+ },
+ {
+  "words": "gaze",
+  "pronunciation": "geɪz",
+  "meaning": "vi.凝视n.凝视",
+  "unit": "Unit19"
+ },
+ {
+  "words": "glare",
+  "pronunciation": "glɛr",
+  "meaning": "vi.怒目而视",
+  "unit": "Unit19"
+ },
+ {
+  "words": "glance",
+  "pronunciation": "glæns",
+  "meaning": "n.一瞥vi.瞥一眼",
+  "unit": "Unit19"
+ },
+ {
+  "words": "glimpse",
+  "pronunciation": "glɪmps",
+  "meaning": "n.一瞥 vt.瞥见",
+  "unit": "Unit19"
+ },
+ {
+  "words": "automate",
+  "pronunciation": "ˈɔtəˌmeɪt",
+  "meaning": "vt.使自动化",
+  "unit": "Unit19"
+ },
+ {
+  "words": "automatically",
+  "pronunciation": "ˌɔtəˈmætɪkli",
+  "meaning": "adv.无意识地；自动地",
+  "unit": "Unit19"
+ },
+ {
+  "words": "automation",
+  "pronunciation": "ɔtəˈmeɪʃən",
+  "meaning": "n.自动化",
+  "unit": "Unit19"
+ },
+ {
+  "words": "automatic",
+  "pronunciation": "ˌɔtəˈmætɪk",
+  "meaning": "adj.自动的；无意识的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "superior",
+  "pronunciation": "suˈpɪriər",
+  "meaning": "adj.比······好的；出类拔萃的；上级的n.上级",
+  "unit": "Unit19"
+ },
+ {
+  "words": "superiority",
+  "pronunciation": "ˌsupɪriˈɔrɪti",
+  "meaning": "n.优越；优越感",
+  "unit": "Unit19"
+ },
+ {
+  "words": "senior",
+  "pronunciation": "ˈsinjər",
+  "meaning": "adj.级别高的；高级水平的n.高年级学生；上级",
+  "unit": "Unit19"
+ },
+ {
+  "words": "inferior",
+  "pronunciation": "ˌɪnˈfɪriər",
+  "meaning": "adj.比不上···的；级别低的n.级别低的人",
+  "unit": "Unit19"
+ },
+ {
+  "words": "inferiority",
+  "pronunciation": "ˌɪnfɪriˈɔrɪˌti",
+  "meaning": "n.低等；劣势",
+  "unit": "Unit19"
+ },
+ {
+  "words": "humble",
+  "pronunciation": "ˈhəmbəl",
+  "meaning": "adj.谦逊的；卑微的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "decay",
+  "pronunciation": "dɪˈkeɪ",
+  "meaning": "n.衰落；腐烂vi.衰减；腐烂；衰落",
+  "unit": "Unit19"
+ },
+ {
+  "words": "collapse",
+  "pronunciation": "kəˈlæps",
+  "meaning": "n.崩溃；倒塌vi.崩溃",
+  "unit": "Unit19"
+ },
+ {
+  "words": "crash",
+  "pronunciation": "kræʃ",
+  "meaning": "n.崩溃；暴跌；坠机；撞车；碰撞声v.猛撞；暴跌；突然垮台",
+  "unit": "Unit19"
+ },
+ {
+  "words": "leak",
+  "pronunciation": "lik",
+  "meaning": "n.渗漏；泄露；裂缝vt.泄露v.渗漏",
+  "unit": "Unit19"
+ },
+ {
+  "words": "leakage",
+  "pronunciation": "ˈlikɪʤ",
+  "meaning": "n.渗漏；泄露",
+  "unit": "Unit19"
+ },
+ {
+  "words": "hostile",
+  "pronunciation": "ˈhɑstəl",
+  "meaning": "adj.敌对的；怀敌意的；不利的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "hostility",
+  "pronunciation": "hɑˈstɪləti",
+  "meaning": "n.敌意；反对",
+  "unit": "Unit19"
+ },
+ {
+  "words": "resentment",
+  "pronunciation": "rɪˈzɛntmənt",
+  "meaning": "n.怨恨",
+  "unit": "Unit19"
+ },
+ {
+  "words": "sketch",
+  "pronunciation": "skɛʧ",
+  "meaning": "n.幽默短剧；简述；素描；略图v.画······的素描vt.简述",
+  "unit": "Unit19"
+ },
+ {
+  "words": "profile",
+  "pronunciation": "ˈproʊˌfaɪl",
+  "meaning": "n.简介；形象；轮廓；侧影",
+  "unit": "Unit19"
+ },
+ {
+  "words": "high-profile",
+  "pronunciation": "ˌhaɪˈproʊfaɪl",
+  "meaning": "adj.引人注目的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "fascinating",
+  "pronunciation": "ˈfæsəˌneɪtɪŋ",
+  "meaning": "adj.极有吸引力的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "fantasy",
+  "pronunciation": "ˈfænəsi",
+  "meaning": "n.幻想；虚幻的故事",
+  "unit": "Unit19"
+ },
+ {
+  "words": "fantastic",
+  "pronunciation": "fænˈtæstɪk",
+  "meaning": "adj.极好的；大得难以置信的；怪诞的；不切实际的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "mysterious",
+  "pronunciation": "mɪˈstɪriəs",
+  "meaning": "adj.神秘的；不易解释的；故弄玄虚的",
+  "unit": "Unit19"
+ },
+ {
+  "words": "decent",
+  "pronunciation": "ˈdisənt",
+  "meaning": "adj.相当不错的；体面的；正派的",
+  "unit": "Unit19"
+ }
+]
